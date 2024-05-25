@@ -15,7 +15,7 @@ conda env create -f environment.yml
 
 We provide the commands to reproduce results from our paper below.
 ```bash
-bash experiments/run_template_ucb.sh
+bash experiments/run_template.sh
 ```
 
 Note that the code for the baseline methods is also included in this repository. The commands to run them are also included in the `experiments/run_template_ucb.sh` file.
