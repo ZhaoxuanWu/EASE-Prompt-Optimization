@@ -1,5 +1,7 @@
 This is the official code for the paper: 
 > Prompt Optimization with EASE? Efficient Ordering-aware Automated Selection of Exemplars.
+>
+> Zhaoxuan Wu, Xiaoqiang Lin, Zhongxiang Dai, Wenyang Hu, Yao Shu, See-Kiong Ng, Patrick Jaillet, Bryan Kian Hsiang Low
 
 # Prepare the data
 We have prepared the data and put the datasets in the folder [experiments/data](experiments/data).
