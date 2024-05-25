@@ -1,0 +1,409 @@
+{
+    "metadata": {
+        "num_examples": 100,
+        "description": "AG news classification",
+        "task_prefix": ""
+    },
+    "examples": {
+        "1": {
+            "input": "Senate Panel Backs Subsidies for Digital TV The US Senate Commerce Committee on Wednesday approved a measure that would provide up to \\$1 billion to ensure consumers can still watch television when broadcasters switch to new, crisp digital signals.",
+            "output": "World"
+        },
+        "2": {
+            "input": "The ore will be produced by the Area C mine which opened last &lt;b&gt;...&lt;/b&gt;  quot;It is extremely pleasing to see that additional benefits have already started flowing to both BHP Billiton and its Chinese partners as a result of the Wheelarra joint venture, quot; BHP Billiton Iron Ore president Graeme Hunt said in a statement.",
+            "output": "Sci/Tech"
+        },
+        "3": {
+            "input": "Rwanda Says Ready to Hit Rebels, UN Urges Dialogue Rwanda insisted on Thursday it would soon attack rebels inside the Democratic Republic of Congo unless they were disarmed, as the UN Security Council ",
+            "output": "Sports"
+        },
+        "4": {
+            "input": "IBM to Expand Data Centers Across World  SAN FRANCISCO (Reuters) - IBM is expanding and adding new  technology to 11 of its data centers in North America, Europe  and Asia to meet growing demand and rolled out new services to  customers, the world's largest computer company said late on  Thursday.",
+            "output": "Sci/Tech"
+        },
+        "5": {
+            "input": "Heinz Profit Meets Forecasts; Shares Rise Ketchup maker HJ Heinz Co. (HNZ.N: Quote, Profile, Research) on Tuesday said quarterly profit rose 7.8 percent, excluding a year-earlier tax benefit, as demand for new products ",
+            "output": "Sci/Tech"
+        },
+        "6": {
+            "input": "Kindred: Forfeit request from Yankees  #39;ill #39; conceived With an unparalleled history of success, vast resources, an exorbitant payroll and a smug, quick-tempered owner, the New York Yankees have long been a  quot;love-hate quot; franchise.",
+            "output": "Business"
+        },
+        "7": {
+            "input": "UPDATE: Australian Growth Likely Slowed Sharply In 3Q SYDNEY (Dow Jones)--Australia #39;s economic growth likely slowed sharply in the third quarter, economists said Monday, with data showing a record current account deficit and foreign debt.",
+            "output": "Sci/Tech"
+        },
+        "8": {
+            "input": "Gaddafi  #39;Manipulating Idols Show #39; COLONEL Muammar Gaddafi is being accused by Palestinians of unfairly trying to help a Libyan contestant win the Middle East #39; s answer to the TV talent show Idols.",
+            "output": "Sports"
+        },
+        "9": {
+            "input": "Fischer paddling for a record ninth gold and 24 years #39; domination Australian kayaker Kate Barclay can #39;t recall the first of eight Olympic gold medals won by German rival Birgit Fischer, whom she raced in the K4 500 final on Friday.",
+            "output": "Business"
+        },
+        "10": {
+            "input": "Oil prices fall 14 per cent in a week NEW YORK - Crude oil futures fell for a fourth day Friday, settling below \\$43 a barrel for the first time since August and extending the week #39;s decline in oil prices to 14 per cent.",
+            "output": "Sci/Tech"
+        },
+        "11": {
+            "input": "Oil Platforms in Gulf Make Ready for Ivan Description: With Hurricane Ivan approaching, oil companies evacuate hundreds of oil workers from drilling platforms in the Gulf of Mexico.",
+            "output": "Sci/Tech"
+        },
+        "12": {
+            "input": "Fed Need Not Move on Inflation Wiggles Central banks should not respond to every wiggle from inflation as they seek steady prices and the  quot;too big to fail quot; mantle enjoyed by Fannie Mae and Freddie Mac pose a threat to financial stability, St.",
+            "output": "Sci/Tech"
+        },
+        "13": {
+            "input": "Stowers Expansion Hinges On Stem Cell Research KANSAS CITY, Mo. -- The Stowers Institute of Medical Research will not build its second center in Missouri if the state outlaws stem cell research, Stowers president William Neaves said Friday.",
+            "output": "World"
+        },
+        "14": {
+            "input": "Renault's 5,000-euro car to go on sale in western Europe for 7,500 euros (AFP) AFP - French car maker Renault said that its budget 5,000-euro (6,000-dollar) Logan, currently aimed at developing markets, would soon go on sale in western Europe, but at 7,500 euros.",
+            "output": "Sports"
+        },
+        "15": {
+            "input": "UPDATE: Australia #39;s AXA Rebuffs A\\$3.4B Buyout By Parent MELBOURNE (Dow Jones)--Australian insurer AXA Asia Pacific Holdings Ltd. (AXA.AU) rebuffed Monday a buyout proposal from major shareholder AXA SA (AXA) after it wouldn #39;t agree to the A\\$3.",
+            "output": "Sci/Tech"
+        },
+        "16": {
+            "input": "Kremlin Choice Wins in Chechnya Election GROZNY, Russia - The Russian government's candidate to lead warring Chechnya easily won a presidential election held in the wake of last week's terrorist destruction of two airliners, election officials said Monday. The opposition charged voting was tainted by fraud...",
+            "output": "Sports"
+        },
+        "17": {
+            "input": "Wall Street crash barriers stay put YESTERDAY - October 24 - was the 75th anniversary of the first day of the 1929 Wall Street Crash. As Professor JK Galbraith noted:  #39;That day 12,894,650 shares changed hands, many of them at prices which shattered ",
+            "output": "Sci/Tech"
+        },
+        "18": {
+            "input": "VW May Cut 30,000 Jobs If No Agreement With Workers (Update2) Volkswagen AG is threatening to eliminate 30,000 jobs ahead of next week #39;s wage talks with unions as Europe #39;s biggest carmaker seeks cost cuts similar to agreements reached by other German companies, including DaimlerChrysler AG.",
+            "output": "Sci/Tech"
+        },
+        "19": {
+            "input": "Chile Judge Charges Pinochet in Rights Case &lt;p&gt;&lt;/p&gt;&lt;p&gt; SANTIAGO, Chile (Reuters) - A Chilean judge on Mondayformally charged former dictator Agusto Pinochet with homicideand kidnapping in one of many pending cases related to humanrights abuses committed during his 17-year rule.&lt;/p&gt;",
+            "output": "Sports"
+        },
+        "20": {
+            "input": "Larkin, Vizquel and Garciaparra File for Free Agency  NEW YORK (Sports Network) - Two of the greatest shortstops  ever, Barry Larkin and Omar Vizquel, were among the 58 players  to file for free agency on Friday.",
+            "output": "Business"
+        },
+        "21": {
+            "input": "S. Lanka Peace Bid at Critical Low - Norway Envoy Sri Lanka #39;s bid to forge lasting peace with Tamil Tiger rebels after two decades of civil war is at its most critical ebb since a 2002 truce, Norway #39;s peace envoy to the country said on Wednesday.",
+            "output": "Sports"
+        },
+        "22": {
+            "input": "Intel and Microsoft to spread  quot;Digital Joy quot; for the holidays Intel and Microsoft are reportedly teaming up for a year-end marketing blitz to educate consumers about new digital entertainment-oriented PCs and other associated gadgets.",
+            "output": "World"
+        },
+        "23": {
+            "input": "Pitcher Leiter Headed Back to South Florida  MIAMI (Sports Network) - The Florida Marlins have signed  pitcher Al Leiter to a one-year contract, one day after the New  York Mets decided not to offer the lefthander arbitration.",
+            "output": "Business"
+        },
+        "24": {
+            "input": "US Airways announces pay, benefit cuts for management US Airways announced plans Tuesday to cut \\$45 million a year in pay and benefits to roughly 3,700 management employees, a move the airline hopes will convince its union ",
+            "output": "Sci/Tech"
+        },
+        "25": {
+            "input": "Penalty miss allows Arsenal off the hook ARSENALS recent stumble continued when they were held to a draw by Panathinaikos in the Champions League last night, and the Greeks may have won had Angelos Basinas not missed a second-half penalty.",
+            "output": "Business"
+        },
+        "26": {
+            "input": "Can Warriors be Memphis West? 10-man rotation a possibility La Jolla , San Diego County -- Fittingly, a team expected to rely on its depth has plenty of backup when discussing its depth. Vice president Chris Mullin, general manager Rod Higgins and assistant coach Mario ",
+            "output": "Business"
+        },
+        "27": {
+            "input": "Pentagon flipflops, will pay Halliburton fully WASHINGTON - The US army said it had suspended its decision to partially withhold payments to Halliburton, the biggest US contractor in Iraq. ",
+            "output": "Sci/Tech"
+        },
+        "28": {
+            "input": "Suit seeks to bar curb on China textiles America #39;s leading retailers filed a lawsuit yesterday to stop the Bush administration from imposing curbs on imports of popular Chinese-made apparel and textiles.",
+            "output": "Sci/Tech"
+        },
+        "29": {
+            "input": "California Quake Area a Seismic Hot Spot (AP) AP - The area of the San Andreas fault where a magnitude-6.0 earthquake struck Tuesday is a seismic hot spot that has produced similar temblors every two or three decades and, as a consequence, is among the most-monitored quake sites in the world.",
+            "output": "World"
+        },
+        "30": {
+            "input": "Kodak and Sun Microsystems Settle Java Suit By BEN DOBBIN    ROCHESTER, N.Y. (AP) -- Eastman Kodak Co...",
+            "output": "World"
+        },
+        "31": {
+            "input": "Sony captures legendary Hollywood studio The deal marks the last chapter in the history of two of Hollywoods most famous names - Metro Goldwyn Mayer, once best known for its musical hits like Singing in the Rain and its subsidiary, United Artists, the studio founded in 1919 by Charlie ",
+            "output": "Sci/Tech"
+        },
+        "32": {
+            "input": "Shots at demo heighten Haiti tensions PORT-AU-PRINCE, Oct 15 (AFP) - Haitis strife-torn capital came to a standstill on Friday in a protest after two weeks of deepening violence that have left about 30 people dead.",
+            "output": "Sports"
+        },
+        "33": {
+            "input": "Football #39;s Nicholson dies at 85 Bill Nicholson, widely regarded as one of the greatest football managers of the 20th century and the first to win the league and FA Cup double in modern times, has died aged 85 after a long illness.",
+            "output": "Business"
+        },
+        "34": {
+            "input": "Dan Walters: Melodramatic spin aside, Harrigan #39;s CalPERS ouster &lt;b&gt;...&lt;/b&gt; Bee Columnist. Sean Harrigan and his acolytes are spinning a melodramatic tale about his ouster from the governing board of the huge California Public Employees #39; Retirement System - that he ",
+            "output": "Sci/Tech"
+        },
+        "35": {
+            "input": "Extinct humans left louse legacy Some of the head lice infesting people today were spread to us thousands of years ago by an extinct species of humans like &lt;i&gt;Homo erectus&lt;/i&gt;.",
+            "output": "World"
+        },
+        "36": {
+            "input": "Autopsy: Zholtok Died of Heart Failure (AP) AP - An autopsy confirmed that NHL player Serge Zholtok died from heart failure after playing a game this week in Belarus.",
+            "output": "Business"
+        },
+        "37": {
+            "input": "Violence exposes Shi'ite divisions BAGHDAD -- Iraqi security forces fired on demonstrators loyal to rebel cleric Moqtada al-Sadr in the Iraqi capital yesterday, killing two in a clash that underscored the increasingly vitriolic and open split within the Shi'ite Muslim community.",
+            "output": "Sports"
+        },
+        "38": {
+            "input": "Hungary PM Says Troops Out of Iraq by End-March Hungary #39;s new Prime Minister Ferenc Gyurcsany said the country #39;s 300 troops will be withdrawn from Iraq by the end of March 2005, a government spokeswoman said Wednesday.",
+            "output": "Sports"
+        },
+        "39": {
+            "input": "Foot-Tapping, Heart-Thumping Salute to Sousa Admirers from near and far gathered in Congressional Cemetery Saturday to mark the 150th birthday of march king John Philip Sousa.",
+            "output": "Sports"
+        },
+        "40": {
+            "input": "Bayer Unit Plea-Bargains in Price Fixing The Bayer Corporation, a subsidiary of the Bayer Group of Germany, has agreed to plead guilty and pay a \\$33 million criminal fine for taking part in a conspiracy ",
+            "output": "Sci/Tech"
+        },
+        "41": {
+            "input": "Terry, Howard Leads Mavs Over Knicks (AP) AP - Jason Terry and Josh Howard each scored 17 points and the Dallas Mavericks cruised to a 112-74 preseason victory over the New York Knicks on Thursday night.",
+            "output": "Business"
+        },
+        "42": {
+            "input": "Regulator Wants Riggs Records on Jet, London Apartment  London's Savoy Court Apartments are counted among Britain's most exclusive private residences. And No. 6 was among the most lavishly appointed.",
+            "output": "Sci/Tech"
+        },
+        "43": {
+            "input": "Lab to study emotion of gaming Experts are to study the \"sweaty palmed excitement\" of people playing their computer and console games.",
+            "output": "World"
+        },
+        "44": {
+            "input": "Bollore asks for Havas seat Pressure on French advertising group Havas mounted yesterday as it emerged that corporate raider and dissident shareholder Vincent Bollore has asked for seats on the company #39;s board.",
+            "output": "Sci/Tech"
+        },
+        "45": {
+            "input": "Why MS paid Novell half a billion bucks today But fresh antitrust suit is in the envelope, says Novell",
+            "output": "World"
+        },
+        "46": {
+            "input": "Halliburton may shed military, oil field arm When Halliburton was awarded contracts worth more than \\$12 billion for work in Iraq, critics said that the company was using its political connections to reap big profits.",
+            "output": "Sci/Tech"
+        },
+        "47": {
+            "input": "Explosion rips Israeli base at Gaza-Egypt crossing; 4 Israeli &lt;b&gt;...&lt;/b&gt; Palestinian guerrillas blew up an Israeli army base at the Gaza-Egypt crossing Sunday by sneaking more than a tonne of explosives through a tunnel, killing four Israeli soldiers and wounding at least 10.",
+            "output": "Sports"
+        },
+        "48": {
+            "input": "As First Debate Nears, Rivals Seek to Bring Iraq Into Focus President Bush ridiculed Senator John Kerry today, and Mr. Kerry assailed the president's Iraq policy in a statement issued by his campaign.",
+            "output": "Sports"
+        },
+        "49": {
+            "input": "D'backs to Continue Johnson Trade Efforts (AP) AP - The Arizona Diamondbacks haven't given up on trading Randy Johnson, managing partner Ken Kendrick said Tuesday.",
+            "output": "Business"
+        },
+        "50": {
+            "input": "MSN Search to Challenge Google and Yahoo MSN Search to Challenge Google and Yahoo\\\\The new MSN Search is a full speed ahead effort for Microsoft to catch Google and Yahoo in the search engine race and are about ready to release their MSN Search Engine. Microsoft has offered a search engine since long on their MSN website ...",
+            "output": "World"
+        },
+        "51": {
+            "input": "Samsung doubles graphics memory density Samsung Electronics said today that it has made a memory manufacturing breakthrough that allows it to produce a graphics memory chip that is faster than any other on the market.",
+            "output": "World"
+        },
+        "52": {
+            "input": "S.Korea's Ruling Party Head Resigns on Father's Past  SEOUL (Reuters) - The chairman of South Korea's ruling Uri  Party resigned on Thursday after saying his father had served  as a military police officer during Japan's 1910-1945 colonial  rule on the peninsula.",
+            "output": "Sports"
+        },
+        "53": {
+            "input": "Nikkei Opens Up, Led by Techs, Exporters (Reuters) Reuters - Tokyo's Nikkei average opened 0.59\\percent higher on Tuesday as investors sought bargains among\\tech firms and exporters, but gains were limited by caution\\ahead of a monetary policy meeting in the United States during\\the day.",
+            "output": "Sci/Tech"
+        },
+        "54": {
+            "input": "Qantas in talks with Singapore Air on A380 cost cuts SYDNEY: Australia #39;s flagship carrier, Qantas, said yesterday it is talking with Singapore Airlines on ways to cut costs as both prepare to roll out the colossal A380 jet.",
+            "output": "Sci/Tech"
+        },
+        "55": {
+            "input": "Radio operators OK rules on Net over power lines For critics of power-line broadband access, new FCC rules mean \"the glass is both half-full and half-empty.\"",
+            "output": "World"
+        },
+        "56": {
+            "input": "Shanghai set for Formula One race China is hosting its first Formula One Grand Prix on a gleaming new \\$240 million circuit in Shanghai.",
+            "output": "Sports"
+        },
+        "57": {
+            "input": "Law lords back terror detainees Detaining foreigners without trial under emergency anti-terror laws breaks European human rights laws, law lords ruled today. The decision from nine of the law lords, who make up Britain #39;s highest court, throws ",
+            "output": "Sports"
+        },
+        "58": {
+            "input": "AC Milan need better efforts Rome, Italy (Sports Network) - AC Milan must improve its play in order to repeat last season #39;s Serie A triumph. So far the Rossoneri have four points after three matches, but have conceded an alarming four goals.",
+            "output": "Business"
+        },
+        "59": {
+            "input": "Dollar Steadies After Fall on Jobs (Reuters) Reuters - The U.S. dollar settled near its lows\\against the yen and euro on Monday after suffering sharp losses\\on weaker-than expected job growth figures that raised\\questions about the need for further U.S. rate rises this year.",
+            "output": "Sci/Tech"
+        },
+        "60": {
+            "input": "POLITICAL POINTS  3:33 PM Taking Care of Business resident Bush will chalk up a victory on a contentious labor issue on Monday, but Democrats intend to work overtime to make him pay a political price.",
+            "output": "Sci/Tech"
+        },
+        "61": {
+            "input": "Private craft launches a new era SpaceShipOne, the world #39;s first privately built manned spacecraft, blasted into space for the second time in less than a week on Monday to claim the \\$10 million Ansari X Prize.",
+            "output": "World"
+        },
+        "62": {
+            "input": "Delta Reports Wider Quarterly Loss  CHICAGO (Reuters) - Delta Air Lines Inc. &lt;A HREF=\"http://www.investor.reuters.com/FullQuote.aspx?ticker=DAL.N target=/stocks/quickinfo/fullquote\"&gt;DAL.N&lt;/A&gt;, which is  racing to cut costs to avoid bankruptcy, on Wednesday reported  a wider quarterly loss amid soaring fuel prices and weak  domestic airfares.",
+            "output": "Sci/Tech"
+        },
+        "63": {
+            "input": "US Airways Gives Pilots, Flight Attendants New Offer (Update3) US Airways Group Inc., struggling to avoid a second bankruptcy since 2002, gave its pilots #39; union a new plan for \\$295 million in pay and benefit cuts three days after the group rejected a prior offer.",
+            "output": "Sci/Tech"
+        },
+        "64": {
+            "input": "AMD and IBM work together to improve chip performance Advanced Micro Devices (AMD) and International Business Machines (IBM) have developed a new technology that they claim will deliver higher performance margins, from their latest microprocessors, with dual stress liner technology.",
+            "output": "World"
+        },
+        "65": {
+            "input": "Microsoft enters desktop search fray Following the lead of Google and Yahoo!, Microsoft has announced a  #39;beta #39; version of a desktop search tool, the  #39;Toolbar Suite #39;.",
+            "output": "World"
+        },
+        "66": {
+            "input": "King Tut Treasures Will Return to U.S., but Won't Stop at the Met Treasures of King Tut, including his gold coffin, will bypass the Met because of a dispute over the admission charge.",
+            "output": "Sports"
+        },
+        "67": {
+            "input": "Fusion reactor decision stalled Six nations planning to build the world's biggest nuclear fusion reactor fail to agree where to site the facility.",
+            "output": "Sports"
+        },
+        "68": {
+            "input": "UPDATE 1-ATA shares up on merger talk, but analysts doubt Shares of ATA Holdings Corp., (ATAH.O: Quote, Profile, Research) parent of discount airline ATA, rose as much as 22 percent on Thursday after a Wall Street Journal ",
+            "output": "Sci/Tech"
+        },
+        "69": {
+            "input": "Russian Siege Sparks World Horror, Solidarity  LONDON (Reuters) - Tragic, despicable, inhumane, cowardly,  barbaric, evil, and astonishing -- the deaths of a hundred or  more people including children in a siege in Russia sparked  strong words for the hostage-takers from world leaders.",
+            "output": "Sports"
+        },
+        "70": {
+            "input": "Flight Data Recorders Found of 2 Crashed Planes in Russia Investigators picked through the scattered wreckage today of two Russian passenger jets that crashed nearly simultaneously Tuesday night after leaving Moscow, and reported ",
+            "output": "Sports"
+        },
+        "71": {
+            "input": "Britain wins bronze in sailing 49er class Britain #39;s Chris Draper and Simon Hiscocks have cruised to Olympic bronze in the open 49er class. Hiscocks won silver with Ian Barker four years ago when the high performance 49ers made their Olympic debut in Sydney.",
+            "output": "Business"
+        },
+        "72": {
+            "input": "Is Google Ready to Browse? (Ziff Davis) Ziff Davis - New hires, a domain-name registration and Mozilla bugs lead to speculation that Google is preparing a Web browser, but the clues could point in many directions.",
+            "output": "World"
+        },
+        "73": {
+            "input": "Violence Erupts Across Iraq at Sites Far From Fallujah Armed insurgents rampaged Thursday through Mosul, Iraq's third-largest city, detonated a massive car bomb in the capital and apparently seized control of two smaller urban centers. This violence took place as U.S. forces continued their major offensive in Fallujah.",
+            "output": "Sports"
+        },
+        "74": {
+            "input": "No shadow of doubt: lunar eclipse is well worth a look ONE of natures greatest spectacles will be visible in the small hours of tomorrow morning - weather permitting - as the Moon passes into the Earths shadow, causing a total lunar eclipse.",
+            "output": "World"
+        },
+        "75": {
+            "input": "Rampant corruption could wreck postwar Iraq The postwar reconstruction of Iraq could be ruined by rampant corruption, an international survey said on Wednesday. The survey, an annual list of countries held to be the most corrupt in their business dealings ",
+            "output": "Sports"
+        },
+        "76": {
+            "input": "Jobless rate in Singapore declines to a 3-year low SINGAPORE Singapore #39;s unemployment rate fell to its lowest in more than three years in the third quarter, the government said Monday, as manufacturers and service companies increased investment in the city-state, creating new jobs.",
+            "output": "Sci/Tech"
+        },
+        "77": {
+            "input": "Toronto trades Carter The Toronto Raptors traded six-time All-Star Vince Carter to the New Jersey Nets for three players, including center Alonzo Mourning, and two first-round draft picks.",
+            "output": "Business"
+        },
+        "78": {
+            "input": "Indonesian Cleric Bashir's Trial Starts Oct 28  JAKARTA, Indonesia (Reuters) - The trial of Indonesian  cleric Abu Bakar Bashir over charges related to the Bali and  Marriott bombings will begin on Oct. 28, a court official said  on Monday.",
+            "output": "Sports"
+        },
+        "79": {
+            "input": "Intel takes ax to Pentium 4, Itanium prices Intel Corp. slashed prices across its Pentium 4 and Itanium product lines Sunday as it prepares for its biannual developer conference in San Francisco at the beginning of September.",
+            "output": "World"
+        },
+        "80": {
+            "input": "Russian move on climate welcomed The EU and environmental groups hail the Russian cabinet's decision to back the Kyoto climate change treaty.",
+            "output": "World"
+        },
+        "81": {
+            "input": "Euopean press review The death and legacy of Palestinian leader Yasser Arafat dominate today #39;s European papers. Some hold out the hope that his passing will provide a new impetus for peace in the Middle East, while others are ",
+            "output": "Sports"
+        },
+        "82": {
+            "input": "Review: Horror comes home in  #39;Silent Hill 4 #39; Editor #39;s Note: The opinions expressed in this column are solely those of Marc Saltzman, a freelance technology journalist whose reviews also appear on the Gannett News Service.",
+            "output": "World"
+        },
+        "83": {
+            "input": "Over 30 Killed in Iraq attacks, 20 Americans wounded More than 30 people were killed and more than 60 wounded in a rash of suicide car bombs and mortar and rocket attacks in the Sunni Triangle on Saturday as US Marines ",
+            "output": "Sports"
+        },
+        "84": {
+            "input": "Circulation Fraud Contained, Audit Group Says  TORONTO, Nov. 11 -- The chairman of the newspaper industry's circulation-auditing body said Thursday that the organization would work to repair its image, tarnished by circulation scandals over the past year at four large U.S. newspapers.",
+            "output": "Sci/Tech"
+        },
+        "85": {
+            "input": "Transatlantic Live Brain Surgery to Be Beamed to UK (Reuters) Reuters - It's not for the squeamish but Britons\\with a strong constitution will get a rare opportunity to view\\brain surgery as it happens, in an operating room 4,000 miles\\away in the United States.",
+            "output": "World"
+        },
+        "86": {
+            "input": "Portuguese Gov't Resigns Ahead of Elections  LISBON (Reuters) - The Portuguese government resigned on  Saturday to avoid turf battles with President Jorge Sampaio in  the run-up to snap elections in February.",
+            "output": "Sports"
+        },
+        "87": {
+            "input": "States #39; rights lose out to VoIP VoIP has escaped regulation by individual states in the US after a ruling by the Federal Communications Commission. The FCC decided that Vonage Holdings #39; DigitalVoice service could not be governed by dual ",
+            "output": "Sci/Tech"
+        },
+        "88": {
+            "input": "Afghan Election Body Says Will Not Halt Vote  KABUL (Reuters) - Afghanistan's election authority said on  Saturday the election process would continue in the country's  historic presidential election despite a decision by most of  the candidates to boycott the poll over irregularities.",
+            "output": "Sports"
+        },
+        "89": {
+            "input": "Java Studio Creator Update Targets Mac Developers (Ziff Davis) Ziff Davis - The new release of Sun's visual development environment allows users to develop Java applications on Mac OS X, Windows XP and Solaris for deployment on any platform compatible with the Java 2 Standard Edition.",
+            "output": "World"
+        },
+        "90": {
+            "input": "Dutch court bars Kurd extradition A Dutch court blocks the extradition to Turkey of a Kurdish woman said to be a top militant leader.",
+            "output": "Sports"
+        },
+        "91": {
+            "input": "Ministry of Culture bans Premier Manager 2005 Ministry of Culture recently demanded the various cultural departments across the country to ban a kind of computer named Premier Manager 2005, or Soccer Manager 2005.",
+            "output": "World"
+        },
+        "92": {
+            "input": "Avery Johnson retires from NBA CBC SPORTS ONLINE - Point guard Avery Johnson retired Thursday as an active player to accept a coaching position with the Dallas Mavericks.",
+            "output": "Business"
+        },
+        "93": {
+            "input": "Adebayor shoots Monaco to top spot in France Togo #39;s Emmanuel Adebayor shot Monaco to the top of the French league table with the winner in a 1-0 victory over Paris Saint Germain who thought their season could not get any worse.",
+            "output": "Business"
+        },
+        "94": {
+            "input": "Natural Sunblock: Sun Dims in Strange Ways (SPACE.com) SPACE.com - When Venus crossed the Sun June 8, showing up as a clear black dot to the delight of millions of skywatchers around the world, astronomers noted something less obvious: The amount of sunlight reaching Earth dipped by 0.1 percent for a few hours.",
+            "output": "World"
+        },
+        "95": {
+            "input": "Nortel wins Indian wireless contract Nortel scores its first major wireless deal with an Indian service provider.",
+            "output": "World"
+        },
+        "96": {
+            "input": "Singh Hangs Close Despite missing half his fairways and a half-dozen putts inside 12 feet, Vijay Singh grinds out a 1-under 69 to stay within three shots of the lead at the Tour Championship.",
+            "output": "Business"
+        },
+        "97": {
+            "input": "Home Builder Optimism Reported Rising (Reuters) Reuters - U.S. home builder optimism grew in\\October to its strongest level in 2004 on low mortgage rates\\and heavy traffic of potential buyers, rebounding from a\\decline in September, an industry report said on Monday.",
+            "output": "Sci/Tech"
+        },
+        "98": {
+            "input": "'Come and join us' urges Howard Michael Howard brings his party's annual conference to a close with a pitch to Labour and Lib Dem voters.",
+            "output": "Sports"
+        },
+        "99": {
+            "input": "KB Toys to Close Up to 238 Stores  NEW YORK (Reuters) - Bankrupt toy seller KB Toys Inc. said  on Tuesday it plans to close 141 to 238 underperforming stores  by the end of January as part of its reorganization effort.",
+            "output": "Sci/Tech"
+        },
+        "100": {
+            "input": "US children 'abandoned in Africa' Texas authorities are investigating claims that a US mother left her seven adopted children in Nigeria and went to work in Iraq.",
+            "output": "Sports"
+        }
+    }
+}

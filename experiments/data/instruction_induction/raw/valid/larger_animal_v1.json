@@ -1,0 +1,3643 @@
+{
+    "metadata": {
+        "num_examples": 606
+    },
+    "examples": {
+        "1": {
+            "input": "leopard, rat terrier",
+            "output": "leopard",
+            "small": "rat terrier",
+            "large": "leopard"
+        },
+        "2": {
+            "input": "rat terrier, capybara",
+            "output": "capybara",
+            "small": "rat terrier",
+            "large": "capybara"
+        },
+        "3": {
+            "input": "boxer, rat terrier",
+            "output": "boxer",
+            "small": "rat terrier",
+            "large": "boxer"
+        },
+        "4": {
+            "input": "rat terrier, chimpanzee",
+            "output": "chimpanzee",
+            "small": "rat terrier",
+            "large": "chimpanzee"
+        },
+        "5": {
+            "input": "rat terrier, cougar",
+            "output": "cougar",
+            "small": "rat terrier",
+            "large": "cougar"
+        },
+        "6": {
+            "input": "rat terrier, tortoise",
+            "output": "tortoise",
+            "small": "rat terrier",
+            "large": "tortoise"
+        },
+        "7": {
+            "input": "rat terrier, deer",
+            "output": "deer",
+            "small": "rat terrier",
+            "large": "deer"
+        },
+        "8": {
+            "input": "wolf, rat terrier",
+            "output": "wolf",
+            "small": "rat terrier",
+            "large": "wolf"
+        },
+        "9": {
+            "input": "cheetah, rat terrier",
+            "output": "cheetah",
+            "small": "rat terrier",
+            "large": "cheetah"
+        },
+        "10": {
+            "input": "turtle, rat terrier",
+            "output": "turtle",
+            "small": "rat terrier",
+            "large": "turtle"
+        },
+        "11": {
+            "input": "orangutan, rat terrier",
+            "output": "orangutan",
+            "small": "rat terrier",
+            "large": "orangutan"
+        },
+        "12": {
+            "input": "wild boar, rat terrier",
+            "output": "wild boar",
+            "small": "rat terrier",
+            "large": "wild boar"
+        },
+        "13": {
+            "input": "rat terrier, bull shark",
+            "output": "bull shark",
+            "small": "rat terrier",
+            "large": "bull shark"
+        },
+        "14": {
+            "input": "llama, rat terrier",
+            "output": "llama",
+            "small": "rat terrier",
+            "large": "llama"
+        },
+        "15": {
+            "input": "bear, rat terrier",
+            "output": "bear",
+            "small": "rat terrier",
+            "large": "bear"
+        },
+        "16": {
+            "input": "rat terrier, pony",
+            "output": "pony",
+            "small": "rat terrier",
+            "large": "pony"
+        },
+        "17": {
+            "input": "tiger, rat terrier",
+            "output": "tiger",
+            "small": "rat terrier",
+            "large": "tiger"
+        },
+        "18": {
+            "input": "sea lion, rat terrier",
+            "output": "sea lion",
+            "small": "rat terrier",
+            "large": "sea lion"
+        },
+        "19": {
+            "input": "jaguar, rat terrier",
+            "output": "jaguar",
+            "small": "rat terrier",
+            "large": "jaguar"
+        },
+        "20": {
+            "input": "lion, rat terrier",
+            "output": "lion",
+            "small": "rat terrier",
+            "large": "lion"
+        },
+        "21": {
+            "input": "rat terrier, wildebeest",
+            "output": "wildebeest",
+            "small": "rat terrier",
+            "large": "wildebeest"
+        },
+        "22": {
+            "input": "rat terrier, tuna",
+            "output": "tuna",
+            "small": "rat terrier",
+            "large": "tuna"
+        },
+        "23": {
+            "input": "gorilla, rat terrier",
+            "output": "gorilla",
+            "small": "rat terrier",
+            "large": "gorilla"
+        },
+        "24": {
+            "input": "mule, rat terrier",
+            "output": "mule",
+            "small": "rat terrier",
+            "large": "mule"
+        },
+        "25": {
+            "input": "manatee, rat terrier",
+            "output": "manatee",
+            "small": "rat terrier",
+            "large": "manatee"
+        },
+        "26": {
+            "input": "sturgeon, rat terrier",
+            "output": "sturgeon",
+            "small": "rat terrier",
+            "large": "sturgeon"
+        },
+        "27": {
+            "input": "camel, rat terrier",
+            "output": "camel",
+            "small": "rat terrier",
+            "large": "camel"
+        },
+        "28": {
+            "input": "elk, rat terrier",
+            "output": "elk",
+            "small": "rat terrier",
+            "large": "elk"
+        },
+        "29": {
+            "input": "rat terrier, horse",
+            "output": "horse",
+            "small": "rat terrier",
+            "large": "horse"
+        },
+        "30": {
+            "input": "rat terrier, cattle",
+            "output": "cattle",
+            "small": "rat terrier",
+            "large": "cattle"
+        },
+        "31": {
+            "input": "rat terrier, shark",
+            "output": "shark",
+            "small": "rat terrier",
+            "large": "shark"
+        },
+        "32": {
+            "input": "elephant, rat terrier",
+            "output": "elephant",
+            "small": "rat terrier",
+            "large": "elephant"
+        },
+        "33": {
+            "input": "rat terrier, giraffe",
+            "output": "giraffe",
+            "small": "rat terrier",
+            "large": "giraffe"
+        },
+        "34": {
+            "input": "rat terrier, moose",
+            "output": "moose",
+            "small": "rat terrier",
+            "large": "moose"
+        },
+        "35": {
+            "input": "rat terrier, crocodile",
+            "output": "crocodile",
+            "small": "rat terrier",
+            "large": "crocodile"
+        },
+        "36": {
+            "input": "rat terrier, liger",
+            "output": "liger",
+            "small": "rat terrier",
+            "large": "liger"
+        },
+        "37": {
+            "input": "rat terrier, grizzly bear",
+            "output": "grizzly bear",
+            "small": "rat terrier",
+            "large": "grizzly bear"
+        },
+        "38": {
+            "input": "rat terrier, hippopotamus",
+            "output": "hippopotamus",
+            "small": "rat terrier",
+            "large": "hippopotamus"
+        },
+        "39": {
+            "input": "rat terrier, whale shark",
+            "output": "whale shark",
+            "small": "rat terrier",
+            "large": "whale shark"
+        },
+        "40": {
+            "input": "rat terrier, killer whale",
+            "output": "killer whale",
+            "small": "rat terrier",
+            "large": "killer whale"
+        },
+        "41": {
+            "input": "great white shark, rat terrier",
+            "output": "great white shark",
+            "small": "rat terrier",
+            "large": "great white shark"
+        },
+        "42": {
+            "input": "sperm whale, rat terrier",
+            "output": "sperm whale",
+            "small": "rat terrier",
+            "large": "sperm whale"
+        },
+        "43": {
+            "input": "rat terrier, polar bear",
+            "output": "polar bear",
+            "small": "rat terrier",
+            "large": "polar bear"
+        },
+        "44": {
+            "input": "elephant, rat terrier",
+            "output": "elephant",
+            "small": "rat terrier",
+            "large": "elephant"
+        },
+        "45": {
+            "input": "chamois, racoon",
+            "output": "chamois",
+            "small": "racoon",
+            "large": "chamois"
+        },
+        "46": {
+            "input": "chinook, racoon",
+            "output": "chinook",
+            "small": "racoon",
+            "large": "chinook"
+        },
+        "47": {
+            "input": "human, racoon",
+            "output": "human",
+            "small": "racoon",
+            "large": "human"
+        },
+        "48": {
+            "input": "octopus, racoon",
+            "output": "octopus",
+            "small": "racoon",
+            "large": "octopus"
+        },
+        "49": {
+            "input": "alpaca, racoon",
+            "output": "alpaca",
+            "small": "racoon",
+            "large": "alpaca"
+        },
+        "50": {
+            "input": "donkey, racoon",
+            "output": "donkey",
+            "small": "racoon",
+            "large": "donkey"
+        },
+        "51": {
+            "input": "racoon, pit bull",
+            "output": "pit bull",
+            "small": "racoon",
+            "large": "pit bull"
+        },
+        "52": {
+            "input": "racoon, bulldog",
+            "output": "bulldog",
+            "small": "racoon",
+            "large": "bulldog"
+        },
+        "53": {
+            "input": "racoon, goat",
+            "output": "goat",
+            "small": "racoon",
+            "large": "goat"
+        },
+        "54": {
+            "input": "greyhound, racoon",
+            "output": "greyhound",
+            "small": "racoon",
+            "large": "greyhound"
+        },
+        "55": {
+            "input": "racoon, wombat",
+            "output": "wombat",
+            "small": "racoon",
+            "large": "wombat"
+        },
+        "56": {
+            "input": "golden retriever, racoon",
+            "output": "golden retriever",
+            "small": "racoon",
+            "large": "golden retriever"
+        },
+        "57": {
+            "input": "racoon, leopard",
+            "output": "leopard",
+            "small": "racoon",
+            "large": "leopard"
+        },
+        "58": {
+            "input": "racoon, capybara",
+            "output": "capybara",
+            "small": "racoon",
+            "large": "capybara"
+        },
+        "59": {
+            "input": "racoon, boxer",
+            "output": "boxer",
+            "small": "racoon",
+            "large": "boxer"
+        },
+        "60": {
+            "input": "chimpanzee, racoon",
+            "output": "chimpanzee",
+            "small": "racoon",
+            "large": "chimpanzee"
+        },
+        "61": {
+            "input": "cougar, racoon",
+            "output": "cougar",
+            "small": "racoon",
+            "large": "cougar"
+        },
+        "62": {
+            "input": "tortoise, racoon",
+            "output": "tortoise",
+            "small": "racoon",
+            "large": "tortoise"
+        },
+        "63": {
+            "input": "racoon, deer",
+            "output": "deer",
+            "small": "racoon",
+            "large": "deer"
+        },
+        "64": {
+            "input": "racoon, wolf",
+            "output": "wolf",
+            "small": "racoon",
+            "large": "wolf"
+        },
+        "65": {
+            "input": "cheetah, racoon",
+            "output": "cheetah",
+            "small": "racoon",
+            "large": "cheetah"
+        },
+        "66": {
+            "input": "turtle, racoon",
+            "output": "turtle",
+            "small": "racoon",
+            "large": "turtle"
+        },
+        "67": {
+            "input": "racoon, orangutan",
+            "output": "orangutan",
+            "small": "racoon",
+            "large": "orangutan"
+        },
+        "68": {
+            "input": "wild boar, racoon",
+            "output": "wild boar",
+            "small": "racoon",
+            "large": "wild boar"
+        },
+        "69": {
+            "input": "racoon, bull shark",
+            "output": "bull shark",
+            "small": "racoon",
+            "large": "bull shark"
+        },
+        "70": {
+            "input": "racoon, llama",
+            "output": "llama",
+            "small": "racoon",
+            "large": "llama"
+        },
+        "71": {
+            "input": "bear, racoon",
+            "output": "bear",
+            "small": "racoon",
+            "large": "bear"
+        },
+        "72": {
+            "input": "racoon, pony",
+            "output": "pony",
+            "small": "racoon",
+            "large": "pony"
+        },
+        "73": {
+            "input": "tiger, racoon",
+            "output": "tiger",
+            "small": "racoon",
+            "large": "tiger"
+        },
+        "74": {
+            "input": "sea lion, racoon",
+            "output": "sea lion",
+            "small": "racoon",
+            "large": "sea lion"
+        },
+        "75": {
+            "input": "jaguar, racoon",
+            "output": "jaguar",
+            "small": "racoon",
+            "large": "jaguar"
+        },
+        "76": {
+            "input": "racoon, lion",
+            "output": "lion",
+            "small": "racoon",
+            "large": "lion"
+        },
+        "77": {
+            "input": "racoon, wildebeest",
+            "output": "wildebeest",
+            "small": "racoon",
+            "large": "wildebeest"
+        },
+        "78": {
+            "input": "tuna, racoon",
+            "output": "tuna",
+            "small": "racoon",
+            "large": "tuna"
+        },
+        "79": {
+            "input": "gorilla, racoon",
+            "output": "gorilla",
+            "small": "racoon",
+            "large": "gorilla"
+        },
+        "80": {
+            "input": "mule, racoon",
+            "output": "mule",
+            "small": "racoon",
+            "large": "mule"
+        },
+        "81": {
+            "input": "racoon, manatee",
+            "output": "manatee",
+            "small": "racoon",
+            "large": "manatee"
+        },
+        "82": {
+            "input": "sturgeon, racoon",
+            "output": "sturgeon",
+            "small": "racoon",
+            "large": "sturgeon"
+        },
+        "83": {
+            "input": "camel, racoon",
+            "output": "camel",
+            "small": "racoon",
+            "large": "camel"
+        },
+        "84": {
+            "input": "racoon, elk",
+            "output": "elk",
+            "small": "racoon",
+            "large": "elk"
+        },
+        "85": {
+            "input": "horse, racoon",
+            "output": "horse",
+            "small": "racoon",
+            "large": "horse"
+        },
+        "86": {
+            "input": "racoon, cattle",
+            "output": "cattle",
+            "small": "racoon",
+            "large": "cattle"
+        },
+        "87": {
+            "input": "racoon, shark",
+            "output": "shark",
+            "small": "racoon",
+            "large": "shark"
+        },
+        "88": {
+            "input": "racoon, elephant",
+            "output": "elephant",
+            "small": "racoon",
+            "large": "elephant"
+        },
+        "89": {
+            "input": "giraffe, racoon",
+            "output": "giraffe",
+            "small": "racoon",
+            "large": "giraffe"
+        },
+        "90": {
+            "input": "racoon, moose",
+            "output": "moose",
+            "small": "racoon",
+            "large": "moose"
+        },
+        "91": {
+            "input": "racoon, crocodile",
+            "output": "crocodile",
+            "small": "racoon",
+            "large": "crocodile"
+        },
+        "92": {
+            "input": "liger, racoon",
+            "output": "liger",
+            "small": "racoon",
+            "large": "liger"
+        },
+        "93": {
+            "input": "racoon, grizzly bear",
+            "output": "grizzly bear",
+            "small": "racoon",
+            "large": "grizzly bear"
+        },
+        "94": {
+            "input": "racoon, hippopotamus",
+            "output": "hippopotamus",
+            "small": "racoon",
+            "large": "hippopotamus"
+        },
+        "95": {
+            "input": "whale shark, racoon",
+            "output": "whale shark",
+            "small": "racoon",
+            "large": "whale shark"
+        },
+        "96": {
+            "input": "racoon, killer whale",
+            "output": "killer whale",
+            "small": "racoon",
+            "large": "killer whale"
+        },
+        "97": {
+            "input": "racoon, great white shark",
+            "output": "great white shark",
+            "small": "racoon",
+            "large": "great white shark"
+        },
+        "98": {
+            "input": "racoon, sperm whale",
+            "output": "sperm whale",
+            "small": "racoon",
+            "large": "sperm whale"
+        },
+        "99": {
+            "input": "racoon, polar bear",
+            "output": "polar bear",
+            "small": "racoon",
+            "large": "polar bear"
+        },
+        "100": {
+            "input": "elephant, racoon",
+            "output": "elephant",
+            "small": "racoon",
+            "large": "elephant"
+        },
+        "101": {
+            "input": "sheltie, chamois",
+            "output": "chamois",
+            "small": "sheltie",
+            "large": "chamois"
+        },
+        "102": {
+            "input": "chinook, sheltie",
+            "output": "chinook",
+            "small": "sheltie",
+            "large": "chinook"
+        },
+        "103": {
+            "input": "human, sheltie",
+            "output": "human",
+            "small": "sheltie",
+            "large": "human"
+        },
+        "104": {
+            "input": "octopus, sheltie",
+            "output": "octopus",
+            "small": "sheltie",
+            "large": "octopus"
+        },
+        "105": {
+            "input": "alpaca, sheltie",
+            "output": "alpaca",
+            "small": "sheltie",
+            "large": "alpaca"
+        },
+        "106": {
+            "input": "sheltie, donkey",
+            "output": "donkey",
+            "small": "sheltie",
+            "large": "donkey"
+        },
+        "107": {
+            "input": "pit bull, sheltie",
+            "output": "pit bull",
+            "small": "sheltie",
+            "large": "pit bull"
+        },
+        "108": {
+            "input": "sheltie, bulldog",
+            "output": "bulldog",
+            "small": "sheltie",
+            "large": "bulldog"
+        },
+        "109": {
+            "input": "sheltie, goat",
+            "output": "goat",
+            "small": "sheltie",
+            "large": "goat"
+        },
+        "110": {
+            "input": "sheltie, greyhound",
+            "output": "greyhound",
+            "small": "sheltie",
+            "large": "greyhound"
+        },
+        "111": {
+            "input": "sheltie, wombat",
+            "output": "wombat",
+            "small": "sheltie",
+            "large": "wombat"
+        },
+        "112": {
+            "input": "golden retriever, sheltie",
+            "output": "golden retriever",
+            "small": "sheltie",
+            "large": "golden retriever"
+        },
+        "113": {
+            "input": "sheltie, leopard",
+            "output": "leopard",
+            "small": "sheltie",
+            "large": "leopard"
+        },
+        "114": {
+            "input": "capybara, sheltie",
+            "output": "capybara",
+            "small": "sheltie",
+            "large": "capybara"
+        },
+        "115": {
+            "input": "boxer, sheltie",
+            "output": "boxer",
+            "small": "sheltie",
+            "large": "boxer"
+        },
+        "116": {
+            "input": "chimpanzee, sheltie",
+            "output": "chimpanzee",
+            "small": "sheltie",
+            "large": "chimpanzee"
+        },
+        "117": {
+            "input": "cougar, sheltie",
+            "output": "cougar",
+            "small": "sheltie",
+            "large": "cougar"
+        },
+        "118": {
+            "input": "sheltie, tortoise",
+            "output": "tortoise",
+            "small": "sheltie",
+            "large": "tortoise"
+        },
+        "119": {
+            "input": "sheltie, deer",
+            "output": "deer",
+            "small": "sheltie",
+            "large": "deer"
+        },
+        "120": {
+            "input": "sheltie, wolf",
+            "output": "wolf",
+            "small": "sheltie",
+            "large": "wolf"
+        },
+        "121": {
+            "input": "cheetah, sheltie",
+            "output": "cheetah",
+            "small": "sheltie",
+            "large": "cheetah"
+        },
+        "122": {
+            "input": "sheltie, turtle",
+            "output": "turtle",
+            "small": "sheltie",
+            "large": "turtle"
+        },
+        "123": {
+            "input": "sheltie, orangutan",
+            "output": "orangutan",
+            "small": "sheltie",
+            "large": "orangutan"
+        },
+        "124": {
+            "input": "wild boar, sheltie",
+            "output": "wild boar",
+            "small": "sheltie",
+            "large": "wild boar"
+        },
+        "125": {
+            "input": "bull shark, sheltie",
+            "output": "bull shark",
+            "small": "sheltie",
+            "large": "bull shark"
+        },
+        "126": {
+            "input": "llama, sheltie",
+            "output": "llama",
+            "small": "sheltie",
+            "large": "llama"
+        },
+        "127": {
+            "input": "sheltie, bear",
+            "output": "bear",
+            "small": "sheltie",
+            "large": "bear"
+        },
+        "128": {
+            "input": "pony, sheltie",
+            "output": "pony",
+            "small": "sheltie",
+            "large": "pony"
+        },
+        "129": {
+            "input": "sheltie, tiger",
+            "output": "tiger",
+            "small": "sheltie",
+            "large": "tiger"
+        },
+        "130": {
+            "input": "sea lion, sheltie",
+            "output": "sea lion",
+            "small": "sheltie",
+            "large": "sea lion"
+        },
+        "131": {
+            "input": "sheltie, jaguar",
+            "output": "jaguar",
+            "small": "sheltie",
+            "large": "jaguar"
+        },
+        "132": {
+            "input": "lion, sheltie",
+            "output": "lion",
+            "small": "sheltie",
+            "large": "lion"
+        },
+        "133": {
+            "input": "wildebeest, sheltie",
+            "output": "wildebeest",
+            "small": "sheltie",
+            "large": "wildebeest"
+        },
+        "134": {
+            "input": "tuna, sheltie",
+            "output": "tuna",
+            "small": "sheltie",
+            "large": "tuna"
+        },
+        "135": {
+            "input": "sheltie, gorilla",
+            "output": "gorilla",
+            "small": "sheltie",
+            "large": "gorilla"
+        },
+        "136": {
+            "input": "sheltie, mule",
+            "output": "mule",
+            "small": "sheltie",
+            "large": "mule"
+        },
+        "137": {
+            "input": "manatee, sheltie",
+            "output": "manatee",
+            "small": "sheltie",
+            "large": "manatee"
+        },
+        "138": {
+            "input": "sheltie, sturgeon",
+            "output": "sturgeon",
+            "small": "sheltie",
+            "large": "sturgeon"
+        },
+        "139": {
+            "input": "camel, sheltie",
+            "output": "camel",
+            "small": "sheltie",
+            "large": "camel"
+        },
+        "140": {
+            "input": "elk, sheltie",
+            "output": "elk",
+            "small": "sheltie",
+            "large": "elk"
+        },
+        "141": {
+            "input": "horse, sheltie",
+            "output": "horse",
+            "small": "sheltie",
+            "large": "horse"
+        },
+        "142": {
+            "input": "sheltie, cattle",
+            "output": "cattle",
+            "small": "sheltie",
+            "large": "cattle"
+        },
+        "143": {
+            "input": "sheltie, shark",
+            "output": "shark",
+            "small": "sheltie",
+            "large": "shark"
+        },
+        "144": {
+            "input": "elephant, sheltie",
+            "output": "elephant",
+            "small": "sheltie",
+            "large": "elephant"
+        },
+        "145": {
+            "input": "sheltie, giraffe",
+            "output": "giraffe",
+            "small": "sheltie",
+            "large": "giraffe"
+        },
+        "146": {
+            "input": "moose, sheltie",
+            "output": "moose",
+            "small": "sheltie",
+            "large": "moose"
+        },
+        "147": {
+            "input": "sheltie, crocodile",
+            "output": "crocodile",
+            "small": "sheltie",
+            "large": "crocodile"
+        },
+        "148": {
+            "input": "liger, sheltie",
+            "output": "liger",
+            "small": "sheltie",
+            "large": "liger"
+        },
+        "149": {
+            "input": "grizzly bear, sheltie",
+            "output": "grizzly bear",
+            "small": "sheltie",
+            "large": "grizzly bear"
+        },
+        "150": {
+            "input": "hippopotamus, sheltie",
+            "output": "hippopotamus",
+            "small": "sheltie",
+            "large": "hippopotamus"
+        },
+        "151": {
+            "input": "whale shark, sheltie",
+            "output": "whale shark",
+            "small": "sheltie",
+            "large": "whale shark"
+        },
+        "152": {
+            "input": "killer whale, sheltie",
+            "output": "killer whale",
+            "small": "sheltie",
+            "large": "killer whale"
+        },
+        "153": {
+            "input": "sheltie, great white shark",
+            "output": "great white shark",
+            "small": "sheltie",
+            "large": "great white shark"
+        },
+        "154": {
+            "input": "sperm whale, sheltie",
+            "output": "sperm whale",
+            "small": "sheltie",
+            "large": "sperm whale"
+        },
+        "155": {
+            "input": "sheltie, polar bear",
+            "output": "polar bear",
+            "small": "sheltie",
+            "large": "polar bear"
+        },
+        "156": {
+            "input": "sheltie, elephant",
+            "output": "elephant",
+            "small": "sheltie",
+            "large": "elephant"
+        },
+        "157": {
+            "input": "labradoodle, chamois",
+            "output": "chamois",
+            "small": "labradoodle",
+            "large": "chamois"
+        },
+        "158": {
+            "input": "labradoodle, chinook",
+            "output": "chinook",
+            "small": "labradoodle",
+            "large": "chinook"
+        },
+        "159": {
+            "input": "human, labradoodle",
+            "output": "human",
+            "small": "labradoodle",
+            "large": "human"
+        },
+        "160": {
+            "input": "octopus, labradoodle",
+            "output": "octopus",
+            "small": "labradoodle",
+            "large": "octopus"
+        },
+        "161": {
+            "input": "alpaca, labradoodle",
+            "output": "alpaca",
+            "small": "labradoodle",
+            "large": "alpaca"
+        },
+        "162": {
+            "input": "donkey, labradoodle",
+            "output": "donkey",
+            "small": "labradoodle",
+            "large": "donkey"
+        },
+        "163": {
+            "input": "labradoodle, pit bull",
+            "output": "pit bull",
+            "small": "labradoodle",
+            "large": "pit bull"
+        },
+        "164": {
+            "input": "labradoodle, bulldog",
+            "output": "bulldog",
+            "small": "labradoodle",
+            "large": "bulldog"
+        },
+        "165": {
+            "input": "goat, labradoodle",
+            "output": "goat",
+            "small": "labradoodle",
+            "large": "goat"
+        },
+        "166": {
+            "input": "labradoodle, greyhound",
+            "output": "greyhound",
+            "small": "labradoodle",
+            "large": "greyhound"
+        },
+        "167": {
+            "input": "labradoodle, wombat",
+            "output": "wombat",
+            "small": "labradoodle",
+            "large": "wombat"
+        },
+        "168": {
+            "input": "labradoodle, golden retriever",
+            "output": "golden retriever",
+            "small": "labradoodle",
+            "large": "golden retriever"
+        },
+        "169": {
+            "input": "labradoodle, leopard",
+            "output": "leopard",
+            "small": "labradoodle",
+            "large": "leopard"
+        },
+        "170": {
+            "input": "capybara, labradoodle",
+            "output": "capybara",
+            "small": "labradoodle",
+            "large": "capybara"
+        },
+        "171": {
+            "input": "boxer, labradoodle",
+            "output": "boxer",
+            "small": "labradoodle",
+            "large": "boxer"
+        },
+        "172": {
+            "input": "chimpanzee, labradoodle",
+            "output": "chimpanzee",
+            "small": "labradoodle",
+            "large": "chimpanzee"
+        },
+        "173": {
+            "input": "labradoodle, cougar",
+            "output": "cougar",
+            "small": "labradoodle",
+            "large": "cougar"
+        },
+        "174": {
+            "input": "tortoise, labradoodle",
+            "output": "tortoise",
+            "small": "labradoodle",
+            "large": "tortoise"
+        },
+        "175": {
+            "input": "labradoodle, deer",
+            "output": "deer",
+            "small": "labradoodle",
+            "large": "deer"
+        },
+        "176": {
+            "input": "wolf, labradoodle",
+            "output": "wolf",
+            "small": "labradoodle",
+            "large": "wolf"
+        },
+        "177": {
+            "input": "labradoodle, cheetah",
+            "output": "cheetah",
+            "small": "labradoodle",
+            "large": "cheetah"
+        },
+        "178": {
+            "input": "labradoodle, turtle",
+            "output": "turtle",
+            "small": "labradoodle",
+            "large": "turtle"
+        },
+        "179": {
+            "input": "labradoodle, orangutan",
+            "output": "orangutan",
+            "small": "labradoodle",
+            "large": "orangutan"
+        },
+        "180": {
+            "input": "labradoodle, wild boar",
+            "output": "wild boar",
+            "small": "labradoodle",
+            "large": "wild boar"
+        },
+        "181": {
+            "input": "bull shark, labradoodle",
+            "output": "bull shark",
+            "small": "labradoodle",
+            "large": "bull shark"
+        },
+        "182": {
+            "input": "llama, labradoodle",
+            "output": "llama",
+            "small": "labradoodle",
+            "large": "llama"
+        },
+        "183": {
+            "input": "labradoodle, bear",
+            "output": "bear",
+            "small": "labradoodle",
+            "large": "bear"
+        },
+        "184": {
+            "input": "pony, labradoodle",
+            "output": "pony",
+            "small": "labradoodle",
+            "large": "pony"
+        },
+        "185": {
+            "input": "tiger, labradoodle",
+            "output": "tiger",
+            "small": "labradoodle",
+            "large": "tiger"
+        },
+        "186": {
+            "input": "labradoodle, sea lion",
+            "output": "sea lion",
+            "small": "labradoodle",
+            "large": "sea lion"
+        },
+        "187": {
+            "input": "labradoodle, jaguar",
+            "output": "jaguar",
+            "small": "labradoodle",
+            "large": "jaguar"
+        },
+        "188": {
+            "input": "labradoodle, lion",
+            "output": "lion",
+            "small": "labradoodle",
+            "large": "lion"
+        },
+        "189": {
+            "input": "labradoodle, wildebeest",
+            "output": "wildebeest",
+            "small": "labradoodle",
+            "large": "wildebeest"
+        },
+        "190": {
+            "input": "labradoodle, tuna",
+            "output": "tuna",
+            "small": "labradoodle",
+            "large": "tuna"
+        },
+        "191": {
+            "input": "labradoodle, gorilla",
+            "output": "gorilla",
+            "small": "labradoodle",
+            "large": "gorilla"
+        },
+        "192": {
+            "input": "mule, labradoodle",
+            "output": "mule",
+            "small": "labradoodle",
+            "large": "mule"
+        },
+        "193": {
+            "input": "manatee, labradoodle",
+            "output": "manatee",
+            "small": "labradoodle",
+            "large": "manatee"
+        },
+        "194": {
+            "input": "labradoodle, sturgeon",
+            "output": "sturgeon",
+            "small": "labradoodle",
+            "large": "sturgeon"
+        },
+        "195": {
+            "input": "camel, labradoodle",
+            "output": "camel",
+            "small": "labradoodle",
+            "large": "camel"
+        },
+        "196": {
+            "input": "labradoodle, elk",
+            "output": "elk",
+            "small": "labradoodle",
+            "large": "elk"
+        },
+        "197": {
+            "input": "labradoodle, horse",
+            "output": "horse",
+            "small": "labradoodle",
+            "large": "horse"
+        },
+        "198": {
+            "input": "cattle, labradoodle",
+            "output": "cattle",
+            "small": "labradoodle",
+            "large": "cattle"
+        },
+        "199": {
+            "input": "shark, labradoodle",
+            "output": "shark",
+            "small": "labradoodle",
+            "large": "shark"
+        },
+        "200": {
+            "input": "labradoodle, elephant",
+            "output": "elephant",
+            "small": "labradoodle",
+            "large": "elephant"
+        },
+        "201": {
+            "input": "giraffe, labradoodle",
+            "output": "giraffe",
+            "small": "labradoodle",
+            "large": "giraffe"
+        },
+        "202": {
+            "input": "moose, labradoodle",
+            "output": "moose",
+            "small": "labradoodle",
+            "large": "moose"
+        },
+        "203": {
+            "input": "labradoodle, crocodile",
+            "output": "crocodile",
+            "small": "labradoodle",
+            "large": "crocodile"
+        },
+        "204": {
+            "input": "liger, labradoodle",
+            "output": "liger",
+            "small": "labradoodle",
+            "large": "liger"
+        },
+        "205": {
+            "input": "grizzly bear, labradoodle",
+            "output": "grizzly bear",
+            "small": "labradoodle",
+            "large": "grizzly bear"
+        },
+        "206": {
+            "input": "hippopotamus, labradoodle",
+            "output": "hippopotamus",
+            "small": "labradoodle",
+            "large": "hippopotamus"
+        },
+        "207": {
+            "input": "labradoodle, whale shark",
+            "output": "whale shark",
+            "small": "labradoodle",
+            "large": "whale shark"
+        },
+        "208": {
+            "input": "killer whale, labradoodle",
+            "output": "killer whale",
+            "small": "labradoodle",
+            "large": "killer whale"
+        },
+        "209": {
+            "input": "great white shark, labradoodle",
+            "output": "great white shark",
+            "small": "labradoodle",
+            "large": "great white shark"
+        },
+        "210": {
+            "input": "sperm whale, labradoodle",
+            "output": "sperm whale",
+            "small": "labradoodle",
+            "large": "sperm whale"
+        },
+        "211": {
+            "input": "polar bear, labradoodle",
+            "output": "polar bear",
+            "small": "labradoodle",
+            "large": "polar bear"
+        },
+        "212": {
+            "input": "elephant, labradoodle",
+            "output": "elephant",
+            "small": "labradoodle",
+            "large": "elephant"
+        },
+        "213": {
+            "input": "chamois, goldendoodle",
+            "output": "chamois",
+            "small": "goldendoodle",
+            "large": "chamois"
+        },
+        "214": {
+            "input": "chinook, goldendoodle",
+            "output": "chinook",
+            "small": "goldendoodle",
+            "large": "chinook"
+        },
+        "215": {
+            "input": "goldendoodle, human",
+            "output": "human",
+            "small": "goldendoodle",
+            "large": "human"
+        },
+        "216": {
+            "input": "octopus, goldendoodle",
+            "output": "octopus",
+            "small": "goldendoodle",
+            "large": "octopus"
+        },
+        "217": {
+            "input": "goldendoodle, alpaca",
+            "output": "alpaca",
+            "small": "goldendoodle",
+            "large": "alpaca"
+        },
+        "218": {
+            "input": "goldendoodle, donkey",
+            "output": "donkey",
+            "small": "goldendoodle",
+            "large": "donkey"
+        },
+        "219": {
+            "input": "goldendoodle, pit bull",
+            "output": "pit bull",
+            "small": "goldendoodle",
+            "large": "pit bull"
+        },
+        "220": {
+            "input": "bulldog, goldendoodle",
+            "output": "bulldog",
+            "small": "goldendoodle",
+            "large": "bulldog"
+        },
+        "221": {
+            "input": "goat, goldendoodle",
+            "output": "goat",
+            "small": "goldendoodle",
+            "large": "goat"
+        },
+        "222": {
+            "input": "goldendoodle, greyhound",
+            "output": "greyhound",
+            "small": "goldendoodle",
+            "large": "greyhound"
+        },
+        "223": {
+            "input": "goldendoodle, wombat",
+            "output": "wombat",
+            "small": "goldendoodle",
+            "large": "wombat"
+        },
+        "224": {
+            "input": "golden retriever, goldendoodle",
+            "output": "golden retriever",
+            "small": "goldendoodle",
+            "large": "golden retriever"
+        },
+        "225": {
+            "input": "goldendoodle, leopard",
+            "output": "leopard",
+            "small": "goldendoodle",
+            "large": "leopard"
+        },
+        "226": {
+            "input": "goldendoodle, capybara",
+            "output": "capybara",
+            "small": "goldendoodle",
+            "large": "capybara"
+        },
+        "227": {
+            "input": "goldendoodle, boxer",
+            "output": "boxer",
+            "small": "goldendoodle",
+            "large": "boxer"
+        },
+        "228": {
+            "input": "chimpanzee, goldendoodle",
+            "output": "chimpanzee",
+            "small": "goldendoodle",
+            "large": "chimpanzee"
+        },
+        "229": {
+            "input": "goldendoodle, cougar",
+            "output": "cougar",
+            "small": "goldendoodle",
+            "large": "cougar"
+        },
+        "230": {
+            "input": "tortoise, goldendoodle",
+            "output": "tortoise",
+            "small": "goldendoodle",
+            "large": "tortoise"
+        },
+        "231": {
+            "input": "deer, goldendoodle",
+            "output": "deer",
+            "small": "goldendoodle",
+            "large": "deer"
+        },
+        "232": {
+            "input": "goldendoodle, wolf",
+            "output": "wolf",
+            "small": "goldendoodle",
+            "large": "wolf"
+        },
+        "233": {
+            "input": "goldendoodle, cheetah",
+            "output": "cheetah",
+            "small": "goldendoodle",
+            "large": "cheetah"
+        },
+        "234": {
+            "input": "goldendoodle, turtle",
+            "output": "turtle",
+            "small": "goldendoodle",
+            "large": "turtle"
+        },
+        "235": {
+            "input": "goldendoodle, orangutan",
+            "output": "orangutan",
+            "small": "goldendoodle",
+            "large": "orangutan"
+        },
+        "236": {
+            "input": "wild boar, goldendoodle",
+            "output": "wild boar",
+            "small": "goldendoodle",
+            "large": "wild boar"
+        },
+        "237": {
+            "input": "goldendoodle, bull shark",
+            "output": "bull shark",
+            "small": "goldendoodle",
+            "large": "bull shark"
+        },
+        "238": {
+            "input": "llama, goldendoodle",
+            "output": "llama",
+            "small": "goldendoodle",
+            "large": "llama"
+        },
+        "239": {
+            "input": "goldendoodle, bear",
+            "output": "bear",
+            "small": "goldendoodle",
+            "large": "bear"
+        },
+        "240": {
+            "input": "pony, goldendoodle",
+            "output": "pony",
+            "small": "goldendoodle",
+            "large": "pony"
+        },
+        "241": {
+            "input": "goldendoodle, tiger",
+            "output": "tiger",
+            "small": "goldendoodle",
+            "large": "tiger"
+        },
+        "242": {
+            "input": "goldendoodle, sea lion",
+            "output": "sea lion",
+            "small": "goldendoodle",
+            "large": "sea lion"
+        },
+        "243": {
+            "input": "goldendoodle, jaguar",
+            "output": "jaguar",
+            "small": "goldendoodle",
+            "large": "jaguar"
+        },
+        "244": {
+            "input": "goldendoodle, lion",
+            "output": "lion",
+            "small": "goldendoodle",
+            "large": "lion"
+        },
+        "245": {
+            "input": "wildebeest, goldendoodle",
+            "output": "wildebeest",
+            "small": "goldendoodle",
+            "large": "wildebeest"
+        },
+        "246": {
+            "input": "goldendoodle, tuna",
+            "output": "tuna",
+            "small": "goldendoodle",
+            "large": "tuna"
+        },
+        "247": {
+            "input": "goldendoodle, gorilla",
+            "output": "gorilla",
+            "small": "goldendoodle",
+            "large": "gorilla"
+        },
+        "248": {
+            "input": "mule, goldendoodle",
+            "output": "mule",
+            "small": "goldendoodle",
+            "large": "mule"
+        },
+        "249": {
+            "input": "goldendoodle, manatee",
+            "output": "manatee",
+            "small": "goldendoodle",
+            "large": "manatee"
+        },
+        "250": {
+            "input": "sturgeon, goldendoodle",
+            "output": "sturgeon",
+            "small": "goldendoodle",
+            "large": "sturgeon"
+        },
+        "251": {
+            "input": "goldendoodle, camel",
+            "output": "camel",
+            "small": "goldendoodle",
+            "large": "camel"
+        },
+        "252": {
+            "input": "elk, goldendoodle",
+            "output": "elk",
+            "small": "goldendoodle",
+            "large": "elk"
+        },
+        "253": {
+            "input": "horse, goldendoodle",
+            "output": "horse",
+            "small": "goldendoodle",
+            "large": "horse"
+        },
+        "254": {
+            "input": "goldendoodle, cattle",
+            "output": "cattle",
+            "small": "goldendoodle",
+            "large": "cattle"
+        },
+        "255": {
+            "input": "shark, goldendoodle",
+            "output": "shark",
+            "small": "goldendoodle",
+            "large": "shark"
+        },
+        "256": {
+            "input": "elephant, goldendoodle",
+            "output": "elephant",
+            "small": "goldendoodle",
+            "large": "elephant"
+        },
+        "257": {
+            "input": "giraffe, goldendoodle",
+            "output": "giraffe",
+            "small": "goldendoodle",
+            "large": "giraffe"
+        },
+        "258": {
+            "input": "goldendoodle, moose",
+            "output": "moose",
+            "small": "goldendoodle",
+            "large": "moose"
+        },
+        "259": {
+            "input": "crocodile, goldendoodle",
+            "output": "crocodile",
+            "small": "goldendoodle",
+            "large": "crocodile"
+        },
+        "260": {
+            "input": "liger, goldendoodle",
+            "output": "liger",
+            "small": "goldendoodle",
+            "large": "liger"
+        },
+        "261": {
+            "input": "grizzly bear, goldendoodle",
+            "output": "grizzly bear",
+            "small": "goldendoodle",
+            "large": "grizzly bear"
+        },
+        "262": {
+            "input": "hippopotamus, goldendoodle",
+            "output": "hippopotamus",
+            "small": "goldendoodle",
+            "large": "hippopotamus"
+        },
+        "263": {
+            "input": "goldendoodle, whale shark",
+            "output": "whale shark",
+            "small": "goldendoodle",
+            "large": "whale shark"
+        },
+        "264": {
+            "input": "goldendoodle, killer whale",
+            "output": "killer whale",
+            "small": "goldendoodle",
+            "large": "killer whale"
+        },
+        "265": {
+            "input": "goldendoodle, great white shark",
+            "output": "great white shark",
+            "small": "goldendoodle",
+            "large": "great white shark"
+        },
+        "266": {
+            "input": "goldendoodle, sperm whale",
+            "output": "sperm whale",
+            "small": "goldendoodle",
+            "large": "sperm whale"
+        },
+        "267": {
+            "input": "polar bear, goldendoodle",
+            "output": "polar bear",
+            "small": "goldendoodle",
+            "large": "polar bear"
+        },
+        "268": {
+            "input": "elephant, goldendoodle",
+            "output": "elephant",
+            "small": "goldendoodle",
+            "large": "elephant"
+        },
+        "269": {
+            "input": "collie, chamois",
+            "output": "chamois",
+            "small": "collie",
+            "large": "chamois"
+        },
+        "270": {
+            "input": "chinook, collie",
+            "output": "chinook",
+            "small": "collie",
+            "large": "chinook"
+        },
+        "271": {
+            "input": "human, collie",
+            "output": "human",
+            "small": "collie",
+            "large": "human"
+        },
+        "272": {
+            "input": "collie, octopus",
+            "output": "octopus",
+            "small": "collie",
+            "large": "octopus"
+        },
+        "273": {
+            "input": "collie, alpaca",
+            "output": "alpaca",
+            "small": "collie",
+            "large": "alpaca"
+        },
+        "274": {
+            "input": "donkey, collie",
+            "output": "donkey",
+            "small": "collie",
+            "large": "donkey"
+        },
+        "275": {
+            "input": "collie, pit bull",
+            "output": "pit bull",
+            "small": "collie",
+            "large": "pit bull"
+        },
+        "276": {
+            "input": "collie, bulldog",
+            "output": "bulldog",
+            "small": "collie",
+            "large": "bulldog"
+        },
+        "277": {
+            "input": "collie, goat",
+            "output": "goat",
+            "small": "collie",
+            "large": "goat"
+        },
+        "278": {
+            "input": "collie, greyhound",
+            "output": "greyhound",
+            "small": "collie",
+            "large": "greyhound"
+        },
+        "279": {
+            "input": "collie, wombat",
+            "output": "wombat",
+            "small": "collie",
+            "large": "wombat"
+        },
+        "280": {
+            "input": "golden retriever, collie",
+            "output": "golden retriever",
+            "small": "collie",
+            "large": "golden retriever"
+        },
+        "281": {
+            "input": "leopard, collie",
+            "output": "leopard",
+            "small": "collie",
+            "large": "leopard"
+        },
+        "282": {
+            "input": "collie, capybara",
+            "output": "capybara",
+            "small": "collie",
+            "large": "capybara"
+        },
+        "283": {
+            "input": "collie, boxer",
+            "output": "boxer",
+            "small": "collie",
+            "large": "boxer"
+        },
+        "284": {
+            "input": "collie, chimpanzee",
+            "output": "chimpanzee",
+            "small": "collie",
+            "large": "chimpanzee"
+        },
+        "285": {
+            "input": "cougar, collie",
+            "output": "cougar",
+            "small": "collie",
+            "large": "cougar"
+        },
+        "286": {
+            "input": "collie, tortoise",
+            "output": "tortoise",
+            "small": "collie",
+            "large": "tortoise"
+        },
+        "287": {
+            "input": "collie, deer",
+            "output": "deer",
+            "small": "collie",
+            "large": "deer"
+        },
+        "288": {
+            "input": "wolf, collie",
+            "output": "wolf",
+            "small": "collie",
+            "large": "wolf"
+        },
+        "289": {
+            "input": "collie, cheetah",
+            "output": "cheetah",
+            "small": "collie",
+            "large": "cheetah"
+        },
+        "290": {
+            "input": "turtle, collie",
+            "output": "turtle",
+            "small": "collie",
+            "large": "turtle"
+        },
+        "291": {
+            "input": "collie, orangutan",
+            "output": "orangutan",
+            "small": "collie",
+            "large": "orangutan"
+        },
+        "292": {
+            "input": "wild boar, collie",
+            "output": "wild boar",
+            "small": "collie",
+            "large": "wild boar"
+        },
+        "293": {
+            "input": "bull shark, collie",
+            "output": "bull shark",
+            "small": "collie",
+            "large": "bull shark"
+        },
+        "294": {
+            "input": "llama, collie",
+            "output": "llama",
+            "small": "collie",
+            "large": "llama"
+        },
+        "295": {
+            "input": "bear, collie",
+            "output": "bear",
+            "small": "collie",
+            "large": "bear"
+        },
+        "296": {
+            "input": "pony, collie",
+            "output": "pony",
+            "small": "collie",
+            "large": "pony"
+        },
+        "297": {
+            "input": "collie, tiger",
+            "output": "tiger",
+            "small": "collie",
+            "large": "tiger"
+        },
+        "298": {
+            "input": "sea lion, collie",
+            "output": "sea lion",
+            "small": "collie",
+            "large": "sea lion"
+        },
+        "299": {
+            "input": "collie, jaguar",
+            "output": "jaguar",
+            "small": "collie",
+            "large": "jaguar"
+        },
+        "300": {
+            "input": "lion, collie",
+            "output": "lion",
+            "small": "collie",
+            "large": "lion"
+        },
+        "301": {
+            "input": "wildebeest, collie",
+            "output": "wildebeest",
+            "small": "collie",
+            "large": "wildebeest"
+        },
+        "302": {
+            "input": "collie, tuna",
+            "output": "tuna",
+            "small": "collie",
+            "large": "tuna"
+        },
+        "303": {
+            "input": "gorilla, collie",
+            "output": "gorilla",
+            "small": "collie",
+            "large": "gorilla"
+        },
+        "304": {
+            "input": "mule, collie",
+            "output": "mule",
+            "small": "collie",
+            "large": "mule"
+        },
+        "305": {
+            "input": "collie, manatee",
+            "output": "manatee",
+            "small": "collie",
+            "large": "manatee"
+        },
+        "306": {
+            "input": "collie, sturgeon",
+            "output": "sturgeon",
+            "small": "collie",
+            "large": "sturgeon"
+        },
+        "307": {
+            "input": "collie, camel",
+            "output": "camel",
+            "small": "collie",
+            "large": "camel"
+        },
+        "308": {
+            "input": "elk, collie",
+            "output": "elk",
+            "small": "collie",
+            "large": "elk"
+        },
+        "309": {
+            "input": "collie, horse",
+            "output": "horse",
+            "small": "collie",
+            "large": "horse"
+        },
+        "310": {
+            "input": "cattle, collie",
+            "output": "cattle",
+            "small": "collie",
+            "large": "cattle"
+        },
+        "311": {
+            "input": "shark, collie",
+            "output": "shark",
+            "small": "collie",
+            "large": "shark"
+        },
+        "312": {
+            "input": "elephant, collie",
+            "output": "elephant",
+            "small": "collie",
+            "large": "elephant"
+        },
+        "313": {
+            "input": "giraffe, collie",
+            "output": "giraffe",
+            "small": "collie",
+            "large": "giraffe"
+        },
+        "314": {
+            "input": "collie, moose",
+            "output": "moose",
+            "small": "collie",
+            "large": "moose"
+        },
+        "315": {
+            "input": "collie, crocodile",
+            "output": "crocodile",
+            "small": "collie",
+            "large": "crocodile"
+        },
+        "316": {
+            "input": "collie, liger",
+            "output": "liger",
+            "small": "collie",
+            "large": "liger"
+        },
+        "317": {
+            "input": "grizzly bear, collie",
+            "output": "grizzly bear",
+            "small": "collie",
+            "large": "grizzly bear"
+        },
+        "318": {
+            "input": "hippopotamus, collie",
+            "output": "hippopotamus",
+            "small": "collie",
+            "large": "hippopotamus"
+        },
+        "319": {
+            "input": "whale shark, collie",
+            "output": "whale shark",
+            "small": "collie",
+            "large": "whale shark"
+        },
+        "320": {
+            "input": "collie, killer whale",
+            "output": "killer whale",
+            "small": "collie",
+            "large": "killer whale"
+        },
+        "321": {
+            "input": "collie, great white shark",
+            "output": "great white shark",
+            "small": "collie",
+            "large": "great white shark"
+        },
+        "322": {
+            "input": "collie, sperm whale",
+            "output": "sperm whale",
+            "small": "collie",
+            "large": "sperm whale"
+        },
+        "323": {
+            "input": "collie, polar bear",
+            "output": "polar bear",
+            "small": "collie",
+            "large": "polar bear"
+        },
+        "324": {
+            "input": "collie, elephant",
+            "output": "elephant",
+            "small": "collie",
+            "large": "elephant"
+        },
+        "325": {
+            "input": "chamois, coyote",
+            "output": "chamois",
+            "small": "coyote",
+            "large": "chamois"
+        },
+        "326": {
+            "input": "chinook, coyote",
+            "output": "chinook",
+            "small": "coyote",
+            "large": "chinook"
+        },
+        "327": {
+            "input": "coyote, human",
+            "output": "human",
+            "small": "coyote",
+            "large": "human"
+        },
+        "328": {
+            "input": "coyote, octopus",
+            "output": "octopus",
+            "small": "coyote",
+            "large": "octopus"
+        },
+        "329": {
+            "input": "alpaca, coyote",
+            "output": "alpaca",
+            "small": "coyote",
+            "large": "alpaca"
+        },
+        "330": {
+            "input": "coyote, donkey",
+            "output": "donkey",
+            "small": "coyote",
+            "large": "donkey"
+        },
+        "331": {
+            "input": "pit bull, coyote",
+            "output": "pit bull",
+            "small": "coyote",
+            "large": "pit bull"
+        },
+        "332": {
+            "input": "coyote, bulldog",
+            "output": "bulldog",
+            "small": "coyote",
+            "large": "bulldog"
+        },
+        "333": {
+            "input": "goat, coyote",
+            "output": "goat",
+            "small": "coyote",
+            "large": "goat"
+        },
+        "334": {
+            "input": "coyote, greyhound",
+            "output": "greyhound",
+            "small": "coyote",
+            "large": "greyhound"
+        },
+        "335": {
+            "input": "coyote, wombat",
+            "output": "wombat",
+            "small": "coyote",
+            "large": "wombat"
+        },
+        "336": {
+            "input": "golden retriever, coyote",
+            "output": "golden retriever",
+            "small": "coyote",
+            "large": "golden retriever"
+        },
+        "337": {
+            "input": "coyote, leopard",
+            "output": "leopard",
+            "small": "coyote",
+            "large": "leopard"
+        },
+        "338": {
+            "input": "coyote, capybara",
+            "output": "capybara",
+            "small": "coyote",
+            "large": "capybara"
+        },
+        "339": {
+            "input": "coyote, boxer",
+            "output": "boxer",
+            "small": "coyote",
+            "large": "boxer"
+        },
+        "340": {
+            "input": "chimpanzee, coyote",
+            "output": "chimpanzee",
+            "small": "coyote",
+            "large": "chimpanzee"
+        },
+        "341": {
+            "input": "coyote, cougar",
+            "output": "cougar",
+            "small": "coyote",
+            "large": "cougar"
+        },
+        "342": {
+            "input": "tortoise, coyote",
+            "output": "tortoise",
+            "small": "coyote",
+            "large": "tortoise"
+        },
+        "343": {
+            "input": "coyote, deer",
+            "output": "deer",
+            "small": "coyote",
+            "large": "deer"
+        },
+        "344": {
+            "input": "wolf, coyote",
+            "output": "wolf",
+            "small": "coyote",
+            "large": "wolf"
+        },
+        "345": {
+            "input": "coyote, cheetah",
+            "output": "cheetah",
+            "small": "coyote",
+            "large": "cheetah"
+        },
+        "346": {
+            "input": "coyote, turtle",
+            "output": "turtle",
+            "small": "coyote",
+            "large": "turtle"
+        },
+        "347": {
+            "input": "coyote, orangutan",
+            "output": "orangutan",
+            "small": "coyote",
+            "large": "orangutan"
+        },
+        "348": {
+            "input": "coyote, wild boar",
+            "output": "wild boar",
+            "small": "coyote",
+            "large": "wild boar"
+        },
+        "349": {
+            "input": "coyote, bull shark",
+            "output": "bull shark",
+            "small": "coyote",
+            "large": "bull shark"
+        },
+        "350": {
+            "input": "coyote, llama",
+            "output": "llama",
+            "small": "coyote",
+            "large": "llama"
+        },
+        "351": {
+            "input": "bear, coyote",
+            "output": "bear",
+            "small": "coyote",
+            "large": "bear"
+        },
+        "352": {
+            "input": "pony, coyote",
+            "output": "pony",
+            "small": "coyote",
+            "large": "pony"
+        },
+        "353": {
+            "input": "coyote, tiger",
+            "output": "tiger",
+            "small": "coyote",
+            "large": "tiger"
+        },
+        "354": {
+            "input": "sea lion, coyote",
+            "output": "sea lion",
+            "small": "coyote",
+            "large": "sea lion"
+        },
+        "355": {
+            "input": "coyote, jaguar",
+            "output": "jaguar",
+            "small": "coyote",
+            "large": "jaguar"
+        },
+        "356": {
+            "input": "lion, coyote",
+            "output": "lion",
+            "small": "coyote",
+            "large": "lion"
+        },
+        "357": {
+            "input": "wildebeest, coyote",
+            "output": "wildebeest",
+            "small": "coyote",
+            "large": "wildebeest"
+        },
+        "358": {
+            "input": "coyote, tuna",
+            "output": "tuna",
+            "small": "coyote",
+            "large": "tuna"
+        },
+        "359": {
+            "input": "gorilla, coyote",
+            "output": "gorilla",
+            "small": "coyote",
+            "large": "gorilla"
+        },
+        "360": {
+            "input": "coyote, mule",
+            "output": "mule",
+            "small": "coyote",
+            "large": "mule"
+        },
+        "361": {
+            "input": "coyote, manatee",
+            "output": "manatee",
+            "small": "coyote",
+            "large": "manatee"
+        },
+        "362": {
+            "input": "sturgeon, coyote",
+            "output": "sturgeon",
+            "small": "coyote",
+            "large": "sturgeon"
+        },
+        "363": {
+            "input": "coyote, camel",
+            "output": "camel",
+            "small": "coyote",
+            "large": "camel"
+        },
+        "364": {
+            "input": "elk, coyote",
+            "output": "elk",
+            "small": "coyote",
+            "large": "elk"
+        },
+        "365": {
+            "input": "horse, coyote",
+            "output": "horse",
+            "small": "coyote",
+            "large": "horse"
+        },
+        "366": {
+            "input": "coyote, cattle",
+            "output": "cattle",
+            "small": "coyote",
+            "large": "cattle"
+        },
+        "367": {
+            "input": "coyote, shark",
+            "output": "shark",
+            "small": "coyote",
+            "large": "shark"
+        },
+        "368": {
+            "input": "coyote, elephant",
+            "output": "elephant",
+            "small": "coyote",
+            "large": "elephant"
+        },
+        "369": {
+            "input": "giraffe, coyote",
+            "output": "giraffe",
+            "small": "coyote",
+            "large": "giraffe"
+        },
+        "370": {
+            "input": "coyote, moose",
+            "output": "moose",
+            "small": "coyote",
+            "large": "moose"
+        },
+        "371": {
+            "input": "crocodile, coyote",
+            "output": "crocodile",
+            "small": "coyote",
+            "large": "crocodile"
+        },
+        "372": {
+            "input": "liger, coyote",
+            "output": "liger",
+            "small": "coyote",
+            "large": "liger"
+        },
+        "373": {
+            "input": "coyote, grizzly bear",
+            "output": "grizzly bear",
+            "small": "coyote",
+            "large": "grizzly bear"
+        },
+        "374": {
+            "input": "hippopotamus, coyote",
+            "output": "hippopotamus",
+            "small": "coyote",
+            "large": "hippopotamus"
+        },
+        "375": {
+            "input": "coyote, whale shark",
+            "output": "whale shark",
+            "small": "coyote",
+            "large": "whale shark"
+        },
+        "376": {
+            "input": "killer whale, coyote",
+            "output": "killer whale",
+            "small": "coyote",
+            "large": "killer whale"
+        },
+        "377": {
+            "input": "great white shark, coyote",
+            "output": "great white shark",
+            "small": "coyote",
+            "large": "great white shark"
+        },
+        "378": {
+            "input": "coyote, sperm whale",
+            "output": "sperm whale",
+            "small": "coyote",
+            "large": "sperm whale"
+        },
+        "379": {
+            "input": "polar bear, coyote",
+            "output": "polar bear",
+            "small": "coyote",
+            "large": "polar bear"
+        },
+        "380": {
+            "input": "coyote, elephant",
+            "output": "elephant",
+            "small": "coyote",
+            "large": "elephant"
+        },
+        "381": {
+            "input": "chamois, dog",
+            "output": "chamois",
+            "small": "dog",
+            "large": "chamois"
+        },
+        "382": {
+            "input": "dog, chinook",
+            "output": "chinook",
+            "small": "dog",
+            "large": "chinook"
+        },
+        "383": {
+            "input": "dog, human",
+            "output": "human",
+            "small": "dog",
+            "large": "human"
+        },
+        "384": {
+            "input": "dog, octopus",
+            "output": "octopus",
+            "small": "dog",
+            "large": "octopus"
+        },
+        "385": {
+            "input": "dog, alpaca",
+            "output": "alpaca",
+            "small": "dog",
+            "large": "alpaca"
+        },
+        "386": {
+            "input": "dog, donkey",
+            "output": "donkey",
+            "small": "dog",
+            "large": "donkey"
+        },
+        "387": {
+            "input": "dog, pit bull",
+            "output": "pit bull",
+            "small": "dog",
+            "large": "pit bull"
+        },
+        "388": {
+            "input": "bulldog, dog",
+            "output": "bulldog",
+            "small": "dog",
+            "large": "bulldog"
+        },
+        "389": {
+            "input": "goat, dog",
+            "output": "goat",
+            "small": "dog",
+            "large": "goat"
+        },
+        "390": {
+            "input": "dog, greyhound",
+            "output": "greyhound",
+            "small": "dog",
+            "large": "greyhound"
+        },
+        "391": {
+            "input": "wombat, dog",
+            "output": "wombat",
+            "small": "dog",
+            "large": "wombat"
+        },
+        "392": {
+            "input": "golden retriever, dog",
+            "output": "golden retriever",
+            "small": "dog",
+            "large": "golden retriever"
+        },
+        "393": {
+            "input": "leopard, dog",
+            "output": "leopard",
+            "small": "dog",
+            "large": "leopard"
+        },
+        "394": {
+            "input": "capybara, dog",
+            "output": "capybara",
+            "small": "dog",
+            "large": "capybara"
+        },
+        "395": {
+            "input": "dog, boxer",
+            "output": "boxer",
+            "small": "dog",
+            "large": "boxer"
+        },
+        "396": {
+            "input": "dog, chimpanzee",
+            "output": "chimpanzee",
+            "small": "dog",
+            "large": "chimpanzee"
+        },
+        "397": {
+            "input": "dog, cougar",
+            "output": "cougar",
+            "small": "dog",
+            "large": "cougar"
+        },
+        "398": {
+            "input": "tortoise, dog",
+            "output": "tortoise",
+            "small": "dog",
+            "large": "tortoise"
+        },
+        "399": {
+            "input": "dog, deer",
+            "output": "deer",
+            "small": "dog",
+            "large": "deer"
+        },
+        "400": {
+            "input": "dog, wolf",
+            "output": "wolf",
+            "small": "dog",
+            "large": "wolf"
+        },
+        "401": {
+            "input": "cheetah, dog",
+            "output": "cheetah",
+            "small": "dog",
+            "large": "cheetah"
+        },
+        "402": {
+            "input": "dog, turtle",
+            "output": "turtle",
+            "small": "dog",
+            "large": "turtle"
+        },
+        "403": {
+            "input": "orangutan, dog",
+            "output": "orangutan",
+            "small": "dog",
+            "large": "orangutan"
+        },
+        "404": {
+            "input": "wild boar, dog",
+            "output": "wild boar",
+            "small": "dog",
+            "large": "wild boar"
+        },
+        "405": {
+            "input": "bull shark, dog",
+            "output": "bull shark",
+            "small": "dog",
+            "large": "bull shark"
+        },
+        "406": {
+            "input": "dog, llama",
+            "output": "llama",
+            "small": "dog",
+            "large": "llama"
+        },
+        "407": {
+            "input": "bear, dog",
+            "output": "bear",
+            "small": "dog",
+            "large": "bear"
+        },
+        "408": {
+            "input": "pony, dog",
+            "output": "pony",
+            "small": "dog",
+            "large": "pony"
+        },
+        "409": {
+            "input": "dog, tiger",
+            "output": "tiger",
+            "small": "dog",
+            "large": "tiger"
+        },
+        "410": {
+            "input": "sea lion, dog",
+            "output": "sea lion",
+            "small": "dog",
+            "large": "sea lion"
+        },
+        "411": {
+            "input": "jaguar, dog",
+            "output": "jaguar",
+            "small": "dog",
+            "large": "jaguar"
+        },
+        "412": {
+            "input": "lion, dog",
+            "output": "lion",
+            "small": "dog",
+            "large": "lion"
+        },
+        "413": {
+            "input": "dog, wildebeest",
+            "output": "wildebeest",
+            "small": "dog",
+            "large": "wildebeest"
+        },
+        "414": {
+            "input": "tuna, dog",
+            "output": "tuna",
+            "small": "dog",
+            "large": "tuna"
+        },
+        "415": {
+            "input": "gorilla, dog",
+            "output": "gorilla",
+            "small": "dog",
+            "large": "gorilla"
+        },
+        "416": {
+            "input": "mule, dog",
+            "output": "mule",
+            "small": "dog",
+            "large": "mule"
+        },
+        "417": {
+            "input": "dog, manatee",
+            "output": "manatee",
+            "small": "dog",
+            "large": "manatee"
+        },
+        "418": {
+            "input": "dog, sturgeon",
+            "output": "sturgeon",
+            "small": "dog",
+            "large": "sturgeon"
+        },
+        "419": {
+            "input": "dog, camel",
+            "output": "camel",
+            "small": "dog",
+            "large": "camel"
+        },
+        "420": {
+            "input": "elk, dog",
+            "output": "elk",
+            "small": "dog",
+            "large": "elk"
+        },
+        "421": {
+            "input": "dog, horse",
+            "output": "horse",
+            "small": "dog",
+            "large": "horse"
+        },
+        "422": {
+            "input": "dog, cattle",
+            "output": "cattle",
+            "small": "dog",
+            "large": "cattle"
+        },
+        "423": {
+            "input": "shark, dog",
+            "output": "shark",
+            "small": "dog",
+            "large": "shark"
+        },
+        "424": {
+            "input": "dog, elephant",
+            "output": "elephant",
+            "small": "dog",
+            "large": "elephant"
+        },
+        "425": {
+            "input": "dog, giraffe",
+            "output": "giraffe",
+            "small": "dog",
+            "large": "giraffe"
+        },
+        "426": {
+            "input": "dog, moose",
+            "output": "moose",
+            "small": "dog",
+            "large": "moose"
+        },
+        "427": {
+            "input": "dog, crocodile",
+            "output": "crocodile",
+            "small": "dog",
+            "large": "crocodile"
+        },
+        "428": {
+            "input": "dog, liger",
+            "output": "liger",
+            "small": "dog",
+            "large": "liger"
+        },
+        "429": {
+            "input": "dog, grizzly bear",
+            "output": "grizzly bear",
+            "small": "dog",
+            "large": "grizzly bear"
+        },
+        "430": {
+            "input": "dog, hippopotamus",
+            "output": "hippopotamus",
+            "small": "dog",
+            "large": "hippopotamus"
+        },
+        "431": {
+            "input": "whale shark, dog",
+            "output": "whale shark",
+            "small": "dog",
+            "large": "whale shark"
+        },
+        "432": {
+            "input": "dog, killer whale",
+            "output": "killer whale",
+            "small": "dog",
+            "large": "killer whale"
+        },
+        "433": {
+            "input": "dog, great white shark",
+            "output": "great white shark",
+            "small": "dog",
+            "large": "great white shark"
+        },
+        "434": {
+            "input": "dog, sperm whale",
+            "output": "sperm whale",
+            "small": "dog",
+            "large": "sperm whale"
+        },
+        "435": {
+            "input": "polar bear, dog",
+            "output": "polar bear",
+            "small": "dog",
+            "large": "polar bear"
+        },
+        "436": {
+            "input": "elephant, dog",
+            "output": "elephant",
+            "small": "dog",
+            "large": "elephant"
+        },
+        "437": {
+            "input": "chamois, human",
+            "output": "human",
+            "small": "chamois",
+            "large": "human"
+        },
+        "438": {
+            "input": "chamois, wild boar",
+            "output": "wild boar",
+            "small": "chamois",
+            "large": "wild boar"
+        },
+        "439": {
+            "input": "bull shark, chamois",
+            "output": "bull shark",
+            "small": "chamois",
+            "large": "bull shark"
+        },
+        "440": {
+            "input": "chamois, llama",
+            "output": "llama",
+            "small": "chamois",
+            "large": "llama"
+        },
+        "441": {
+            "input": "bear, chamois",
+            "output": "bear",
+            "small": "chamois",
+            "large": "bear"
+        },
+        "442": {
+            "input": "pony, chamois",
+            "output": "pony",
+            "small": "chamois",
+            "large": "pony"
+        },
+        "443": {
+            "input": "chamois, tiger",
+            "output": "tiger",
+            "small": "chamois",
+            "large": "tiger"
+        },
+        "444": {
+            "input": "sea lion, chamois",
+            "output": "sea lion",
+            "small": "chamois",
+            "large": "sea lion"
+        },
+        "445": {
+            "input": "chamois, jaguar",
+            "output": "jaguar",
+            "small": "chamois",
+            "large": "jaguar"
+        },
+        "446": {
+            "input": "lion, chamois",
+            "output": "lion",
+            "small": "chamois",
+            "large": "lion"
+        },
+        "447": {
+            "input": "wildebeest, chamois",
+            "output": "wildebeest",
+            "small": "chamois",
+            "large": "wildebeest"
+        },
+        "448": {
+            "input": "chamois, tuna",
+            "output": "tuna",
+            "small": "chamois",
+            "large": "tuna"
+        },
+        "449": {
+            "input": "chamois, gorilla",
+            "output": "gorilla",
+            "small": "chamois",
+            "large": "gorilla"
+        },
+        "450": {
+            "input": "chamois, mule",
+            "output": "mule",
+            "small": "chamois",
+            "large": "mule"
+        },
+        "451": {
+            "input": "manatee, chamois",
+            "output": "manatee",
+            "small": "chamois",
+            "large": "manatee"
+        },
+        "452": {
+            "input": "sturgeon, chamois",
+            "output": "sturgeon",
+            "small": "chamois",
+            "large": "sturgeon"
+        },
+        "453": {
+            "input": "camel, chamois",
+            "output": "camel",
+            "small": "chamois",
+            "large": "camel"
+        },
+        "454": {
+            "input": "elk, chamois",
+            "output": "elk",
+            "small": "chamois",
+            "large": "elk"
+        },
+        "455": {
+            "input": "horse, chamois",
+            "output": "horse",
+            "small": "chamois",
+            "large": "horse"
+        },
+        "456": {
+            "input": "chamois, cattle",
+            "output": "cattle",
+            "small": "chamois",
+            "large": "cattle"
+        },
+        "457": {
+            "input": "shark, chamois",
+            "output": "shark",
+            "small": "chamois",
+            "large": "shark"
+        },
+        "458": {
+            "input": "chamois, elephant",
+            "output": "elephant",
+            "small": "chamois",
+            "large": "elephant"
+        },
+        "459": {
+            "input": "chamois, giraffe",
+            "output": "giraffe",
+            "small": "chamois",
+            "large": "giraffe"
+        },
+        "460": {
+            "input": "chamois, moose",
+            "output": "moose",
+            "small": "chamois",
+            "large": "moose"
+        },
+        "461": {
+            "input": "crocodile, chamois",
+            "output": "crocodile",
+            "small": "chamois",
+            "large": "crocodile"
+        },
+        "462": {
+            "input": "liger, chamois",
+            "output": "liger",
+            "small": "chamois",
+            "large": "liger"
+        },
+        "463": {
+            "input": "chamois, grizzly bear",
+            "output": "grizzly bear",
+            "small": "chamois",
+            "large": "grizzly bear"
+        },
+        "464": {
+            "input": "hippopotamus, chamois",
+            "output": "hippopotamus",
+            "small": "chamois",
+            "large": "hippopotamus"
+        },
+        "465": {
+            "input": "whale shark, chamois",
+            "output": "whale shark",
+            "small": "chamois",
+            "large": "whale shark"
+        },
+        "466": {
+            "input": "killer whale, chamois",
+            "output": "killer whale",
+            "small": "chamois",
+            "large": "killer whale"
+        },
+        "467": {
+            "input": "great white shark, chamois",
+            "output": "great white shark",
+            "small": "chamois",
+            "large": "great white shark"
+        },
+        "468": {
+            "input": "sperm whale, chamois",
+            "output": "sperm whale",
+            "small": "chamois",
+            "large": "sperm whale"
+        },
+        "469": {
+            "input": "chamois, polar bear",
+            "output": "polar bear",
+            "small": "chamois",
+            "large": "polar bear"
+        },
+        "470": {
+            "input": "elephant, chamois",
+            "output": "elephant",
+            "small": "chamois",
+            "large": "elephant"
+        },
+        "471": {
+            "input": "human, chinook",
+            "output": "human",
+            "small": "chinook",
+            "large": "human"
+        },
+        "472": {
+            "input": "chinook, wild boar",
+            "output": "wild boar",
+            "small": "chinook",
+            "large": "wild boar"
+        },
+        "473": {
+            "input": "bull shark, chinook",
+            "output": "bull shark",
+            "small": "chinook",
+            "large": "bull shark"
+        },
+        "474": {
+            "input": "chinook, llama",
+            "output": "llama",
+            "small": "chinook",
+            "large": "llama"
+        },
+        "475": {
+            "input": "chinook, bear",
+            "output": "bear",
+            "small": "chinook",
+            "large": "bear"
+        },
+        "476": {
+            "input": "chinook, pony",
+            "output": "pony",
+            "small": "chinook",
+            "large": "pony"
+        },
+        "477": {
+            "input": "tiger, chinook",
+            "output": "tiger",
+            "small": "chinook",
+            "large": "tiger"
+        },
+        "478": {
+            "input": "chinook, sea lion",
+            "output": "sea lion",
+            "small": "chinook",
+            "large": "sea lion"
+        },
+        "479": {
+            "input": "chinook, jaguar",
+            "output": "jaguar",
+            "small": "chinook",
+            "large": "jaguar"
+        },
+        "480": {
+            "input": "lion, chinook",
+            "output": "lion",
+            "small": "chinook",
+            "large": "lion"
+        },
+        "481": {
+            "input": "chinook, wildebeest",
+            "output": "wildebeest",
+            "small": "chinook",
+            "large": "wildebeest"
+        },
+        "482": {
+            "input": "tuna, chinook",
+            "output": "tuna",
+            "small": "chinook",
+            "large": "tuna"
+        },
+        "483": {
+            "input": "gorilla, chinook",
+            "output": "gorilla",
+            "small": "chinook",
+            "large": "gorilla"
+        },
+        "484": {
+            "input": "mule, chinook",
+            "output": "mule",
+            "small": "chinook",
+            "large": "mule"
+        },
+        "485": {
+            "input": "manatee, chinook",
+            "output": "manatee",
+            "small": "chinook",
+            "large": "manatee"
+        },
+        "486": {
+            "input": "chinook, sturgeon",
+            "output": "sturgeon",
+            "small": "chinook",
+            "large": "sturgeon"
+        },
+        "487": {
+            "input": "chinook, camel",
+            "output": "camel",
+            "small": "chinook",
+            "large": "camel"
+        },
+        "488": {
+            "input": "chinook, elk",
+            "output": "elk",
+            "small": "chinook",
+            "large": "elk"
+        },
+        "489": {
+            "input": "chinook, horse",
+            "output": "horse",
+            "small": "chinook",
+            "large": "horse"
+        },
+        "490": {
+            "input": "chinook, cattle",
+            "output": "cattle",
+            "small": "chinook",
+            "large": "cattle"
+        },
+        "491": {
+            "input": "chinook, shark",
+            "output": "shark",
+            "small": "chinook",
+            "large": "shark"
+        },
+        "492": {
+            "input": "chinook, elephant",
+            "output": "elephant",
+            "small": "chinook",
+            "large": "elephant"
+        },
+        "493": {
+            "input": "giraffe, chinook",
+            "output": "giraffe",
+            "small": "chinook",
+            "large": "giraffe"
+        },
+        "494": {
+            "input": "chinook, moose",
+            "output": "moose",
+            "small": "chinook",
+            "large": "moose"
+        },
+        "495": {
+            "input": "chinook, crocodile",
+            "output": "crocodile",
+            "small": "chinook",
+            "large": "crocodile"
+        },
+        "496": {
+            "input": "chinook, liger",
+            "output": "liger",
+            "small": "chinook",
+            "large": "liger"
+        },
+        "497": {
+            "input": "grizzly bear, chinook",
+            "output": "grizzly bear",
+            "small": "chinook",
+            "large": "grizzly bear"
+        },
+        "498": {
+            "input": "hippopotamus, chinook",
+            "output": "hippopotamus",
+            "small": "chinook",
+            "large": "hippopotamus"
+        },
+        "499": {
+            "input": "chinook, whale shark",
+            "output": "whale shark",
+            "small": "chinook",
+            "large": "whale shark"
+        },
+        "500": {
+            "input": "killer whale, chinook",
+            "output": "killer whale",
+            "small": "chinook",
+            "large": "killer whale"
+        },
+        "501": {
+            "input": "great white shark, chinook",
+            "output": "great white shark",
+            "small": "chinook",
+            "large": "great white shark"
+        },
+        "502": {
+            "input": "sperm whale, chinook",
+            "output": "sperm whale",
+            "small": "chinook",
+            "large": "sperm whale"
+        },
+        "503": {
+            "input": "polar bear, chinook",
+            "output": "polar bear",
+            "small": "chinook",
+            "large": "polar bear"
+        },
+        "504": {
+            "input": "chinook, elephant",
+            "output": "elephant",
+            "small": "chinook",
+            "large": "elephant"
+        },
+        "505": {
+            "input": "octopus, human",
+            "output": "human",
+            "small": "octopus",
+            "large": "human"
+        },
+        "506": {
+            "input": "wild boar, octopus",
+            "output": "wild boar",
+            "small": "octopus",
+            "large": "wild boar"
+        },
+        "507": {
+            "input": "octopus, bull shark",
+            "output": "bull shark",
+            "small": "octopus",
+            "large": "bull shark"
+        },
+        "508": {
+            "input": "llama, octopus",
+            "output": "llama",
+            "small": "octopus",
+            "large": "llama"
+        },
+        "509": {
+            "input": "octopus, bear",
+            "output": "bear",
+            "small": "octopus",
+            "large": "bear"
+        },
+        "510": {
+            "input": "octopus, pony",
+            "output": "pony",
+            "small": "octopus",
+            "large": "pony"
+        },
+        "511": {
+            "input": "tiger, octopus",
+            "output": "tiger",
+            "small": "octopus",
+            "large": "tiger"
+        },
+        "512": {
+            "input": "octopus, sea lion",
+            "output": "sea lion",
+            "small": "octopus",
+            "large": "sea lion"
+        },
+        "513": {
+            "input": "octopus, jaguar",
+            "output": "jaguar",
+            "small": "octopus",
+            "large": "jaguar"
+        },
+        "514": {
+            "input": "lion, octopus",
+            "output": "lion",
+            "small": "octopus",
+            "large": "lion"
+        },
+        "515": {
+            "input": "wildebeest, octopus",
+            "output": "wildebeest",
+            "small": "octopus",
+            "large": "wildebeest"
+        },
+        "516": {
+            "input": "tuna, octopus",
+            "output": "tuna",
+            "small": "octopus",
+            "large": "tuna"
+        },
+        "517": {
+            "input": "octopus, gorilla",
+            "output": "gorilla",
+            "small": "octopus",
+            "large": "gorilla"
+        },
+        "518": {
+            "input": "mule, octopus",
+            "output": "mule",
+            "small": "octopus",
+            "large": "mule"
+        },
+        "519": {
+            "input": "manatee, octopus",
+            "output": "manatee",
+            "small": "octopus",
+            "large": "manatee"
+        },
+        "520": {
+            "input": "sturgeon, octopus",
+            "output": "sturgeon",
+            "small": "octopus",
+            "large": "sturgeon"
+        },
+        "521": {
+            "input": "octopus, camel",
+            "output": "camel",
+            "small": "octopus",
+            "large": "camel"
+        },
+        "522": {
+            "input": "elk, octopus",
+            "output": "elk",
+            "small": "octopus",
+            "large": "elk"
+        },
+        "523": {
+            "input": "octopus, horse",
+            "output": "horse",
+            "small": "octopus",
+            "large": "horse"
+        },
+        "524": {
+            "input": "octopus, cattle",
+            "output": "cattle",
+            "small": "octopus",
+            "large": "cattle"
+        },
+        "525": {
+            "input": "octopus, shark",
+            "output": "shark",
+            "small": "octopus",
+            "large": "shark"
+        },
+        "526": {
+            "input": "elephant, octopus",
+            "output": "elephant",
+            "small": "octopus",
+            "large": "elephant"
+        },
+        "527": {
+            "input": "octopus, giraffe",
+            "output": "giraffe",
+            "small": "octopus",
+            "large": "giraffe"
+        },
+        "528": {
+            "input": "octopus, moose",
+            "output": "moose",
+            "small": "octopus",
+            "large": "moose"
+        },
+        "529": {
+            "input": "crocodile, octopus",
+            "output": "crocodile",
+            "small": "octopus",
+            "large": "crocodile"
+        },
+        "530": {
+            "input": "octopus, liger",
+            "output": "liger",
+            "small": "octopus",
+            "large": "liger"
+        },
+        "531": {
+            "input": "grizzly bear, octopus",
+            "output": "grizzly bear",
+            "small": "octopus",
+            "large": "grizzly bear"
+        },
+        "532": {
+            "input": "octopus, hippopotamus",
+            "output": "hippopotamus",
+            "small": "octopus",
+            "large": "hippopotamus"
+        },
+        "533": {
+            "input": "octopus, whale shark",
+            "output": "whale shark",
+            "small": "octopus",
+            "large": "whale shark"
+        },
+        "534": {
+            "input": "killer whale, octopus",
+            "output": "killer whale",
+            "small": "octopus",
+            "large": "killer whale"
+        },
+        "535": {
+            "input": "great white shark, octopus",
+            "output": "great white shark",
+            "small": "octopus",
+            "large": "great white shark"
+        },
+        "536": {
+            "input": "octopus, sperm whale",
+            "output": "sperm whale",
+            "small": "octopus",
+            "large": "sperm whale"
+        },
+        "537": {
+            "input": "polar bear, octopus",
+            "output": "polar bear",
+            "small": "octopus",
+            "large": "polar bear"
+        },
+        "538": {
+            "input": "elephant, octopus",
+            "output": "elephant",
+            "small": "octopus",
+            "large": "elephant"
+        },
+        "539": {
+            "input": "human, alpaca",
+            "output": "human",
+            "small": "alpaca",
+            "large": "human"
+        },
+        "540": {
+            "input": "alpaca, wild boar",
+            "output": "wild boar",
+            "small": "alpaca",
+            "large": "wild boar"
+        },
+        "541": {
+            "input": "alpaca, bull shark",
+            "output": "bull shark",
+            "small": "alpaca",
+            "large": "bull shark"
+        },
+        "542": {
+            "input": "alpaca, llama",
+            "output": "llama",
+            "small": "alpaca",
+            "large": "llama"
+        },
+        "543": {
+            "input": "bear, alpaca",
+            "output": "bear",
+            "small": "alpaca",
+            "large": "bear"
+        },
+        "544": {
+            "input": "alpaca, pony",
+            "output": "pony",
+            "small": "alpaca",
+            "large": "pony"
+        },
+        "545": {
+            "input": "tiger, alpaca",
+            "output": "tiger",
+            "small": "alpaca",
+            "large": "tiger"
+        },
+        "546": {
+            "input": "alpaca, sea lion",
+            "output": "sea lion",
+            "small": "alpaca",
+            "large": "sea lion"
+        },
+        "547": {
+            "input": "jaguar, alpaca",
+            "output": "jaguar",
+            "small": "alpaca",
+            "large": "jaguar"
+        },
+        "548": {
+            "input": "lion, alpaca",
+            "output": "lion",
+            "small": "alpaca",
+            "large": "lion"
+        },
+        "549": {
+            "input": "wildebeest, alpaca",
+            "output": "wildebeest",
+            "small": "alpaca",
+            "large": "wildebeest"
+        },
+        "550": {
+            "input": "tuna, alpaca",
+            "output": "tuna",
+            "small": "alpaca",
+            "large": "tuna"
+        },
+        "551": {
+            "input": "gorilla, alpaca",
+            "output": "gorilla",
+            "small": "alpaca",
+            "large": "gorilla"
+        },
+        "552": {
+            "input": "mule, alpaca",
+            "output": "mule",
+            "small": "alpaca",
+            "large": "mule"
+        },
+        "553": {
+            "input": "manatee, alpaca",
+            "output": "manatee",
+            "small": "alpaca",
+            "large": "manatee"
+        },
+        "554": {
+            "input": "alpaca, sturgeon",
+            "output": "sturgeon",
+            "small": "alpaca",
+            "large": "sturgeon"
+        },
+        "555": {
+            "input": "camel, alpaca",
+            "output": "camel",
+            "small": "alpaca",
+            "large": "camel"
+        },
+        "556": {
+            "input": "elk, alpaca",
+            "output": "elk",
+            "small": "alpaca",
+            "large": "elk"
+        },
+        "557": {
+            "input": "horse, alpaca",
+            "output": "horse",
+            "small": "alpaca",
+            "large": "horse"
+        },
+        "558": {
+            "input": "cattle, alpaca",
+            "output": "cattle",
+            "small": "alpaca",
+            "large": "cattle"
+        },
+        "559": {
+            "input": "alpaca, shark",
+            "output": "shark",
+            "small": "alpaca",
+            "large": "shark"
+        },
+        "560": {
+            "input": "alpaca, elephant",
+            "output": "elephant",
+            "small": "alpaca",
+            "large": "elephant"
+        },
+        "561": {
+            "input": "alpaca, giraffe",
+            "output": "giraffe",
+            "small": "alpaca",
+            "large": "giraffe"
+        },
+        "562": {
+            "input": "moose, alpaca",
+            "output": "moose",
+            "small": "alpaca",
+            "large": "moose"
+        },
+        "563": {
+            "input": "alpaca, crocodile",
+            "output": "crocodile",
+            "small": "alpaca",
+            "large": "crocodile"
+        },
+        "564": {
+            "input": "alpaca, liger",
+            "output": "liger",
+            "small": "alpaca",
+            "large": "liger"
+        },
+        "565": {
+            "input": "grizzly bear, alpaca",
+            "output": "grizzly bear",
+            "small": "alpaca",
+            "large": "grizzly bear"
+        },
+        "566": {
+            "input": "alpaca, hippopotamus",
+            "output": "hippopotamus",
+            "small": "alpaca",
+            "large": "hippopotamus"
+        },
+        "567": {
+            "input": "alpaca, whale shark",
+            "output": "whale shark",
+            "small": "alpaca",
+            "large": "whale shark"
+        },
+        "568": {
+            "input": "alpaca, killer whale",
+            "output": "killer whale",
+            "small": "alpaca",
+            "large": "killer whale"
+        },
+        "569": {
+            "input": "alpaca, great white shark",
+            "output": "great white shark",
+            "small": "alpaca",
+            "large": "great white shark"
+        },
+        "570": {
+            "input": "alpaca, sperm whale",
+            "output": "sperm whale",
+            "small": "alpaca",
+            "large": "sperm whale"
+        },
+        "571": {
+            "input": "alpaca, polar bear",
+            "output": "polar bear",
+            "small": "alpaca",
+            "large": "polar bear"
+        },
+        "572": {
+            "input": "elephant, alpaca",
+            "output": "elephant",
+            "small": "alpaca",
+            "large": "elephant"
+        },
+        "573": {
+            "input": "human, donkey",
+            "output": "human",
+            "small": "donkey",
+            "large": "human"
+        },
+        "574": {
+            "input": "wild boar, donkey",
+            "output": "wild boar",
+            "small": "donkey",
+            "large": "wild boar"
+        },
+        "575": {
+            "input": "bull shark, donkey",
+            "output": "bull shark",
+            "small": "donkey",
+            "large": "bull shark"
+        },
+        "576": {
+            "input": "llama, donkey",
+            "output": "llama",
+            "small": "donkey",
+            "large": "llama"
+        },
+        "577": {
+            "input": "donkey, bear",
+            "output": "bear",
+            "small": "donkey",
+            "large": "bear"
+        },
+        "578": {
+            "input": "donkey, pony",
+            "output": "pony",
+            "small": "donkey",
+            "large": "pony"
+        },
+        "579": {
+            "input": "donkey, tiger",
+            "output": "tiger",
+            "small": "donkey",
+            "large": "tiger"
+        },
+        "580": {
+            "input": "donkey, sea lion",
+            "output": "sea lion",
+            "small": "donkey",
+            "large": "sea lion"
+        },
+        "581": {
+            "input": "jaguar, donkey",
+            "output": "jaguar",
+            "small": "donkey",
+            "large": "jaguar"
+        },
+        "582": {
+            "input": "lion, donkey",
+            "output": "lion",
+            "small": "donkey",
+            "large": "lion"
+        },
+        "583": {
+            "input": "wildebeest, donkey",
+            "output": "wildebeest",
+            "small": "donkey",
+            "large": "wildebeest"
+        },
+        "584": {
+            "input": "tuna, donkey",
+            "output": "tuna",
+            "small": "donkey",
+            "large": "tuna"
+        },
+        "585": {
+            "input": "donkey, gorilla",
+            "output": "gorilla",
+            "small": "donkey",
+            "large": "gorilla"
+        },
+        "586": {
+            "input": "mule, donkey",
+            "output": "mule",
+            "small": "donkey",
+            "large": "mule"
+        },
+        "587": {
+            "input": "donkey, manatee",
+            "output": "manatee",
+            "small": "donkey",
+            "large": "manatee"
+        },
+        "588": {
+            "input": "donkey, sturgeon",
+            "output": "sturgeon",
+            "small": "donkey",
+            "large": "sturgeon"
+        },
+        "589": {
+            "input": "donkey, camel",
+            "output": "camel",
+            "small": "donkey",
+            "large": "camel"
+        },
+        "590": {
+            "input": "elk, donkey",
+            "output": "elk",
+            "small": "donkey",
+            "large": "elk"
+        },
+        "591": {
+            "input": "horse, donkey",
+            "output": "horse",
+            "small": "donkey",
+            "large": "horse"
+        },
+        "592": {
+            "input": "cattle, donkey",
+            "output": "cattle",
+            "small": "donkey",
+            "large": "cattle"
+        },
+        "593": {
+            "input": "donkey, shark",
+            "output": "shark",
+            "small": "donkey",
+            "large": "shark"
+        },
+        "594": {
+            "input": "elephant, donkey",
+            "output": "elephant",
+            "small": "donkey",
+            "large": "elephant"
+        },
+        "595": {
+            "input": "donkey, giraffe",
+            "output": "giraffe",
+            "small": "donkey",
+            "large": "giraffe"
+        },
+        "596": {
+            "input": "donkey, moose",
+            "output": "moose",
+            "small": "donkey",
+            "large": "moose"
+        },
+        "597": {
+            "input": "donkey, crocodile",
+            "output": "crocodile",
+            "small": "donkey",
+            "large": "crocodile"
+        },
+        "598": {
+            "input": "liger, donkey",
+            "output": "liger",
+            "small": "donkey",
+            "large": "liger"
+        },
+        "599": {
+            "input": "grizzly bear, donkey",
+            "output": "grizzly bear",
+            "small": "donkey",
+            "large": "grizzly bear"
+        },
+        "600": {
+            "input": "donkey, hippopotamus",
+            "output": "hippopotamus",
+            "small": "donkey",
+            "large": "hippopotamus"
+        },
+        "601": {
+            "input": "donkey, whale shark",
+            "output": "whale shark",
+            "small": "donkey",
+            "large": "whale shark"
+        },
+        "602": {
+            "input": "killer whale, donkey",
+            "output": "killer whale",
+            "small": "donkey",
+            "large": "killer whale"
+        },
+        "603": {
+            "input": "great white shark, donkey",
+            "output": "great white shark",
+            "small": "donkey",
+            "large": "great white shark"
+        },
+        "604": {
+            "input": "donkey, sperm whale",
+            "output": "sperm whale",
+            "small": "donkey",
+            "large": "sperm whale"
+        },
+        "605": {
+            "input": "donkey, polar bear",
+            "output": "polar bear",
+            "small": "donkey",
+            "large": "polar bear"
+        },
+        "606": {
+            "input": "elephant, donkey",
+            "output": "elephant",
+            "small": "donkey",
+            "large": "elephant"
+        }
+    }
+}

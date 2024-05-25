@@ -1,0 +1,4772 @@
+{
+    "metadata": {
+        "num_examples": 562
+    },
+    "examples": {
+        "1": {
+            "input": "voltage",
+            "output": "Spannung",
+            "possible_translations": [
+                "Spannung"
+            ]
+        },
+        "2": {
+            "input": "cry",
+            "output": "Schrei",
+            "possible_translations": [
+                "Schrei",
+                "schluchzen",
+                "schreien",
+                "weinen",
+                "Weinen"
+            ]
+        },
+        "3": {
+            "input": "terror",
+            "output": "Schrecken",
+            "possible_translations": [
+                "Schrecken",
+                "Terror"
+            ]
+        },
+        "4": {
+            "input": "institute",
+            "output": "Institut",
+            "possible_translations": [
+                "instituieren",
+                "einf\u00fchren",
+                "initiieren",
+                "Institut"
+            ]
+        },
+        "5": {
+            "input": "cottage",
+            "output": "Cottage",
+            "possible_translations": [
+                "Kotten",
+                "Cottage",
+                "H\u00e4uschen"
+            ]
+        },
+        "6": {
+            "input": "equilibrium",
+            "output": "Gleichgewicht",
+            "possible_translations": [
+                "Ausgeglichenheit",
+                "Balance",
+                "Gleichgewicht"
+            ]
+        },
+        "7": {
+            "input": "theorem",
+            "output": "Theorem",
+            "possible_translations": [
+                "Theorem",
+                "Satz"
+            ]
+        },
+        "8": {
+            "input": "sanctuary",
+            "output": "Zuflucht",
+            "possible_translations": [
+                "Herberge",
+                "Zuflucht",
+                "Asyl"
+            ]
+        },
+        "9": {
+            "input": "flotilla",
+            "output": "Flottille",
+            "possible_translations": [
+                "Flottille"
+            ]
+        },
+        "10": {
+            "input": "sin",
+            "output": "S\u00fcnde",
+            "possible_translations": [
+                "S\u00fcnde",
+                "s\u00fcndigen"
+            ]
+        },
+        "11": {
+            "input": "airplane",
+            "output": "Flugzeug",
+            "possible_translations": [
+                "Flugzeug"
+            ]
+        },
+        "12": {
+            "input": "sparrow",
+            "output": "Sperling",
+            "possible_translations": [
+                "Haussperling",
+                "Spatz",
+                "Sperling"
+            ]
+        },
+        "13": {
+            "input": "coordinator",
+            "output": "Koordinator",
+            "possible_translations": [
+                "Koordinator",
+                "Koordinatorin"
+            ]
+        },
+        "14": {
+            "input": "expressway",
+            "output": "Autobahn",
+            "possible_translations": [
+                "Autobahn"
+            ]
+        },
+        "15": {
+            "input": "pupil",
+            "output": "Sch\u00fcler",
+            "possible_translations": [
+                "Schulkind",
+                "Sehloch",
+                "Pupille",
+                "Sch\u00fcler",
+                "Sch\u00fclerin"
+            ]
+        },
+        "16": {
+            "input": "wheelchair",
+            "output": "Rollstuhl",
+            "possible_translations": [
+                "Rollstuhl"
+            ]
+        },
+        "17": {
+            "input": "enterprise",
+            "output": "Unternehmen",
+            "possible_translations": [
+                "Unternehmungslust",
+                "Unternehmen",
+                "Unternehmungsgeist",
+                "Unterfangen"
+            ]
+        },
+        "18": {
+            "input": "memoir",
+            "output": "Memoiren",
+            "possible_translations": [
+                "Memoiren"
+            ]
+        },
+        "19": {
+            "input": "projection",
+            "output": "Projektion",
+            "possible_translations": [
+                "Vorhersage",
+                "Projektion",
+                "Vorsprung",
+                "Prognose"
+            ]
+        },
+        "20": {
+            "input": "blade",
+            "output": "Klinge",
+            "possible_translations": [
+                "Klinge",
+                "Blatt"
+            ]
+        },
+        "21": {
+            "input": "microphone",
+            "output": "Mikrofon",
+            "possible_translations": [
+                "Mikrofon"
+            ]
+        },
+        "22": {
+            "input": "recruitment",
+            "output": "Rekrutierung",
+            "possible_translations": [
+                "Rekrutierung"
+            ]
+        },
+        "23": {
+            "input": "synthesizer",
+            "output": "Synthesizer",
+            "possible_translations": [
+                "Synthesizer"
+            ]
+        },
+        "24": {
+            "input": "stamp",
+            "output": "Stempel",
+            "possible_translations": [
+                "stempeln",
+                "Stempel",
+                "freimachen"
+            ]
+        },
+        "25": {
+            "input": "pseudonym",
+            "output": "Pseudonym",
+            "possible_translations": [
+                "Pseudonym"
+            ]
+        },
+        "26": {
+            "input": "cycling",
+            "output": "radfahren",
+            "possible_translations": [
+                "radfahren"
+            ]
+        },
+        "27": {
+            "input": "fundraising",
+            "output": "Fundraising",
+            "possible_translations": [
+                "Fundraising",
+                "Mittelakquisition",
+                "Mittelbeschaffung"
+            ]
+        },
+        "28": {
+            "input": "probe",
+            "output": "Sonde",
+            "possible_translations": [
+                "Sonde"
+            ]
+        },
+        "29": {
+            "input": "glory",
+            "output": "Ruhm",
+            "possible_translations": [
+                "Ruhm"
+            ]
+        },
+        "30": {
+            "input": "fission",
+            "output": "Zellteilung",
+            "possible_translations": [
+                "spalten",
+                "Kernspaltung",
+                "Zellteilung",
+                "Spaltung"
+            ]
+        },
+        "31": {
+            "input": "descendant",
+            "output": "Abk\u00f6mmling",
+            "possible_translations": [
+                "Abk\u00f6mmling",
+                "Nachkomme"
+            ]
+        },
+        "32": {
+            "input": "leak",
+            "output": "Leck",
+            "possible_translations": [
+                "leaken",
+                "undichte Stelle",
+                "Leck",
+                "durchsickern"
+            ]
+        },
+        "33": {
+            "input": "cavity",
+            "output": "Hohlraum",
+            "possible_translations": [
+                "Karies",
+                "Loch",
+                "Aush\u00f6hlung",
+                "H\u00f6hle",
+                "Gravur",
+                "Hohlraum"
+            ]
+        },
+        "34": {
+            "input": "catcher",
+            "output": "Catcher",
+            "possible_translations": [
+                "Catcher",
+                "F\u00e4nger"
+            ]
+        },
+        "35": {
+            "input": "explorer",
+            "output": "Entdecker",
+            "possible_translations": [
+                "Entdecker",
+                "Forscherin",
+                "Forscher"
+            ]
+        },
+        "36": {
+            "input": "leisure",
+            "output": "Mu\u00dfe",
+            "possible_translations": [
+                "Mu\u00dfe",
+                "Freizeit"
+            ]
+        },
+        "37": {
+            "input": "happiness",
+            "output": "Gl\u00fcck",
+            "possible_translations": [
+                "Gl\u00fcck",
+                "Gl\u00fccklichkeit",
+                "Fr\u00f6hlichkeit"
+            ]
+        },
+        "38": {
+            "input": "deposit",
+            "output": "Anzahlung",
+            "possible_translations": [
+                "Kaution",
+                "einzahlen",
+                "Pfand",
+                "Anzahlung"
+            ]
+        },
+        "39": {
+            "input": "revision",
+            "output": "Wiederholung",
+            "possible_translations": [
+                "Wiederholung",
+                "\u00dcberarbeitung"
+            ]
+        },
+        "40": {
+            "input": "salmon",
+            "output": "lachsfarben",
+            "possible_translations": [
+                "lachsfarben",
+                "lachsrot",
+                "Lachs",
+                "lachsfarbig",
+                "lachsrosa"
+            ]
+        },
+        "41": {
+            "input": "marijuana",
+            "output": "Marihuana",
+            "possible_translations": [
+                "Marihuana"
+            ]
+        },
+        "42": {
+            "input": "deception",
+            "output": "T\u00e4uschung",
+            "possible_translations": [
+                "T\u00e4uschung",
+                "Betrug"
+            ]
+        },
+        "43": {
+            "input": "millennium",
+            "output": "Jahrtausend",
+            "possible_translations": [
+                "Jahrtausend",
+                "Millennium"
+            ]
+        },
+        "44": {
+            "input": "collar",
+            "output": "Ring",
+            "possible_translations": [
+                "Halskette",
+                "Ring",
+                "Halsband",
+                "Kragen"
+            ]
+        },
+        "45": {
+            "input": "canopy",
+            "output": "Baldachin",
+            "possible_translations": [
+                "Baumkronendach",
+                "Baldachin",
+                "Kronendach",
+                "Laubfl\u00e4che"
+            ]
+        },
+        "46": {
+            "input": "willingness",
+            "output": "Willigkeit",
+            "possible_translations": [
+                "Bereitschaft",
+                "Willigkeit"
+            ]
+        },
+        "47": {
+            "input": "sleeve",
+            "output": "\u00c4rmel",
+            "possible_translations": [
+                "\u00c4rmel"
+            ]
+        },
+        "48": {
+            "input": "dealer",
+            "output": "H\u00e4ndler",
+            "possible_translations": [
+                "Dealer",
+                "Ticker",
+                "Geber",
+                "H\u00e4ndler",
+                "Drogenh\u00e4ndler"
+            ]
+        },
+        "49": {
+            "input": "geology",
+            "output": "Geologie",
+            "possible_translations": [
+                "Geologie"
+            ]
+        },
+        "50": {
+            "input": "anatomy",
+            "output": "Anatomie",
+            "possible_translations": [
+                "Anatomie"
+            ]
+        },
+        "51": {
+            "input": "lip",
+            "output": "Lippe",
+            "possible_translations": [
+                "Lippe",
+                "Unversch\u00e4mtheit",
+                "Lefze",
+                "Rand"
+            ]
+        },
+        "52": {
+            "input": "emblem",
+            "output": "Emblem",
+            "possible_translations": [
+                "Emblem"
+            ]
+        },
+        "53": {
+            "input": "pneumonia",
+            "output": "Lungenentz\u00fcndung ; Pneumonie",
+            "possible_translations": [
+                "Lungenentz\u00fcndung ; Pneumonie"
+            ]
+        },
+        "54": {
+            "input": "predation",
+            "output": "Raub",
+            "possible_translations": [
+                "Jagd",
+                "Raub"
+            ]
+        },
+        "55": {
+            "input": "portal",
+            "output": "Portal",
+            "possible_translations": [
+                "Portal"
+            ]
+        },
+        "56": {
+            "input": "immunity",
+            "output": "Immunit\u00e4t",
+            "possible_translations": [
+                "Immunit\u00e4t"
+            ]
+        },
+        "57": {
+            "input": "glider",
+            "output": "Segelflugzeug",
+            "possible_translations": [
+                "Segelflugzeug"
+            ]
+        },
+        "58": {
+            "input": "tactic",
+            "output": "Taktik",
+            "possible_translations": [
+                "Taktik"
+            ]
+        },
+        "59": {
+            "input": "impedance",
+            "output": "Impedanz",
+            "possible_translations": [
+                "Impedanz"
+            ]
+        },
+        "60": {
+            "input": "prequel",
+            "output": "Prequel",
+            "possible_translations": [
+                "Prequel"
+            ]
+        },
+        "61": {
+            "input": "fabric",
+            "output": "Bau",
+            "possible_translations": [
+                "Rohbau",
+                "Bau",
+                "Stoff",
+                "Textil",
+                "Gewebe",
+                "Struktur",
+                "Fasern"
+            ]
+        },
+        "62": {
+            "input": "disruption",
+            "output": "Durcheinander",
+            "possible_translations": [
+                "St\u00f6rung",
+                "Unordnung",
+                "Durcheinander",
+                "Unterbrechung",
+                "St\u00f6rfaktor"
+            ]
+        },
+        "63": {
+            "input": "synagogue",
+            "output": "Synagoge",
+            "possible_translations": [
+                "Synagoge"
+            ]
+        },
+        "64": {
+            "input": "import",
+            "output": "Import",
+            "possible_translations": [
+                "Importgut",
+                "Import",
+                "einf\u00fchren",
+                "Einfuhr",
+                "Importware",
+                "importieren"
+            ]
+        },
+        "65": {
+            "input": "influenza",
+            "output": "Grippe",
+            "possible_translations": [
+                "Influenza",
+                "Grippe"
+            ]
+        },
+        "66": {
+            "input": "pavilion",
+            "output": "Pavillon",
+            "possible_translations": [
+                "Pavillon"
+            ]
+        },
+        "67": {
+            "input": "concession",
+            "output": "Gewerbeerlaubnis",
+            "possible_translations": [
+                "Eingest\u00e4ndnis",
+                "Einr\u00e4umen",
+                "gew\u00e4hrtes Grundst\u00fcck",
+                "Gewerbeerlaubnis",
+                "Zugest\u00e4ndnis"
+            ]
+        },
+        "68": {
+            "input": "smallpox",
+            "output": "Pocken",
+            "possible_translations": [
+                "Pocken",
+                "Blattern"
+            ]
+        },
+        "69": {
+            "input": "pottery",
+            "output": "T\u00f6pferei",
+            "possible_translations": [
+                "T\u00f6pferei",
+                "T\u00f6pferware"
+            ]
+        },
+        "70": {
+            "input": "trumpet",
+            "output": "Trompete",
+            "possible_translations": [
+                "Trompete"
+            ]
+        },
+        "71": {
+            "input": "surf",
+            "output": "Brandung",
+            "possible_translations": [
+                "Brandung",
+                "wellenreiten",
+                "surfen"
+            ]
+        },
+        "72": {
+            "input": "mandate",
+            "output": "Mandat",
+            "possible_translations": [
+                "Mandat"
+            ]
+        },
+        "73": {
+            "input": "beef",
+            "output": "Rindfleisch",
+            "possible_translations": [
+                "Rindfleisch",
+                "Ochsenfleisch"
+            ]
+        },
+        "74": {
+            "input": "mistress",
+            "output": "Domina",
+            "possible_translations": [
+                "Meisterin",
+                "Domina",
+                "Liebhaberin",
+                "Frau",
+                "M\u00e4tresse"
+            ]
+        },
+        "75": {
+            "input": "breakfast",
+            "output": "Fr\u00fchst\u00fcck",
+            "possible_translations": [
+                "Zmorge",
+                "Morgenessen",
+                "fr\u00fchst\u00fccken",
+                "Fr\u00fchst\u00fcck"
+            ]
+        },
+        "76": {
+            "input": "taxation",
+            "output": "Besteuerung",
+            "possible_translations": [
+                "Besteuerung"
+            ]
+        },
+        "77": {
+            "input": "geography",
+            "output": "Geografie",
+            "possible_translations": [
+                "Erdkunde",
+                "Geographie",
+                "Geografie"
+            ]
+        },
+        "78": {
+            "input": "spine",
+            "output": "R\u00fcckgrat",
+            "possible_translations": [
+                "Stachel",
+                "R\u00fccken",
+                "Dorn",
+                "Wirbels\u00e4ule",
+                "R\u00fcckgrat"
+            ]
+        },
+        "79": {
+            "input": "flu",
+            "output": "Grippe",
+            "possible_translations": [
+                "Grippe"
+            ]
+        },
+        "80": {
+            "input": "inauguration",
+            "output": "Inauguration",
+            "possible_translations": [
+                "Inauguration"
+            ]
+        },
+        "81": {
+            "input": "abolition",
+            "output": "Abschaffung des Sklavenhandels",
+            "possible_translations": [
+                "Abschaffung des Sklavenhandels",
+                "Aufhebung",
+                "Abschaffung"
+            ]
+        },
+        "82": {
+            "input": "hostility",
+            "output": "Feindseligkeit",
+            "possible_translations": [
+                "Feindseligkeit"
+            ]
+        },
+        "83": {
+            "input": "influx",
+            "output": "Zufluss",
+            "possible_translations": [
+                "Einfluss",
+                "Zufluss"
+            ]
+        },
+        "84": {
+            "input": "packaging",
+            "output": "Packen",
+            "possible_translations": [
+                "",
+                "Verpackung",
+                "Packen",
+                "Verpackungsindustrie"
+            ]
+        },
+        "85": {
+            "input": "millimetre",
+            "output": "Millimeter",
+            "possible_translations": [
+                "Millimeter"
+            ]
+        },
+        "86": {
+            "input": "hind",
+            "output": "Hinde",
+            "possible_translations": [
+                "Hinde",
+                "Hirschkuh",
+                "weiblicher Hirsch"
+            ]
+        },
+        "87": {
+            "input": "subway",
+            "output": "U-Bahn",
+            "possible_translations": [
+                "Untergrundbahn",
+                "Metro",
+                "U-Bahn"
+            ]
+        },
+        "88": {
+            "input": "endorsement",
+            "output": "Bef\u00fchrwortung",
+            "possible_translations": [
+                "Bef\u00fchrwortung"
+            ]
+        },
+        "89": {
+            "input": "aristocracy",
+            "output": "Aristokratie",
+            "possible_translations": [
+                "Aristokratie"
+            ]
+        },
+        "90": {
+            "input": "disability",
+            "output": "Behinderung",
+            "possible_translations": [
+                "Behinderung"
+            ]
+        },
+        "91": {
+            "input": "prohibition",
+            "output": "Verbot",
+            "possible_translations": [
+                "Verbot"
+            ]
+        },
+        "92": {
+            "input": "feast",
+            "output": "Festmahl",
+            "possible_translations": [
+                "Festmahl"
+            ]
+        },
+        "93": {
+            "input": "shower",
+            "output": "Schauer",
+            "possible_translations": [
+                "\u00fcbersch\u00fctten mit",
+                "Dusche",
+                "bespr\u00fchen",
+                "duschen",
+                "einspr\u00fchen",
+                "Brause",
+                "Schauer"
+            ]
+        },
+        "94": {
+            "input": "symmetry",
+            "output": "Symmetrie",
+            "possible_translations": [
+                "Symmetrie"
+            ]
+        },
+        "95": {
+            "input": "pirate",
+            "output": "Pirat",
+            "possible_translations": [
+                "Raubkopierer",
+                "Korsar",
+                "Seer\u00e4uber",
+                "Pirat"
+            ]
+        },
+        "96": {
+            "input": "confession",
+            "output": "Beichte",
+            "possible_translations": [
+                "Bekenntnis",
+                "Eingest\u00e4ndnis",
+                "Gest\u00e4ndnis",
+                "Beichte"
+            ]
+        },
+        "97": {
+            "input": "nationalism",
+            "output": "Nationalismus",
+            "possible_translations": [
+                "Nationalismus"
+            ]
+        },
+        "98": {
+            "input": "module",
+            "output": "Modul",
+            "possible_translations": [
+                "Modul"
+            ]
+        },
+        "99": {
+            "input": "neutrality",
+            "output": "Neutralit\u00e4t",
+            "possible_translations": [
+                "Neutralit\u00e4t"
+            ]
+        },
+        "100": {
+            "input": "wisdom",
+            "output": "Weisheit",
+            "possible_translations": [
+                "Weisheit"
+            ]
+        },
+        "101": {
+            "input": "communism",
+            "output": "Kommunismus",
+            "possible_translations": [
+                "Kommunismus"
+            ]
+        },
+        "102": {
+            "input": "mast",
+            "output": "Mast",
+            "possible_translations": [
+                "Mast"
+            ]
+        },
+        "103": {
+            "input": "desk",
+            "output": "Schreibtisch",
+            "possible_translations": [
+                "Schreibtisch"
+            ]
+        },
+        "104": {
+            "input": "homeland",
+            "output": "Heimat",
+            "possible_translations": [
+                "Heimat",
+                "Heimatland"
+            ]
+        },
+        "105": {
+            "input": "undertaking",
+            "output": "Unternehmen",
+            "possible_translations": [
+                "Unternehmen"
+            ]
+        },
+        "106": {
+            "input": "robbery",
+            "output": "Raub",
+            "possible_translations": [
+                "Raub"
+            ]
+        },
+        "107": {
+            "input": "survivor",
+            "output": "\u00dcberlebender",
+            "possible_translations": [
+                "\u00dcberlebender",
+                "\u00dcberlebende"
+            ]
+        },
+        "108": {
+            "input": "takeover",
+            "output": "Gesch\u00e4fts\u00fcbernahme",
+            "possible_translations": [
+                "Gesch\u00e4fts\u00fcbernahme",
+                "\u00dcbernahme"
+            ]
+        },
+        "109": {
+            "input": "casino",
+            "output": "Kasino",
+            "possible_translations": [
+                "Spielbank",
+                "Kasino"
+            ]
+        },
+        "110": {
+            "input": "pulp",
+            "output": "Fruchtfleisch",
+            "possible_translations": [
+                "Pulpa",
+                "Fleisch",
+                "Fruchtfleisch"
+            ]
+        },
+        "111": {
+            "input": "chronicle",
+            "output": "Chronik",
+            "possible_translations": [
+                "Chronik"
+            ]
+        },
+        "112": {
+            "input": "researcher",
+            "output": "Forscher",
+            "possible_translations": [
+                "Forscher"
+            ]
+        },
+        "113": {
+            "input": "timeslot",
+            "output": "Zeitschlitz",
+            "possible_translations": [
+                "Zeitschlitz"
+            ]
+        },
+        "114": {
+            "input": "niece",
+            "output": "Nichte",
+            "possible_translations": [
+                "Nichte"
+            ]
+        },
+        "115": {
+            "input": "ecosystem",
+            "output": "\u00d6kosystem",
+            "possible_translations": [
+                "\u00d6kosystem"
+            ]
+        },
+        "116": {
+            "input": "incarnation",
+            "output": "Inkarnation",
+            "possible_translations": [
+                "Inkarnation",
+                "Verk\u00f6rperung",
+                "Inbegriff"
+            ]
+        },
+        "117": {
+            "input": "plague",
+            "output": "Plage",
+            "possible_translations": [
+                "Plage",
+                "Pest"
+            ]
+        },
+        "118": {
+            "input": "hemisphere",
+            "output": "Halbkugel",
+            "possible_translations": [
+                "Halbkugel",
+                "Hemisph\u00e4re"
+            ]
+        },
+        "119": {
+            "input": "cadet",
+            "output": "Kadett",
+            "possible_translations": [
+                "Kadett"
+            ]
+        },
+        "120": {
+            "input": "inventory",
+            "output": "Inventar",
+            "possible_translations": [
+                "Inventar",
+                "Lager",
+                "Inventur"
+            ]
+        },
+        "121": {
+            "input": "donation",
+            "output": "Abgabe",
+            "possible_translations": [
+                "Abgabe",
+                "Spende"
+            ]
+        },
+        "122": {
+            "input": "calibre",
+            "output": "Kaliber",
+            "possible_translations": [
+                "Bohrung",
+                "Format",
+                "Durchmesser",
+                "Wert",
+                "Kaliber"
+            ]
+        },
+        "123": {
+            "input": "relocation",
+            "output": "Umzug",
+            "possible_translations": [
+                "Umzug"
+            ]
+        },
+        "124": {
+            "input": "journalism",
+            "output": "Journalismus",
+            "possible_translations": [
+                "Journalismus",
+                "Journalistik"
+            ]
+        },
+        "125": {
+            "input": "aluminium",
+            "output": "Aluminium",
+            "possible_translations": [
+                "Aluminium"
+            ]
+        },
+        "126": {
+            "input": "curse",
+            "output": "Fluch",
+            "possible_translations": [
+                "Verw\u00fcnschung",
+                "Periode",
+                "Tage",
+                "Verdammnis",
+                "fluchen",
+                "Menstruation",
+                "Fluch"
+            ]
+        },
+        "127": {
+            "input": "annexation",
+            "output": "Annexion",
+            "possible_translations": [
+                "Anschluss",
+                "Annexion"
+            ]
+        },
+        "128": {
+            "input": "canvas",
+            "output": "Leinwand",
+            "possible_translations": [
+                "Leinwand",
+                "Leinen"
+            ]
+        },
+        "129": {
+            "input": "crush",
+            "output": "Schwarm",
+            "possible_translations": [
+                "Schwarm"
+            ]
+        },
+        "130": {
+            "input": "offset",
+            "output": "Adressabstand",
+            "possible_translations": [
+                "Offset",
+                "Adressabstand",
+                "Offsetdruck"
+            ]
+        },
+        "131": {
+            "input": "reliance",
+            "output": "Vertrauende",
+            "possible_translations": [
+                "Abh\u00e4ngigkeit",
+                "Vertrauen",
+                "Abh\u00e4ngige",
+                "Vertrauende",
+                "Verlass"
+            ]
+        },
+        "132": {
+            "input": "interval",
+            "output": "Intervall",
+            "possible_translations": [
+                "Intervall",
+                "Abstand",
+                "Zwischenraum"
+            ]
+        },
+        "133": {
+            "input": "breath",
+            "output": "Atmen",
+            "possible_translations": [
+                "Atemzug",
+                "Atmen",
+                "Atem",
+                "Atmung",
+                "Atempause"
+            ]
+        },
+        "134": {
+            "input": "cane",
+            "output": "Rohr",
+            "possible_translations": [
+                "Rohr",
+                "Blindenstock",
+                "Rohrstock",
+                "weisser Langstock"
+            ]
+        },
+        "135": {
+            "input": "crack",
+            "output": "Knall",
+            "possible_translations": [
+                "Krachen",
+                "einrei\u00dfen",
+                "Riss",
+                "Ritze",
+                "Sprung",
+                "Knall",
+                "knallen",
+                "Knacks",
+                "bersten",
+                "Spalte"
+            ]
+        },
+        "136": {
+            "input": "sediment",
+            "output": "Sediment",
+            "possible_translations": [
+                "Sediment",
+                "Satz"
+            ]
+        },
+        "137": {
+            "input": "pension",
+            "output": "Pension",
+            "possible_translations": [
+                "Rente",
+                "pensionieren",
+                "Pension",
+                "in den Ruhestand versetzen"
+            ]
+        },
+        "138": {
+            "input": "textile",
+            "output": "Textilie",
+            "possible_translations": [
+                "Textilie"
+            ]
+        },
+        "139": {
+            "input": "bathroom",
+            "output": "Badezimmer",
+            "possible_translations": [
+                "Klosett",
+                "Bad",
+                "WC",
+                "Toilette",
+                "Badezimmer",
+                "Klo"
+            ]
+        },
+        "140": {
+            "input": "drain",
+            "output": "Abfluss",
+            "possible_translations": [
+                "Abfluss"
+            ]
+        },
+        "141": {
+            "input": "nightclub",
+            "output": "Nachtklub",
+            "possible_translations": [
+                "Nachtklub"
+            ]
+        },
+        "142": {
+            "input": "rage",
+            "output": "Wut",
+            "possible_translations": [
+                "Wut",
+                "Zorn",
+                "Raserei",
+                "toben",
+                "rasen",
+                "w\u00fcten",
+                "Rage"
+            ]
+        },
+        "143": {
+            "input": "disguise",
+            "output": "Verkleidung",
+            "possible_translations": [
+                "verstellen",
+                "Tarnung",
+                "Verkleidung"
+            ]
+        },
+        "144": {
+            "input": "stiff",
+            "output": "Steifer",
+            "possible_translations": [
+                "starr",
+                "steif",
+                "prellen",
+                "Steifer",
+                "Zechpreller"
+            ]
+        },
+        "145": {
+            "input": "renewal",
+            "output": "Erneuerung",
+            "possible_translations": [
+                "Erneuerung"
+            ]
+        },
+        "146": {
+            "input": "distributor",
+            "output": "Verteiler",
+            "possible_translations": [
+                "Verteiler"
+            ]
+        },
+        "147": {
+            "input": "workshop",
+            "output": "Workshop",
+            "possible_translations": [
+                "Werkstatt",
+                "Workshop"
+            ]
+        },
+        "148": {
+            "input": "vault",
+            "output": "Gew\u00f6lbe",
+            "possible_translations": [
+                "Gruft",
+                "Gew\u00f6lbe",
+                "Tresor"
+            ]
+        },
+        "149": {
+            "input": "tuberculosis",
+            "output": "Tuberkulose",
+            "possible_translations": [
+                "Tuberkulose"
+            ]
+        },
+        "150": {
+            "input": "timeline",
+            "output": "Zeittafel",
+            "possible_translations": [
+                "Zeittafel"
+            ]
+        },
+        "151": {
+            "input": "cow",
+            "output": "Kuh",
+            "possible_translations": [
+                "Kuh",
+                "Rind"
+            ]
+        },
+        "152": {
+            "input": "breakup",
+            "output": "Trennung",
+            "possible_translations": [
+                "Trennung"
+            ]
+        },
+        "153": {
+            "input": "enclosure",
+            "output": "Beilegen",
+            "possible_translations": [
+                "Anlage",
+                "Beilage",
+                "Einz\u00e4unen",
+                "Einschlie\u00dfen",
+                "Einschlie\u00dfung",
+                "eingefriedetes Grundst\u00fcck",
+                "Beilegen",
+                "Gehege"
+            ]
+        },
+        "154": {
+            "input": "milestone",
+            "output": "Meilenstein",
+            "possible_translations": [
+                "Meilenstein",
+                "Postmeilens\u00e4ule",
+                "Kilometerstein"
+            ]
+        },
+        "155": {
+            "input": "graph",
+            "output": "Graph",
+            "possible_translations": [
+                "Graph",
+                "Funktionsgraph"
+            ]
+        },
+        "156": {
+            "input": "scrutiny",
+            "output": "genaue Untersuchung",
+            "possible_translations": [
+                "pr\u00fcfender od. forschender Blick",
+                "genaue Untersuchung"
+            ]
+        },
+        "157": {
+            "input": "bust",
+            "output": "B\u00fcste",
+            "possible_translations": [
+                "B\u00fcste",
+                "einlochen"
+            ]
+        },
+        "158": {
+            "input": "shuttle",
+            "output": "Pendelverkehr",
+            "possible_translations": [
+                "Pendelverkehr",
+                "Shuttlebus"
+            ]
+        },
+        "159": {
+            "input": "illusion",
+            "output": "Illusion",
+            "possible_translations": [
+                "Illusion",
+                "Wahnvorstellung",
+                "Sinnest\u00e4uschung"
+            ]
+        },
+        "160": {
+            "input": "privilege",
+            "output": "Privileg",
+            "possible_translations": [
+                "privilegieren",
+                "Privileg"
+            ]
+        },
+        "161": {
+            "input": "bend",
+            "output": "Kurve",
+            "possible_translations": [
+                "biegen",
+                "Schr\u00e4gbalken",
+                "durchbiegen",
+                "Kurve",
+                "beugen"
+            ]
+        },
+        "162": {
+            "input": "circus",
+            "output": "Zirkus",
+            "possible_translations": [
+                "Zirkus"
+            ]
+        },
+        "163": {
+            "input": "doll",
+            "output": "Puppe",
+            "possible_translations": [
+                "Puppe"
+            ]
+        },
+        "164": {
+            "input": "beak",
+            "output": "Schnabel",
+            "possible_translations": [
+                "Schnabel"
+            ]
+        },
+        "165": {
+            "input": "lumber",
+            "output": "Bauholz",
+            "possible_translations": [
+                "Bauholz"
+            ]
+        },
+        "166": {
+            "input": "monopoly",
+            "output": "Monopol",
+            "possible_translations": [
+                "Monopol"
+            ]
+        },
+        "167": {
+            "input": "lacrosse",
+            "output": "Lacrosse",
+            "possible_translations": [
+                "Lacrosse"
+            ]
+        },
+        "168": {
+            "input": "snout",
+            "output": "Schnauze",
+            "possible_translations": [
+                "Hundeschnauze",
+                "Schweiner\u00fcssel",
+                "R\u00fcssel",
+                "Schnauze"
+            ]
+        },
+        "169": {
+            "input": "populace",
+            "output": "gemeine Volk",
+            "possible_translations": [
+                "gemeine Volk",
+                "P\u00f6bel",
+                "breite Masse"
+            ]
+        },
+        "170": {
+            "input": "trait",
+            "output": "Eigenschaft",
+            "possible_translations": [
+                "Eigenschaft"
+            ]
+        },
+        "171": {
+            "input": "dislike",
+            "output": "Unbehagen",
+            "possible_translations": [
+                "Unbehagen",
+                "ablehnen"
+            ]
+        },
+        "172": {
+            "input": "porch",
+            "output": "Vorbau",
+            "possible_translations": [
+                "Veranda",
+                "Vorbau",
+                "Vordach"
+            ]
+        },
+        "173": {
+            "input": "cement",
+            "output": "Zement",
+            "possible_translations": [
+                "zementieren",
+                "Zement"
+            ]
+        },
+        "174": {
+            "input": "terrorism",
+            "output": "Terrorismus",
+            "possible_translations": [
+                "Terrorismus"
+            ]
+        },
+        "175": {
+            "input": "wilderness",
+            "output": "Wildnis",
+            "possible_translations": [
+                "Wildnis"
+            ]
+        },
+        "176": {
+            "input": "playwright",
+            "output": "B\u00fchnenautor",
+            "possible_translations": [
+                "B\u00fchnenautor",
+                "Dramatikerin",
+                "B\u00fchnenautorin",
+                "Dramatiker"
+            ]
+        },
+        "177": {
+            "input": "irrigation",
+            "output": "Bew\u00e4sserung",
+            "possible_translations": [
+                "Irrigation",
+                "Bew\u00e4sserung"
+            ]
+        },
+        "178": {
+            "input": "turmoil",
+            "output": "Aufruhr",
+            "possible_translations": [
+                "Unruhe",
+                "Aufruhr",
+                "Tumult",
+                "Unordnung"
+            ]
+        },
+        "179": {
+            "input": "chocolate",
+            "output": "chocolat",
+            "possible_translations": [
+                "schokoladenbraun",
+                "chocolat",
+                "Praline",
+                "Schokolade",
+                "schokoladenfarben"
+            ]
+        },
+        "180": {
+            "input": "equator",
+            "output": "\u00c4quator",
+            "possible_translations": [
+                "\u00c4quator"
+            ]
+        },
+        "181": {
+            "input": "reconciliation",
+            "output": "Abgleich",
+            "possible_translations": [
+                "Abgleich",
+                "Vers\u00f6hnung",
+                "Auss\u00f6hnung"
+            ]
+        },
+        "182": {
+            "input": "plea",
+            "output": "Pl\u00e4doyer",
+            "possible_translations": [
+                "Bitte",
+                "Entschuldigung",
+                "Pl\u00e4doyer",
+                "Verteidigung",
+                "Ersuchen",
+                "Appell",
+                "Flehen"
+            ]
+        },
+        "183": {
+            "input": "weaponry",
+            "output": "Waffen",
+            "possible_translations": [
+                "Bewaffnung",
+                "Waffen"
+            ]
+        },
+        "184": {
+            "input": "friction",
+            "output": "Reibung",
+            "possible_translations": [
+                "Reibung",
+                "Friktion",
+                "Reiberei"
+            ]
+        },
+        "185": {
+            "input": "dignity",
+            "output": "W\u00fcrde",
+            "possible_translations": [
+                "W\u00fcrde"
+            ]
+        },
+        "186": {
+            "input": "advocacy",
+            "output": "F\u00fcrsprache",
+            "possible_translations": [
+                "Bef\u00fcrwortung",
+                "F\u00fcrsprache"
+            ]
+        },
+        "187": {
+            "input": "activism",
+            "output": "Aktivismus",
+            "possible_translations": [
+                "Aktivismus"
+            ]
+        },
+        "188": {
+            "input": "diplomat",
+            "output": "Diplomat",
+            "possible_translations": [
+                "Diplomat",
+                "Diplomatin"
+            ]
+        },
+        "189": {
+            "input": "punch",
+            "output": "Punsch",
+            "possible_translations": [
+                "Lochzange",
+                "Locher",
+                "Punsch",
+                "Bowle",
+                "Lochung",
+                "Faustschlag",
+                "Schwung",
+                "lochen",
+                "abstempeln",
+                "mit der Faust schlagen"
+            ]
+        },
+        "190": {
+            "input": "fraction",
+            "output": "Bruch",
+            "possible_translations": [
+                "Bruch",
+                "Bruchteil"
+            ]
+        },
+        "191": {
+            "input": "prediction",
+            "output": "Voraussage",
+            "possible_translations": [
+                "Vorhersage",
+                "Voraussage",
+                "Prophezeiung"
+            ]
+        },
+        "192": {
+            "input": "dictator",
+            "output": "Diktator",
+            "possible_translations": [
+                "Diktator"
+            ]
+        },
+        "193": {
+            "input": "fragment",
+            "output": "Satzfragment",
+            "possible_translations": [
+                "fragmentieren",
+                "Fragment",
+                "Bruchst\u00fcck",
+                "Satzfragment"
+            ]
+        },
+        "194": {
+            "input": "boycott",
+            "output": "Boykott",
+            "possible_translations": [
+                "boykottieren",
+                "Boykott"
+            ]
+        },
+        "195": {
+            "input": "ambulance",
+            "output": "Rettungswagen",
+            "possible_translations": [
+                "Rettungswagen",
+                "Krankenwagen"
+            ]
+        },
+        "196": {
+            "input": "encouragement",
+            "output": "Ermutigung",
+            "possible_translations": [
+                "Ermutigung"
+            ]
+        },
+        "197": {
+            "input": "critique",
+            "output": "Kritik",
+            "possible_translations": [
+                "Kritik"
+            ]
+        },
+        "198": {
+            "input": "peat",
+            "output": "Torf",
+            "possible_translations": [
+                "Torf"
+            ]
+        },
+        "199": {
+            "input": "satisfaction",
+            "output": "Befriedigung",
+            "possible_translations": [
+                "Befriedigung"
+            ]
+        },
+        "200": {
+            "input": "lithium",
+            "output": "Lithium",
+            "possible_translations": [
+                "Lithium"
+            ]
+        },
+        "201": {
+            "input": "sensation",
+            "output": "Gef\u00fchl",
+            "possible_translations": [
+                "Sensation",
+                "Gef\u00fchl"
+            ]
+        },
+        "202": {
+            "input": "scenery",
+            "output": "Kulisse",
+            "possible_translations": [
+                "Landschaft",
+                "Kulisse"
+            ]
+        },
+        "203": {
+            "input": "courthouse",
+            "output": "Gerichtsgeb\u00e4ude",
+            "possible_translations": [
+                "Gerichtsgeb\u00e4ude"
+            ]
+        },
+        "204": {
+            "input": "bride",
+            "output": "Braut",
+            "possible_translations": [
+                "Braut"
+            ]
+        },
+        "205": {
+            "input": "medication",
+            "output": "Medikation",
+            "possible_translations": [
+                "Medikation"
+            ]
+        },
+        "206": {
+            "input": "archaeology",
+            "output": "Arch\u00e4ologie",
+            "possible_translations": [
+                "Arch\u00e4ologie"
+            ]
+        },
+        "207": {
+            "input": "likelihood",
+            "output": "Wahrscheinlichkeit",
+            "possible_translations": [
+                "Wahrscheinlichkeit"
+            ]
+        },
+        "208": {
+            "input": "vaccine",
+            "output": "Impfstoff",
+            "possible_translations": [
+                "Vakzine",
+                "Impfstoff"
+            ]
+        },
+        "209": {
+            "input": "telegraph",
+            "output": "Telegraf",
+            "possible_translations": [
+                "Telegraf"
+            ]
+        },
+        "210": {
+            "input": "contractor",
+            "output": "Ausf\u00fchrer",
+            "possible_translations": [
+                "Bauausf\u00fchrer",
+                "Ausf\u00fchrer"
+            ]
+        },
+        "211": {
+            "input": "taxi",
+            "output": "Taxi",
+            "possible_translations": [
+                "rollen",
+                "Taxi",
+                "Taxe"
+            ]
+        },
+        "212": {
+            "input": "connector",
+            "output": "Verbinder",
+            "possible_translations": [
+                "Steckverbinder",
+                "Verbinder",
+                "Verbindungsstecker"
+            ]
+        },
+        "213": {
+            "input": "mess",
+            "output": "Durcheinander",
+            "possible_translations": [
+                "Durcheinander",
+                "Messe"
+            ]
+        },
+        "214": {
+            "input": "grip",
+            "output": "Griff",
+            "possible_translations": [
+                "festhalten",
+                "Griff",
+                "greifen"
+            ]
+        },
+        "215": {
+            "input": "headline",
+            "output": "Schlagzeile",
+            "possible_translations": [
+                "Schlagzeile"
+            ]
+        },
+        "216": {
+            "input": "participant",
+            "output": "Teilnehmer",
+            "possible_translations": [
+                "Teilnehmerin",
+                "Teilnehmer"
+            ]
+        },
+        "217": {
+            "input": "brake",
+            "output": "Bremse",
+            "possible_translations": [
+                "Bremse",
+                "bremsen"
+            ]
+        },
+        "218": {
+            "input": "murderer",
+            "output": "M\u00f6rder",
+            "possible_translations": [
+                "M\u00f6rderin",
+                "M\u00f6rder"
+            ]
+        },
+        "219": {
+            "input": "fluoride",
+            "output": "Fluorid",
+            "possible_translations": [
+                "Fluorid"
+            ]
+        },
+        "220": {
+            "input": "expertise",
+            "output": "Expertise",
+            "possible_translations": [
+                "Expertise"
+            ]
+        },
+        "221": {
+            "input": "citadel",
+            "output": "Zitadelle",
+            "possible_translations": [
+                "Zitadelle"
+            ]
+        },
+        "222": {
+            "input": "cord",
+            "output": "Schnur",
+            "possible_translations": [
+                "Kordel",
+                "Cord",
+                "Schnur",
+                "Kabel"
+            ]
+        },
+        "223": {
+            "input": "cinematography",
+            "output": "Lichtbildkunst",
+            "possible_translations": [
+                "Lichtbildkunst"
+            ]
+        },
+        "224": {
+            "input": "autism",
+            "output": "Autismus",
+            "possible_translations": [
+                "Autismus"
+            ]
+        },
+        "225": {
+            "input": "lesson",
+            "output": "Lehre",
+            "possible_translations": [
+                "Lektion",
+                "Stunde",
+                "Lehre",
+                "Unterricht",
+                "Lehrstunde"
+            ]
+        },
+        "226": {
+            "input": "genome",
+            "output": "Genom",
+            "possible_translations": [
+                "Genom"
+            ]
+        },
+        "227": {
+            "input": "diffusion",
+            "output": "Diffusion",
+            "possible_translations": [
+                "Diffusion"
+            ]
+        },
+        "228": {
+            "input": "privacy",
+            "output": "Zur\u00fcckgezogenheit",
+            "possible_translations": [
+                "Privatsph\u00e4re",
+                "Zur\u00fcckgezogenheit"
+            ]
+        },
+        "229": {
+            "input": "apparatus",
+            "output": "Apparat",
+            "possible_translations": [
+                "Apparat"
+            ]
+        },
+        "230": {
+            "input": "libretto",
+            "output": "Libretto",
+            "possible_translations": [
+                "Libretto"
+            ]
+        },
+        "231": {
+            "input": "peasant",
+            "output": "Bauer",
+            "possible_translations": [
+                "Proletin",
+                "B\u00e4uerin",
+                "Landfrau",
+                "Bauernbub",
+                "Plebejerin",
+                "Bauernjunge",
+                "Prolet",
+                "Banausin",
+                "Bauersfrau",
+                "Dorfbewohnerin",
+                "Landmann",
+                "Landarbeiter",
+                "D\u00f6rflerin",
+                "Dorfbewohner",
+                "Bauer",
+                "Bauernl\u00fcmmel",
+                "Banause",
+                "D\u00f6rfler",
+                "Plebejer",
+                "Bauernm\u00e4dchen"
+            ]
+        },
+        "232": {
+            "input": "capitalism",
+            "output": "Kapitalismus",
+            "possible_translations": [
+                "Kapitalismus"
+            ]
+        },
+        "233": {
+            "input": "contempt",
+            "output": "Verachtung",
+            "possible_translations": [
+                "Blamage",
+                "Beamtenbeleidigung",
+                "Verachtung",
+                "Schande",
+                "Mi\u00dfachtung"
+            ]
+        },
+        "234": {
+            "input": "booklet",
+            "output": "Heft",
+            "possible_translations": [
+                "Brosch\u00fcre",
+                "Heft"
+            ]
+        },
+        "235": {
+            "input": "prosecutor",
+            "output": "Staatsanwalt",
+            "possible_translations": [
+                "Staatsanwalt",
+                "Staatsanw\u00e4ltin"
+            ]
+        },
+        "236": {
+            "input": "chorale",
+            "output": "Chor",
+            "possible_translations": [
+                "Chor",
+                "Choral"
+            ]
+        },
+        "237": {
+            "input": "amusement",
+            "output": "Am\u00fcsement",
+            "possible_translations": [
+                "Unterhaltung",
+                "Vergn\u00fcgen",
+                "Entertainment",
+                "Am\u00fcsement"
+            ]
+        },
+        "238": {
+            "input": "royalty",
+            "output": "Nutzungsgeb\u00fchr",
+            "possible_translations": [
+                "Nutzungsgeb\u00fchr"
+            ]
+        },
+        "239": {
+            "input": "restriction",
+            "output": "Beschr\u00e4nkung",
+            "possible_translations": [
+                "Einschr\u00e4nkung",
+                "Verbot",
+                "Beschr\u00e4nkung"
+            ]
+        },
+        "240": {
+            "input": "gust",
+            "output": "B\u00f6",
+            "possible_translations": [
+                "B\u00f6"
+            ]
+        },
+        "241": {
+            "input": "tent",
+            "output": "Zelt",
+            "possible_translations": [
+                "Zelt"
+            ]
+        },
+        "242": {
+            "input": "expectation",
+            "output": "Erwartung",
+            "possible_translations": [
+                "Erwartung"
+            ]
+        },
+        "243": {
+            "input": "pilgrimage",
+            "output": "Wallfahrt",
+            "possible_translations": [
+                "pilgern",
+                "Wallfahrt"
+            ]
+        },
+        "244": {
+            "input": "legitimacy",
+            "output": "Rechtm\u00e4\u00dfigkeit",
+            "possible_translations": [
+                "Legitimit\u00e4t",
+                "Rechtm\u00e4\u00dfigkeit"
+            ]
+        },
+        "245": {
+            "input": "meditation",
+            "output": "Meditation",
+            "possible_translations": [
+                "Meditation"
+            ]
+        },
+        "246": {
+            "input": "analogy",
+            "output": "Analogie",
+            "possible_translations": [
+                "Analogie"
+            ]
+        },
+        "247": {
+            "input": "socialism",
+            "output": "Sozialismus",
+            "possible_translations": [
+                "Sozialismus"
+            ]
+        },
+        "248": {
+            "input": "commuter",
+            "output": "Pendler",
+            "possible_translations": [
+                "Pendler"
+            ]
+        },
+        "249": {
+            "input": "limb",
+            "output": "Gliedma\u00dfe",
+            "possible_translations": [
+                "Glied",
+                "zergliedern",
+                "Gliedma\u00dfe",
+                "Extremit\u00e4ten",
+                "Gliedma\u00dfen"
+            ]
+        },
+        "250": {
+            "input": "cake",
+            "output": "St\u00fcck",
+            "possible_translations": [
+                "Kuchen",
+                "St\u00fcck"
+            ]
+        },
+        "251": {
+            "input": "vitamin",
+            "output": "Vitamin",
+            "possible_translations": [
+                "Vitamin"
+            ]
+        },
+        "252": {
+            "input": "podium",
+            "output": "Podium",
+            "possible_translations": [
+                "Podien",
+                "Podium"
+            ]
+        },
+        "253": {
+            "input": "algorithm",
+            "output": "Algorithmus",
+            "possible_translations": [
+                "Algorithmus"
+            ]
+        },
+        "254": {
+            "input": "segregation",
+            "output": "Rassentrennung",
+            "possible_translations": [
+                "Rassentrennung",
+                "Geschlechtertrennung",
+                "Trennung"
+            ]
+        },
+        "255": {
+            "input": "worry",
+            "output": "Sorge",
+            "possible_translations": [
+                "besorgt sein",
+                "Sorge",
+                "e.g. \"mach dir keine Sorgen\"]",
+                "besorgen",
+                "sich Sorgen machen ] is in the dative case"
+            ]
+        },
+        "256": {
+            "input": "molecule",
+            "output": "Molek\u00fcl",
+            "possible_translations": [
+                "Molek\u00fcl"
+            ]
+        },
+        "257": {
+            "input": "teaser",
+            "output": "Teaser",
+            "possible_translations": [
+                "Teaser"
+            ]
+        },
+        "258": {
+            "input": "nursery",
+            "output": "G\u00e4rtnerei",
+            "possible_translations": [
+                "Kinderzimmer",
+                "Kindergarten",
+                "Baumschule",
+                "Kinderstube",
+                "G\u00e4rtnerei"
+            ]
+        },
+        "259": {
+            "input": "chancellor",
+            "output": "Kanzler",
+            "possible_translations": [
+                "Kanzler",
+                "Bundeskanzlerin",
+                "Kanzlerin",
+                "Bundeskanzler"
+            ]
+        },
+        "260": {
+            "input": "daytime",
+            "output": "heller Tag",
+            "possible_translations": [
+                "Tageszeit",
+                "heller Tag"
+            ]
+        },
+        "261": {
+            "input": "cook",
+            "output": "Koch",
+            "possible_translations": [
+                "Koch",
+                "kochend hei\u00df sein",
+                "kochen",
+                "K\u00f6chin",
+                "garen"
+            ]
+        },
+        "262": {
+            "input": "lure",
+            "output": "K\u00f6der",
+            "possible_translations": [
+                "anlocken",
+                "Lockmittel",
+                "Lockvogel",
+                "locken",
+                "Lure",
+                "Anlockungsmittel",
+                "K\u00f6der",
+                "k\u00f6dern",
+                "Lockung",
+                "Reiz"
+            ]
+        },
+        "263": {
+            "input": "scratch",
+            "output": "Kratzer",
+            "possible_translations": [
+                "verkratzen",
+                "kratzen",
+                "zerkratzen",
+                "Kratzer"
+            ]
+        },
+        "264": {
+            "input": "vulnerability",
+            "output": "Verwundbarkeit",
+            "possible_translations": [
+                "Verwundbarkeit"
+            ]
+        },
+        "265": {
+            "input": "staple",
+            "output": "Grundnahrungsmittel",
+            "possible_translations": [
+                "Grundnahrungsmittel",
+                "Grundversorgung",
+                "Heftklammer",
+                "Ausgangsmaterial"
+            ]
+        },
+        "266": {
+            "input": "guess",
+            "output": "Vermutung",
+            "possible_translations": [
+                "sch\u00e4tzen",
+                "raten",
+                "Vermutung",
+                "erraten"
+            ]
+        },
+        "267": {
+            "input": "gamma",
+            "output": "Gamma",
+            "possible_translations": [
+                "Gamma"
+            ]
+        },
+        "268": {
+            "input": "bubble",
+            "output": "Blase",
+            "possible_translations": [
+                "Blase",
+                "blubbern"
+            ]
+        },
+        "269": {
+            "input": "exclusion",
+            "output": "Exklusion",
+            "possible_translations": [
+                "Exklusion"
+            ]
+        },
+        "270": {
+            "input": "relativity",
+            "output": "Relativit\u00e4t",
+            "possible_translations": [
+                "Relativit\u00e4t"
+            ]
+        },
+        "271": {
+            "input": "sociology",
+            "output": "Soziologie",
+            "possible_translations": [
+                "Soziologie",
+                "Gesellschaftskunde"
+            ]
+        },
+        "272": {
+            "input": "stealth",
+            "output": "Heimlichkeit",
+            "possible_translations": [
+                "Heimlichkeit"
+            ]
+        },
+        "273": {
+            "input": "scouting",
+            "output": "Pfadfinderbewegung",
+            "possible_translations": [
+                "Pfadfinderbewegung"
+            ]
+        },
+        "274": {
+            "input": "affinity",
+            "output": "Affinit\u00e4t",
+            "possible_translations": [
+                "Verwandtschaft",
+                "Affinit\u00e4t"
+            ]
+        },
+        "275": {
+            "input": "litter",
+            "output": "Wurf",
+            "possible_translations": [
+                "Streu",
+                "Trage",
+                "Abfall",
+                "S\u00e4nfte",
+                "ferkeln",
+                "Abfall wegwerfen",
+                "Wurf",
+                "Bahre"
+            ]
+        },
+        "276": {
+            "input": "outlet",
+            "output": "Direktverkauf",
+            "possible_translations": [
+                "Direktverkauf",
+                "Steckdose",
+                "Ausgang"
+            ]
+        },
+        "277": {
+            "input": "cheek",
+            "output": "Backe",
+            "possible_translations": [
+                "Backe",
+                "Stirn",
+                "Wange"
+            ]
+        },
+        "278": {
+            "input": "forehead",
+            "output": "Stirn",
+            "possible_translations": [
+                "Stirn"
+            ]
+        },
+        "279": {
+            "input": "obligation",
+            "output": "Verpflichtung",
+            "possible_translations": [
+                "Pflicht",
+                "Verpflichtung"
+            ]
+        },
+        "280": {
+            "input": "valve",
+            "output": "Ventil",
+            "possible_translations": [
+                "Ventil",
+                "Klappe"
+            ]
+        },
+        "281": {
+            "input": "dependence",
+            "output": "Abh\u00e4ngigkeit",
+            "possible_translations": [
+                "Abh\u00e4ngigkeit"
+            ]
+        },
+        "282": {
+            "input": "flour",
+            "output": "Mehl",
+            "possible_translations": [
+                "bemehlen",
+                "Mehl"
+            ]
+        },
+        "283": {
+            "input": "wrist",
+            "output": "Handgelenk",
+            "possible_translations": [
+                "Handgelenk"
+            ]
+        },
+        "284": {
+            "input": "literacy",
+            "output": "Lese- und Schreibf\u00e4higkeit",
+            "possible_translations": [
+                "Bildung",
+                "Lese- und Schreibf\u00e4higkeit",
+                "Kenntnisse"
+            ]
+        },
+        "285": {
+            "input": "outlook",
+            "output": "Aussicht",
+            "possible_translations": [
+                "Einstellung",
+                "Aussichtspunkt",
+                "Aussicht",
+                "Ansichten",
+                "Ausblick"
+            ]
+        },
+        "286": {
+            "input": "mutation",
+            "output": "Mutation",
+            "possible_translations": [
+                "Mutation"
+            ]
+        },
+        "287": {
+            "input": "archaeologist",
+            "output": "Arch\u00e4ologe",
+            "possible_translations": [
+                "Arch\u00e4ologe",
+                "Arch\u00e4ologin"
+            ]
+        },
+        "288": {
+            "input": "activation",
+            "output": "Aktivierung",
+            "possible_translations": [
+                "Aktivierung",
+                "Aktivieren"
+            ]
+        },
+        "289": {
+            "input": "simulation",
+            "output": "Simulation",
+            "possible_translations": [
+                "Simulation"
+            ]
+        },
+        "290": {
+            "input": "subscription",
+            "output": "Abonnement",
+            "possible_translations": [
+                "Abonnement"
+            ]
+        },
+        "291": {
+            "input": "synonym",
+            "output": "Synonym",
+            "possible_translations": [
+                "Synonym"
+            ]
+        },
+        "292": {
+            "input": "recession",
+            "output": "Rezession",
+            "possible_translations": [
+                "Rezession"
+            ]
+        },
+        "293": {
+            "input": "hunger",
+            "output": "Hunger",
+            "possible_translations": [
+                "hungern",
+                "Hunger"
+            ]
+        },
+        "294": {
+            "input": "yoga",
+            "output": "Yoga",
+            "possible_translations": [
+                "Yoga"
+            ]
+        },
+        "295": {
+            "input": "induction",
+            "output": "Induktion",
+            "possible_translations": [
+                "Induktion"
+            ]
+        },
+        "296": {
+            "input": "thread",
+            "output": "Thema",
+            "possible_translations": [
+                "einf\u00e4deln",
+                "roter Faden",
+                "Thread",
+                "durchkommen",
+                "Diskussionsfaden",
+                "passieren",
+                "Zwirn",
+                "Thema",
+                "Faden",
+                "Garn"
+            ]
+        },
+        "297": {
+            "input": "plaster",
+            "output": "Gips",
+            "possible_translations": [
+                "Salbe",
+                "Putz",
+                "Gipsverband",
+                "Gips",
+                "Stuck"
+            ]
+        },
+        "298": {
+            "input": "cinematographer",
+            "output": "Kameramann",
+            "possible_translations": [
+                "Kamerafrau",
+                "Kameramann"
+            ]
+        },
+        "299": {
+            "input": "generator",
+            "output": "Generator",
+            "possible_translations": [
+                "Generator"
+            ]
+        },
+        "300": {
+            "input": "narration",
+            "output": "Erz\u00e4hlung",
+            "possible_translations": [
+                "Erz\u00e4hlung"
+            ]
+        },
+        "301": {
+            "input": "obstacle",
+            "output": "Hindernis",
+            "possible_translations": [
+                "Hindernis"
+            ]
+        },
+        "302": {
+            "input": "subfamily",
+            "output": "Unterfamilie",
+            "possible_translations": [
+                "Unterfamilie"
+            ]
+        },
+        "303": {
+            "input": "senate",
+            "output": "Senat",
+            "possible_translations": [
+                "Senat"
+            ]
+        },
+        "304": {
+            "input": "reservation",
+            "output": "Reservierung",
+            "possible_translations": [
+                "Vorbehalt",
+                "Vorbestellung",
+                "Bedenken",
+                "Reservierung",
+                "Reservat"
+            ]
+        },
+        "305": {
+            "input": "workforce",
+            "output": "Belegschaft",
+            "possible_translations": [
+                "Belegschaft",
+                "Arbeitskr\u00e4fte"
+            ]
+        },
+        "306": {
+            "input": "pond",
+            "output": "Teich",
+            "possible_translations": [
+                "Teich",
+                "Der Gro\u00dfe Teich"
+            ]
+        },
+        "307": {
+            "input": "fatigue",
+            "output": "Erm\u00fcdung",
+            "possible_translations": [
+                "Erm\u00fcdung",
+                "erm\u00fcden",
+                "\u00dcberdruss",
+                "Schlappheit",
+                "M\u00fcdigkeit",
+                "Ersch\u00f6pfung"
+            ]
+        },
+        "308": {
+            "input": "flexibility",
+            "output": "Flexibilit\u00e4t",
+            "possible_translations": [
+                "Flexibilit\u00e4t"
+            ]
+        },
+        "309": {
+            "input": "crane",
+            "output": "Kranich",
+            "possible_translations": [
+                "Kran",
+                "Kranich"
+            ]
+        },
+        "310": {
+            "input": "cassette",
+            "output": "Kassette",
+            "possible_translations": [
+                "Zahnkranzpaket",
+                "Tonkassette",
+                "Audiokassette",
+                "Kassette",
+                "Videokassette"
+            ]
+        },
+        "311": {
+            "input": "courtship",
+            "output": "Brautwerbung",
+            "possible_translations": [
+                "Brautwerbung"
+            ]
+        },
+        "312": {
+            "input": "adulthood",
+            "output": "Erwachsenenalter",
+            "possible_translations": [
+                "Erwachsenenalter"
+            ]
+        },
+        "313": {
+            "input": "seller",
+            "output": "Verk\u00e4ufer",
+            "possible_translations": [
+                "Verk\u00e4ufer",
+                "Verk\u00e4uferin"
+            ]
+        },
+        "314": {
+            "input": "grunge",
+            "output": "Schmutz",
+            "possible_translations": [
+                "Schmutz",
+                "Dreck",
+                "Grunge"
+            ]
+        },
+        "315": {
+            "input": "sergeant",
+            "output": "Stabsunteroffizier",
+            "possible_translations": [
+                "Stabsunteroffizier"
+            ]
+        },
+        "316": {
+            "input": "ventilation",
+            "output": "L\u00fcftung",
+            "possible_translations": [
+                "L\u00fcftung"
+            ]
+        },
+        "317": {
+            "input": "peer",
+            "output": "Adeliger",
+            "possible_translations": [
+                "Adelige",
+                "Edelfrau",
+                "sp\u00e4hen",
+                "Edelmann",
+                "Adeliger"
+            ]
+        },
+        "318": {
+            "input": "humidity",
+            "output": "Luftfeuchtigkeit",
+            "possible_translations": [
+                "Luftfeuchtigkeit",
+                "Feuchtigkeit"
+            ]
+        },
+        "319": {
+            "input": "documentation",
+            "output": "Dokumentation",
+            "possible_translations": [
+                "Dokumentation"
+            ]
+        },
+        "320": {
+            "input": "obsession",
+            "output": "Besessenheit",
+            "possible_translations": [
+                "Obsession",
+                "fixe Idee",
+                "Besessenheit"
+            ]
+        },
+        "321": {
+            "input": "contamination",
+            "output": "Verunreinigung ; Verseuchung",
+            "possible_translations": [
+                "Kontamination",
+                "Verunreinigung ; Verseuchung"
+            ]
+        },
+        "322": {
+            "input": "sickness",
+            "output": "\u00dcbelkeit",
+            "possible_translations": [
+                "\u00dcbelkeit",
+                "Krankheit"
+            ]
+        },
+        "323": {
+            "input": "antiquity",
+            "output": "Antike",
+            "possible_translations": [
+                "Antike"
+            ]
+        },
+        "324": {
+            "input": "prostitution",
+            "output": "Prostitution",
+            "possible_translations": [
+                "Prostitution"
+            ]
+        },
+        "325": {
+            "input": "listener",
+            "output": "Zuh\u00f6rer",
+            "possible_translations": [
+                "Zuh\u00f6rer",
+                "Zuh\u00f6rerin"
+            ]
+        },
+        "326": {
+            "input": "cocaine",
+            "output": "Kokain",
+            "possible_translations": [
+                "Kokain"
+            ]
+        },
+        "327": {
+            "input": "reel",
+            "output": "Haspel",
+            "possible_translations": [
+                "taumeln",
+                "Spule",
+                "Haspel"
+            ]
+        },
+        "328": {
+            "input": "vocabulary",
+            "output": "Vokabular",
+            "possible_translations": [
+                "Wortschatz",
+                "Vokabular",
+                "Vokabeln"
+            ]
+        },
+        "329": {
+            "input": "birthplace",
+            "output": "Geburtsort",
+            "possible_translations": [
+                "Geburtsort"
+            ]
+        },
+        "330": {
+            "input": "spectacle",
+            "output": "Spektakel",
+            "possible_translations": [
+                "Schauspiel",
+                "Spektakel"
+            ]
+        },
+        "331": {
+            "input": "swamp",
+            "output": "Sumpf",
+            "possible_translations": [
+                "Sumpf",
+                "\u00fcberschwemmen",
+                "Moor",
+                "\u00fcberfluten"
+            ]
+        },
+        "332": {
+            "input": "crusade",
+            "output": "Kreuzzug",
+            "possible_translations": [
+                "Kreuzzug",
+                "Feldzug"
+            ]
+        },
+        "333": {
+            "input": "ink",
+            "output": "Tinte",
+            "possible_translations": [
+                "Tinte"
+            ]
+        },
+        "334": {
+            "input": "penis",
+            "output": "Penis",
+            "possible_translations": [
+                "Glied",
+                "Penis",
+                "Schwanz"
+            ]
+        },
+        "335": {
+            "input": "logging",
+            "output": "aufzeichnen",
+            "possible_translations": [
+                "aufzeichnen"
+            ]
+        },
+        "336": {
+            "input": "pathway",
+            "output": "Bahn",
+            "possible_translations": [
+                "Bahn",
+                "Pfad"
+            ]
+        },
+        "337": {
+            "input": "prejudice",
+            "output": "Vorurteil",
+            "possible_translations": [
+                "Voreingenommenheit",
+                "Vorurteil"
+            ]
+        },
+        "338": {
+            "input": "analyst",
+            "output": "Analytiker",
+            "possible_translations": [
+                "Analytiker"
+            ]
+        },
+        "339": {
+            "input": "bravery",
+            "output": "Tapferkeit",
+            "possible_translations": [
+                "Tapferkeit"
+            ]
+        },
+        "340": {
+            "input": "clone",
+            "output": "Klon",
+            "possible_translations": [
+                "klonen",
+                "Klon"
+            ]
+        },
+        "341": {
+            "input": "rudder",
+            "output": "Steuerruder",
+            "possible_translations": [
+                "Steuerruder",
+                "Steuer",
+                "Ruder"
+            ]
+        },
+        "342": {
+            "input": "shake",
+            "output": "Sch\u00fctteln",
+            "possible_translations": [
+                "ersch\u00fcttern",
+                "h\u00e4ndesch\u00fctteln",
+                "sch\u00fctteln",
+                "Sch\u00fctteln",
+                "Milchshake"
+            ]
+        },
+        "343": {
+            "input": "swift",
+            "output": "Segler",
+            "possible_translations": [
+                "Segler",
+                "schnell"
+            ]
+        },
+        "344": {
+            "input": "wardrobe",
+            "output": "Garderobe",
+            "possible_translations": [
+                "Kleiderschrank",
+                "Garderobe"
+            ]
+        },
+        "345": {
+            "input": "liquor",
+            "output": "alkoholisches Getr\u00e4nk",
+            "possible_translations": [
+                "alkoholisches Getr\u00e4nk"
+            ]
+        },
+        "346": {
+            "input": "reliability",
+            "output": "Zuverl\u00e4ssigkeit",
+            "possible_translations": [
+                "Zuverl\u00e4ssigkeit"
+            ]
+        },
+        "347": {
+            "input": "consistency",
+            "output": "Konsistenz",
+            "possible_translations": [
+                "Konsistenz",
+                "Widerspruchsfreiheit"
+            ]
+        },
+        "348": {
+            "input": "degradation",
+            "output": "Degradierung",
+            "possible_translations": [
+                "Degradierung"
+            ]
+        },
+        "349": {
+            "input": "rendezvous",
+            "output": "Rendezvous",
+            "possible_translations": [
+                "sich treffen",
+                "Rendezvous"
+            ]
+        },
+        "350": {
+            "input": "stripe",
+            "output": "Streifen",
+            "possible_translations": [
+                "Streifen"
+            ]
+        },
+        "351": {
+            "input": "cloverleaf",
+            "output": "Kleeblatt",
+            "possible_translations": [
+                "Kleeblatt"
+            ]
+        },
+        "352": {
+            "input": "antibody",
+            "output": "Antik\u00f6rper",
+            "possible_translations": [
+                "Antik\u00f6rper"
+            ]
+        },
+        "353": {
+            "input": "salvation",
+            "output": "Erl\u00f6sung",
+            "possible_translations": [
+                "Erl\u00f6sung",
+                "Rettung"
+            ]
+        },
+        "354": {
+            "input": "alphabet",
+            "output": "Alphabet",
+            "possible_translations": [
+                "Alphabet"
+            ]
+        },
+        "355": {
+            "input": "modernization",
+            "output": "Modernisierung",
+            "possible_translations": [
+                "Modernisierung"
+            ]
+        },
+        "356": {
+            "input": "creativity",
+            "output": "Kreativit\u00e4t",
+            "possible_translations": [
+                "Kreativit\u00e4t"
+            ]
+        },
+        "357": {
+            "input": "sampling",
+            "output": "Abtastung",
+            "possible_translations": [
+                "Abtastung"
+            ]
+        },
+        "358": {
+            "input": "botanist",
+            "output": "Botaniker",
+            "possible_translations": [
+                "Botaniker",
+                "Pflanzenkundlerin",
+                "Pflanzenkundler",
+                "Botanikerin"
+            ]
+        },
+        "359": {
+            "input": "injection",
+            "output": "Injektion",
+            "possible_translations": [
+                "Injektion"
+            ]
+        },
+        "360": {
+            "input": "diabetes",
+            "output": "Diabetes",
+            "possible_translations": [
+                "Zuckerkrankheit",
+                "Zucker",
+                "Diabetes"
+            ]
+        },
+        "361": {
+            "input": "wreckage",
+            "output": "Tr\u00fcmmer",
+            "possible_translations": [
+                "Tr\u00fcmmer"
+            ]
+        },
+        "362": {
+            "input": "obituary",
+            "output": "Nachruf",
+            "possible_translations": [
+                "Traueranzeige",
+                "Todesanzeige",
+                "Nachruf",
+                "Nekrolog"
+            ]
+        },
+        "363": {
+            "input": "cone",
+            "output": "Kegel",
+            "possible_translations": [
+                "Kegelmantel",
+                "Zapfen",
+                "Kegel"
+            ]
+        },
+        "364": {
+            "input": "messenger",
+            "output": "Kurier",
+            "possible_translations": [
+                "Kurier",
+                "Botschafter",
+                "Bote"
+            ]
+        },
+        "365": {
+            "input": "endurance",
+            "output": "Ausdauer",
+            "possible_translations": [
+                "Ausdauer"
+            ]
+        },
+        "366": {
+            "input": "abandonment",
+            "output": "\u00dcberlassen",
+            "possible_translations": [
+                "Preisgabe",
+                "Aufgabe",
+                "\u00dcberlassen",
+                "Hinterlassung"
+            ]
+        },
+        "367": {
+            "input": "localization",
+            "output": "Lokalisieren",
+            "possible_translations": [
+                "Lokalisieren",
+                "Lokalisierung"
+            ]
+        },
+        "368": {
+            "input": "rubble",
+            "output": "Schutt",
+            "possible_translations": [
+                "Schutt"
+            ]
+        },
+        "369": {
+            "input": "granddaughter",
+            "output": "Enkelin",
+            "possible_translations": [
+                "Enkelin"
+            ]
+        },
+        "370": {
+            "input": "advancement",
+            "output": "Fortschritt",
+            "possible_translations": [
+                "Fortschritt"
+            ]
+        },
+        "371": {
+            "input": "credibility",
+            "output": "Glaubw\u00fcrdigkeit",
+            "possible_translations": [
+                "Glaubw\u00fcrdigkeit"
+            ]
+        },
+        "372": {
+            "input": "excellence",
+            "output": "Vortrefflichkeit",
+            "possible_translations": [
+                "Vortrefflichkeit"
+            ]
+        },
+        "373": {
+            "input": "repetition",
+            "output": "Wiederholung",
+            "possible_translations": [
+                "Wiederholung",
+                "Repetition"
+            ]
+        },
+        "374": {
+            "input": "neglect",
+            "output": "Vernachl\u00e4ssigung",
+            "possible_translations": [
+                "Nachl\u00e4ssigkeit",
+                "missachten",
+                "Vernachl\u00e4ssigung",
+                "vernachl\u00e4ssigen"
+            ]
+        },
+        "375": {
+            "input": "forage",
+            "output": "fouragieren",
+            "possible_translations": [
+                "fouragieren",
+                "herumsuchen",
+                "Pferdefutter",
+                "Viehfutter",
+                "Fourage"
+            ]
+        },
+        "376": {
+            "input": "voter",
+            "output": "W\u00e4hler",
+            "possible_translations": [
+                "W\u00e4hler",
+                "W\u00e4hlerin"
+            ]
+        },
+        "377": {
+            "input": "hiking",
+            "output": "Bergwandern",
+            "possible_translations": [
+                "Bergwandern",
+                "Wandern"
+            ]
+        },
+        "378": {
+            "input": "witchcraft",
+            "output": "Hexerei",
+            "possible_translations": [
+                "Hexerei"
+            ]
+        },
+        "379": {
+            "input": "strand",
+            "output": "Strand",
+            "possible_translations": [
+                "Str\u00e4hne",
+                "Strand",
+                "Strang"
+            ]
+        },
+        "380": {
+            "input": "ceasefire",
+            "output": "Waffenstillstand",
+            "possible_translations": [
+                "Feuerpause",
+                "Waffenstillstand"
+            ]
+        },
+        "381": {
+            "input": "accompaniment",
+            "output": "Begleitung",
+            "possible_translations": [
+                "Begleitung"
+            ]
+        },
+        "382": {
+            "input": "periphery",
+            "output": "Peripherie",
+            "possible_translations": [
+                "Peripherie"
+            ]
+        },
+        "383": {
+            "input": "modeling",
+            "output": "Modellierung",
+            "possible_translations": [
+                "Modellierung"
+            ]
+        },
+        "384": {
+            "input": "vapor",
+            "output": "Dampf",
+            "possible_translations": [
+                "prahlen",
+                "Dampf",
+                "dampfen",
+                "verdampfen"
+            ]
+        },
+        "385": {
+            "input": "inventor",
+            "output": "Erfinder",
+            "possible_translations": [
+                "Erfinder",
+                "Erfinderin"
+            ]
+        },
+        "386": {
+            "input": "asset",
+            "output": "Aktiva",
+            "possible_translations": [
+                "Aktiva",
+                "Verm\u00f6genswert"
+            ]
+        },
+        "387": {
+            "input": "posture",
+            "output": "Haltung",
+            "possible_translations": [
+                "Haltung"
+            ]
+        },
+        "388": {
+            "input": "container",
+            "output": "Beh\u00e4lter",
+            "possible_translations": [
+                "Beh\u00e4ltnis",
+                "Beh\u00e4lter",
+                "Container",
+                "Gef\u00e4\u00df"
+            ]
+        },
+        "389": {
+            "input": "discontent",
+            "output": "Unzufriedenheit",
+            "possible_translations": [
+                "Unzufriedenheit"
+            ]
+        },
+        "390": {
+            "input": "resentment",
+            "output": "Ressentiment",
+            "possible_translations": [
+                "Ressentiment",
+                "Missgunst",
+                "Abneigung"
+            ]
+        },
+        "391": {
+            "input": "envelope",
+            "output": "H\u00fclle",
+            "possible_translations": [
+                "Umschlag",
+                "H\u00fclle",
+                "H\u00fcllkurve",
+                "Briefumschlag"
+            ]
+        },
+        "392": {
+            "input": "cartoonist",
+            "output": "Cartoonist",
+            "possible_translations": [
+                "Comiczeichner",
+                "Trickzeichnerin",
+                "Karikaturenzeichner",
+                "Karikaturist",
+                "Cartoonist",
+                "Karikaturistin",
+                "Zeichnerin",
+                "Zeichner",
+                "Comiczeichnerin",
+                "Cartoonistin",
+                "Karikaturenzeichnerin",
+                "Trickzeichner"
+            ]
+        },
+        "393": {
+            "input": "diversion",
+            "output": "Umleitung",
+            "possible_translations": [
+                "Unterhaltung",
+                "Entw\u00e4sserung",
+                "Umleitung",
+                "Zerstreuung",
+                "Ablenkung"
+            ]
+        },
+        "394": {
+            "input": "tumor",
+            "output": "Tumor",
+            "possible_translations": [
+                "Tumor"
+            ]
+        },
+        "395": {
+            "input": "landslide",
+            "output": "Erdrutsch",
+            "possible_translations": [
+                "Erdrutsch"
+            ]
+        },
+        "396": {
+            "input": "shelf",
+            "output": "Schelf",
+            "possible_translations": [
+                "Schelf",
+                "Regal"
+            ]
+        },
+        "397": {
+            "input": "deterioration",
+            "output": "Verschlimmerung",
+            "possible_translations": [
+                "Verschlimmerung"
+            ]
+        },
+        "398": {
+            "input": "metabolism",
+            "output": "Stoffwechsel",
+            "possible_translations": [
+                "Metabolismus",
+                "Stoffwechsel"
+            ]
+        },
+        "399": {
+            "input": "thorium",
+            "output": "Thorium",
+            "possible_translations": [
+                "Thorium"
+            ]
+        },
+        "400": {
+            "input": "echo",
+            "output": "Echo",
+            "possible_translations": [
+                "Widerhall",
+                "hallen",
+                "zur\u00fcckwerfen",
+                "wiederholen",
+                "Bildschirmecho",
+                "Echo",
+                "Emil",
+                "widerhallen",
+                "Tastaturecho"
+            ]
+        },
+        "401": {
+            "input": "stud",
+            "output": "Stuterei",
+            "possible_translations": [
+                "Stollen",
+                "Spike",
+                "Niete",
+                "Stift",
+                "Stuterei",
+                "Gest\u00fct"
+            ]
+        },
+        "402": {
+            "input": "sermon",
+            "output": "Predigt",
+            "possible_translations": [
+                "Moralpredigt",
+                "Strafpredigt",
+                "Predigt"
+            ]
+        },
+        "403": {
+            "input": "mathematician",
+            "output": "Mathematiker",
+            "possible_translations": [
+                "Mathematiker",
+                "Mathematikerin"
+            ]
+        },
+        "404": {
+            "input": "troupe",
+            "output": "Truppe",
+            "possible_translations": [
+                "Truppe"
+            ]
+        },
+        "405": {
+            "input": "expulsion",
+            "output": "Entfernung",
+            "possible_translations": [
+                "Entfernung",
+                "Ausweisung",
+                "Vertreibung"
+            ]
+        },
+        "406": {
+            "input": "pollen",
+            "output": "Bl\u00fctenstaub",
+            "possible_translations": [
+                "Pollen",
+                "Bl\u00fctenstaub"
+            ]
+        },
+        "407": {
+            "input": "concussion",
+            "output": "Ersch\u00fctterung",
+            "possible_translations": [
+                "Ersch\u00fctterung"
+            ]
+        },
+        "408": {
+            "input": "purity",
+            "output": "Reinheit",
+            "possible_translations": [
+                "Reinheit"
+            ]
+        },
+        "409": {
+            "input": "eclipse",
+            "output": "Finsternis",
+            "possible_translations": [
+                "Finsternis",
+                "Eklipse",
+                "Sonnenfinsternis",
+                "Mondfinsternis"
+            ]
+        },
+        "410": {
+            "input": "compartment",
+            "output": "Abteil",
+            "possible_translations": [
+                "Abteil"
+            ]
+        },
+        "411": {
+            "input": "excuse",
+            "output": "Ausrede",
+            "possible_translations": [
+                "verzeihen",
+                "entschuldigen",
+                "sich entschuldigen",
+                "Ausrede"
+            ]
+        },
+        "412": {
+            "input": "gateway",
+            "output": "Gateway",
+            "possible_translations": [
+                "Einfahrt",
+                "Tor",
+                "Zugang",
+                "Protokollumsetzer",
+                "Gateway"
+            ]
+        },
+        "413": {
+            "input": "elbow",
+            "output": "Ellbogen",
+            "possible_translations": [
+                "Swiss: ellb\u00f6geln",
+                "Ellbogen"
+            ]
+        },
+        "414": {
+            "input": "pardon",
+            "output": "Vergebung",
+            "possible_translations": [
+                "vergeben",
+                "Vergebung",
+                "wie bitte?",
+                "begnadigen",
+                "wie?",
+                "was?",
+                "Verzeihung",
+                "Begnadigung",
+                "verzeihen",
+                "pardon?"
+            ]
+        },
+        "415": {
+            "input": "scent",
+            "output": "Geruch",
+            "possible_translations": [
+                "Geruch",
+                "Parf\u00fcm",
+                "wittern",
+                "F\u00e4hrte",
+                "parf\u00fcmieren",
+                "Duftstoff",
+                "Duft"
+            ]
+        },
+        "416": {
+            "input": "rhetoric",
+            "output": "Rhetorik",
+            "possible_translations": [
+                "Rhetorik"
+            ]
+        },
+        "417": {
+            "input": "pot",
+            "output": "Gras",
+            "possible_translations": [
+                "lochen",
+                "Gras",
+                "Einsatz",
+                "etwas in einen Topf werfen",
+                "Topf",
+                "Marihuana",
+                "etwas in einem Topf aufbewahren"
+            ]
+        },
+        "418": {
+            "input": "restraint",
+            "output": "Zur\u00fcckhaltung",
+            "possible_translations": [
+                "Z\u00fcgelung",
+                "Zur\u00fcckhaltung",
+                "Einschr\u00e4nkung",
+                "Zwang",
+                "Beherrschung",
+                "Kontrolle",
+                "Beschr\u00e4nkung"
+            ]
+        },
+        "419": {
+            "input": "superintendent",
+            "output": "Leiter",
+            "possible_translations": [
+                "Leiter"
+            ]
+        },
+        "420": {
+            "input": "exhaust",
+            "output": "Abgas",
+            "possible_translations": [
+                "Abgas",
+                "Auspuff",
+                "Abluft",
+                "dezimieren",
+                "ersch\u00f6pfen"
+            ]
+        },
+        "421": {
+            "input": "semifinal",
+            "output": "Halbfinale",
+            "possible_translations": [
+                "Semifinale",
+                "Halbfinale"
+            ]
+        },
+        "422": {
+            "input": "terrace",
+            "output": "Terrasse",
+            "possible_translations": [
+                "Terrasse"
+            ]
+        },
+        "423": {
+            "input": "fertility",
+            "output": "Fruchtbarkeit",
+            "possible_translations": [
+                "Fruchtbarkeit"
+            ]
+        },
+        "424": {
+            "input": "chemist",
+            "output": "Chemiker",
+            "possible_translations": [
+                "Chemiker",
+                "Chemikerin"
+            ]
+        },
+        "425": {
+            "input": "parrot",
+            "output": "Papagei",
+            "possible_translations": [
+                "Papagei",
+                "nachplappern"
+            ]
+        },
+        "426": {
+            "input": "vernacular",
+            "output": "Volkssprache",
+            "possible_translations": [
+                "Volkssprache",
+                "Umgangssprache",
+                "Idiom",
+                "Amtssprache",
+                "Dialekt"
+            ]
+        },
+        "427": {
+            "input": "smile",
+            "output": "L\u00e4cheln",
+            "possible_translations": [
+                "l\u00e4cheln",
+                "L\u00e4cheln"
+            ]
+        },
+        "428": {
+            "input": "luminosity",
+            "output": "Leuchtkraft",
+            "possible_translations": [
+                "Leuchtkraft",
+                "Helligkeit"
+            ]
+        },
+        "429": {
+            "input": "float",
+            "output": "Flo\u00df",
+            "possible_translations": [
+                "treiben",
+                "Float",
+                "borgen",
+                "Festwagen",
+                "begeben",
+                "Flo\u00df",
+                "Schwimmer",
+                "gleiten",
+                "schwimmen",
+                "schweben"
+            ]
+        },
+        "430": {
+            "input": "stallion",
+            "output": "Deckhengst",
+            "possible_translations": [
+                "Zuchthengst",
+                "Pferdehengst",
+                "Hengst",
+                "Deckhengst",
+                "Pferdem\u00e4nnchen",
+                "Sch\u00e4lhengst",
+                "Schellhengst",
+                "Besch\u00e4ler"
+            ]
+        },
+        "431": {
+            "input": "supremacy",
+            "output": "Vorherrschaft",
+            "possible_translations": [
+                "Vorherrschaft"
+            ]
+        },
+        "432": {
+            "input": "bath",
+            "output": "Bad",
+            "possible_translations": [
+                "Baden",
+                "baden",
+                "Badewanne",
+                "Bad"
+            ]
+        },
+        "433": {
+            "input": "citation",
+            "output": "ehrenvolle Erw\u00e4hnung",
+            "possible_translations": [
+                "Literaturstelle",
+                "Zitat",
+                "Vorladung",
+                "ehrenvolle Erw\u00e4hnung",
+                "Zitierung"
+            ]
+        },
+        "434": {
+            "input": "masculine",
+            "output": "Maskulinum",
+            "possible_translations": [
+                "maskulin",
+                "Maskulinum",
+                "m\u00e4nnlich"
+            ]
+        },
+        "435": {
+            "input": "builder",
+            "output": "Baumeister",
+            "possible_translations": [
+                "Erbauer",
+                "Baumeister"
+            ]
+        },
+        "436": {
+            "input": "consultation",
+            "output": "Beratung",
+            "possible_translations": [
+                "Konsultation",
+                "Beratung"
+            ]
+        },
+        "437": {
+            "input": "treasury",
+            "output": "Schatzkammer",
+            "possible_translations": [
+                "Schatzkammer"
+            ]
+        },
+        "438": {
+            "input": "neighbourhood",
+            "output": "Nachbarschaft",
+            "possible_translations": [
+                "Umgebung",
+                "Nachbarschaft"
+            ]
+        },
+        "439": {
+            "input": "blunt",
+            "output": "Blunt",
+            "possible_translations": [
+                "stumpf",
+                "ungehobelt",
+                "abstumpfen",
+                "abgestumpft",
+                "unverbl\u00fcmt",
+                "Blunt"
+            ]
+        },
+        "440": {
+            "input": "camping",
+            "output": "Camping",
+            "possible_translations": [
+                "Camping"
+            ]
+        },
+        "441": {
+            "input": "bikini",
+            "output": "Bikini",
+            "possible_translations": [
+                "Bikini"
+            ]
+        },
+        "442": {
+            "input": "techno",
+            "output": "Techno",
+            "possible_translations": [
+                "Techno"
+            ]
+        },
+        "443": {
+            "input": "conscription",
+            "output": "Wehrpflicht",
+            "possible_translations": [
+                "Wehrpflicht"
+            ]
+        },
+        "444": {
+            "input": "kidnapping",
+            "output": "Entf\u00fchrung",
+            "possible_translations": [
+                "Entf\u00fchrung",
+                "Menschenraub",
+                "Kinderraub"
+            ]
+        },
+        "445": {
+            "input": "spray",
+            "output": "Spray",
+            "possible_translations": [
+                "Spray",
+                "verspr\u00fchen",
+                "Reisig",
+                "zerst\u00e4uben",
+                "Spr\u00fchnebel"
+            ]
+        },
+        "446": {
+            "input": "feminism",
+            "output": "Feminismus",
+            "possible_translations": [
+                "Feminismus"
+            ]
+        },
+        "447": {
+            "input": "assertion",
+            "output": "Versicherung",
+            "possible_translations": [
+                "Versicherung",
+                "Zusicherung"
+            ]
+        },
+        "448": {
+            "input": "capsule",
+            "output": "Kapsel",
+            "possible_translations": [
+                "Kapsel"
+            ]
+        },
+        "449": {
+            "input": "recipe",
+            "output": "Rezept",
+            "possible_translations": [
+                "Kochrezept",
+                "Rezept"
+            ]
+        },
+        "450": {
+            "input": "compliance",
+            "output": "Einwilligung",
+            "possible_translations": [
+                "F\u00fcgsamkeit",
+                "Einwilligung"
+            ]
+        },
+        "451": {
+            "input": "sect",
+            "output": "Sekte",
+            "possible_translations": [
+                "Sekte"
+            ]
+        },
+        "452": {
+            "input": "brood",
+            "output": "Brut",
+            "possible_translations": [
+                "br\u00fcten",
+                "Brut"
+            ]
+        },
+        "453": {
+            "input": "dopamine",
+            "output": "Dopamin",
+            "possible_translations": [
+                "Dopamin"
+            ]
+        },
+        "454": {
+            "input": "chip",
+            "output": "Chip",
+            "possible_translations": [
+                "Chip",
+                "Fritte",
+                "Kartoffelchip",
+                "Pommes",
+                "Pommes frites"
+            ]
+        },
+        "455": {
+            "input": "tuition",
+            "output": "Studiengeb\u00fchr",
+            "possible_translations": [
+                "Tutorium",
+                "Studiengeb\u00fchr",
+                "Unterricht",
+                "Unterrichtsgeb\u00fchr"
+            ]
+        },
+        "456": {
+            "input": "silicon",
+            "output": "Silizium",
+            "possible_translations": [
+                "Silicium",
+                "Silizium"
+            ]
+        },
+        "457": {
+            "input": "famine",
+            "output": "Hungersnot",
+            "possible_translations": [
+                "Hungersnot",
+                "Hunger"
+            ]
+        },
+        "458": {
+            "input": "reinforcement",
+            "output": "Verst\u00e4rkung",
+            "possible_translations": [
+                "Verst\u00e4rkung"
+            ]
+        },
+        "459": {
+            "input": "dissatisfaction",
+            "output": "Unzufriedenheit",
+            "possible_translations": [
+                "Unzufriedenheit"
+            ]
+        },
+        "460": {
+            "input": "denomination",
+            "output": "Benennung",
+            "possible_translations": [
+                "Bezeichnung",
+                "St\u00fcckelung",
+                "Benennung",
+                "Konfession"
+            ]
+        },
+        "461": {
+            "input": "basket",
+            "output": "Korb",
+            "possible_translations": [
+                "Korb"
+            ]
+        },
+        "462": {
+            "input": "manipulation",
+            "output": "Manipulierung",
+            "possible_translations": [
+                "Manipulation",
+                "Manipulierung",
+                "Manipulieren"
+            ]
+        },
+        "463": {
+            "input": "insignia",
+            "output": "Insigne",
+            "possible_translations": [
+                "Abzeichen",
+                "Signum",
+                "Insigne"
+            ]
+        },
+        "464": {
+            "input": "delta",
+            "output": "Delta",
+            "possible_translations": [
+                "Delta"
+            ]
+        },
+        "465": {
+            "input": "stereotype",
+            "output": "Stereotyp",
+            "possible_translations": [
+                "Rollenklischee",
+                "Stereotypie",
+                "Stereotyp",
+                "Klischee"
+            ]
+        },
+        "466": {
+            "input": "litigation",
+            "output": "Rechtsstreit",
+            "possible_translations": [
+                "Rechtsstreit"
+            ]
+        },
+        "467": {
+            "input": "juice",
+            "output": "Saft",
+            "possible_translations": [
+                "Saft",
+                "entsaften"
+            ]
+        },
+        "468": {
+            "input": "liability",
+            "output": "Verantwortung",
+            "possible_translations": [
+                "Verantwortung",
+                "Schuld",
+                "Verpflichtung"
+            ]
+        },
+        "469": {
+            "input": "maid",
+            "output": "Dienstm\u00e4dchen",
+            "possible_translations": [
+                "Dienstm\u00e4dchen",
+                "M\u00e4dchen"
+            ]
+        },
+        "470": {
+            "input": "certainty",
+            "output": "Sicherheit",
+            "possible_translations": [
+                "Sicherheit"
+            ]
+        },
+        "471": {
+            "input": "semester",
+            "output": "Semester",
+            "possible_translations": [
+                "Semester",
+                "Halbjahr"
+            ]
+        },
+        "472": {
+            "input": "clutch",
+            "output": "Kupplung",
+            "possible_translations": [
+                "packen",
+                "ergreifen",
+                "schnappen",
+                "Kupplung",
+                "Kupplungspedal"
+            ]
+        },
+        "473": {
+            "input": "gut",
+            "output": "Darm",
+            "possible_translations": [
+                "Darmsaite",
+                "darmbesaitet",
+                "Ranzen",
+                "Bauchgef\u00fchl-",
+                "ausweiden",
+                "Bauch",
+                "instinktiv",
+                "ausnehmen",
+                "Eingeweide",
+                "Darm",
+                "Bauch-"
+            ]
+        },
+        "474": {
+            "input": "trim",
+            "output": "Trimm",
+            "possible_translations": [
+                "Trimm",
+                "stutzen",
+                "k\u00fcrzen",
+                "schlank",
+                "schm\u00fccken",
+                "zur\u00fcckschneiden",
+                "fit",
+                "gepflegt",
+                "Innenausstattung",
+                "schneiden",
+                "Segeltrimmung",
+                "nachschneiden",
+                "Verkleidung",
+                "Ausstattung"
+            ]
+        },
+        "475": {
+            "input": "hazard",
+            "output": "Gefahr",
+            "possible_translations": [
+                "Zufall",
+                "Gefahr"
+            ]
+        },
+        "476": {
+            "input": "apple",
+            "output": "Apfel",
+            "possible_translations": [
+                "Apfel",
+                "Apfelholz"
+            ]
+        },
+        "477": {
+            "input": "grenade",
+            "output": "Granate",
+            "possible_translations": [
+                "Granate"
+            ]
+        },
+        "478": {
+            "input": "gag",
+            "output": "Knebel",
+            "possible_translations": [
+                "mundtot machen",
+                "Gag",
+                "w\u00fcrgen",
+                "Witz",
+                "Knebel",
+                "Maulkorberlass"
+            ]
+        },
+        "479": {
+            "input": "brightness",
+            "output": "Helligkeit",
+            "possible_translations": [
+                "Aufgewecktheit",
+                "Helligkeit"
+            ]
+        },
+        "480": {
+            "input": "imprint",
+            "output": "Gepr\u00e4ge",
+            "possible_translations": [
+                "Abdruck",
+                "Gepr\u00e4ge",
+                "aufdrucken",
+                "einpr\u00e4gen",
+                "Impressum",
+                "abdrucken",
+                "Aufdruck"
+            ]
+        },
+        "481": {
+            "input": "remark",
+            "output": "Bemerkung",
+            "possible_translations": [
+                "Bemerkung"
+            ]
+        },
+        "482": {
+            "input": "leap",
+            "output": "Sprung",
+            "possible_translations": [
+                "h\u00fcpfen",
+                "Sprungweite",
+                "springen",
+                "Satz",
+                "einen Satz machen",
+                "Sprung"
+            ]
+        },
+        "483": {
+            "input": "nonsense",
+            "output": "Bl\u00f6dsinn",
+            "possible_translations": [
+                "Nonsens",
+                "Quatsch",
+                "Bl\u00f6dsinn",
+                "Unsinn"
+            ]
+        },
+        "484": {
+            "input": "backlash",
+            "output": "Spiel",
+            "possible_translations": [
+                "Spiel"
+            ]
+        },
+        "485": {
+            "input": "toilet",
+            "output": "Klo",
+            "possible_translations": [
+                "WC",
+                "Kloset",
+                "Toilette",
+                "Schei\u00dfladen",
+                "Klo"
+            ]
+        },
+        "486": {
+            "input": "pile",
+            "output": "Haufen",
+            "possible_translations": [
+                "beigen",
+                "Beige",
+                "Haufen",
+                "anh\u00e4ufen",
+                "Sto\u00df",
+                "aufstapeln",
+                "Pfahl",
+                "Halde",
+                "schichten",
+                "Stapel",
+                "stapeln"
+            ]
+        },
+        "487": {
+            "input": "pad",
+            "output": "Unterlage",
+            "possible_translations": [
+                "Unterlage",
+                "Polster"
+            ]
+        },
+        "488": {
+            "input": "originality",
+            "output": "Originalit\u00e4t",
+            "possible_translations": [
+                "Originalit\u00e4t"
+            ]
+        },
+        "489": {
+            "input": "registry",
+            "output": "Register",
+            "possible_translations": [
+                "Registratur",
+                "Register",
+                "Registrierung"
+            ]
+        },
+        "490": {
+            "input": "attire",
+            "output": "Anzug",
+            "possible_translations": [
+                "Aufzug",
+                "bekleiden",
+                "anziehen",
+                "Tracht",
+                "Kleidung",
+                "Anzug",
+                "kleiden"
+            ]
+        },
+        "491": {
+            "input": "pastor",
+            "output": "Pastor",
+            "possible_translations": [
+                "Pastorin",
+                "Pastor",
+                "Pfarrer",
+                "Pfarrerin"
+            ]
+        },
+        "492": {
+            "input": "verb",
+            "output": "Verb",
+            "possible_translations": [
+                "Verbum",
+                "Wandelwort",
+                "Zeitwort",
+                "Tuwort /Tunwort",
+                "Low:",
+                "T\u00e4tigkeitswort",
+                "Verb",
+                "Aussagewort;"
+            ]
+        },
+        "493": {
+            "input": "judiciary",
+            "output": "Justiz",
+            "possible_translations": [
+                "Judikative",
+                "Justiz"
+            ]
+        },
+        "494": {
+            "input": "unification",
+            "output": "Vereinigung",
+            "possible_translations": [
+                "Vereinigung"
+            ]
+        },
+        "495": {
+            "input": "tuning",
+            "output": "Anpassung",
+            "possible_translations": [
+                "Stimmung",
+                "Anpassung"
+            ]
+        },
+        "496": {
+            "input": "electorate",
+            "output": "Kurf\u00fcrstentum",
+            "possible_translations": [
+                "Kurf\u00fcrstentum",
+                "W\u00e4hlerschaft"
+            ]
+        },
+        "497": {
+            "input": "bolster",
+            "output": "Polster",
+            "possible_translations": [
+                "",
+                "in Austria",
+                "Polster"
+            ]
+        },
+        "498": {
+            "input": "taxonomy",
+            "output": "Taxonomie",
+            "possible_translations": [
+                "Taxonomie"
+            ]
+        },
+        "499": {
+            "input": "turf",
+            "output": "Rasen",
+            "possible_translations": [
+                "Rasen"
+            ]
+        },
+        "500": {
+            "input": "pony",
+            "output": "Pony",
+            "possible_translations": [
+                "Kleinpferd",
+                "Pony"
+            ]
+        },
+        "501": {
+            "input": "acceleration",
+            "output": "Beschleunigung",
+            "possible_translations": [
+                "Beschleunigung"
+            ]
+        },
+        "502": {
+            "input": "sighting",
+            "output": "Sichtung",
+            "possible_translations": [
+                "Sichtung"
+            ]
+        },
+        "503": {
+            "input": "topography",
+            "output": "Topografie",
+            "possible_translations": [
+                "Topografie"
+            ]
+        },
+        "504": {
+            "input": "dairy",
+            "output": "Molkerei",
+            "possible_translations": [
+                "Molkereiprodukte",
+                "Milchprodukte",
+                "Milchladen",
+                "Molkerei"
+            ]
+        },
+        "505": {
+            "input": "mercy",
+            "output": "Gnade",
+            "possible_translations": [
+                "Barmherzigkeit",
+                "Gnade"
+            ]
+        },
+        "506": {
+            "input": "hormone",
+            "output": "Hormon",
+            "possible_translations": [
+                "Hormon"
+            ]
+        },
+        "507": {
+            "input": "toe",
+            "output": "Zeh",
+            "possible_translations": [
+                "Zeh",
+                "Zehe",
+                "Vorspur"
+            ]
+        },
+        "508": {
+            "input": "sabotage",
+            "output": "Sabotage",
+            "possible_translations": [
+                "sabotieren",
+                "Sabotage"
+            ]
+        },
+        "509": {
+            "input": "smuggling",
+            "output": "Schmuggel",
+            "possible_translations": [
+                "Schmuggel"
+            ]
+        },
+        "510": {
+            "input": "ratification",
+            "output": "Best\u00e4tigung",
+            "possible_translations": [
+                "Ratifikation",
+                "Best\u00e4tigung",
+                "Ratifizierung"
+            ]
+        },
+        "511": {
+            "input": "forum",
+            "output": "Forum",
+            "possible_translations": [
+                "Forum"
+            ]
+        },
+        "512": {
+            "input": "telegram",
+            "output": "Telegramm",
+            "possible_translations": [
+                "Telegramm"
+            ]
+        },
+        "513": {
+            "input": "lizard",
+            "output": "Eidechse",
+            "possible_translations": [
+                "Eidechse"
+            ]
+        },
+        "514": {
+            "input": "butter",
+            "output": "Butter",
+            "possible_translations": [
+                "Butter",
+                "mit Butter bestreichen"
+            ]
+        },
+        "515": {
+            "input": "doctorate",
+            "output": "Doktorgrad",
+            "possible_translations": [
+                "Doktortitel",
+                "Doktorgrad",
+                "Doktorat"
+            ]
+        },
+        "516": {
+            "input": "convenience",
+            "output": "Annehmlichkeit",
+            "possible_translations": [
+                "Annehmlichkeit",
+                "Bequemlichkeit"
+            ]
+        },
+        "517": {
+            "input": "exposition",
+            "output": "Ausstellung",
+            "possible_translations": [
+                "Exposition",
+                "Ausstellung",
+                "Einf\u00fchrung"
+            ]
+        },
+        "518": {
+            "input": "readiness",
+            "output": "Bereitschaft",
+            "possible_translations": [
+                "Bereitschaft"
+            ]
+        },
+        "519": {
+            "input": "ribbon",
+            "output": "Farbband",
+            "possible_translations": [
+                "Farbband",
+                "Band"
+            ]
+        },
+        "520": {
+            "input": "interrogation",
+            "output": "Befragung",
+            "possible_translations": [
+                "Verh\u00f6r",
+                "Vernehmung",
+                "Befragung"
+            ]
+        },
+        "521": {
+            "input": "pornography",
+            "output": "Pornografie",
+            "possible_translations": [
+                "Pornografie"
+            ]
+        },
+        "522": {
+            "input": "pulse",
+            "output": "Puls",
+            "possible_translations": [
+                "Puls"
+            ]
+        },
+        "523": {
+            "input": "pepper",
+            "output": "Pfeffer",
+            "possible_translations": [
+                "Pfeffer",
+                "Pfefferstrauch"
+            ]
+        },
+        "524": {
+            "input": "injunction",
+            "output": "Verf\u00fcgung",
+            "possible_translations": [
+                "Verf\u00fcgung"
+            ]
+        },
+        "525": {
+            "input": "productivity",
+            "output": "Produktivit\u00e4t",
+            "possible_translations": [
+                "Produktivit\u00e4t",
+                "Leistungsf\u00e4higkeit"
+            ]
+        },
+        "526": {
+            "input": "discourse",
+            "output": "Diskurs",
+            "possible_translations": [
+                "Gespr\u00e4ch",
+                "eine Rede halten",
+                "Abhandlung",
+                "reden",
+                "Diskurs"
+            ]
+        },
+        "527": {
+            "input": "doorway",
+            "output": "T\u00fcr\u00f6ffnung",
+            "possible_translations": [
+                "T\u00fcr\u00f6ffnung"
+            ]
+        },
+        "528": {
+            "input": "distortion",
+            "output": "Verzerrung",
+            "possible_translations": [
+                "Enstellung",
+                "Zerrbild",
+                "Verdrehung",
+                "Verzerrung",
+                "Verformung",
+                "Verwindung"
+            ]
+        },
+        "529": {
+            "input": "grape",
+            "output": "Weintraube",
+            "possible_translations": [
+                "Weinbeere",
+                "Weintraube",
+                "Weinrebe"
+            ]
+        },
+        "530": {
+            "input": "whaling",
+            "output": "Walfang",
+            "possible_translations": [
+                "Walfang"
+            ]
+        },
+        "531": {
+            "input": "heel",
+            "output": "Ferse",
+            "possible_translations": [
+                "Knapp",
+                "Schuhabsatz",
+                "Kanten",
+                "Ranft",
+                "Absatz",
+                "Scherzl",
+                "Abschnitt",
+                "Knust",
+                "Ferse",
+                "technical terms in bakery trade: Anschnitt"
+            ]
+        },
+        "532": {
+            "input": "secrecy",
+            "output": "Geheimhaltung",
+            "possible_translations": [
+                "Geheimhaltung"
+            ]
+        },
+        "533": {
+            "input": "wavelength",
+            "output": "Wellenl\u00e4nge",
+            "possible_translations": [
+                "Wellenl\u00e4nge"
+            ]
+        },
+        "534": {
+            "input": "arbitration",
+            "output": "Schiedsspruch",
+            "possible_translations": [
+                "Schiedsspruch"
+            ]
+        },
+        "535": {
+            "input": "nectar",
+            "output": "Nektar",
+            "possible_translations": [
+                "Nektar"
+            ]
+        },
+        "536": {
+            "input": "prevention",
+            "output": "Pr\u00e4vention",
+            "possible_translations": [
+                "Pr\u00e4vention"
+            ]
+        },
+        "537": {
+            "input": "fringe",
+            "output": "Randgruppe",
+            "possible_translations": [
+                "Randgruppe",
+                "Rand-",
+                "Pony",
+                "Rand"
+            ]
+        },
+        "538": {
+            "input": "lockout",
+            "output": "Aussperrung",
+            "possible_translations": [
+                "Aussperrung"
+            ]
+        },
+        "539": {
+            "input": "transcription",
+            "output": "Transkription",
+            "possible_translations": [
+                "Transkription"
+            ]
+        },
+        "540": {
+            "input": "peacetime",
+            "output": "Friedenszeit",
+            "possible_translations": [
+                "Friedenszeit"
+            ]
+        },
+        "541": {
+            "input": "whistle",
+            "output": "Pfeifen",
+            "possible_translations": [
+                "pfeifen",
+                "Pfiff",
+                "Pfeifen",
+                "fl\u00f6ten",
+                "Trillerpfeife",
+                "Fl\u00f6te",
+                "Pfeife"
+            ]
+        },
+        "542": {
+            "input": "spear",
+            "output": "Speer",
+            "possible_translations": [
+                "Speer"
+            ]
+        },
+        "543": {
+            "input": "hint",
+            "output": "Hinweis",
+            "possible_translations": [
+                "Hinweis"
+            ]
+        },
+        "544": {
+            "input": "boot",
+            "output": "Stiefel",
+            "possible_translations": [
+                "starten",
+                "Stiefel",
+                "laden"
+            ]
+        },
+        "545": {
+            "input": "nationality",
+            "output": "Nationalit\u00e4t",
+            "possible_translations": [
+                "Nationalit\u00e4t"
+            ]
+        },
+        "546": {
+            "input": "puck",
+            "output": "Eishockeyscheibe",
+            "possible_translations": [
+                "Scheibe",
+                "Puck",
+                "Eishockeyscheibe"
+            ]
+        },
+        "547": {
+            "input": "titanium",
+            "output": "Titan",
+            "possible_translations": [
+                "Titan"
+            ]
+        },
+        "548": {
+            "input": "waist",
+            "output": "Taille",
+            "possible_translations": [
+                "Rumpf",
+                "Taille"
+            ]
+        },
+        "549": {
+            "input": "classroom",
+            "output": "Klassenzimmer",
+            "possible_translations": [
+                "Klassenzimmer",
+                "Klassenraum"
+            ]
+        },
+        "550": {
+            "input": "algae",
+            "output": "Algen",
+            "possible_translations": [
+                "Algen"
+            ]
+        },
+        "551": {
+            "input": "irony",
+            "output": "Ironie",
+            "possible_translations": [
+                "Ironie"
+            ]
+        },
+        "552": {
+            "input": "tap",
+            "output": "Gewindeschneider",
+            "possible_translations": [
+                "Zapfen",
+                "Wasserhahn",
+                "Zapfhahn",
+                "Mischbatterie",
+                "Hahn",
+                "mit einem Hahn versehen",
+                "abzapfen",
+                "Spund",
+                "anzapfen",
+                "Kran",
+                "Gewindeschneider",
+                "Armatur"
+            ]
+        },
+        "553": {
+            "input": "intro",
+            "output": "intro",
+            "possible_translations": [
+                "intro"
+            ]
+        },
+        "554": {
+            "input": "consul",
+            "output": "Konsul",
+            "possible_translations": [
+                "Konsul"
+            ]
+        },
+        "555": {
+            "input": "imitation",
+            "output": "Imitation",
+            "possible_translations": [
+                "Imitation",
+                "Nachahmung",
+                "Imitat",
+                "Kopie"
+            ]
+        },
+        "556": {
+            "input": "acquaintance",
+            "output": "Bekannter",
+            "possible_translations": [
+                "Bekanntschaft",
+                "Bekannte",
+                "Bekannter",
+                "Umgang"
+            ]
+        },
+        "557": {
+            "input": "destiny",
+            "output": "Schicksal",
+            "possible_translations": [
+                "Schicksal",
+                "Los"
+            ]
+        },
+        "558": {
+            "input": "rigging",
+            "output": "Takelage",
+            "possible_translations": [
+                "Takelage"
+            ]
+        },
+        "559": {
+            "input": "convict",
+            "output": "Str\u00e4fling",
+            "possible_translations": [
+                "verurteilen",
+                "Str\u00e4fling"
+            ]
+        },
+        "560": {
+            "input": "venom",
+            "output": "Gift",
+            "possible_translations": [
+                "Gift"
+            ]
+        },
+        "561": {
+            "input": "courtesy",
+            "output": "H\u00f6flichkeit",
+            "possible_translations": [
+                "H\u00f6flichkeit"
+            ]
+        },
+        "562": {
+            "input": "interlude",
+            "output": "Zwischenspiel",
+            "possible_translations": [
+                "Zwischenspiel"
+            ]
+        }
+    }
+}

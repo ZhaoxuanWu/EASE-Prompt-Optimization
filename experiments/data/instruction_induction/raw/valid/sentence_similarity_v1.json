@@ -1,0 +1,2983 @@
+{
+    "metadata": {
+        "num_examples": 744
+    },
+    "examples": {
+        "1": {
+            "input": "Sentence 1: Discipline against student gunman thought to have sparked Colorado shooting Sentence 2: Discipline against student thought to be key to motive",
+            "output": "3 - probably"
+        },
+        "2": {
+            "input": "Sentence 1: Many killed in Japan road tunnel collapse Sentence 2: Many killed in Syrian air strike",
+            "output": "1 - probably not"
+        },
+        "3": {
+            "input": "Sentence 1: No plan to shut petrol pumps at night Moily Sentence 2: India govt rejects proposal to shut petrol pumps at night",
+            "output": "4 - almost perfectly"
+        },
+        "4": {
+            "input": "Sentence 1: Clinton to testify this month on Benghazi attack Sentence 2: Clinton returns to work, plans to testify on Benghazi attack",
+            "output": "4 - almost perfectly"
+        },
+        "5": {
+            "input": "Sentence 1: Tens of Thousands of Ukrainians Protest in Kyiv Sentence 2: Tens of thousands line up to cast votes in Bhutan",
+            "output": "1 - probably not"
+        },
+        "6": {
+            "input": "Sentence 1: Karzai to visit Pakistan for Taliban peace talks Sentence 2: Afghan president extends visit to Pakistan for Taliban talks",
+            "output": "4 - almost perfectly"
+        },
+        "7": {
+            "input": "Sentence 1: Thieves snatch English Channel swimmer's custom-made wheelchair Sentence 2: Thieves steal Channel swimmer's wheelchair",
+            "output": "4 - almost perfectly"
+        },
+        "8": {
+            "input": "Sentence 1: Three die after car crash at Tian'anmen Sentence 2: Three Killed In Crash At Tiananmen Square",
+            "output": "5 - perfectly"
+        },
+        "9": {
+            "input": "Sentence 1: Singapore shares open lower on Friday Sentence 2: Singapore shares open higher on Thursday",
+            "output": "2 - possibly"
+        },
+        "10": {
+            "input": "Sentence 1: Obama pledges to reignite economy Sentence 2: Obama to press Congress to act on economy",
+            "output": "3 - probably"
+        },
+        "11": {
+            "input": "Sentence 1: Two Earthquakes Hit Northwest China, 11 Dead Sentence 2: Twin quakes kill 89 in China",
+            "output": "2 - possibly"
+        },
+        "12": {
+            "input": "Sentence 1: 'Whitey' Bulger given two consecutive life terms Sentence 2: Whitey Bulger gets life for racketeering, killings",
+            "output": "3 - probably"
+        },
+        "13": {
+            "input": "Sentence 1: Kenyan forces caused mall collapse Sentence 2: Official says Kenyan forces caused mall collapse",
+            "output": "5 - perfectly"
+        },
+        "14": {
+            "input": "Sentence 1: Pak missions in UAE gear up for elections Sentence 2: Islamist parties in Egypt unite for elections",
+            "output": "1 - probably not"
+        },
+        "15": {
+            "input": "Sentence 1: Bangladesh building disaster death toll passes 500 Sentence 2: Bangladesh building collapse: death toll climbs to 580",
+            "output": "3 - probably"
+        },
+        "16": {
+            "input": "Sentence 1: Algeria hostage crisis ends; death toll unclear Sentence 2: Algeria hostage crisis ends in bloodbath",
+            "output": "4 - almost perfectly"
+        },
+        "17": {
+            "input": "Sentence 1: Egypt ministry again urges end to pro-Morsi protests Sentence 2: Egypt: Child killed in Cairo clashes after pro-Morsi protest",
+            "output": "3 - probably"
+        },
+        "18": {
+            "input": "Sentence 1: South Africa's Mandela taken to hospital Sentence 2: South Africa: Mandela remains in hospital",
+            "output": "3 - probably"
+        },
+        "19": {
+            "input": "Sentence 1: China yuan strengthens to 6.2689 against USD Sentence 2: China yuan strengthens to new high against USD",
+            "output": "3 - probably"
+        },
+        "20": {
+            "input": "Sentence 1: Police question man in deadly LA boardwalk crash Sentence 2: Police arrest suspect in deadly LA driving attack",
+            "output": "2 - possibly"
+        },
+        "21": {
+            "input": "Sentence 1: Turkish riot police tear gas Taksim Square protest Sentence 2: Turkish riot police enter Taksim Square",
+            "output": "3 - probably"
+        },
+        "22": {
+            "input": "Sentence 1: Chicago Shooting Shows Gap in Stepped-up Policing Sentence 2: Chicago shooting shows gap in stepped-up policing",
+            "output": "5 - perfectly"
+        },
+        "23": {
+            "input": "Sentence 1: Feds move to require car-to-car safety communication Sentence 2: Guatemala overturns former dictator's genocide conviction",
+            "output": "0 - definitely not"
+        },
+        "24": {
+            "input": "Sentence 1: North Korea shuns offer of talks Sentence 2: North Korea shoots 2 rockets",
+            "output": "1 - probably not"
+        },
+        "25": {
+            "input": "Sentence 1: Prince Charles 'compares Putin to Hitler' Sentence 2: Prince Charles 'compares Vladimir Putin to Adolf Hitler'",
+            "output": "5 - perfectly"
+        },
+        "26": {
+            "input": "Sentence 1: Iran warns against military intervention in Iraq Sentence 2: Explosion near Damascus military airport",
+            "output": "0 - definitely not"
+        },
+        "27": {
+            "input": "Sentence 1: Israel PM accuses Iran president of hypocrisy Sentence 2: Greek PM accuses coalition of hypocrisy",
+            "output": "1 - probably not"
+        },
+        "28": {
+            "input": "Sentence 1: Police clash with youth in Cairo after anti-Morsi protest Sentence 2: Egypt: Police clash with pro-Morsi protesters",
+            "output": "3 - probably"
+        },
+        "29": {
+            "input": "Sentence 1: Top Diplomats Meet in Munich at Critical Time Sentence 2: Top Diplomats Discuss Iran's Nuclear Program",
+            "output": "2 - possibly"
+        },
+        "30": {
+            "input": "Sentence 1: Snowden 'given refugee document by Ecuador' Sentence 2: Snowden poised to fly out of Moscow",
+            "output": "1 - probably not"
+        },
+        "31": {
+            "input": "Sentence 1: NA President\u201a\u00c4\u00f4s message on the World Press Freedom Day Sentence 2: Pakistan marks World Press Freedom Day",
+            "output": "2 - possibly"
+        },
+        "32": {
+            "input": "Sentence 1: EU foreign ministers to discuss Syria arms embargo Sentence 2: EU foreign ministers seek solution on Syria arms",
+            "output": "4 - almost perfectly"
+        },
+        "33": {
+            "input": "Sentence 1: Death toll from Philippine earthquake rises to 185 Sentence 2: Death toll from Philippines quake rises to 144",
+            "output": "4 - almost perfectly"
+        },
+        "34": {
+            "input": "Sentence 1: Stocks to watch at close on Monday Sentence 2: Stocks to watch on Monday",
+            "output": "4 - almost perfectly"
+        },
+        "35": {
+            "input": "Sentence 1: Army jets kill 38 militants in NW Pakistan air raids Sentence 2: U.S. drone kills 4 militants in Pakistan",
+            "output": "3 - probably"
+        },
+        "36": {
+            "input": "Sentence 1: Egyptian police fire tear gas at protesters in Cairo Sentence 2: Police fire tear gas at protesters in Cairo",
+            "output": "4 - almost perfectly"
+        },
+        "37": {
+            "input": "Sentence 1: Philippines holds second senator over corruption Sentence 2: Philippines recovering after powerful typhoon",
+            "output": "1 - probably not"
+        },
+        "38": {
+            "input": "Sentence 1: German envoy optimistic about Iran-G5+1 talks Sentence 2: Iran 'cautiously optimistic' about future nuclear talks",
+            "output": "1 - probably not"
+        },
+        "39": {
+            "input": "Sentence 1: Renowned Spanish flamenco guitarist Paco De Lucia dies Sentence 2: Spanish flamenco guitarist Paco de Lucia dies at 66",
+            "output": "5 - perfectly"
+        },
+        "40": {
+            "input": "Sentence 1: Chinese icebreaker changes course towards suspicious objects Sentence 2: Chinese search plane finds 'suspicious objects'",
+            "output": "2 - possibly"
+        },
+        "41": {
+            "input": "Sentence 1: Snowden Hits Hurdles in Search for Asylum Sentence 2: Snowden's hits hurdles in search for asylum",
+            "output": "5 - perfectly"
+        },
+        "42": {
+            "input": "Sentence 1: Pakistan imposes temporary ban on 2 TV channels Sentence 2: Pakistan Dismisses Case against FBI Agent",
+            "output": "1 - probably not"
+        },
+        "43": {
+            "input": "Sentence 1: Palestinian prisoners arrive at Muqata in Ramallah Sentence 2: Pakistani prisoner assaulted in Jammu jail",
+            "output": "1 - probably not"
+        },
+        "44": {
+            "input": "Sentence 1: 10 dead, five injured in SW China road accident Sentence 2: 5 hurt in Gaza City car accident",
+            "output": "1 - probably not"
+        },
+        "45": {
+            "input": "Sentence 1: Thai junta amasses security force to smother Bangkok protests Sentence 2: Thai junta security forces stay in barracks as protests dwindle",
+            "output": "2 - possibly"
+        },
+        "46": {
+            "input": "Sentence 1: Aso refuses to resign over Nazi comments Sentence 2: Spanish PM refuses to resign over corruption scandal",
+            "output": "0 - definitely not"
+        },
+        "47": {
+            "input": "Sentence 1: Explosions kill 29 outside two mosques in Lebanon's Tripoli Sentence 2: 2 explosions rock city in northern Lebanon",
+            "output": "2 - possibly"
+        },
+        "48": {
+            "input": "Sentence 1: Pakistan fighter jets bomb 'Taliban hideouts' Sentence 2: Pakistan wants arms supply to Syrian sides stopped",
+            "output": "2 - possibly"
+        },
+        "49": {
+            "input": "Sentence 1: Gunmen Kill Eight In Second Kenya Attack Sentence 2: Gunmen 'Kill 15' In Second Kenya Attack",
+            "output": "3 - probably"
+        },
+        "50": {
+            "input": "Sentence 1: U.S. resumes search for missing British sailors after public Sentence 2: US Coast Guard suspends search for missing British sailors",
+            "output": "2 - possibly"
+        },
+        "51": {
+            "input": "Sentence 1: Iraqi Bomb Attacks Kill At Least 13 Sentence 2: Iraqi Car Bomb Near Church Kills At Least 14",
+            "output": "3 - probably"
+        },
+        "52": {
+            "input": "Sentence 1: Egypt forces set to block access to Morsi protest camps Sentence 2: Egyptian forces move to clear pro-Morsi protest camps",
+            "output": "2 - possibly"
+        },
+        "53": {
+            "input": "Sentence 1: Nobel author Doris Lessing dies at 94 Sentence 2: Nobel laureate Doris Lessing dies at 94",
+            "output": "5 - perfectly"
+        },
+        "54": {
+            "input": "Sentence 1: Japan's opposition party chief criticizes Abe's economic policies Sentence 2: Zimbabwe\u201a\u00c4\u00f4s opposition MDC party challenges Robert Mugabe\u201a\u00c4\u00f4s election win",
+            "output": "0 - definitely not"
+        },
+        "55": {
+            "input": "Sentence 1: 3 Suspects Taken Into Custody in Boston Bombing Case Sentence 2: Boston police say 3 taken into custody in Marathon bombing",
+            "output": "5 - perfectly"
+        },
+        "56": {
+            "input": "Sentence 1: Ukraine's opposition chief wants more protests Sentence 2: Ukraine protesters topple Lenin statue",
+            "output": "2 - possibly"
+        },
+        "57": {
+            "input": "Sentence 1: Queen pays tribute to Nelson Mandela Sentence 2: South Africa's rugby fraternity mourns Mandela",
+            "output": "1 - probably not"
+        },
+        "58": {
+            "input": "Sentence 1: Declines in US stock market moderate Sentence 2: Tech sell-off sends Asian stock markets lower",
+            "output": "0 - definitely not"
+        },
+        "59": {
+            "input": "Sentence 1: Latest Anti-Muslim Violence in Burma Kills 1, Injures 10 Sentence 2: World Briefing | Asia: Myanmar: Deadly Anti-Muslim Violence Flares Up",
+            "output": "3 - probably"
+        },
+        "60": {
+            "input": "Sentence 1: Suspected U.S. drone strike kills 5 in Pakistan Sentence 2: U.S. drone strike kills 5 in Pakistan",
+            "output": "4 - almost perfectly"
+        },
+        "61": {
+            "input": "Sentence 1: The Note's Must-Reads for Friday May 24, 2013 Sentence 2: The Note's Must-Reads for Tuesday October 29, 2013",
+            "output": "2 - possibly"
+        },
+        "62": {
+            "input": "Sentence 1: 22 killed in mine accident in southwestern China Sentence 2: 2 killed, dozens injured by blast in southwest Pakistan",
+            "output": "1 - probably not"
+        },
+        "63": {
+            "input": "Sentence 1: NYPD Twitter Outreach Backfires Badly Sentence 2: NYPD's twitter campaign backfires",
+            "output": "5 - perfectly"
+        },
+        "64": {
+            "input": "Sentence 1: Turkish search ends as last missing miners found Sentence 2: Turkish Search Ends as Last Missing Miners Found",
+            "output": "5 - perfectly"
+        },
+        "65": {
+            "input": "Sentence 1: Iran predicts failure of Israeli-Palestinian peace talks Sentence 2: Tentative Deal Reached to Resume Israeli-Palestinian Talks - US",
+            "output": "1 - probably not"
+        },
+        "66": {
+            "input": "Sentence 1: Olivia Colman wins second BAFTA Award Sentence 2: Baftas 2013: Olivia Colman picks up two awards",
+            "output": "4 - almost perfectly"
+        },
+        "67": {
+            "input": "Sentence 1: Titanic Violin Nabs Record $1.4 Million Sentence 2: Titanic violin sells for $1.7 million",
+            "output": "4 - almost perfectly"
+        },
+        "68": {
+            "input": "Sentence 1: Ankeet Chavan granted conditional bail for marriage Sentence 2: Ankeet Chavan granted bail to get married",
+            "output": "5 - perfectly"
+        },
+        "69": {
+            "input": "Sentence 1: JAL's first order from Airbus is blow to Boeing Sentence 2: Japan Airlines orders 31 Airbus A350s valued at $9.5 bn",
+            "output": "3 - probably"
+        },
+        "70": {
+            "input": "Sentence 1: Sienna Miller testifies at UK phone hacking trial Sentence 2: Sienna Miller attacks press for \u201a\u00c4\u0117titillating\u201a\u00c4\u00f4 reports at hacking trial",
+            "output": "3 - probably"
+        },
+        "71": {
+            "input": "Sentence 1: Israelis attack 2 Palestinians in Jerusalem area Sentence 2: Settlers Beat up Palestinian in Jerusalem",
+            "output": "3 - probably"
+        },
+        "72": {
+            "input": "Sentence 1: EU extends sanctions against Russia Sentence 2: Nigeria drops arms trafficking charges against Russian sailors",
+            "output": "0 - definitely not"
+        },
+        "73": {
+            "input": "Sentence 1: Cuba sees \"major role\" for foreign investment Sentence 2: House set to vote on plan to reopen government",
+            "output": "0 - definitely not"
+        },
+        "74": {
+            "input": "Sentence 1: \u201a\u00c4\u0117Glee\u201a\u00c4\u00f4 star Cory Monteith found dead in hotel room Sentence 2: Cory Monteith found dead: Canadian \u201a\u00c4\u0117Glee\u201a\u00c4\u00f4 star was 31",
+            "output": "3 - probably"
+        },
+        "75": {
+            "input": "Sentence 1: Iranian president makes debut on world stage Sentence 2: Iran presidential candidate says western sanctions should be broken",
+            "output": "1 - probably not"
+        },
+        "76": {
+            "input": "Sentence 1: Cameron 'has no concerns' over halal meat Sentence 2: Veterans health probe confirms cover-up of care delays",
+            "output": "0 - definitely not"
+        },
+        "77": {
+            "input": "Sentence 1: World's oldest man dies at 116 Sentence 2: World's oldest ever man dies aged 116",
+            "output": "5 - perfectly"
+        },
+        "78": {
+            "input": "Sentence 1: GM slow on recalls, Congress record shows Sentence 2: mobile world congress future smartphone",
+            "output": "0 - definitely not"
+        },
+        "79": {
+            "input": "Sentence 1: Death toll in Lebanon bombings rises to 47 Sentence 2: 1 suspect arrested after Lebanon car bombings kill 45",
+            "output": "3 - probably"
+        },
+        "80": {
+            "input": "Sentence 1: Greek far-right leader imprisoned pending trial Sentence 2: Greek Far-Right Leader Imprisoned Pending Trial",
+            "output": "5 - perfectly"
+        },
+        "81": {
+            "input": "Sentence 1: Bangladesh factory owners arrested as death toll nears 350 Sentence 2: Bangladesh factory owners arrested",
+            "output": "3 - probably"
+        },
+        "82": {
+            "input": "Sentence 1: 4 Egyptian soldiers killed in Sinai ambush Sentence 2: 3 Egyptian soldiers killed in Sinai car bombing",
+            "output": "3 - probably"
+        },
+        "83": {
+            "input": "Sentence 1: Beijing's Aircraft Carrier Returns from South China Sea Sentence 2: China sends carrier to South China Sea",
+            "output": "2 - possibly"
+        },
+        "84": {
+            "input": "Sentence 1: Egypt courts hear cases against Mubarak, Islamists Sentence 2: Egypt court temporarily releases Mubarak over illicit gains",
+            "output": "2 - possibly"
+        },
+        "85": {
+            "input": "Sentence 1: Nelson Mandela dies aged 95 Sentence 2: Nelson Mandela Dies at Age 95",
+            "output": "5 - perfectly"
+        },
+        "86": {
+            "input": "Sentence 1: Nazi Gestapo chief 'buried in Jewish cemetery' Sentence 2: Nazi chief buried in Jewish cemetary",
+            "output": "5 - perfectly"
+        },
+        "87": {
+            "input": "Sentence 1: Swiss vote on highest minimum wage Sentence 2: Swiss cast ballots on world's highest minimum wage",
+            "output": "5 - perfectly"
+        },
+        "88": {
+            "input": "Sentence 1: Kevin Rudd sworn in as Australian prime minister Sentence 2: Rudd sworn in as Australia's new Prime Minister",
+            "output": "5 - perfectly"
+        },
+        "89": {
+            "input": "Sentence 1: Easy Rider star Karen Black dies aged 74 Sentence 2: Easy Rider Actress Karen Black Dies Of Cancer",
+            "output": "4 - almost perfectly"
+        },
+        "90": {
+            "input": "Sentence 1: Coronation Street's Bill Roache Arrested Sentence 2: Coronation Street stars hail 'amazing' new set",
+            "output": "1 - probably not"
+        },
+        "91": {
+            "input": "Sentence 1: Red Sox beat Tigers to reach World Series Sentence 2: Red Sox beat Tigers 5-2 to advance to World Series",
+            "output": "4 - almost perfectly"
+        },
+        "92": {
+            "input": "Sentence 1: At Least 22 Dead After China Earthquake Sentence 2: At least 89 dead in China earthquakes",
+            "output": "3 - probably"
+        },
+        "93": {
+            "input": "Sentence 1: News is my Business Sentence 2: A New iPad Is Coming",
+            "output": "0 - definitely not"
+        },
+        "94": {
+            "input": "Sentence 1: Glasgow helicopter death toll rises to nine Sentence 2: Earthquake death toll rises to 260",
+            "output": "1 - probably not"
+        },
+        "95": {
+            "input": "Sentence 1: David Beckham to retire at end of season Sentence 2: David Beckham Retires From Football",
+            "output": "4 - almost perfectly"
+        },
+        "96": {
+            "input": "Sentence 1: Afghanistan: suicide bomber kills eight in military bus blast Sentence 2: Roadside bomb 'kills eight Afghan soldiers'",
+            "output": "4 - almost perfectly"
+        },
+        "97": {
+            "input": "Sentence 1: N. Korea's Kim hails execution of powerful uncle Sentence 2: North Korea's Kim seen behind sacking of powerful uncle",
+            "output": "5 - perfectly"
+        },
+        "98": {
+            "input": "Sentence 1: EU, Myanmar work toward investment protection agreement Sentence 2: China no longer top investment destination: poll",
+            "output": "1 - probably not"
+        },
+        "99": {
+            "input": "Sentence 1: Tehelka editor embroiled in sex assault scam Sentence 2: Tehelka editor steps down after allegations of sexual misconduct",
+            "output": "4 - almost perfectly"
+        },
+        "100": {
+            "input": "Sentence 1: Iron Lady Margaret Thatcher dies at 87 Sentence 2: Former British PM Margaret Thatcher dies at 87",
+            "output": "5 - perfectly"
+        },
+        "101": {
+            "input": "Sentence 1: Four Morsi supporters killed in Egypt clashes Sentence 2: Thousands of Morsi supporters gather in Egypt",
+            "output": "2 - possibly"
+        },
+        "102": {
+            "input": "Sentence 1: U.N. condemns ethnic killings in South Sudan oil town Sentence 2: UN Condemns Ethnic Killings in South Sudan",
+            "output": "5 - perfectly"
+        },
+        "103": {
+            "input": "Sentence 1: Feds drop 'morning-after pill' appeal Sentence 2: US to allow morning-after pill for girls of any age",
+            "output": "3 - probably"
+        },
+        "104": {
+            "input": "Sentence 1: Police fire tear gas at protesters in Bangkok Sentence 2: Police fire tear gas at protesters",
+            "output": "3 - probably"
+        },
+        "105": {
+            "input": "Sentence 1: Shooting, protests mar Thai voting Sentence 2: Thai protesters disrupt advance voting",
+            "output": "4 - almost perfectly"
+        },
+        "106": {
+            "input": "Sentence 1: China stock index futures close lower -- April 23 Sentence 2: China stock index futures close higher -- Dec. 4",
+            "output": "2 - possibly"
+        },
+        "107": {
+            "input": "Sentence 1: Seven Filipinos slain in Yemen attack Sentence 2: Syrian soldiers killed in bomb attack",
+            "output": "1 - probably not"
+        },
+        "108": {
+            "input": "Sentence 1: Israel ends airstrike case; Palestinians critical Sentence 2: Israeli gunboats fire at Palestinian fishermen",
+            "output": "1 - probably not"
+        },
+        "109": {
+            "input": "Sentence 1: Protesters topple Lenin statue in Kiev Sentence 2: Ukraine protesters topple Lenin statue in Kiev",
+            "output": "4 - almost perfectly"
+        },
+        "110": {
+            "input": "Sentence 1: Iran 'thwarts nuclear sabotage attempts' Sentence 2: Iran says detects sabotage at nuclear facility",
+            "output": "4 - almost perfectly"
+        },
+        "111": {
+            "input": "Sentence 1: China yuan strengthens to 6.1184 against USD Tuesday Sentence 2: China Yuan Strengthens to 6.168 against USD Monday",
+            "output": "3 - probably"
+        },
+        "112": {
+            "input": "Sentence 1: Protesters gather in Brazil despite concessions Sentence 2: Protests continue in Ukraine despite concessions",
+            "output": "1 - probably not"
+        },
+        "113": {
+            "input": "Sentence 1: Relief in Boston as second suspect captured Sentence 2: Police confirm how suspect was captured",
+            "output": "2 - possibly"
+        },
+        "114": {
+            "input": "Sentence 1: Syrian army retakes Crusader castle from rebels Sentence 2: Syrian army retakes historic Crusader castle",
+            "output": "5 - perfectly"
+        },
+        "115": {
+            "input": "Sentence 1: Saudi to give Lebanese army $3 billion Sentence 2: Saudi Arabia to grant Lebanese army $3 billion",
+            "output": "5 - perfectly"
+        },
+        "116": {
+            "input": "Sentence 1: Red Cross workers released in Ukraine Sentence 2: Red Cross members kidnapped in Syria",
+            "output": "1 - probably not"
+        },
+        "117": {
+            "input": "Sentence 1: Syria envoy says no peace talks without opposition Sentence 2: Syria: Cameron and Obama move west closer to intervention",
+            "output": "1 - probably not"
+        },
+        "118": {
+            "input": "Sentence 1: Queen to name biggest ever carrier Sentence 2: Queen names giant aircraft carrier",
+            "output": "4 - almost perfectly"
+        },
+        "119": {
+            "input": "Sentence 1: Bangla militants escape from prison van in bomb ambush Sentence 2: Bangladesh prison van ambushed",
+            "output": "3 - probably"
+        },
+        "120": {
+            "input": "Sentence 1: Influential Palestinians Seek One Democratic State Sentence 2: Arab League Backs Palestinian Stance in Peace Talks",
+            "output": "1 - probably not"
+        },
+        "121": {
+            "input": "Sentence 1: Dozens killed in Russian plane crash Sentence 2: Ten killed in Alaska plane crash",
+            "output": "1 - probably not"
+        },
+        "122": {
+            "input": "Sentence 1: U.S. retailers agree to Bangladesh plant safety pact Sentence 2: 70 retailers agree to new Bangladesh factory safety pact",
+            "output": "4 - almost perfectly"
+        },
+        "123": {
+            "input": "Sentence 1: US government shutdown begins - live updates Sentence 2: Government Shutdown Begins Over Health Care Feud",
+            "output": "3 - probably"
+        },
+        "124": {
+            "input": "Sentence 1: Suicide bomber kills 14 in Afghanistan Sentence 2: Suicide blast kills 1 in Afghan capital",
+            "output": "3 - probably"
+        },
+        "125": {
+            "input": "Sentence 1: China launches probe and rover to moon Sentence 2: China launches first moon rover mission",
+            "output": "4 - almost perfectly"
+        },
+        "126": {
+            "input": "Sentence 1: All eyes on Khurshid\u201a\u00c4\u00f4s trip ... Sentence 2: EU finance ministers\u201a\u00c4\u00f4 talks b...",
+            "output": "2 - possibly"
+        },
+        "127": {
+            "input": "Sentence 1: Australia cuts rates to record low Sentence 2: Australia cuts interest rate to record low 2.75%",
+            "output": "4 - almost perfectly"
+        },
+        "128": {
+            "input": "Sentence 1: Chinese News Agency Slams Delays in Search for Jet Sentence 2: Ten Chinese vessels on standby for jet search",
+            "output": "3 - probably"
+        },
+        "129": {
+            "input": "Sentence 1: Classic crossword - Saturday 1st June Sentence 2: Classic crossword - Saturday 20th April",
+            "output": "2 - possibly"
+        },
+        "130": {
+            "input": "Sentence 1: N Korea test-fires 30 short-range missiles Sentence 2: N. Korea fires short-range missiles",
+            "output": "3 - probably"
+        },
+        "131": {
+            "input": "Sentence 1: Palestinian diplomat dies in Prague blast Sentence 2: Palestinian diplomat killed in explosion in Prague",
+            "output": "5 - perfectly"
+        },
+        "132": {
+            "input": "Sentence 1: Novice 'steered South Korea ferry' Sentence 2: South Korea ferry captain arrested",
+            "output": "2 - possibly"
+        },
+        "133": {
+            "input": "Sentence 1: Chinese president meets Indian vice president Sentence 2: Chinese president meets U.S. state secretary",
+            "output": "2 - possibly"
+        },
+        "134": {
+            "input": "Sentence 1: Death toll in Nairobi attack rises to 59 Sentence 2: Death toll from Egypt violence rises to 638",
+            "output": "2 - possibly"
+        },
+        "135": {
+            "input": "Sentence 1: China's Peace Ark departs for the Philippines Thursday Sentence 2: China sends aid team to Philippines",
+            "output": "4 - almost perfectly"
+        },
+        "136": {
+            "input": "Sentence 1: Iran dissidents 'killed in Iraq' Sentence 2: France loses influence in Europe",
+            "output": "0 - definitely not"
+        },
+        "137": {
+            "input": "Sentence 1: James Gandolfini dies aged 51 Sentence 2: Nelson Mandela dies aged 95",
+            "output": "0 - definitely not"
+        },
+        "138": {
+            "input": "Sentence 1: Nearly nine million people in 'severe debt' Sentence 2: Britain's debt timebomb: Nine million are in 'serious debt'",
+            "output": "4 - almost perfectly"
+        },
+        "139": {
+            "input": "Sentence 1: Updated - Two explosions near finish line of Boston Marathon Sentence 2: Report of two explosions at finish line of Boston Marathon",
+            "output": "5 - perfectly"
+        },
+        "140": {
+            "input": "Sentence 1: Twelve killed in bomb blast on Pakistani train Sentence 2: Five killed by bomb blast in East India",
+            "output": "1 - probably not"
+        },
+        "141": {
+            "input": "Sentence 1: The new Cold War Sentence 2: A new Cold War?",
+            "output": "5 - perfectly"
+        },
+        "142": {
+            "input": "Sentence 1: Cuba's 'Ladies' to pick up EU prize 8 years late Sentence 2: Cuba's 'Ladies' to Pick Up EU Prize 8 Years Later",
+            "output": "5 - perfectly"
+        },
+        "143": {
+            "input": "Sentence 1: Fourteen killed in Brazil bus accident Sentence 2: Two killed in Arizona skydiving accident",
+            "output": "1 - probably not"
+        },
+        "144": {
+            "input": "Sentence 1: US: Assad used chemical weapons on Syria rebels Sentence 2: Assad agrees to hand over chemical weapons",
+            "output": "2 - possibly"
+        },
+        "145": {
+            "input": "Sentence 1: Death Toll in Bangladesh Collapse at 194 Sentence 2: At least 200 killed in Bangladesh building collapse",
+            "output": "3 - probably"
+        },
+        "146": {
+            "input": "Sentence 1: Israeli teens missing in West Bank Sentence 2: Israel finds bodies of three missing teens in West Bank",
+            "output": "3 - probably"
+        },
+        "147": {
+            "input": "Sentence 1: President mourns death of Mandela Sentence 2: World mourns passing of Mandela",
+            "output": "3 - probably"
+        },
+        "148": {
+            "input": "Sentence 1: Two blasts near Iranian embassy in Beirut, 7 killed Sentence 2: Blast near Iran embassy in Beirut",
+            "output": "3 - probably"
+        },
+        "149": {
+            "input": "Sentence 1: Singapore shares open 0.31% higher on Monday Sentence 2: Singapore shares open lower on Monday",
+            "output": "2 - possibly"
+        },
+        "150": {
+            "input": "Sentence 1: Suicide bomber kills 23 Iraqi army recruits Sentence 2: Suicide bomber kills 13 Iraqi army recruits in Baghdad",
+            "output": "2 - possibly"
+        },
+        "151": {
+            "input": "Sentence 1: Deaf customers sue Starbucks, say they're mocked Sentence 2: Deaf NY Starbucks patrons sue, say they're mocked",
+            "output": "5 - perfectly"
+        },
+        "152": {
+            "input": "Sentence 1: Thousands evacuated in Moscow metro fire Sentence 2: Thousands evacuated after fire breaks out in Moscow Metro",
+            "output": "5 - perfectly"
+        },
+        "153": {
+            "input": "Sentence 1: 38 killed in rains, flash floods in Pakistan Sentence 2: Three killed in Brazil stadium collapse",
+            "output": "0 - definitely not"
+        },
+        "154": {
+            "input": "Sentence 1: 7 killed by Shiite al-Houthi fighters in northern Yemen Sentence 2: At least 5 killed in sectarian conflict in north Yemen",
+            "output": "3 - probably"
+        },
+        "155": {
+            "input": "Sentence 1: Iran excluded from Syria peace talks: UN Sentence 2: Many killed in Syrian air strike",
+            "output": "0 - definitely not"
+        },
+        "156": {
+            "input": "Sentence 1: Kerry call on Congress to end shutdown Sentence 2: Brazil's Congress approves internet legislation",
+            "output": "0 - definitely not"
+        },
+        "157": {
+            "input": "Sentence 1: Canada train plot suspects reject charges Sentence 2: Canadians released in Egypt, not yet heading home",
+            "output": "1 - probably not"
+        },
+        "158": {
+            "input": "Sentence 1: East Ukraine Separatists Ask to Join Russia Sentence 2: Crimean Parliament Votes to Join Russia",
+            "output": "3 - probably"
+        },
+        "159": {
+            "input": "Sentence 1: Rudd sworn in as new Australian PM Sentence 2: Muslims in hiding as sectarian ...",
+            "output": "0 - definitely not"
+        },
+        "160": {
+            "input": "Sentence 1: Moon rocks indicate earth's orb born of collision Sentence 2: Indian minister killed in head-on collision",
+            "output": "0 - definitely not"
+        },
+        "161": {
+            "input": "Sentence 1: BlackBerry loses US$965m in Q2 Sentence 2: BlackBerry loses $965M in 2nd quarter",
+            "output": "5 - perfectly"
+        },
+        "162": {
+            "input": "Sentence 1: Egypt strongly opposes military action against Syria Sentence 2: Reactions to the prospect of military action against Syria",
+            "output": "2 - possibly"
+        },
+        "163": {
+            "input": "Sentence 1: Pro-Russia rebels downed Malaysian plane: Ukraine Sentence 2: Russia Preparing Counterproposals Over Ukraine",
+            "output": "2 - possibly"
+        },
+        "164": {
+            "input": "Sentence 1: No argument with Jakarta on boats: Abbott Sentence 2: No agreement at Iran nuclear talks",
+            "output": "0 - definitely not"
+        },
+        "165": {
+            "input": "Sentence 1: US believes Syria has probably used chemical weapons Sentence 2: US believes Syrian government used chemical weapons",
+            "output": "5 - perfectly"
+        },
+        "166": {
+            "input": "Sentence 1: Egypt's opposition criticizes president's speech Sentence 2: Pakistan's opposition party boycotts presidential elections",
+            "output": "0 - definitely not"
+        },
+        "167": {
+            "input": "Sentence 1: Syrian war seen dragging on for years Sentence 2: Syria regime releases hundreds of prisoners",
+            "output": "1 - probably not"
+        },
+        "168": {
+            "input": "Sentence 1: Volcano erupts in Indonesia -100,000 evacuated and airports closed Sentence 2: Volcanic eruption closes 3 airports",
+            "output": "3 - probably"
+        },
+        "169": {
+            "input": "Sentence 1: 49 killed, 148 wounded in violent attacks in Iraq Sentence 2: 2 killed, 11 wounded in attacks in Iraq",
+            "output": "1 - probably not"
+        },
+        "170": {
+            "input": "Sentence 1: Ukraine's Yanukovych says he does not plan to resign Sentence 2: Ukraine opposition demands Yanukovich resign",
+            "output": "1 - probably not"
+        },
+        "171": {
+            "input": "Sentence 1: Flash floods kill 58 in eastern Afghanistan Sentence 2: Bomb wounds 16 in eastern Afghanistan",
+            "output": "1 - probably not"
+        },
+        "172": {
+            "input": "Sentence 1: Investigators probe motives of LAX airport shooter Sentence 2: Investigators Probe Motives of Los Angeles Airport Shooter",
+            "output": "5 - perfectly"
+        },
+        "173": {
+            "input": "Sentence 1: World powers, Iran under Rouhani revive nuclear talks Sentence 2: World powers seek rare progress in Iran nuclear talks",
+            "output": "4 - almost perfectly"
+        },
+        "174": {
+            "input": "Sentence 1: Muslim Brotherhood banned in Egypt Sentence 2: Military holds upper hand in Egypt",
+            "output": "1 - probably not"
+        },
+        "175": {
+            "input": "Sentence 1: More Deaths Expected in Canada Oil Train Explosion Sentence 2: Five dead in Canada train crash",
+            "output": "3 - probably"
+        },
+        "176": {
+            "input": "Sentence 1: Philippines defers comment on Taiwan fisher attack Sentence 2: Bin Laden's continuing sway shown in Kenya mall attack",
+            "output": "0 - definitely not"
+        },
+        "177": {
+            "input": "Sentence 1: Crowds, Dignitaries Gather for Mandela Memorial Service Sentence 2: Obama takes 'selfie' at Mandela's funeral service",
+            "output": "2 - possibly"
+        },
+        "178": {
+            "input": "Sentence 1: Obama Urges Restraint from Israelis, Palestinians Sentence 2: Obama meets Israeli, Palestinian negotiators",
+            "output": "2 - possibly"
+        },
+        "179": {
+            "input": "Sentence 1: Russia releases Greenpeace doctor Sentence 2: Russian court releases Greenpeace ship doctor on bail",
+            "output": "4 - almost perfectly"
+        },
+        "180": {
+            "input": "Sentence 1: Russian aircraft wreckage found after a year Sentence 2: Russia evacuates embassy in Libya after attack",
+            "output": "0 - definitely not"
+        },
+        "181": {
+            "input": "Sentence 1: 17 killed in US drone attack on Yemen wedding party Sentence 2: U.S. drone mistakenly kills 14 in Yemen wedding convoy",
+            "output": "4 - almost perfectly"
+        },
+        "182": {
+            "input": "Sentence 1: China manufacturing index at 11-month low: HSBC Sentence 2: China manufacturing expands in September",
+            "output": "1 - probably not"
+        },
+        "183": {
+            "input": "Sentence 1: France to ban child beauty pageants Sentence 2: Facebook to test mobile payments service",
+            "output": "0 - definitely not"
+        },
+        "184": {
+            "input": "Sentence 1: Today in History, Dec. 2 Sentence 2: Today in History, April 23",
+            "output": "2 - possibly"
+        },
+        "185": {
+            "input": "Sentence 1: Ships Train for Syrian Chemical Weapons Transport Sentence 2: UN Adopts Syrian Chemical Weapons Resolution",
+            "output": "2 - possibly"
+        },
+        "186": {
+            "input": "Sentence 1: Death toll rises to 29 in India's Mumbai building collapse Sentence 2: Death toll rises to 12 in Indonesia mine collapse",
+            "output": "1 - probably not"
+        },
+        "187": {
+            "input": "Sentence 1: Extremists claim responsibility for Niger attacks Sentence 2: Greek militant group claims responsibility for Golden Dawn killings",
+            "output": "1 - probably not"
+        },
+        "188": {
+            "input": "Sentence 1: Pro-Russians forces enter Ukrainian naval base in Crimea Sentence 2: Crimean forces storm Ukrainian navy headquarters",
+            "output": "4 - almost perfectly"
+        },
+        "189": {
+            "input": "Sentence 1: Body of missing South Korean shipping tycoon found in field Sentence 2: Sewol ferry disaster: Body of South Korean shipping tycoon found",
+            "output": "4 - almost perfectly"
+        },
+        "190": {
+            "input": "Sentence 1: No update on Nelson Mandela's condition Sentence 2: Nelson Mandela's condition improves",
+            "output": "2 - possibly"
+        },
+        "191": {
+            "input": "Sentence 1: Ukraine: Nine people die in Kyiv clashes Sentence 2: Ukraine pressured over Kiev clashes",
+            "output": "2 - possibly"
+        },
+        "192": {
+            "input": "Sentence 1: US Flying Surveillance Missions to Help Find Kidnapped Nigerian Girls Sentence 2: US surveillance aircraft join hunt for kidnapped Nigerian girls",
+            "output": "4 - almost perfectly"
+        },
+        "193": {
+            "input": "Sentence 1: Prince George is christened at St James's Palace Sentence 2: Prince George christened in London",
+            "output": "4 - almost perfectly"
+        },
+        "194": {
+            "input": "Sentence 1: Monty Python to reunite for new show Sentence 2: Monty Python to reunite on stage",
+            "output": "4 - almost perfectly"
+        },
+        "195": {
+            "input": "Sentence 1: Italian Foreign Minister confers with Ghana VP Sentence 2: Belgian Prime Minister sends condolences to victims",
+            "output": "0 - definitely not"
+        },
+        "196": {
+            "input": "Sentence 1: Bradley Manning-WikiLeaks case turns to sentencing Sentence 2: Manning WikiLeaks case turns to sentencing phase",
+            "output": "5 - perfectly"
+        },
+        "197": {
+            "input": "Sentence 1: Egypt poll: 98 per cent vote 'yes' for new constitution Sentence 2: Egypt holding key vote on constitution",
+            "output": "2 - possibly"
+        },
+        "198": {
+            "input": "Sentence 1: Iran, six global powers sign landmark nuclear deal Sentence 2: Iran, world powers agree nuclear deal",
+            "output": "5 - perfectly"
+        },
+        "199": {
+            "input": "Sentence 1: Israeli forces arrest 6 Palestinians in overnight West Bank raids Sentence 2: Israel classifies Jerusalem natives as noncitizens",
+            "output": "1 - probably not"
+        },
+        "200": {
+            "input": "Sentence 1: Hague 'concerns over conduct' of Zimbabwe election Sentence 2: Zimbabwe: 'Grave Concerns' Over Election",
+            "output": "3 - probably"
+        },
+        "201": {
+            "input": "Sentence 1: Hong Kong stocks end higher Sentence 2: Indian stocks open higher",
+            "output": "1 - probably not"
+        },
+        "202": {
+            "input": "Sentence 1: Dignitaries pay tribute to Paul Desmarais Sentence 2: Stars pay tribute to James Garner",
+            "output": "0 - definitely not"
+        },
+        "203": {
+            "input": "Sentence 1: Southwest grounds flights due to computer glitch Sentence 2: Southwest flights delayed, canceled after computer glitch",
+            "output": "4 - almost perfectly"
+        },
+        "204": {
+            "input": "Sentence 1: Vatican Embassy in Syria hit by mortar fire Sentence 2: Vatican embassy in Syria hit by mortar; no injuries",
+            "output": "4 - almost perfectly"
+        },
+        "205": {
+            "input": "Sentence 1: North Korea blocks access to joint industrial zone Sentence 2: North Korea Blocks Access to Key Industrial Zone",
+            "output": "4 - almost perfectly"
+        },
+        "206": {
+            "input": "Sentence 1: Islamic militants kill 9 foreign tourists, 1 Pakistani Sentence 2: Gunmen Kill 11 Foreign Tourists in Pakistan",
+            "output": "3 - probably"
+        },
+        "207": {
+            "input": "Sentence 1: 'Western' forces attack Islamic militant base in Somalia Sentence 2: Western powers scramble to befriend Modi",
+            "output": "1 - probably not"
+        },
+        "208": {
+            "input": "Sentence 1: Hong Kong set for huge democracy rally on handover anniversary Sentence 2: Hong Kong set for huge democracy rally",
+            "output": "4 - almost perfectly"
+        },
+        "209": {
+            "input": "Sentence 1: Suicide bomber kills 20 in Iraq Sentence 2: Suicide bomber attacks primary school in Iraq, kills 15",
+            "output": "3 - probably"
+        },
+        "210": {
+            "input": "Sentence 1: Five children buried alive in Bohol landslide Sentence 2: Nine children die in attack in Afghanistan attack",
+            "output": "0 - definitely not"
+        },
+        "211": {
+            "input": "Sentence 1: 6 Killed by Hot Lava as Indonesia Volcano Erupts Sentence 2: Five dead in Indonesian eruption",
+            "output": "3 - probably"
+        },
+        "212": {
+            "input": "Sentence 1: At least 11 killed in India building collapse Sentence 2: At Least 66 Killed in Bomb Blasts in Iraq",
+            "output": "1 - probably not"
+        },
+        "213": {
+            "input": "Sentence 1: Egypt's presidential election begins Sentence 2: Egypt issues long-waited presidential election law",
+            "output": "3 - probably"
+        },
+        "214": {
+            "input": "Sentence 1: Italian parliament backs new PM Sentence 2: Train Derailment Kills 4 in New York",
+            "output": "0 - definitely not"
+        },
+        "215": {
+            "input": "Sentence 1: Russian lawmakers pass new bill restricting Internet Sentence 2: Russia says ballistic 'objects' fired in Mediterranean",
+            "output": "0 - definitely not"
+        },
+        "216": {
+            "input": "Sentence 1: Super Typhoon Haiyan, Strongest of Season, Slams the Philippines Sentence 2: Super typhoon Haiyan closes in on the Philippines",
+            "output": "3 - probably"
+        },
+        "217": {
+            "input": "Sentence 1: Nato condemns Ukraine crackdown Sentence 2: Thai bonds best in region",
+            "output": "0 - definitely not"
+        },
+        "218": {
+            "input": "Sentence 1: China to investigate EU wine exports Sentence 2: Christie investigation heats up",
+            "output": "1 - probably not"
+        },
+        "219": {
+            "input": "Sentence 1: Boston bomb suspect charged; religious motive seen Sentence 2: Boston bombing suspect charged in hospital bed",
+            "output": "3 - probably"
+        },
+        "220": {
+            "input": "Sentence 1: Asian markets mixed on China trade data Sentence 2: Asian markets slump on central bank stimulus fears",
+            "output": "1 - probably not"
+        },
+        "221": {
+            "input": "Sentence 1: World's oldest person dies in Japan at 116 Sentence 2: Jiroemon Kimura: World's oldest person dies aged 116",
+            "output": "5 - perfectly"
+        },
+        "222": {
+            "input": "Sentence 1: Foreign exchange rates in India Sentence 2: Foreign exchange rates in Singapore",
+            "output": "1 - probably not"
+        },
+        "223": {
+            "input": "Sentence 1: Colorado wildfire destroys more than 90 homes as winds worsen Sentence 2: Colorado wildfire may be biggest property destroyer in state history",
+            "output": "4 - almost perfectly"
+        },
+        "224": {
+            "input": "Sentence 1: Earthquake of 6.3 magnitude strikes off Indonesia island Sentence 2: Earthquake of 6 magnitude strikes Thailand",
+            "output": "2 - possibly"
+        },
+        "225": {
+            "input": "Sentence 1: US, Afghan govt to hold peace talks with Taliban Sentence 2: Pakistan holds direct talks with Taliban",
+            "output": "2 - possibly"
+        },
+        "226": {
+            "input": "Sentence 1: Iran's nuclear negotiating team leaves for Kazakhstan Sentence 2: Iran's nuclear quest 'has cost Tehran over $100 billion'",
+            "output": "1 - probably not"
+        },
+        "227": {
+            "input": "Sentence 1: U.S factory orders down 0.7 pct in January Sentence 2: German factory orders rebound in January",
+            "output": "1 - probably not"
+        },
+        "228": {
+            "input": "Sentence 1: Gunmen Surround Libya's Foreign Ministry To Push Demands Sentence 2: Gunmen surround Libyan foreign ministry to push demands",
+            "output": "5 - perfectly"
+        },
+        "229": {
+            "input": "Sentence 1: Typhoon death toll rises to 3633 Sentence 2: Egyptian death toll rises to 638",
+            "output": "1 - probably not"
+        },
+        "230": {
+            "input": "Sentence 1: Uganda's president signs anti-gay bill Sentence 2: Uganda's president signs harsh anti-gay law",
+            "output": "4 - almost perfectly"
+        },
+        "231": {
+            "input": "Sentence 1: Russian parliament allows Putin to use military in Ukraine Sentence 2: Russia has no intention to incorporate southeastern Ukraine: FM",
+            "output": "2 - possibly"
+        },
+        "232": {
+            "input": "Sentence 1: Bradley Manning acquitted of aiding the enemy Sentence 2: Wikileaks soldier Bradley Manning acquitted of aiding the enemy",
+            "output": "4 - almost perfectly"
+        },
+        "233": {
+            "input": "Sentence 1: G7 'to intensify Russia sanctions' Sentence 2: Ukraine Fears Russian Invasion",
+            "output": "1 - probably not"
+        },
+        "234": {
+            "input": "Sentence 1: Rock bands' plane makes emergency landing in Ill. Sentence 2: Rock Bands' Plane Makes Emergency Landing in Ill.",
+            "output": "5 - perfectly"
+        },
+        "235": {
+            "input": "Sentence 1: Russian Prime Minister On Second Day Of Crimea Visit Sentence 2: Russia warns against setting preconditions for Syria",
+            "output": "1 - probably not"
+        },
+        "236": {
+            "input": "Sentence 1: Judge OKs force-feeding California inmates Sentence 2: U.S. judge approves force-feeding Californian inmates on hunger strik",
+            "output": "5 - perfectly"
+        },
+        "237": {
+            "input": "Sentence 1: Gang violence kills 16 in Venezuelan prison Sentence 2: Sixteen killed in Venezuela prison",
+            "output": "4 - almost perfectly"
+        },
+        "238": {
+            "input": "Sentence 1: US Military Deaths in Afghanistan at 2,153 Sentence 2: U.S. Military Deaths in Afghanistan",
+            "output": "3 - probably"
+        },
+        "239": {
+            "input": "Sentence 1: Israel, Palestinians seek another meeting Monday: U.S. official Sentence 2: Palestinians: We Don't Want Kerry Mission to Fail",
+            "output": "1 - probably not"
+        },
+        "240": {
+            "input": "Sentence 1: Tropical Storm Karen targets US Gulf Coast Sentence 2: Tropical Storm Karen poised to make landfall",
+            "output": "4 - almost perfectly"
+        },
+        "241": {
+            "input": "Sentence 1: Bangladesh Islamists rally against atheist bloggers Sentence 2: Bangladeshi Islamists rally to demand action against atheist bloggers",
+            "output": "5 - perfectly"
+        },
+        "242": {
+            "input": "Sentence 1: Crash of Malaysia Airlines Flight MH17 in Eastern Ukraine Sentence 2: Malaysia Airlines plane crashes on Ukraine-Russia border",
+            "output": "4 - almost perfectly"
+        },
+        "243": {
+            "input": "Sentence 1: Suicide bomber kills 13 at restaurant in central Somalia Sentence 2: Suicide bomber kills at least 4 in Kabul",
+            "output": "2 - possibly"
+        },
+        "244": {
+            "input": "Sentence 1: Anthony Weiner slips to fourth place in new poll Sentence 2: Weiner falls to fourth in new NYC mayoral poll",
+            "output": "5 - perfectly"
+        },
+        "245": {
+            "input": "Sentence 1: India accuses China of crossing de facto border Sentence 2: Senate, House on collision course on border money",
+            "output": "1 - probably not"
+        },
+        "246": {
+            "input": "Sentence 1: US top diplomat Kerry's wife rushed to hospital Sentence 2: US Secretary of State John Kerry\u201a\u00c4\u00f4s wife rushed to hospital",
+            "output": "5 - perfectly"
+        },
+        "247": {
+            "input": "Sentence 1: Kerry pursuing 'quiet strategy' in Mideast peace process Sentence 2: Kerry meets Israeli leaders to push Mideast peace",
+            "output": "4 - almost perfectly"
+        },
+        "248": {
+            "input": "Sentence 1: North Korea says to restart nuclear reactor Sentence 2: North Korea Offers Talks: Complex May Re-Open",
+            "output": "4 - almost perfectly"
+        },
+        "249": {
+            "input": "Sentence 1: Egyptian court considers Mubarak\u201a\u00c4\u00f4s release Sentence 2: Egypt court orders Mubarak release",
+            "output": "4 - almost perfectly"
+        },
+        "250": {
+            "input": "Sentence 1: More rain hampers Indian flood rescue Sentence 2: US tourist gang-raped in northern India: Police",
+            "output": "0 - definitely not"
+        },
+        "251": {
+            "input": "Sentence 1: A look at major terror attacks in East Africa Sentence 2: UN Security Council slams deadly terrorist attack in Kenyan capital",
+            "output": "2 - possibly"
+        },
+        "252": {
+            "input": "Sentence 1: Russia responds to Ukraine ceasefire Sentence 2: Cyprus probes Ukraine assets",
+            "output": "1 - probably not"
+        },
+        "253": {
+            "input": "Sentence 1: Kim Jong-un Executed His 'Worse Than a Dog' Uncle Sentence 2: NKorea executes Kim Jong Un' uncle",
+            "output": "4 - almost perfectly"
+        },
+        "254": {
+            "input": "Sentence 1: Colourful support at World Cup in Brazil Sentence 2: Merkel to attend World Cup final",
+            "output": "1 - probably not"
+        },
+        "255": {
+            "input": "Sentence 1: Mandela remains in hospital Sentence 2: Mandela remains in 'intensive care'",
+            "output": "4 - almost perfectly"
+        },
+        "256": {
+            "input": "Sentence 1: South Korea Ferry Crew Members Stand Trial Sentence 2: Sewol ferry crew faces trial",
+            "output": "4 - almost perfectly"
+        },
+        "257": {
+            "input": "Sentence 1: Egypt votes on new constitution Sentence 2: Egyptians Voting on New Constitution",
+            "output": "5 - perfectly"
+        },
+        "258": {
+            "input": "Sentence 1: US drone strike kills six in Pakistan officials Sentence 2: U.S. drone kills 4 militants in Pakistan",
+            "output": "3 - probably"
+        },
+        "259": {
+            "input": "Sentence 1: Vietnam detects signals from missing plane Sentence 2: China expands search area for missing plane",
+            "output": "2 - possibly"
+        },
+        "260": {
+            "input": "Sentence 1: Cricket-England v Australia fourth test scoreboard Sentence 2: Cricket-England 155-4 v Australia, fourth test - tea",
+            "output": "4 - almost perfectly"
+        },
+        "261": {
+            "input": "Sentence 1: Birthday of DPRK to Be Celebrated in Peru Sentence 2: Curiosity Rover Celebrates 1 Year on Mars",
+            "output": "0 - definitely not"
+        },
+        "262": {
+            "input": "Sentence 1: Powerful 7.6 quake strikes off Solomons Sentence 2: Powerful 6.9 quake strikes off California coast",
+            "output": "2 - possibly"
+        },
+        "263": {
+            "input": "Sentence 1: India Ink: Image of the Day: May 21 Sentence 2: India Ink: Image of the Day: January 16",
+            "output": "2 - possibly"
+        },
+        "264": {
+            "input": "Sentence 1: Australia leader ousted in snap leadership vote Sentence 2: Australian PM Gillard ousted in leadership vote",
+            "output": "4 - almost perfectly"
+        },
+        "265": {
+            "input": "Sentence 1: Obama condemns Egypt violence, cancels military exercises Sentence 2: Pakistan condemns violence in Egypt",
+            "output": "1 - probably not"
+        },
+        "266": {
+            "input": "Sentence 1: Argentina declares mourning for flood victims Sentence 2: Parents demands common forms for nursery admissions",
+            "output": "0 - definitely not"
+        },
+        "267": {
+            "input": "Sentence 1: What the Papers Say, May 20, 2013 Sentence 2: What the Papers Say, Nov. 19, 2013",
+            "output": "2 - possibly"
+        },
+        "268": {
+            "input": "Sentence 1: Google releases Nexus 5 phone with Kit Kat Sentence 2: Google redesigns search results on PCs",
+            "output": "1 - probably not"
+        },
+        "269": {
+            "input": "Sentence 1: Bombing Aimed at Hezbollah Hits Southern Beirut Sentence 2: Explosion Hits Hezbollah Area South of Beirut",
+            "output": "4 - almost perfectly"
+        },
+        "270": {
+            "input": "Sentence 1: U.S., allies to add sanctions against Russia over Ukraine Sentence 2: EU Slaps New Sanctions on Russia Over Ukraine",
+            "output": "3 - probably"
+        },
+        "271": {
+            "input": "Sentence 1: Factories that ran on Korean cooperation go silent Sentence 2: North and South Korea break their silence with talks",
+            "output": "1 - probably not"
+        },
+        "272": {
+            "input": "Sentence 1: Chinese premier meets Indian vice president Sentence 2: Hezbollah urges to elect new Lebanese president",
+            "output": "0 - definitely not"
+        },
+        "273": {
+            "input": "Sentence 1: Algerian president in France for medical tests Sentence 2: Algerian president in France for medical tests after minor stroke",
+            "output": "4 - almost perfectly"
+        },
+        "274": {
+            "input": "Sentence 1: Manchester City wins second Premier League title in three years Sentence 2: Manchester City win English Premier League title",
+            "output": "4 - almost perfectly"
+        },
+        "275": {
+            "input": "Sentence 1: Bodies of MH17 crash victims flown to Netherlands Sentence 2: MH17 dead flown back to Netherlands",
+            "output": "5 - perfectly"
+        },
+        "276": {
+            "input": "Sentence 1: Egypt policeman killed in Sinai attack Sentence 2: Egyptian soldiers killed in Sinai attack",
+            "output": "3 - probably"
+        },
+        "277": {
+            "input": "Sentence 1: Extension likely for Iran nuclear talks Sentence 2: Oil slips below $108 ahead of Iran nuclear talks",
+            "output": "1 - probably not"
+        },
+        "278": {
+            "input": "Sentence 1: Fire kills 38 in Russian psychiatric institution Sentence 2: 38 feared dead in Russian psychiatric hospital fire",
+            "output": "4 - almost perfectly"
+        },
+        "279": {
+            "input": "Sentence 1: Russia Warns It May Not Sign Landmark UN Arms Treaty Sentence 2: UN closes in on landmark arms treaty",
+            "output": "2 - possibly"
+        },
+        "280": {
+            "input": "Sentence 1: Didier Reynders on Syria Sentence 2: Obama's day: Prime time on Syria",
+            "output": "2 - possibly"
+        },
+        "281": {
+            "input": "Sentence 1: China stocks open higher Monday Sentence 2: China stocks close lower on Thursday",
+            "output": "1 - probably not"
+        },
+        "282": {
+            "input": "Sentence 1: Sony Xperia Z2 and Nokia\u201a\u00c4\u00f4s X series unveiled Sentence 2: Court orders political ban on Italy\u201a\u00c4\u00f4s Berlusconi",
+            "output": "0 - definitely not"
+        },
+        "283": {
+            "input": "Sentence 1: Mandela back in hospital in \u201a\u00c4\u0117serious but stable\u201a\u00c4\u00f4 condition Sentence 2: Nelson Mandela returns to hospital in \u201a\u00c4\u0117serious but stable\u201a\u00c4\u00f4 condition",
+            "output": "5 - perfectly"
+        },
+        "284": {
+            "input": "Sentence 1: East Harlem explosion death toll rises Sentence 2: Mexico storm death toll continues to rise",
+            "output": "0 - definitely not"
+        },
+        "285": {
+            "input": "Sentence 1: Ukrainian Prime Minister resigns amid protests Sentence 2: British Prime Minister condemns murder of teens",
+            "output": "0 - definitely not"
+        },
+        "286": {
+            "input": "Sentence 1: Royal Hoax DJ Takes Action Against Station Sentence 2: Taliban bombs US base in Afghanistan",
+            "output": "0 - definitely not"
+        },
+        "287": {
+            "input": "Sentence 1: Arsenal v Stoke City \u201a\u00c4\u010f live! Sentence 2: Tottenham v Manchester City \u201a\u00c4\u010f live!",
+            "output": "2 - possibly"
+        },
+        "288": {
+            "input": "Sentence 1: Business news and markets: as it happened, April 17, 2013 Sentence 2: Business news and markets: as it happened, June 20, 2013",
+            "output": "2 - possibly"
+        },
+        "289": {
+            "input": "Sentence 1: Iran, world powers begin new round of nuclear talks Sentence 2: Iran, world powers pledge new nuclear talks",
+            "output": "4 - almost perfectly"
+        },
+        "290": {
+            "input": "Sentence 1: Tropical Storm Karen targets US Gulf Coast Sentence 2: Tropical Storm Karen weakens as it nears U.S. Gulf Coast",
+            "output": "3 - probably"
+        },
+        "291": {
+            "input": "Sentence 1: Workers killed in India building collapse Sentence 2: 76 killed in Bangladesh building collapse",
+            "output": "3 - probably"
+        },
+        "292": {
+            "input": "Sentence 1: North Korea fires three short-range missiles Sentence 2: N. Korea fires short-range missiles",
+            "output": "4 - almost perfectly"
+        },
+        "293": {
+            "input": "Sentence 1: Car Bomb Kills 37 in Northwest Pakistan Sentence 2: Bomb kills three in northwest Pakistan",
+            "output": "3 - probably"
+        },
+        "294": {
+            "input": "Sentence 1: Malaysia Airlines loses contact with plane carrying 239 to Beijing Sentence 2: Malaysia Airlines plane vanishes on flight to Beijing",
+            "output": "4 - almost perfectly"
+        },
+        "295": {
+            "input": "Sentence 1: Microsoft says to cut up to 18,000 jobs Sentence 2: Microsoft to cut 18,000 jobs in overhaul",
+            "output": "5 - perfectly"
+        },
+        "296": {
+            "input": "Sentence 1: Fire destroys ancient Tibetan town in China Sentence 2: Fire destroys Tibetan town in China",
+            "output": "4 - almost perfectly"
+        },
+        "297": {
+            "input": "Sentence 1: Yahoo agrees to buy Tumblr for $1.1 billion cash Sentence 2: Yahoo to Buy Tumblr for $1.1 Billion",
+            "output": "5 - perfectly"
+        },
+        "298": {
+            "input": "Sentence 1: India starts voting in world's largest election Sentence 2: India voters kick off world\u201a\u00c4\u00f4s biggest election",
+            "output": "5 - perfectly"
+        },
+        "299": {
+            "input": "Sentence 1: Car bomb in northern Syria kills at least 12 Sentence 2: Syrian airstrikes kill at least 18 in Aleppo",
+            "output": "2 - possibly"
+        },
+        "300": {
+            "input": "Sentence 1: Philippine quake death toll climbs to 73 Sentence 2: Death toll in Philippines quake jumps to 85",
+            "output": "3 - probably"
+        },
+        "301": {
+            "input": "Sentence 1: Search ends for missing asylum-seekers Sentence 2: Search narrowed for missing man",
+            "output": "1 - probably not"
+        },
+        "302": {
+            "input": "Sentence 1: Ukrainian President orders 7-day ceasefire in the east Sentence 2: Uganda's President Museveni agrees to sign anti-gays Bill",
+            "output": "0 - definitely not"
+        },
+        "303": {
+            "input": "Sentence 1: ICC Champions Trophy: India vs South Africa Sentence 2: Champions Trophy: India v South AfricaLive",
+            "output": "4 - almost perfectly"
+        },
+        "304": {
+            "input": "Sentence 1: Supreme Court takes on affirmative action in Michigan ban case Sentence 2: Supreme Court to hear Michigan affirmative action case",
+            "output": "4 - almost perfectly"
+        },
+        "305": {
+            "input": "Sentence 1: Headlines in major Iranian newspapers on Sept 30 Sentence 2: Headlines in major Iranian newspapers on Nov 21",
+            "output": "3 - probably"
+        },
+        "306": {
+            "input": "Sentence 1: Cyclone leaves trail of destruction in India Sentence 2: Cyclone Phailin evacuation kept Indian villagers alive",
+            "output": "2 - possibly"
+        },
+        "307": {
+            "input": "Sentence 1: Taliban kill 15 police in west Afghanistan Sentence 2: US drone kills two in eastern Afghanistan",
+            "output": "1 - probably not"
+        },
+        "308": {
+            "input": "Sentence 1: Thousands rally to support embattled Tunisia government Sentence 2: Thousands gather to support Islamist government in Tunisia",
+            "output": "5 - perfectly"
+        },
+        "309": {
+            "input": "Sentence 1: South Africa's Mandela taken to hospital Sentence 2: Nelson Mandela taken to hospital",
+            "output": "5 - perfectly"
+        },
+        "310": {
+            "input": "Sentence 1: Updated - Two explosions near finish line of Boston Marathon Sentence 2: Two explosions at Boston Marathon finish line",
+            "output": "5 - perfectly"
+        },
+        "311": {
+            "input": "Sentence 1: At least two killed in southern Egypt clash Sentence 2: At least 18 killed in North Caucasus train station blast",
+            "output": "0 - definitely not"
+        },
+        "312": {
+            "input": "Sentence 1: Winter Storm Ion: State-By-State... Sentence 2: Winter Storm Janus: State-by-State...",
+            "output": "3 - probably"
+        },
+        "313": {
+            "input": "Sentence 1: Corpses Of 53 Men Found South Of Baghdad Sentence 2: Iraqi officials: 50 bodies found south of Baghdad",
+            "output": "4 - almost perfectly"
+        },
+        "314": {
+            "input": "Sentence 1: Bomb attacks kill 20 in Baghdad's Christian areas Sentence 2: Bombs Kill 35 in Baghdad Christian Area",
+            "output": "3 - probably"
+        },
+        "315": {
+            "input": "Sentence 1: China sets Bo Xilai trial date Sentence 2: China Bo Xilai trial in fourth day",
+            "output": "3 - probably"
+        },
+        "316": {
+            "input": "Sentence 1: Muslims prepare for start of Ramadan Sentence 2: Muslims pray for end to divisions",
+            "output": "1 - probably not"
+        },
+        "317": {
+            "input": "Sentence 1: Japan scrambles jets against Russian military planes Sentence 2: Separatists down Ukraine military plane, several dead",
+            "output": "1 - probably not"
+        },
+        "318": {
+            "input": "Sentence 1: Thousands of Britons claim dole in Germany Sentence 2: Thousands of white-clad Amsterdammers march for MH17",
+            "output": "1 - probably not"
+        },
+        "319": {
+            "input": "Sentence 1: Suspected U.S. drone strike kills 5 in Pakistan Sentence 2: Suspected US drone targets Islamic seminary in Pakistan",
+            "output": "2 - possibly"
+        },
+        "320": {
+            "input": "Sentence 1: Obama to sign up for Obamacare Sentence 2: Obama visits tornado hit Oklahoma",
+            "output": "0 - definitely not"
+        },
+        "321": {
+            "input": "Sentence 1: General Electric posts 9% profit drop for third quarter Sentence 2: GE posts 9% profit drop for third quarter",
+            "output": "5 - perfectly"
+        },
+        "322": {
+            "input": "Sentence 1: China yuan weakens to 6.1535 against USD Sentence 2: China yuan strengthens to new high against USD",
+            "output": "2 - possibly"
+        },
+        "323": {
+            "input": "Sentence 1: Russia finds dead lawyer Magnitsky guilty in posthumous trial Sentence 2: Russia convicts dead lawyer Magnitsky in posthumous trial",
+            "output": "5 - perfectly"
+        },
+        "324": {
+            "input": "Sentence 1: 'Trayvon could have been me' Sentence 2: Trayvon Martin could have been ...",
+            "output": "3 - probably"
+        },
+        "325": {
+            "input": "Sentence 1: China sends largest fleet yet to disputed islands Sentence 2: China ships enter waters off disputed islands",
+            "output": "3 - probably"
+        },
+        "326": {
+            "input": "Sentence 1: Police: Explosion in Belfast Cathedral Quarter Sentence 2: Explosion in Kabul a suicide attack in diplomatic area",
+            "output": "2 - possibly"
+        },
+        "327": {
+            "input": "Sentence 1: Prime Minister to seek nuclear deal, investments during Japan visit Sentence 2: Manmohan hopes to clinch nuclear deal with Japan",
+            "output": "3 - probably"
+        },
+        "328": {
+            "input": "Sentence 1: US postpones missile test over N Korea tensions Sentence 2: Embassies staying put in N. Korea despite tension",
+            "output": "1 - probably not"
+        },
+        "329": {
+            "input": "Sentence 1: Obama to meet privately with family of Nelson Mandela Sentence 2: Obama to meet with Mandela family",
+            "output": "5 - perfectly"
+        },
+        "330": {
+            "input": "Sentence 1: At least six dead in US shooting rampage Sentence 2: At least 20 dead in Somalia attacks",
+            "output": "0 - definitely not"
+        },
+        "331": {
+            "input": "Sentence 1: Gunmen kill 10 in Philippine political violence Sentence 2: Five killed in Philippines volcano eruption",
+            "output": "1 - probably not"
+        },
+        "332": {
+            "input": "Sentence 1: Israel downs drone from Lebanon Sentence 2: Israel shoots down drone from Lebanon",
+            "output": "5 - perfectly"
+        },
+        "333": {
+            "input": "Sentence 1: Deadly clashes as Egypt marks anniversary Sentence 2: Violent clashes mark anniversary of Egypt uprising",
+            "output": "5 - perfectly"
+        },
+        "334": {
+            "input": "Sentence 1: NATO: 5 Americans killed in southern Afghanistan Sentence 2: Roadside bomb kills 3 policemen in southern Afghanistan",
+            "output": "2 - possibly"
+        },
+        "335": {
+            "input": "Sentence 1: Conmen dressed as women steal cash Sentence 2: CCTV: York conmen dress as women to trick pensioners",
+            "output": "4 - almost perfectly"
+        },
+        "336": {
+            "input": "Sentence 1: Cleveland Kidnapper Ariel Castro Found Hanged in Prison Cell Sentence 2: Cleveland kidnapper Ariel Castro found hanging in his cell",
+            "output": "5 - perfectly"
+        },
+        "337": {
+            "input": "Sentence 1: Google Unveils Prototype Self-Driving Car Sentence 2: Google Unveils Concept Self-Driving Car",
+            "output": "5 - perfectly"
+        },
+        "338": {
+            "input": "Sentence 1: Bangladesh garment factory fire 'kills 8' Sentence 2: Bangladesh garment factory collapse kills 149",
+            "output": "2 - possibly"
+        },
+        "339": {
+            "input": "Sentence 1: US seeks to reassure wary Gulf allies over Iran deal Sentence 2: Hagel seeks to reassure jittery Gulf allies after Iran deal",
+            "output": "4 - almost perfectly"
+        },
+        "340": {
+            "input": "Sentence 1: Ukraine hosts \u201a\u00c4\u0117unity talks\u201a\u00c4\u00f4 Sentence 2: Pope hits out at \u201a\u00c4\u0117war to sell arms\u201a\u00c4\u00f4 in Syria",
+            "output": "0 - definitely not"
+        },
+        "341": {
+            "input": "Sentence 1: Pakistan's Musharraf Under Arrest in Bhutto Assassination Sentence 2: Pakistan's Musharraf arrives at court for first time",
+            "output": "2 - possibly"
+        },
+        "342": {
+            "input": "Sentence 1: Trial Date Set for Egypt's Muslim Brotherhood Chief Sentence 2: Syria's Muslim Brotherhood faces uphill battle",
+            "output": "2 - possibly"
+        },
+        "343": {
+            "input": "Sentence 1: Red panda\u201a\u00c4\u00f4s short-lived zoo escape Sentence 2: India\u201a\u00c4\u00f4s march to Mars",
+            "output": "0 - definitely not"
+        },
+        "344": {
+            "input": "Sentence 1: Israeli doctors could be tried abroad for force-feeding Palestinian prisoners Sentence 2: Israel's West Bank control 'costing Palestinian economy billions'",
+            "output": "0 - definitely not"
+        },
+        "345": {
+            "input": "Sentence 1: Washington Pot Shops Prepare for Historic Sales Sentence 2: Washington pot shops prepare for historic sales",
+            "output": "5 - perfectly"
+        },
+        "346": {
+            "input": "Sentence 1: Son of top Muslim Brotherhood leader killed Sentence 2: Egypt arrests Muslim Brotherhood leader Badie",
+            "output": "1 - probably not"
+        },
+        "347": {
+            "input": "Sentence 1: Iran, six global powers sign landmark nuclear deal Sentence 2: Iran, six world powers clinch breakthrough nuclear deal",
+            "output": "5 - perfectly"
+        },
+        "348": {
+            "input": "Sentence 1: Hot-Air Balloon Catches Fire in Virginia Sentence 2: Hot Air Balloon 'Catches Fire And Crashes'",
+            "output": "3 - probably"
+        },
+        "349": {
+            "input": "Sentence 1: Quotes from leaders, family at Mandela memorial Sentence 2: World unites for Mandela memorial",
+            "output": "2 - possibly"
+        },
+        "350": {
+            "input": "Sentence 1: Mumbai Indians puts T&T in its place Sentence 2: Indonesians vote for president in tight race",
+            "output": "0 - definitely not"
+        },
+        "351": {
+            "input": "Sentence 1: KL shares remain higher mid-afternoon Sentence 2: KL shares continue uptrend mid-afternoon",
+            "output": "4 - almost perfectly"
+        },
+        "352": {
+            "input": "Sentence 1: What the Papers Say, Nov. 20, 2013 Sentence 2: What the Papers Say, Oct. 10, 2013",
+            "output": "3 - probably"
+        },
+        "353": {
+            "input": "Sentence 1: Amazon launches new device for streaming video Sentence 2: Amazon unveils new Fire TV streaming video box",
+            "output": "4 - almost perfectly"
+        },
+        "354": {
+            "input": "Sentence 1: Palestinian President Receives Jordanian Foreign Minister Sentence 2: Palestinian arrested for sexually harassing young girls",
+            "output": "0 - definitely not"
+        },
+        "355": {
+            "input": "Sentence 1: Obama nominates new transportation secretary Sentence 2: Obama To Meet Embattled Veterans Secretary",
+            "output": "0 - definitely not"
+        },
+        "356": {
+            "input": "Sentence 1: China yuan weakens to 6.1059 against USD Sentence 2: China yuan strengthens to 6.1070 against USD Friday",
+            "output": "2 - possibly"
+        },
+        "357": {
+            "input": "Sentence 1: French raid wine cellar for austerity auction Sentence 2: US praises Ukraine deal; calls for concrete action",
+            "output": "0 - definitely not"
+        },
+        "358": {
+            "input": "Sentence 1: US, Russia agree on seizure of Syria chemical weapons Sentence 2: Syrian rebels skeptical of chemical weapons deal",
+            "output": "1 - probably not"
+        },
+        "359": {
+            "input": "Sentence 1: S Korea MPs to visit Kaesong complex Sentence 2: S. Korea demands talks with N. Korea on closed factory",
+            "output": "1 - probably not"
+        },
+        "360": {
+            "input": "Sentence 1: Algerian priest to lecture about Christian heritage in N. Africa Sentence 2: Telstra applies to list China site in NY",
+            "output": "0 - definitely not"
+        },
+        "361": {
+            "input": "Sentence 1: Headlines in major Iranian newspapers on April 5 Sentence 2: Headlines in major Iranian newspapers on August 18",
+            "output": "3 - probably"
+        },
+        "362": {
+            "input": "Sentence 1: Implications of Palestinian reconciliation Sentence 2: Belgian king to address nation amid abdication speculation",
+            "output": "1 - probably not"
+        },
+        "363": {
+            "input": "Sentence 1: Hijacker arrested after plane lands at Geneva Airport Sentence 2: Hijacked aircraft lands in Geneva",
+            "output": "3 - probably"
+        },
+        "364": {
+            "input": "Sentence 1: PCB appoints Waqar Younis as head coach Sentence 2: Waqar Younis back as Pakistan coach",
+            "output": "5 - perfectly"
+        },
+        "365": {
+            "input": "Sentence 1: US makes case for action against Syria Sentence 2: Saudi Urges U.N. Action against Israel Strikes on Syria",
+            "output": "2 - possibly"
+        },
+        "366": {
+            "input": "Sentence 1: Ankara protesters clash with police Sentence 2: Peru protesters clash with police",
+            "output": "2 - possibly"
+        },
+        "367": {
+            "input": "Sentence 1: 49 killed, 148 wounded in violent attacks in Iraq Sentence 2: 15 killed, 90 wounded in fresh attacks in Iraq",
+            "output": "2 - possibly"
+        },
+        "368": {
+            "input": "Sentence 1: Puerto Rican arrested for production of child pornography Sentence 2: Indian guru arrested on suspicion of rape",
+            "output": "0 - definitely not"
+        },
+        "369": {
+            "input": "Sentence 1: Ukraine signs EU trade pact as Russia finalizes Crimea annexation Sentence 2: Ukraine's top court dismisses Crimea's independence as \"unconstitutional\"",
+            "output": "2 - possibly"
+        },
+        "370": {
+            "input": "Sentence 1: Assad warns Turkey of 'heavy price' for backing Syrian rebels Sentence 2: Cabinet at war over arming Syrian rebels",
+            "output": "1 - probably not"
+        },
+        "371": {
+            "input": "Sentence 1: Indian stocks close lower Sentence 2: Hong Kong stocks close 2.33% higher",
+            "output": "2 - possibly"
+        },
+        "372": {
+            "input": "Sentence 1: 19 killed, 42 wounded in violent attacks in Iraq Sentence 2: 43 killed, 86 wounded in attacks in Iraq",
+            "output": "3 - probably"
+        },
+        "373": {
+            "input": "Sentence 1: Indian rape accused face verdicts Sentence 2: Indian rape accused found guilty",
+            "output": "4 - almost perfectly"
+        },
+        "374": {
+            "input": "Sentence 1: Iran nuclear deal agreed at talks Sentence 2: Iran Nuclear Deal Sealed After Decades-Long Dispute",
+            "output": "4 - almost perfectly"
+        },
+        "375": {
+            "input": "Sentence 1: Egyptian military spokesman denounces incitement against army Sentence 2: Labor ministry announcement due on Monday",
+            "output": "0 - definitely not"
+        },
+        "376": {
+            "input": "Sentence 1: Snowden sees 'no chance' for US fair trial Sentence 2: Snowden sees \"no chance\" to get fair trial in U.S.",
+            "output": "5 - perfectly"
+        },
+        "377": {
+            "input": "Sentence 1: Headlines in major Iranian newspapers on Dec 30 Sentence 2: Headlines in major Iranian newspapers on July 6",
+            "output": "2 - possibly"
+        },
+        "378": {
+            "input": "Sentence 1: Dozens injured in Connecticut train collision Sentence 2: Indian minister killed in head-on collision",
+            "output": "0 - definitely not"
+        },
+        "379": {
+            "input": "Sentence 1: Queen visits Britain's new prince Sentence 2: Queen meets Britain's new baby prince",
+            "output": "5 - perfectly"
+        },
+        "380": {
+            "input": "Sentence 1: Ukraine: Three Killed In Parliament Protests Sentence 2: Ukraine President Calls Talks To End Protests",
+            "output": "1 - probably not"
+        },
+        "381": {
+            "input": "Sentence 1: Ride operator charged in N.C. fair accident Sentence 2: N.C. State Fair ride operator arrested after accident",
+            "output": "4 - almost perfectly"
+        },
+        "382": {
+            "input": "Sentence 1: Transcript reveals confusion over evacuation of South Korean ferry Sentence 2: Transcript Reveals Confusion Over Ferry Evacuation",
+            "output": "4 - almost perfectly"
+        },
+        "383": {
+            "input": "Sentence 1: Fallen US firefighters brought home Sentence 2: Wall Street ends slightly lower",
+            "output": "0 - definitely not"
+        },
+        "384": {
+            "input": "Sentence 1: Syria Regime Agrees to Attend Peace Conference Sentence 2: Russia: Syria Agrees to Participate in Conference",
+            "output": "5 - perfectly"
+        },
+        "385": {
+            "input": "Sentence 1: UK vote rejects military action Sentence 2: Britain rejects Syria military action",
+            "output": "3 - probably"
+        },
+        "386": {
+            "input": "Sentence 1: New Zealand set to legalise gay marriage Sentence 2: New Zealand votes to legalise same-sex marriage",
+            "output": "4 - almost perfectly"
+        },
+        "387": {
+            "input": "Sentence 1: Singapore stocks end up 0.37 pct Sentence 2: Singapore stocks close 0.41 pct higher",
+            "output": "3 - probably"
+        },
+        "388": {
+            "input": "Sentence 1: Venezuelan president to visit China Sentence 2: Senegalese president to visit China",
+            "output": "2 - possibly"
+        },
+        "389": {
+            "input": "Sentence 1: Cairo protesters defy crackdown threat Sentence 2: In Cairo Camps, Protesters Dig in and Live On",
+            "output": "4 - almost perfectly"
+        },
+        "390": {
+            "input": "Sentence 1: Missing plane search turns to Vietnamese islands Sentence 2: Missing Malaysia Airlines plane 'crashes off Vietnam'",
+            "output": "3 - probably"
+        },
+        "391": {
+            "input": "Sentence 1: Stars pay tribute to Cory Monteith Sentence 2: Stars pay tribute to James Garner",
+            "output": "2 - possibly"
+        },
+        "392": {
+            "input": "Sentence 1: Los Angeles airport worker charged with making 9/11 threats Sentence 2: Los Angeles airport worker charged over 9/11 threats",
+            "output": "5 - perfectly"
+        },
+        "393": {
+            "input": "Sentence 1: The Note's Must-Reads for Friday May 24, 2013 Sentence 2: The Note's Must-Reads for Friday, August 23, 2013",
+            "output": "2 - possibly"
+        },
+        "394": {
+            "input": "Sentence 1: Cristiano Ronaldo hat-trick fires Portugal to 2014 World Cup finals Sentence 2: Ronaldo hat-trick fires Portugal to World Cup",
+            "output": "5 - perfectly"
+        },
+        "395": {
+            "input": "Sentence 1: Britain's Prince Philip set for 'exploratory' surgery Sentence 2: UK's Prince Philip hospitalized",
+            "output": "3 - probably"
+        },
+        "396": {
+            "input": "Sentence 1: Three bomb attacks kill six soldiers, one civilian Sentence 2: School bomb attack kills two in southern Thailand",
+            "output": "1 - probably not"
+        },
+        "397": {
+            "input": "Sentence 1: Italian pilgrims die in bus plunge Sentence 2: Passengers dead in Italy bus plunge",
+            "output": "4 - almost perfectly"
+        },
+        "398": {
+            "input": "Sentence 1: Strong new quake hits shattered Pak region Sentence 2: Powerful new earthquake hits shattered Pakistan region",
+            "output": "5 - perfectly"
+        },
+        "399": {
+            "input": "Sentence 1: At least 20 dead in Somalia attacks Sentence 2: At least 60 die in Iraq prison attack",
+            "output": "2 - possibly"
+        },
+        "400": {
+            "input": "Sentence 1: Westgate mall attackers spent four months planning in Nairobi Sentence 2: Westgate attackers spent four months planning in Nairobi, says official",
+            "output": "5 - perfectly"
+        },
+        "401": {
+            "input": "Sentence 1: U.N. Security Council calls for humanitarian ceasefire in Gaza Sentence 2: U.N. Security Council Calls for Unconditional Cease-Fire in Gaza",
+            "output": "5 - perfectly"
+        },
+        "402": {
+            "input": "Sentence 1: 6.3-magnitude quake hits Honshu, Japan: CENC Sentence 2: 6.7-magnitude earthquake jolts Taiwan: CENC",
+            "output": "2 - possibly"
+        },
+        "403": {
+            "input": "Sentence 1: Chinese shares close higher Tuesday Sentence 2: Chinese shares close lower on Wednesday",
+            "output": "2 - possibly"
+        },
+        "404": {
+            "input": "Sentence 1: Car Bombs Kill 58 in Iraqi Capital Sentence 2: Car bombings kill 13 civilians in Iraqi capital",
+            "output": "2 - possibly"
+        },
+        "405": {
+            "input": "Sentence 1: Ukrainian protesters back in streets for anti-government rally Sentence 2: Ukraine protesters topple Lenin statue in Kiev",
+            "output": "3 - probably"
+        },
+        "406": {
+            "input": "Sentence 1: Canadian freight train blast death toll hits three, to rise Sentence 2: Canadian government 'monitoring' train blast situation",
+            "output": "2 - possibly"
+        },
+        "407": {
+            "input": "Sentence 1: Israel's Peres urges return to peace talks Sentence 2: Gonsalves keeps up pressure on Dom Rep",
+            "output": "0 - definitely not"
+        },
+        "408": {
+            "input": "Sentence 1: China yuan strengthens to 6.1184 against USD Tuesday Sentence 2: China yuan weakens to 6.1510 against USD",
+            "output": "2 - possibly"
+        },
+        "409": {
+            "input": "Sentence 1: Radio: Israel set to increase Palestinian prisoner release Sentence 2: US: Israel to delay Palestinian prisoner release",
+            "output": "2 - possibly"
+        },
+        "410": {
+            "input": "Sentence 1: Morsi's supporters reject plan Sentence 2: Morsi supporters march in Egypt",
+            "output": "2 - possibly"
+        },
+        "411": {
+            "input": "Sentence 1: Egypt court sentences 10 Brotherhood supporters to death - sources Sentence 2: Turkish PM tells supporters to prepare for rallies",
+            "output": "0 - definitely not"
+        },
+        "412": {
+            "input": "Sentence 1: Obama condemns killing of 3 Israeli teens Sentence 2: Bodies of missing Israeli teens found in West Bank",
+            "output": "1 - probably not"
+        },
+        "413": {
+            "input": "Sentence 1: Men tried to behead soldier on London street, court hears Sentence 2: Australia spied on Indonesia president: reports",
+            "output": "0 - definitely not"
+        },
+        "414": {
+            "input": "Sentence 1: Ukraine protesters rebuild barricades Sentence 2: Putin speaks on Ukraine, protesters rebuild barricades",
+            "output": "3 - probably"
+        },
+        "415": {
+            "input": "Sentence 1: Three dead, 63 hurt as New York buildings collapse Sentence 2: Two dead, nine hurt in French building collapse",
+            "output": "2 - possibly"
+        },
+        "416": {
+            "input": "Sentence 1: Chinese shares close higher Tuesday Sentence 2: Chinese stocks close lower Thursday",
+            "output": "2 - possibly"
+        },
+        "417": {
+            "input": "Sentence 1: India Ink: Image of the Day: July 2 Sentence 2: India Ink: Image of the Day: March 4",
+            "output": "3 - probably"
+        },
+        "418": {
+            "input": "Sentence 1: Asian Muslims celebrate Eid as 14 killed in Afghanistan Sentence 2: Asian Muslims celebrate Eid as 52 die in Pakistan, Afghanistan",
+            "output": "4 - almost perfectly"
+        },
+        "419": {
+            "input": "Sentence 1: Russian coal mines seek new outlets in China Sentence 2: Russian foreign minister to meet UN chief",
+            "output": "0 - definitely not"
+        },
+        "420": {
+            "input": "Sentence 1: Ukraine\u201a\u00c4\u00f4s pro-Russia protesters demand greater autonomy Sentence 2: Sudanese protesters demand the regime's ouster",
+            "output": "1 - probably not"
+        },
+        "421": {
+            "input": "Sentence 1: Iraq army fights to retake Tikrit Sentence 2: Iraq army claims victory in Tikrit",
+            "output": "3 - probably"
+        },
+        "422": {
+            "input": "Sentence 1: Iran condemns alleged Israeli airstrike on Syria Sentence 2: Democrats Face Divide Over a Strike on Syria",
+            "output": "1 - probably not"
+        },
+        "423": {
+            "input": "Sentence 1: Israel agrees to extend Gaza truce by four hours Sentence 2: Israel, Hamas reportedly agree to 12-hour truce",
+            "output": "3 - probably"
+        },
+        "424": {
+            "input": "Sentence 1: Fire at South Korean bus terminal kills 5 Sentence 2: S Korea bus station fire kills seven",
+            "output": "3 - probably"
+        },
+        "425": {
+            "input": "Sentence 1: Four civilians, three NATO soldiers killed in Afghanistan Sentence 2: Three NATO soldiers killed in Afghanistan",
+            "output": "3 - probably"
+        },
+        "426": {
+            "input": "Sentence 1: Protesters swamp streets to reclaim revolution Sentence 2: Egypt: Protesters storm Muslim Brotherhood's HQ",
+            "output": "2 - possibly"
+        },
+        "427": {
+            "input": "Sentence 1: Tokyo stocks open down 0.24% Sentence 2: Tokyo stocks open up 0.52%",
+            "output": "3 - probably"
+        },
+        "428": {
+            "input": "Sentence 1: Australia returns asylum seekers to Sri Lanka in sea transfer Sentence 2: Australia: Australia hands asylum-seekers back to Sri Lanka",
+            "output": "5 - perfectly"
+        },
+        "429": {
+            "input": "Sentence 1: Shankill blast victims to be remembered Sentence 2: Crocodile victim's body recovered",
+            "output": "0 - definitely not"
+        },
+        "430": {
+            "input": "Sentence 1: 118 people killed in twin blasts in Nigeria Sentence 2: Ten killed in new blast in Russia",
+            "output": "1 - probably not"
+        },
+        "431": {
+            "input": "Sentence 1: Yolanda death toll climbs to 3,621 Sentence 2: Kenya Red Cross says death toll rises to 68",
+            "output": "0 - definitely not"
+        },
+        "432": {
+            "input": "Sentence 1: Tokyo stocks close up 0.13pc Sentence 2: Tokyo stocks close 0.75pc down",
+            "output": "2 - possibly"
+        },
+        "433": {
+            "input": "Sentence 1: Iran says ready for fresh round of nuclear talks Sentence 2: Iran's Khamenei renews support for nuclear talks",
+            "output": "4 - almost perfectly"
+        },
+        "434": {
+            "input": "Sentence 1: Clashes continue between police and protesters in Turkey Sentence 2: Turkish police fight protesters, clear square",
+            "output": "4 - almost perfectly"
+        },
+        "435": {
+            "input": "Sentence 1: Those refused medical cards urged to contact HSE Sentence 2: HSE boss defends medical-card plan",
+            "output": "1 - probably not"
+        },
+        "436": {
+            "input": "Sentence 1: World\u201a\u00c4\u00f4s largest building opened in west China Sentence 2: Italy\u201a\u00c4\u00f4s centre-left splinters in presidential vote",
+            "output": "0 - definitely not"
+        },
+        "437": {
+            "input": "Sentence 1: Israeli lightly hurt by stones in West Bank Sentence 2: Israeli troops kill Palestinian in West Bank raid",
+            "output": "1 - probably not"
+        },
+        "438": {
+            "input": "Sentence 1: Death toll from Egypt protests rises to 49 Sentence 2: Death toll from Egypt violence rises to 638",
+            "output": "3 - probably"
+        },
+        "439": {
+            "input": "Sentence 1: Syrian opposition agree to landmark peace talks Sentence 2: Syria opposition pressed to attend talks",
+            "output": "3 - probably"
+        },
+        "440": {
+            "input": "Sentence 1: Poverty stats doubt Modi's development claims Sentence 2: GM to start taking recall compensation claims Aug 1",
+            "output": "0 - definitely not"
+        },
+        "441": {
+            "input": "Sentence 1: Pro-Russia rebels to hold vote in Ukraine Sentence 2: Syria rebels: We killed Hezbollah men in Lebanon",
+            "output": "0 - definitely not"
+        },
+        "442": {
+            "input": "Sentence 1: Georgians vote for new president Sentence 2: Ally of Georgia's billionaire PM to be president -exit polls",
+            "output": "3 - probably"
+        },
+        "443": {
+            "input": "Sentence 1: EU declares Hezbollah's military wing terror group Sentence 2: EU puts Hezbollah military wing on terror list",
+            "output": "5 - perfectly"
+        },
+        "444": {
+            "input": "Sentence 1: Germany welcomes Iran nuclear agreement Sentence 2: Syria welcomes Iran's nuclear deal",
+            "output": "2 - possibly"
+        },
+        "445": {
+            "input": "Sentence 1: What the Papers Say, June 25, 2013 Sentence 2: What the Papers Say, Aug. 19, 2013",
+            "output": "2 - possibly"
+        },
+        "446": {
+            "input": "Sentence 1: Gunmen kill nine foreigners in Pakistan Sentence 2: Gunmen kill nine tourists in Pakistan",
+            "output": "5 - perfectly"
+        },
+        "447": {
+            "input": "Sentence 1: 2 Indian traders stranded in China sent back home Sentence 2: 46 Indian nurses stranded in Iraq return home",
+            "output": "2 - possibly"
+        },
+        "448": {
+            "input": "Sentence 1: California governor declares drought emergency Sentence 2: California governor declares drought emergency as wildfires continue to burn",
+            "output": "4 - almost perfectly"
+        },
+        "449": {
+            "input": "Sentence 1: Peace talks with Palestinians would take months: Israel official Sentence 2: 3yo Palestinian girl killed in Israeli raid",
+            "output": "0 - definitely not"
+        },
+        "450": {
+            "input": "Sentence 1: 17:02 23 killed in Iraq car bombings Sentence 2: 11 children killed in Syria bombings",
+            "output": "1 - probably not"
+        },
+        "451": {
+            "input": "Sentence 1: Two dead, more trapped in latest Mumbai building collapse Sentence 2: Two are trapped as US building collapses",
+            "output": "1 - probably not"
+        },
+        "452": {
+            "input": "Sentence 1: Air strikes kills dozens in northern Syria Sentence 2: Ukraine will not give 'an inch' over Crimea",
+            "output": "0 - definitely not"
+        },
+        "453": {
+            "input": "Sentence 1: Chinese tourist abducted from Malaysia Sentence 2: China returns 10 children abducted from Vietnam",
+            "output": "1 - probably not"
+        },
+        "454": {
+            "input": "Sentence 1: UN inspectors hail progress over Syria chemical weapons Sentence 2: U.S. has not concluded Syria used chemical weapons -White House",
+            "output": "2 - possibly"
+        },
+        "455": {
+            "input": "Sentence 1: Two arrests made after protest against Nigel Farage Sentence 2: Kerry vows progress after latest intensive Mideast trip",
+            "output": "0 - definitely not"
+        },
+        "456": {
+            "input": "Sentence 1: Gunmen kill 15 Libyan soldiers Sentence 2: Gunmen kill 3 Lebanese troops near Syria",
+            "output": "2 - possibly"
+        },
+        "457": {
+            "input": "Sentence 1: Pictures show completed Costa Concordia operation Sentence 2: Timelapse of Costa Concordia operation",
+            "output": "4 - almost perfectly"
+        },
+        "458": {
+            "input": "Sentence 1: Iran Nuclear Talks Enter Third Day Sentence 2: Iran nuclear talks enter crucial third day",
+            "output": "5 - perfectly"
+        },
+        "459": {
+            "input": "Sentence 1: Protesters gather in Brazil despite concessions Sentence 2: Protests sweep Brazil despite concession",
+            "output": "5 - perfectly"
+        },
+        "460": {
+            "input": "Sentence 1: Australian PM Kevin Rudd calls election for 7 September Sentence 2: Australian PM Rudd calls Sept. 7 poll",
+            "output": "5 - perfectly"
+        },
+        "461": {
+            "input": "Sentence 1: Iran nuclear talks expected to resume this week Sentence 2: UK: Iran nuclear talks at a serious point",
+            "output": "3 - probably"
+        },
+        "462": {
+            "input": "Sentence 1: Bangkok tense on Thai election eve Sentence 2: Bangladesh: Crackdown Escalates Ahead of Election",
+            "output": "2 - possibly"
+        },
+        "463": {
+            "input": "Sentence 1: China \u201a\u00c4\u0117will protect interests\u201a\u00c4\u00f4 of foreign business Sentence 2: Obama in \u201a\u00c4\u0117direct\u201a\u00c4\u00f4 confrontation with Putin on Ukraine",
+            "output": "0 - definitely not"
+        },
+        "464": {
+            "input": "Sentence 1: D.C. Votes to Decriminalize Marijuana Sentence 2: DC votes to decriminalize pot",
+            "output": "5 - perfectly"
+        },
+        "465": {
+            "input": "Sentence 1: Many dead as asylum boat sinks off Australia Sentence 2: Mandela spends third day in hospital",
+            "output": "0 - definitely not"
+        },
+        "466": {
+            "input": "Sentence 1: North Korea's Kim hails execution of powerful uncle Sentence 2: North Korean intrigue: The execution of power",
+            "output": "3 - probably"
+        },
+        "467": {
+            "input": "Sentence 1: Margaret Thatcher dies after stroke Sentence 2: Margaret Thatcher dies at 87",
+            "output": "4 - almost perfectly"
+        },
+        "468": {
+            "input": "Sentence 1: Chinese president arrives in Netherlands for state visit, nuclear summit Sentence 2: Chinese president arrives in Venezuela for state visit",
+            "output": "2 - possibly"
+        },
+        "469": {
+            "input": "Sentence 1: UK Sky News cameraman killed in Egypt Sentence 2: Sky News Cameraman Killed In Egypt",
+            "output": "5 - perfectly"
+        },
+        "470": {
+            "input": "Sentence 1: Stocks rise in early trading Sentence 2: Stocks inch higher in early trading",
+            "output": "4 - almost perfectly"
+        },
+        "471": {
+            "input": "Sentence 1: FBI audio expert testifies in Zimmerman trial Sentence 2: Jury selection begins in Zimmerman's trial",
+            "output": "1 - probably not"
+        },
+        "472": {
+            "input": "Sentence 1: Iranian nuclear talks to be extended to November Sentence 2: Iran nuclear talks extended to November 24",
+            "output": "4 - almost perfectly"
+        },
+        "473": {
+            "input": "Sentence 1: Boston bombing suspect to appear in court Sentence 2: Boston bombing suspect buried",
+            "output": "1 - probably not"
+        },
+        "474": {
+            "input": "Sentence 1: Death toll in India building collapse hits 42 Sentence 2: Toll from India building collapse hits 25",
+            "output": "3 - probably"
+        },
+        "475": {
+            "input": "Sentence 1: Obama announces creation of twin manufacturing hubs Sentence 2: US stocks retreat on manufacturing data",
+            "output": "0 - definitely not"
+        },
+        "476": {
+            "input": "Sentence 1: Five charged with terrorism offences Sentence 2: Five People Charged With Terror Offences",
+            "output": "5 - perfectly"
+        },
+        "477": {
+            "input": "Sentence 1: US, NATO Raise Doubts Russia Pulled Back from Ukraine Border Sentence 2: No Sign of Russian Withdrawal From Ukraine Border, Official Says",
+            "output": "3 - probably"
+        },
+        "478": {
+            "input": "Sentence 1: FTSE Bursa Malaysia update: 11.30am Sentence 2: FTSE Bursa Malaysia update: 3.00pm",
+            "output": "3 - probably"
+        },
+        "479": {
+            "input": "Sentence 1: Glasgow Helicopter Crash Search Ends Sentence 2: Glasgow Helicopter Crash: Woman PC Is Victim",
+            "output": "3 - probably"
+        },
+        "480": {
+            "input": "Sentence 1: Quotations in the News Sentence 2: Quotations of the day",
+            "output": "3 - probably"
+        },
+        "481": {
+            "input": "Sentence 1: Philip leaves hospital after 11 days Sentence 2: Mandela leaves hospital after 10 days",
+            "output": "2 - possibly"
+        },
+        "482": {
+            "input": "Sentence 1: Bone fragment 'could be King Alfred' Sentence 2: Remains in Winchester could be King Alfred the Great",
+            "output": "5 - perfectly"
+        },
+        "483": {
+            "input": "Sentence 1: Israel frees second group of Palestinian prisoners Sentence 2: Israel releases 26 Palestinian prisoners",
+            "output": "4 - almost perfectly"
+        },
+        "484": {
+            "input": "Sentence 1: Two skydivers dead after colliding during US jump Sentence 2: Two skydivers dead after colliding during jump in Arizona",
+            "output": "4 - almost perfectly"
+        },
+        "485": {
+            "input": "Sentence 1: 'Iron Man' jetpacks spark concerns in Hawaii Sentence 2: 'Iron Man' Jetpacks Spark Concerns",
+            "output": "4 - almost perfectly"
+        },
+        "486": {
+            "input": "Sentence 1: Israel frees Palestinian prisoners Sentence 2: Israel releases 26 Palestinian prisoners",
+            "output": "5 - perfectly"
+        },
+        "487": {
+            "input": "Sentence 1: France Says Won't 'Shirk Responsibilities' in Syria Sentence 2: France urges EU to be united on Syria",
+            "output": "3 - probably"
+        },
+        "488": {
+            "input": "Sentence 1: Boston bombing suspect identified on surveillance video, no arrest Sentence 2: Boston bombing suspect was under FBI surveillance, says mother",
+            "output": "3 - probably"
+        },
+        "489": {
+            "input": "Sentence 1: China yuan strengthens to new high against USD Sentence 2: China yuan weakens to 6.1705 against USD",
+            "output": "2 - possibly"
+        },
+        "490": {
+            "input": "Sentence 1: Man held after teen shot in Belfast Sentence 2: Man, 40, arrested after shooting",
+            "output": "3 - probably"
+        },
+        "491": {
+            "input": "Sentence 1: Police stop Maldives presidential election Sentence 2: Keita Wins Mali Presidential Election",
+            "output": "1 - probably not"
+        },
+        "492": {
+            "input": "Sentence 1: Indian army kill 3 militants in Indian-controlled Kashmir Sentence 2: Indian troops kill militant commander in Indian-controlled Kashmir",
+            "output": "4 - almost perfectly"
+        },
+        "493": {
+            "input": "Sentence 1: Car bomb kills 20 in northwest Syria Sentence 2: Car bomb kills 40 in northwest Pakistan",
+            "output": "1 - probably not"
+        },
+        "494": {
+            "input": "Sentence 1: Iran ups oil swap with eastern neighbors Sentence 2: Iran urges rapid release of diplomat",
+            "output": "0 - definitely not"
+        },
+        "495": {
+            "input": "Sentence 1: Turkey president appeals for calm Sentence 2: Texas house provisionally approves abortion law",
+            "output": "0 - definitely not"
+        },
+        "496": {
+            "input": "Sentence 1: North Korea test fires 30 missiles into the sea Sentence 2: N Korea 'fires 100 shells' into the sea",
+            "output": "3 - probably"
+        },
+        "497": {
+            "input": "Sentence 1: Man dies in Co Donegal house fire Sentence 2: Woman dies in Co Cork house fire",
+            "output": "2 - possibly"
+        },
+        "498": {
+            "input": "Sentence 1: Doha gas blast kills 12, injures dozens Sentence 2: Syria missile kills 26, including 8 kids",
+            "output": "1 - probably not"
+        },
+        "499": {
+            "input": "Sentence 1: Polling stations open at Ukrainian presidential election Sentence 2: Nominations open for e.TV Ghana Most Influential Awards",
+            "output": "0 - definitely not"
+        },
+        "500": {
+            "input": "Sentence 1: India Ink: Image of the Day: April 21 Sentence 2: India Ink: Image of the Day: May 2",
+            "output": "3 - probably"
+        },
+        "501": {
+            "input": "Sentence 1: Two French journalists killed in Mali Sentence 2: France confirms two French journalists killed in Mali",
+            "output": "5 - perfectly"
+        },
+        "502": {
+            "input": "Sentence 1: Gunmen kill nine tourists in Pakistan Sentence 2: Gunmen Attack Hotel In Remote Pakistani Province",
+            "output": "3 - probably"
+        },
+        "503": {
+            "input": "Sentence 1: Israel and Hamas to observe brief Gaza truce Sentence 2: Israel And Hamas 'Accept Temporary Truce'",
+            "output": "5 - perfectly"
+        },
+        "504": {
+            "input": "Sentence 1: China's troubled Xinjiang hit by more violence Sentence 2: China's online population rises to 618 mln",
+            "output": "0 - definitely not"
+        },
+        "505": {
+            "input": "Sentence 1: Relatives scuffle with police after China fire kills 120 Sentence 2: Angry families demand answers after China plant fire kills 119",
+            "output": "4 - almost perfectly"
+        },
+        "506": {
+            "input": "Sentence 1: Iran rejects claim on chlorine bombs Sentence 2: Iran rejects MKO claim on nuclear site",
+            "output": "2 - possibly"
+        },
+        "507": {
+            "input": "Sentence 1: India Minister's wife died 'unnatural death' after affair rumours Sentence 2: Minister's wife's death 'unnatural'",
+            "output": "4 - almost perfectly"
+        },
+        "508": {
+            "input": "Sentence 1: 5 killed in S China road cave-in Sentence 2: 02:41 156 killed in China earthquake",
+            "output": "1 - probably not"
+        },
+        "509": {
+            "input": "Sentence 1: South Africa president: Mandela is improving Sentence 2: Afghan president delays signing US deal",
+            "output": "0 - definitely not"
+        },
+        "510": {
+            "input": "Sentence 1: World News Update, what you need to know Sentence 2: Labour's 50p tax rate: what you need to know",
+            "output": "1 - probably not"
+        },
+        "511": {
+            "input": "Sentence 1: Syrian civil war in photos Sentence 2: Syrian civil war peace talks at risk from Iran invitation",
+            "output": "1 - probably not"
+        },
+        "512": {
+            "input": "Sentence 1: Abdullah Widens Lead in Afghan Presidential Poll Sentence 2: Explosions heard near Afghan presidential palace",
+            "output": "1 - probably not"
+        },
+        "513": {
+            "input": "Sentence 1: Imran blames rival for colleague murder Sentence 2: Pakistans Imran blames rival for killing party member",
+            "output": "4 - almost perfectly"
+        },
+        "514": {
+            "input": "Sentence 1: Bangladesh Honors Factory Victims Sentence 2: Retailers back Bangladesh factory safety pact",
+            "output": "3 - probably"
+        },
+        "515": {
+            "input": "Sentence 1: Japan defends dolphin hunt after US criticism Sentence 2: Japan defends dolphin hunts after criticism from US",
+            "output": "5 - perfectly"
+        },
+        "516": {
+            "input": "Sentence 1: Bomb blast rocks shopping mall in Nigeria, 12 killed Sentence 2: Bomb blasts before Indian opposition rally kill 4",
+            "output": "1 - probably not"
+        },
+        "517": {
+            "input": "Sentence 1: Philippines typhoon death toll at 4,460: UN Sentence 2: Philippines typhoon death toll rises above 5,000",
+            "output": "3 - probably"
+        },
+        "518": {
+            "input": "Sentence 1: Police fire teargas on Venezuelan vote protesters Sentence 2: Chavez heir Maduro wins Venezuela's presidency",
+            "output": "1 - probably not"
+        },
+        "519": {
+            "input": "Sentence 1: Wave of attacks kills at least 95 in Iraq Sentence 2: Suicide attack kills at least 12 in northern Iraq",
+            "output": "2 - possibly"
+        },
+        "520": {
+            "input": "Sentence 1: Top Chinese political advisor meets Greek PM Sentence 2: Top Chinese political advisor meets Yemeni president",
+            "output": "3 - probably"
+        },
+        "521": {
+            "input": "Sentence 1: Palestinian diplomat injured in explosion in Prague Sentence 2: Palestinian ambassador injured in apartment blast",
+            "output": "4 - almost perfectly"
+        },
+        "522": {
+            "input": "Sentence 1: Ukraine leader pledges crisis talks Sentence 2: Ukraine Leader Pledges Crisis Talks",
+            "output": "5 - perfectly"
+        },
+        "523": {
+            "input": "Sentence 1: 7 killed in attacks in Iraq Sentence 2: 16 killed in series of attacks in Iraq",
+            "output": "3 - probably"
+        },
+        "524": {
+            "input": "Sentence 1: US military presence in East Asia Sentence 2: NATO ups military presence amid Russian threat",
+            "output": "1 - probably not"
+        },
+        "525": {
+            "input": "Sentence 1: US believes Syrian government used chemical weapons Sentence 2: US suspects Syria used chemical weapons",
+            "output": "5 - perfectly"
+        },
+        "526": {
+            "input": "Sentence 1: Egypt's Muslim Brotherhood Refuses to Back Down Sentence 2: Egyptian court sentences Muslim Brotherhood leader to life in prison",
+            "output": "1 - probably not"
+        },
+        "527": {
+            "input": "Sentence 1: At least 6 dead in Canada bus, train crash Sentence 2: At least 6 dead in Paris train crash",
+            "output": "2 - possibly"
+        },
+        "528": {
+            "input": "Sentence 1: Chinese president meets Greek PM, calling for stronger partnership Sentence 2: Chinese president meets Indian vice president",
+            "output": "2 - possibly"
+        },
+        "529": {
+            "input": "Sentence 1: Italian fugitive arrested in Dominican Republic Sentence 2: Australian icebreaker arrives in East Antarctica for new rescue bid",
+            "output": "0 - definitely not"
+        },
+        "530": {
+            "input": "Sentence 1: Israel Carrying Out Ground Offensive In Gaza Sentence 2: Israel Launches Ground Offensive In Gaza",
+            "output": "5 - perfectly"
+        },
+        "531": {
+            "input": "Sentence 1: Brahimi apologises to Syria over lack of peace progress Sentence 2: Mediator apologizes to Syrians for lack of peace progress",
+            "output": "4 - almost perfectly"
+        },
+        "532": {
+            "input": "Sentence 1: Egyptian protesters issue Morsi resignation ultimatum Sentence 2: Ukraine protesters battle police in new clashes",
+            "output": "0 - definitely not"
+        },
+        "533": {
+            "input": "Sentence 1: 5 Things to Know About the Sochi Olympics Sentence 2: 7 Things to Know About Ethanol",
+            "output": "0 - definitely not"
+        },
+        "534": {
+            "input": "Sentence 1: China stocks open lower on Wednesday Sentence 2: China's stocks close lower on Monday",
+            "output": "3 - probably"
+        },
+        "535": {
+            "input": "Sentence 1: US delays missile test as tensions rise Sentence 2: William Hague: US decision to halt missile test 'sensible'",
+            "output": "3 - probably"
+        },
+        "536": {
+            "input": "Sentence 1: Fire in Beijing kills 10 Sentence 2: Fire in Beijing kills ten",
+            "output": "5 - perfectly"
+        },
+        "537": {
+            "input": "Sentence 1: India, China ink border pact; 8 other agreements Sentence 2: India, China ink agreement on trans-border rivers",
+            "output": "4 - almost perfectly"
+        },
+        "538": {
+            "input": "Sentence 1: Venezuela expels three U.S. diplomats Sentence 2: Venezuela Expels 3 U.S. Diplomats",
+            "output": "5 - perfectly"
+        },
+        "539": {
+            "input": "Sentence 1: Heavy smog hits north China city, flights cancelled Sentence 2: Heavy Smog Hits North China City, Flights Canceled",
+            "output": "5 - perfectly"
+        },
+        "540": {
+            "input": "Sentence 1: Russia claims to have foiled possible terror act Sentence 2: Russia says ballistic 'objects' fired in Mediterranean",
+            "output": "1 - probably not"
+        },
+        "541": {
+            "input": "Sentence 1: 3 Chinese tourists killed in Pakistan Sentence 2: Seven kidnappers killed in southern Nigeria",
+            "output": "0 - definitely not"
+        },
+        "542": {
+            "input": "Sentence 1: Gunmen kill 10 foreign tourists in northern Pakistan Sentence 2: Islamic militants kill 9 foreign tourists, 1 Pakistani",
+            "output": "3 - probably"
+        },
+        "543": {
+            "input": "Sentence 1: Austrian found hoarding 56 stolen skulls in home museum Sentence 2: Stolen skulls found in home museum",
+            "output": "3 - probably"
+        },
+        "544": {
+            "input": "Sentence 1: Egypt Launches Offensive Against Sinai Militants Sentence 2: Egypt launches offensive against Sinai insurgents",
+            "output": "5 - perfectly"
+        },
+        "545": {
+            "input": "Sentence 1: Record-setting Southwest heat wave turns fatal Sentence 2: At least 1 dead, 40 hospitalized in Southwest heat wave",
+            "output": "4 - almost perfectly"
+        },
+        "546": {
+            "input": "Sentence 1: Detroit eligible for bankruptcy protection: U.S. judge Sentence 2: Detroit eligible for bankruptcy protection",
+            "output": "5 - perfectly"
+        },
+        "547": {
+            "input": "Sentence 1: British Nobel-Winning Author Doris Lessing Dies Sentence 2: Nobel Prize winning author Doris Lessing dies",
+            "output": "4 - almost perfectly"
+        },
+        "548": {
+            "input": "Sentence 1: Israeli government authorises new settlements ahead of talks Sentence 2: Israel Approves New Settlement Homes Ahead of Peace Talks",
+            "output": "5 - perfectly"
+        },
+        "549": {
+            "input": "Sentence 1: Pakistani Taliban chief killed in US drone strike Sentence 2: Funeral for Pakistan Taliban chief 'set to take place'",
+            "output": "2 - possibly"
+        },
+        "550": {
+            "input": "Sentence 1: Putin signs Crimea annexe treaty Sentence 2: 09:32 Putin signs off Crimea annexation",
+            "output": "4 - almost perfectly"
+        },
+        "551": {
+            "input": "Sentence 1: FAA continues ban on US flights to Tel Aviv Sentence 2: FAA lifts ban on U.S. flights to Tel Aviv",
+            "output": "2 - possibly"
+        },
+        "552": {
+            "input": "Sentence 1: Chinese envoy rebuts Vietnamese, Philippine accusations over South China Sea Sentence 2: China's Xi tells Vietnam wants peace in South China Sea",
+            "output": "3 - probably"
+        },
+        "553": {
+            "input": "Sentence 1: Iran's president condemns use of chemical weapons in Syria Sentence 2: Probe alleged use of chemical weapons in Syria",
+            "output": "2 - possibly"
+        },
+        "554": {
+            "input": "Sentence 1: A society fraying at the edges Sentence 2: Old TV alignments crack at the edges",
+            "output": "0 - definitely not"
+        },
+        "555": {
+            "input": "Sentence 1: UN Invites Iran to Syrian Peace Conference Sentence 2: UN: Iran Invited to Attend Syrian Peace Conference",
+            "output": "5 - perfectly"
+        },
+        "556": {
+            "input": "Sentence 1: Italy bus crash death toll rises Sentence 2: Starbucks clears college degree path for workers",
+            "output": "0 - definitely not"
+        },
+        "557": {
+            "input": "Sentence 1: Soccer Ref Punched by Player Dies Sentence 2: Police: Utah soccer referee punched by player dies",
+            "output": "4 - almost perfectly"
+        },
+        "558": {
+            "input": "Sentence 1: Angela Merkel headed for narrow win in German elections Sentence 2: Malawi's new president sworn in after disputed elections",
+            "output": "0 - definitely not"
+        },
+        "559": {
+            "input": "Sentence 1: Israel detains 37 Palestinians as arrest operation continues Sentence 2: Israel criticizes Palestinian stance on settlers",
+            "output": "1 - probably not"
+        },
+        "560": {
+            "input": "Sentence 1: Rebels kill 21 civilians in Syria Alawite village Sentence 2: Bomb kills 18 civilians in Afghanistan",
+            "output": "1 - probably not"
+        },
+        "561": {
+            "input": "Sentence 1: World sends emergency relief to battered Philippines Sentence 2: Typhoon Haiyan: world sends relief to battered Philippines",
+            "output": "5 - perfectly"
+        },
+        "562": {
+            "input": "Sentence 1: Palestinian hunger striker, Israel reach deal Sentence 2: Palestinian activist detained in Israeli raid",
+            "output": "1 - probably not"
+        },
+        "563": {
+            "input": "Sentence 1: Assad says Syria will comply with UN arms resolution Sentence 2: Syria's Assad vows to comply with U.N. resolution",
+            "output": "5 - perfectly"
+        },
+        "564": {
+            "input": "Sentence 1: South Korean President Sorry For Ferry Response Sentence 2: S. Korean president 'sorry' for ferry disaster",
+            "output": "5 - perfectly"
+        },
+        "565": {
+            "input": "Sentence 1: Food price hikes raise concerns in Iran Sentence 2: American Chris Horner wins Tour of Spain",
+            "output": "0 - definitely not"
+        },
+        "566": {
+            "input": "Sentence 1: Obama made last-minute decision on Syria approval Sentence 2: Obama mulls limited military action in Syria",
+            "output": "2 - possibly"
+        },
+        "567": {
+            "input": "Sentence 1: Driver backs into stroller with child, drives off Sentence 2: Driver backs into mom, stroller with child then drives off",
+            "output": "4 - almost perfectly"
+        },
+        "568": {
+            "input": "Sentence 1: Spain Princess Testifies in Historic Fraud Probe Sentence 2: Spain princess testifies in historic fraud probe",
+            "output": "5 - perfectly"
+        },
+        "569": {
+            "input": "Sentence 1: Senate confirms Obama nominee to key appeals court Sentence 2: Senate approves Obama nominee to key appeals court",
+            "output": "5 - perfectly"
+        },
+        "570": {
+            "input": "Sentence 1: U.N. rights chief presses Egypt on Mursi detention Sentence 2: UN Rights Chief Presses Egypt on Morsi Detention",
+            "output": "5 - perfectly"
+        },
+        "571": {
+            "input": "Sentence 1: US Senate confirms Janet Yellen as US Federal Reserve chief Sentence 2: Senate confirms Janet Yellen as next Federal Reserve Chair",
+            "output": "5 - perfectly"
+        },
+        "572": {
+            "input": "Sentence 1: Syrian Rebel Groups Battle Each Other in North Sentence 2: Syrian rebel groups battle each other in north",
+            "output": "5 - perfectly"
+        },
+        "573": {
+            "input": "Sentence 1: Mayawati demands president's rule in Kashmir Sentence 2: Mayawati demands Presidents rule in Jammu and Kashmir",
+            "output": "3 - probably"
+        },
+        "574": {
+            "input": "Sentence 1: Uganda's president signs anti-gay bill Sentence 2: Uganda's president signs harsh anti-gay law",
+            "output": "4 - almost perfectly"
+        },
+        "575": {
+            "input": "Sentence 1: Rocks, Tear Gas Fly as Thai Protests Heat Up Sentence 2: Rocks, tear gas fly as Thai protests heat up",
+            "output": "5 - perfectly"
+        },
+        "576": {
+            "input": "Sentence 1: Boston bombing suspect buried in Virginia Sentence 2: Boston bomb suspect buried in Virginia cemetery",
+            "output": "5 - perfectly"
+        },
+        "577": {
+            "input": "Sentence 1: Six dead in Philippine restaurant blast Sentence 2: 6 killed in Philippines restaurant blast",
+            "output": "5 - perfectly"
+        },
+        "578": {
+            "input": "Sentence 1: China army newspaper hits out at US's PRISM programme Sentence 2: China army newspaper slams US's PRISM program",
+            "output": "5 - perfectly"
+        },
+        "579": {
+            "input": "Sentence 1: Silvio Berlusconi expelled from Italy's parliament Sentence 2: Silvio Berlusconi expelled from parliament",
+            "output": "4 - almost perfectly"
+        },
+        "580": {
+            "input": "Sentence 1: Two killed in Bahrain car explosion Sentence 2: Two killed in Bahrain car blast",
+            "output": "5 - perfectly"
+        },
+        "581": {
+            "input": "Sentence 1: Russia warns it will respond if interests attacked in Ukraine Sentence 2: Russia warns it will 'respond' if interests in Ukraine attacked",
+            "output": "5 - perfectly"
+        },
+        "582": {
+            "input": "Sentence 1: Hosni Mubarak retrial adjourned until 8 June Sentence 2: Mubarak retrial adjourned to June",
+            "output": "4 - almost perfectly"
+        },
+        "583": {
+            "input": "Sentence 1: Egypt protesters defy cabinet threat to end sit-ins Sentence 2: Egypt protesters defy cabinet threat",
+            "output": "4 - almost perfectly"
+        },
+        "584": {
+            "input": "Sentence 1: Couple marry in the UK's first Scientology wedding Sentence 2: Couple get married in Britain's first Scientology wedding",
+            "output": "5 - perfectly"
+        },
+        "585": {
+            "input": "Sentence 1: Qatar's emir hands power to his son Sentence 2: Qatari emir hands power to son Tamim",
+            "output": "4 - almost perfectly"
+        },
+        "586": {
+            "input": "Sentence 1: Philippines typhoon death toll feared to hit 7,000 Sentence 2: Philippines typhoon death toll rises above 5,000",
+            "output": "3 - probably"
+        },
+        "587": {
+            "input": "Sentence 1: Egypt braces for 'Friday of anger' after carnage Sentence 2: Egypt braces for Friday of anger after bloody crackdown",
+            "output": "4 - almost perfectly"
+        },
+        "588": {
+            "input": "Sentence 1: Red Sox Beat Tigers 5-2 to Advance to World Series Sentence 2: Red Sox beat Tigers to reach World Series",
+            "output": "4 - almost perfectly"
+        },
+        "589": {
+            "input": "Sentence 1: China lands Jade Rabbit robot rover on Moon Sentence 2: China lands robot rover on moon",
+            "output": "4 - almost perfectly"
+        },
+        "590": {
+            "input": "Sentence 1: Ukrainian parliament dismisses president Sentence 2: Ukraine's parliament votes to dismiss president",
+            "output": "4 - almost perfectly"
+        },
+        "591": {
+            "input": "Sentence 1: Venezuela lawmakers brawl amid election tensions Sentence 2: Venezuela lawmakers brawl over election",
+            "output": "5 - perfectly"
+        },
+        "592": {
+            "input": "Sentence 1: North Korea Warns Foreigners in South, Advising Evacuation Sentence 2: North Korea warns foreigners in South to evacuate",
+            "output": "5 - perfectly"
+        },
+        "593": {
+            "input": "Sentence 1: Captain of sunken South Korean ferry arrested Sentence 2: Captain of capsized S Korean Ferry Arrested",
+            "output": "4 - almost perfectly"
+        },
+        "594": {
+            "input": "Sentence 1: Cars, drivers plunge into river after Wash. I-5 bridge collapse Sentence 2: Cars plunge into river as US bridge collapses",
+            "output": "3 - probably"
+        },
+        "595": {
+            "input": "Sentence 1: Death toll in Syria now tops 100,000 Sentence 2: Death toll in Syria over 100,000 so far",
+            "output": "5 - perfectly"
+        },
+        "596": {
+            "input": "Sentence 1: Communist rebels ambush Philippine police, kill 7 Sentence 2: Communist rebels kill eight Philippine police",
+            "output": "4 - almost perfectly"
+        },
+        "597": {
+            "input": "Sentence 1: Egypt's Morsi faces trial for prison break, murder, says prosecution Sentence 2: Egypt's Morsi faces trial for prison break",
+            "output": "3 - probably"
+        },
+        "598": {
+            "input": "Sentence 1: Iran Nuclear Talks Enter Third Day Sentence 2: Iran nuclear talks enter crucial third day",
+            "output": "5 - perfectly"
+        },
+        "599": {
+            "input": "Sentence 1: Thai army declares martial law Sentence 2: Thailand's army declares martial law, denies coup",
+            "output": "3 - probably"
+        },
+        "600": {
+            "input": "Sentence 1: Woman dies while riding roller coaster in Texas Sentence 2: Woman dies riding roller coaster at Texas amusement park",
+            "output": "4 - almost perfectly"
+        },
+        "601": {
+            "input": "Sentence 1: Nobel author Doris Lessing dies at 94 Sentence 2: Nobel Prize winning author Doris Lessing dies",
+            "output": "4 - almost perfectly"
+        },
+        "602": {
+            "input": "Sentence 1: Over 100 dead as typhoon slams central Philippines Sentence 2: At least 100 dead as typhoon batters Philippines",
+            "output": "5 - perfectly"
+        },
+        "603": {
+            "input": "Sentence 1: First post office savings bank ATM opens in Chennai Sentence 2: India's first post office savings bank ATM inaugurated in Chennai",
+            "output": "4 - almost perfectly"
+        },
+        "604": {
+            "input": "Sentence 1: Israel agrees to 12 hour ceasefire Sentence 2: Israel agrees to 24-hour Gaza truce",
+            "output": "3 - probably"
+        },
+        "605": {
+            "input": "Sentence 1: Quake of 6.2 magnitude strikes off Indonesia's Sumatra - USGS Sentence 2: Earthquake of 6.9 magnitude strikes off Indonesia island",
+            "output": "3 - probably"
+        },
+        "606": {
+            "input": "Sentence 1: British stuntman fell to his death in wing suit mishap Sentence 2: British stuntman dies in wingsuit mishap in Alps",
+            "output": "4 - almost perfectly"
+        },
+        "607": {
+            "input": "Sentence 1: What makes India vote? Jaipur Lit Fest debates Sentence 2: What makes India vote? Debate at Jaipur Literature Festival",
+            "output": "5 - perfectly"
+        },
+        "608": {
+            "input": "Sentence 1: White diamond breaks record in Hong Kong auction Sentence 2: White diamond fetches record $34m at HK auction",
+            "output": "4 - almost perfectly"
+        },
+        "609": {
+            "input": "Sentence 1: Chinese satellite spots large object in search area Sentence 2: Malaysia: Chinese satellite found object in ocean",
+            "output": "3 - probably"
+        },
+        "610": {
+            "input": "Sentence 1: Hamas Urges Hizbullah to Pull Fighters Out of Syria Sentence 2: Hamas calls on Hezbollah to pull forces out of Syria",
+            "output": "5 - perfectly"
+        },
+        "611": {
+            "input": "Sentence 1: U.S. and Russia reach a deal on Syria's chemical weapons Sentence 2: China welcomes US, Russia deal on Syria chemical weapons",
+            "output": "3 - probably"
+        },
+        "612": {
+            "input": "Sentence 1: PSNI failed RUC officers, tribunal told Sentence 2: 13:23 PSNI 'failed RUC officer families'",
+            "output": "4 - almost perfectly"
+        },
+        "613": {
+            "input": "Sentence 1: Stocks edge lower following retail earnings Sentence 2: Stocks edge lower after earnings from retailers",
+            "output": "5 - perfectly"
+        },
+        "614": {
+            "input": "Sentence 1: Police helicopter crashes into Scottish pub Sentence 2: Police helicopter crashes on top of bar in Glasgow",
+            "output": "4 - almost perfectly"
+        },
+        "615": {
+            "input": "Sentence 1: US ups pressure on Israel as UN demands Gaza truce Sentence 2: US, UN up pressure on Israel over Gaza",
+            "output": "4 - almost perfectly"
+        },
+        "616": {
+            "input": "Sentence 1: Australian PM says 'Very confident' signals are from black box Sentence 2: Australian PM confident sounds are from Flight 370",
+            "output": "4 - almost perfectly"
+        },
+        "617": {
+            "input": "Sentence 1: Mandela's condition has 'improved' Sentence 2: Mandela's condition has 'worsened over past 48 hours'",
+            "output": "1 - probably not"
+        },
+        "618": {
+            "input": "Sentence 1: Philippe becomes king of Belgium Sentence 2: Philippe ascends throne of divided Belgium",
+            "output": "4 - almost perfectly"
+        },
+        "619": {
+            "input": "Sentence 1: India anti-graft party takes charge in New Delhi Sentence 2: India's Anti-Graft Party Forms Government in Delhi",
+            "output": "4 - almost perfectly"
+        },
+        "620": {
+            "input": "Sentence 1: Spain approves new restrictive abortion law Sentence 2: Spanish government approves tight restrictions on abortion",
+            "output": "5 - perfectly"
+        },
+        "621": {
+            "input": "Sentence 1: Obama orders Syria 'gas attack' inquiry Sentence 2: UN urges Syria gas attack inspection",
+            "output": "2 - possibly"
+        },
+        "622": {
+            "input": "Sentence 1: German ambassador's Athens residence shot at Sentence 2: Shots fired at German ambassador's residence in Athens",
+            "output": "5 - perfectly"
+        },
+        "623": {
+            "input": "Sentence 1: Ukraine's jailed opposition icon Tymoshenko walks free Sentence 2: Ukraine's opposition chief wants more protests",
+            "output": "2 - possibly"
+        },
+        "624": {
+            "input": "Sentence 1: Oklahoma examines what went wrong in botched execution Sentence 2: Okla. inmate dies of heart attack after botched execution",
+            "output": "3 - probably"
+        },
+        "625": {
+            "input": "Sentence 1: Napolitano elected for second term as Italy president Sentence 2: Italian President Napolitano elected for second term",
+            "output": "5 - perfectly"
+        },
+        "626": {
+            "input": "Sentence 1: UN court convicts 6 Bosnian Croats of atrocities Sentence 2: UN War Crimes Court Convicts Six Bosnians Croats",
+            "output": "4 - almost perfectly"
+        },
+        "627": {
+            "input": "Sentence 1: Saudi man with pressure cooker arrested at Detroit airport Sentence 2: Saudi Man Traveling With Pressure Cooker Arrested",
+            "output": "4 - almost perfectly"
+        },
+        "628": {
+            "input": "Sentence 1: North Korea says to put US citizen on trial Sentence 2: North Korea says detained American tourist to face trial",
+            "output": "5 - perfectly"
+        },
+        "629": {
+            "input": "Sentence 1: Thai protests escalate amid violence Sentence 2: Thai protesters call general strike",
+            "output": "3 - probably"
+        },
+        "630": {
+            "input": "Sentence 1: Egypt imposes state of emergency after 95 people killed Sentence 2: Egypt announces one-month state of emergency nationwide",
+            "output": "3 - probably"
+        },
+        "631": {
+            "input": "Sentence 1: Rallies demand 'Justice for Trayvon' Sentence 2: Across US, people rally for 'Justice for Trayvon'",
+            "output": "4 - almost perfectly"
+        },
+        "632": {
+            "input": "Sentence 1: Hagel, Dempsey face Congress over defense budget Sentence 2: Hagel laments \"political\" changes to US defence budget",
+            "output": "4 - almost perfectly"
+        },
+        "633": {
+            "input": "Sentence 1: Sony to sell PC unit and cut jobs Sentence 2: Sony to axe PC unit in major business overhaul",
+            "output": "3 - probably"
+        },
+        "634": {
+            "input": "Sentence 1: Man kills 4 in Calif. before police shoot him dead Sentence 2: Police: Gunman killed 6 in California shootings",
+            "output": "2 - possibly"
+        },
+        "635": {
+            "input": "Sentence 1: N. Korea Deports Elderly American Sentence 2: North Korea deports detained US war veteran",
+            "output": "2 - possibly"
+        },
+        "636": {
+            "input": "Sentence 1: Mandela remembered by family, as stadium memorial service is planned Sentence 2: Mandela's family thanks nation and world for support",
+            "output": "1 - probably not"
+        },
+        "637": {
+            "input": "Sentence 1: Ukrainian presidency says deal reached at crisis talks Sentence 2: Ukraine rivals sign deal to end crisis",
+            "output": "4 - almost perfectly"
+        },
+        "638": {
+            "input": "Sentence 1: Syria's PM escapes assassination try, regime says Sentence 2: Syrian prime minister survives assassination attempt",
+            "output": "4 - almost perfectly"
+        },
+        "639": {
+            "input": "Sentence 1: At least 18 killed in Iraq mosque bombing Sentence 2: More than 60 killed at Iraq funeral",
+            "output": "0 - definitely not"
+        },
+        "640": {
+            "input": "Sentence 1: Police surround protesters in Belfast ahead of G8 Sentence 2: Peaceful anti-G8 protest held in Belfast",
+            "output": "3 - probably"
+        },
+        "641": {
+            "input": "Sentence 1: George Zimmerman found not guilty of Trayvon Martin murder Sentence 2: George Zimmerman Verdict Propels Cable News Into Talkradio Mode",
+            "output": "1 - probably not"
+        },
+        "642": {
+            "input": "Sentence 1: Ten rescued off Waterford, Dublin coasts Sentence 2: Six rescued after boat capsizes in Dublin Bay",
+            "output": "3 - probably"
+        },
+        "643": {
+            "input": "Sentence 1: Mandela spends third day in hospital Sentence 2: Mandela in Hospital for 3rd Day",
+            "output": "5 - perfectly"
+        },
+        "644": {
+            "input": "Sentence 1: One killed in clashes at Muslim Brotherhood Cairo offices Sentence 2: Egypt: Protesters storm Muslim Brotherhood's HQ",
+            "output": "2 - possibly"
+        },
+        "645": {
+            "input": "Sentence 1: Saudi Women To Protest Against Driving Ban Sentence 2: Saudi women drive in protest with little problem",
+            "output": "2 - possibly"
+        },
+        "646": {
+            "input": "Sentence 1: Russian parliament allows Putin to use military in Ukraine Sentence 2: President Obama warns Russia to stay out of Ukraine",
+            "output": "1 - probably not"
+        },
+        "647": {
+            "input": "Sentence 1: Nelson Mandela hospital release reports 'incorrect' Sentence 2: Nelson Mandela Goes Home After Hospital Stay",
+            "output": "2 - possibly"
+        },
+        "648": {
+            "input": "Sentence 1: World stocks rise on hopes Fed to keep stimulus Sentence 2: Fed expected to maintain stimulus",
+            "output": "1 - probably not"
+        },
+        "649": {
+            "input": "Sentence 1: No winners in a war of sanctions Sentence 2: The impact of sanctions on Russia",
+            "output": "1 - probably not"
+        },
+        "650": {
+            "input": "Sentence 1: World Cup hit by new stadium death Sentence 2: Worker dies at World Cup stadium",
+            "output": "3 - probably"
+        },
+        "651": {
+            "input": "Sentence 1: Tata Nano and other Indian small cars fail crash tests Sentence 2: How does world's cheapest car do in crash test?",
+            "output": "1 - probably not"
+        },
+        "652": {
+            "input": "Sentence 1: Greece reaches agreement with troika, bailout tranche expected within days Sentence 2: Debt inspectors reach agreement with Greece",
+            "output": "3 - probably"
+        },
+        "653": {
+            "input": "Sentence 1: Murray ends 77-year wait for British win Sentence 2: Murray wins Wimbledon title ends Britains 77year agony",
+            "output": "5 - perfectly"
+        },
+        "654": {
+            "input": "Sentence 1: Malaysia Airlines plane crashes on Ukraine-Russia border - live Sentence 2: US: Russia Massing Troops on Ukraine Border",
+            "output": "0 - definitely not"
+        },
+        "655": {
+            "input": "Sentence 1: The covert war in Pakistan Sentence 2: New major earthquake rocks southwest Pakistan",
+            "output": "0 - definitely not"
+        },
+        "656": {
+            "input": "Sentence 1: Senior CPC official meets top DPRK leader's special envoy Sentence 2: North Korean leader sends 'special envoy' to China",
+            "output": "3 - probably"
+        },
+        "657": {
+            "input": "Sentence 1: Pope calls for action on climate change in draft encyclical Sentence 2: Pope urges action on climate change in draft encyclical",
+            "output": "5 - perfectly"
+        },
+        "658": {
+            "input": "Sentence 1: Singapore shares open 0.28% lower on Thursday Sentence 2: Singapore shares open 0.19% higher on Thursday",
+            "output": "2 - possibly"
+        },
+        "659": {
+            "input": "Sentence 1: Who Is Jihadi John? Sentence 2: Who was 'Jihadi John?'",
+            "output": "5 - perfectly"
+        },
+        "660": {
+            "input": "Sentence 1: Headlines in major Iranian newspapers on Oct 4 Sentence 2: Headlines in several Iranian newspapers on Oct 19",
+            "output": "2 - possibly"
+        },
+        "661": {
+            "input": "Sentence 1: US Attorney General Holder resigns Sentence 2: US Attorney general Eric Holder to resign",
+            "output": "4 - almost perfectly"
+        },
+        "662": {
+            "input": "Sentence 1: U.S., EU Widen Sanctions On Russia Sentence 2: U.S., EU Boost Sanctions On Russia",
+            "output": "5 - perfectly"
+        },
+        "663": {
+            "input": "Sentence 1: Top Asian News at 2:30 p.m. GMT Sentence 2: Top Asian News 1:25 p.m. GMT",
+            "output": "1 - probably not"
+        },
+        "664": {
+            "input": "Sentence 1: How the Dow Jones Industrial Average Did Wednesday Sentence 2: How the Dow Jones Industrial Average Fared on Monday",
+            "output": "2 - possibly"
+        },
+        "665": {
+            "input": "Sentence 1: Hajj to go ahead despite crane collapse, officials vow Sentence 2: Hajj to go ahead despite crane collapse",
+            "output": "4 - almost perfectly"
+        },
+        "666": {
+            "input": "Sentence 1: US House Republicans elect Paul Ryan as speaker Sentence 2: US House Republicans eye reluctant Ryan for speaker",
+            "output": "3 - probably"
+        },
+        "667": {
+            "input": "Sentence 1: Top Asian News at 4:00 p.m. GMT Sentence 2: Top Asian News 8:39 a.m. GMT",
+            "output": "3 - probably"
+        },
+        "668": {
+            "input": "Sentence 1: Singapore shares open 0.83% higher on Wednesday Sentence 2: Singapore shares open 0.06% lower on Tuesday",
+            "output": "1 - probably not"
+        },
+        "669": {
+            "input": "Sentence 1: China treasury bond futures open higher Tuesday Sentence 2: China treasury bond futures close mixed Wednesday",
+            "output": "1 - probably not"
+        },
+        "670": {
+            "input": "Sentence 1: US Attorney General Holder resigns Sentence 2: Attorney General Eric Holder to Resign",
+            "output": "5 - perfectly"
+        },
+        "671": {
+            "input": "Sentence 1: Headlines in major Iranian newspapers on Sept 27 Sentence 2: Headlines in several Iranian newspapers on Oct 19",
+            "output": "3 - probably"
+        },
+        "672": {
+            "input": "Sentence 1: China on high alert for typhoon Kalmaegi Sentence 2: China issues yellow alert for typhoon Kalmaegi",
+            "output": "4 - almost perfectly"
+        },
+        "673": {
+            "input": "Sentence 1: Saudi-led airstrikes hit Yemeni capital Sentence 2: Saudi airstrikes in Yemen's capital kill 29",
+            "output": "3 - probably"
+        },
+        "674": {
+            "input": "Sentence 1: Mali hunts jihadist nightclub killers Sentence 2: Militants attack UN as Mali hunts jihadist nightclub killers",
+            "output": "3 - probably"
+        },
+        "675": {
+            "input": "Sentence 1: 7.3 magnitude earthquake strikes Nepal Sentence 2: 6.6-magnitude earthquake strikes off Indonesia",
+            "output": "1 - probably not"
+        },
+        "676": {
+            "input": "Sentence 1: Tokyo shares open higher over buoyant U.S. market Sentence 2: Tokyo shares open higher tracing U.S. gains",
+            "output": "4 - almost perfectly"
+        },
+        "677": {
+            "input": "Sentence 1: Iran's parliament backs nuclear deal Sentence 2: Iran hardliners attack nuclear deal",
+            "output": "1 - probably not"
+        },
+        "678": {
+            "input": "Sentence 1: Hawaii preps for first hurricane in 22 years Sentence 2: Hawaii bracing as first hurricane in 22 years approaches",
+            "output": "5 - perfectly"
+        },
+        "679": {
+            "input": "Sentence 1: Iraq bombings kill at least 26 Sentence 2: Iraq suicide bomber kills at least 12",
+            "output": "2 - possibly"
+        },
+        "680": {
+            "input": "Sentence 1: Sierra Leone in Ebola lockdown Sentence 2: Sierra Leone Reaches Final Day of Ebola Lockdown",
+            "output": "3 - probably"
+        },
+        "681": {
+            "input": "Sentence 1: Tokyo shares open higher on buoyant U.S. market Sentence 2: Tokyo shares open higher following strong U.S. performance",
+            "output": "4 - almost perfectly"
+        },
+        "682": {
+            "input": "Sentence 1: 4 killed, several injured in SW China car accident Sentence 2: Two killed, seventeen injured in Raiwind road accident",
+            "output": "0 - definitely not"
+        },
+        "683": {
+            "input": "Sentence 1: More than 3,400 migrants rescued at sea in Mediterranean Sentence 2: Over 2,000 migrants rescued from wooden boats in Mediterranean",
+            "output": "3 - probably"
+        },
+        "684": {
+            "input": "Sentence 1: Lewis Hamilton Takes Pole for Russian GP Sentence 2: Lewis Hamilton wins inaugural Russian GP",
+            "output": "4 - almost perfectly"
+        },
+        "685": {
+            "input": "Sentence 1: UN Security Council hears Yemen envoy's final ... Sentence 2: UN Security Council urges Yemen's Houthis to end...",
+            "output": "2 - possibly"
+        },
+        "686": {
+            "input": "Sentence 1: 4 dead, 3 injured in east China road accident Sentence 2: 2 dead, 8 injured in central Israel traffic accident",
+            "output": "0 - definitely not"
+        },
+        "687": {
+            "input": "Sentence 1: Markets Live: Waiting for China data Sentence 2: Markets Live: China drags",
+            "output": "2 - possibly"
+        },
+        "688": {
+            "input": "Sentence 1: Palestinians, Israeli police clash at Jerusalem's al-Aqsa Sentence 2: Palestinian Shot by Israeli Police in East Jerusalem Dies",
+            "output": "2 - possibly"
+        },
+        "689": {
+            "input": "Sentence 1: Suspected Boko Haram suicide bombers in Nigeria kill 24 Sentence 2: Suspected Boko Haram attacks kill dozens in Nigeria",
+            "output": "4 - almost perfectly"
+        },
+        "690": {
+            "input": "Sentence 1: The end of the Hong Kong protests? Sentence 2: UK 'concern' over Hong Kong protests",
+            "output": "2 - possibly"
+        },
+        "691": {
+            "input": "Sentence 1: Russian warplanes strike inside Syria Sentence 2: Russian roulette in Syria",
+            "output": "2 - possibly"
+        },
+        "692": {
+            "input": "Sentence 1: CCTV of gunmen in Tunisia museum attack Sentence 2: 19 killed in Tunis museum attack",
+            "output": "1 - probably not"
+        },
+        "693": {
+            "input": "Sentence 1: Live Blog: Ukraine In Crisis Sentence 2: Live Blog: Iraq In Turmoil",
+            "output": "0 - definitely not"
+        },
+        "694": {
+            "input": "Sentence 1: Nigeria Votes in Tight Presidential Election Sentence 2: Guineans Go to the Polls in Presidential Elections",
+            "output": "2 - possibly"
+        },
+        "695": {
+            "input": "Sentence 1: Prince William dons samurai gear on Japan tour Sentence 2: Prince William of Britain arrives in Beijing",
+            "output": "2 - possibly"
+        },
+        "696": {
+            "input": "Sentence 1: Micronesia vice president to visit China Sentence 2: Vice President of Bolivia to visit China",
+            "output": "2 - possibly"
+        },
+        "697": {
+            "input": "Sentence 1: Islamic State issues video of beheading of US hostage Sentence 2: Islamic State posts second propaganda video of UK hostage",
+            "output": "3 - probably"
+        },
+        "698": {
+            "input": "Sentence 1: Iran ends cooperation agreement with Pakistan Sentence 2: Iran, Tajikistan sign cooperation agreement",
+            "output": "2 - possibly"
+        },
+        "699": {
+            "input": "Sentence 1: Teenager tests negative for Ebola Sentence 2: Texas hospital worker tests positive for Ebola",
+            "output": "1 - probably not"
+        },
+        "700": {
+            "input": "Sentence 1: Texas sues over Syrian refugees Sentence 2: Turkey 'exploits' Syrian refugees",
+            "output": "1 - probably not"
+        },
+        "701": {
+            "input": "Sentence 1: New US Sanctions Target Overseas Cyber Attackers Sentence 2: China disagrees with U.S. sanctions program on overseas cyber attackers",
+            "output": "2 - possibly"
+        },
+        "702": {
+            "input": "Sentence 1: 5 killed in Israeli air strikes in Gaza Sentence 2: 38 IS militants killed in clashes, air strikes in Iraq",
+            "output": "0 - definitely not"
+        },
+        "703": {
+            "input": "Sentence 1: Deadly Blast Rocks Coal Mine in East Ukraine Sentence 2: 12 Dead, Despite Cease-fire in East Ukraine",
+            "output": "2 - possibly"
+        },
+        "704": {
+            "input": "Sentence 1: Greece bailout uncertainty weighs on global markets Sentence 2: Greece concerns drag on Asia markets",
+            "output": "3 - probably"
+        },
+        "705": {
+            "input": "Sentence 1: Rooney helps Man United beat Everton 3-0 in Premier League Sentence 2: West Ham beats Newcastle 2-0 in Premier League",
+            "output": "1 - probably not"
+        },
+        "706": {
+            "input": "Sentence 1: Hard-line Jewish leader shot in Jerusalem Sentence 2: Israeli leader urges calm in Jerusalem",
+            "output": "1 - probably not"
+        },
+        "707": {
+            "input": "Sentence 1: Backstage Moves Intensify as Fight Against Islamic State Widens Sentence 2: Mixed Progress Reported in Fight Against Islamic State",
+            "output": "2 - possibly"
+        },
+        "708": {
+            "input": "Sentence 1: Libya: UN orders investigation into Libya rights abuses Sentence 2: India's top court orders investigation into job scam, deaths",
+            "output": "0 - definitely not"
+        },
+        "709": {
+            "input": "Sentence 1: Burundi police fire tear gas at protesters Sentence 2: Montenegrin police fire teargas to disperse opposition",
+            "output": "1 - probably not"
+        },
+        "710": {
+            "input": "Sentence 1: Nepal earthquake death toll surpasses 7,000 Sentence 2: Death toll in Nepal earthquake tops 8,000",
+            "output": "3 - probably"
+        },
+        "711": {
+            "input": "Sentence 1: Ashya's Parents Arrive For Extradition Hearing Sentence 2: Ashya King's parents freed from jail in Spain",
+            "output": "1 - probably not"
+        },
+        "712": {
+            "input": "Sentence 1: Nigeria admits slow response in Ebola case Sentence 2: US ramps up response to Ebola crisis",
+            "output": "1 - probably not"
+        },
+        "713": {
+            "input": "Sentence 1: Thousands cross Austria-Hungary border Sentence 2: Thousands of Russians stranded abroad",
+            "output": "1 - probably not"
+        },
+        "714": {
+            "input": "Sentence 1: Oscar Pistorius sentenced to 5 years in prison Sentence 2: 'Bookkeeper of Auschwitz' Sentenced to Four Years in Prison",
+            "output": "0 - definitely not"
+        },
+        "715": {
+            "input": "Sentence 1: Pro-Palestinian Activists March to UN Headquarters Sentence 2: Pro-Palestinian activists prepare flotilla to break Gaza blockade",
+            "output": "2 - possibly"
+        },
+        "716": {
+            "input": "Sentence 1: Benzema faces possible charges in sex-tape case Sentence 2: Menendez faces possible corruption charges",
+            "output": "1 - probably not"
+        },
+        "717": {
+            "input": "Sentence 1: All 224 dead in Russian airliner mystery crash Sentence 2: Heat flash detected at time of Russian airliner crash",
+            "output": "2 - possibly"
+        },
+        "718": {
+            "input": "Sentence 1: Govt. to hold talks with FTII students Sentence 2: Cameron to hold talks with Sturgeon on UK future",
+            "output": "0 - definitely not"
+        },
+        "719": {
+            "input": "Sentence 1: Li Na to announce retirement Sentence 2: US Senator Ted Cruz to announce presidential bid",
+            "output": "0 - definitely not"
+        },
+        "720": {
+            "input": "Sentence 1: Gunners fire but fail to advance in Champions League Sentence 2: EPL clubs out to avoid Champions League woes",
+            "output": "1 - probably not"
+        },
+        "721": {
+            "input": "Sentence 1: Iranian President praises nuclear deal Sentence 2: Iran arrests several spies near nuclear plant",
+            "output": "1 - probably not"
+        },
+        "722": {
+            "input": "Sentence 1: Boko Haram disrupts Nigerian elections Sentence 2: Press awash with Nigeria\\'s general elections",
+            "output": "1 - probably not"
+        },
+        "723": {
+            "input": "Sentence 1: South Korea regrets North's refusal of talks Sentence 2: South Korea reports 14th Mers death, 12 new cases",
+            "output": "1 - probably not"
+        },
+        "724": {
+            "input": "Sentence 1: Plane Crash Site Search Called off for the Night Sentence 2: Tour De France Pack Sets off for Stage 15",
+            "output": "0 - definitely not"
+        },
+        "725": {
+            "input": "Sentence 1: Obama queries Turnbull over China port deal Sentence 2: Spanish bulls gore seven to death",
+            "output": "0 - definitely not"
+        },
+        "726": {
+            "input": "Sentence 1: Hezbollah targets Qaeda gathering along border with Syria Sentence 2: Belarus tightens security along the border with Ukraine",
+            "output": "0 - definitely not"
+        },
+        "727": {
+            "input": "Sentence 1: South Korea reports seven new MERS cases Sentence 2: South Korean woman in contact with MERS patient dies",
+            "output": "1 - probably not"
+        },
+        "728": {
+            "input": "Sentence 1: Obama calls for international front against IS Sentence 2: Obama vows to save Iraqis stranded on mountain",
+            "output": "0 - definitely not"
+        },
+        "729": {
+            "input": "Sentence 1: Who abandoned 3 Boeing planes at the airport? Sentence 2: Police abandon posts in Lesotho, fear for lives",
+            "output": "0 - definitely not"
+        },
+        "730": {
+            "input": "Sentence 1: North Korea to put US citizen on trial Sentence 2: N Korea hit with new US sanctions",
+            "output": "2 - possibly"
+        },
+        "731": {
+            "input": "Sentence 1: Hong Kong officials resume work as protests thin Sentence 2: Hong Kong student leaders mull protest retreat",
+            "output": "2 - possibly"
+        },
+        "732": {
+            "input": "Sentence 1: Ebola UK: NHS staff 'panicked' after suspected Ebola cases Sentence 2: UK says investigating 2 suspected MERS cases",
+            "output": "0 - definitely not"
+        },
+        "733": {
+            "input": "Sentence 1: N. Korea agrees to talks with South Sentence 2: Johor crowns its fifth Sultan",
+            "output": "0 - definitely not"
+        },
+        "734": {
+            "input": "Sentence 1: Iran, a large important partner for Russia: Novak Sentence 2: Iran reiterates support for Iraq, Syria",
+            "output": "0 - definitely not"
+        },
+        "735": {
+            "input": "Sentence 1: Taiwan's president charters plane to pay respects to Lee Sentence 2: Poland president loses to challenger",
+            "output": "0 - definitely not"
+        },
+        "736": {
+            "input": "Sentence 1: Narendra Modi 'photoshopped' image of Chennai floods visit goes viral Sentence 2: PM Narendra Modi speaks of non-discrimination and equality",
+            "output": "0 - definitely not"
+        },
+        "737": {
+            "input": "Sentence 1: UN chief welcomes peaceful presidential elections in Guinea Sentence 2: UN chief condemns attack against peacekeepers in Mali",
+            "output": "1 - probably not"
+        },
+        "738": {
+            "input": "Sentence 1: Pakistan executions draw international ire Sentence 2: Pakistan protests ceasefire violations by India",
+            "output": "0 - definitely not"
+        },
+        "739": {
+            "input": "Sentence 1: Two Australians killed in Kenya after bus crashed into river Sentence 2: Permalink to Two killed in Germany train accident",
+            "output": "0 - definitely not"
+        },
+        "740": {
+            "input": "Sentence 1: France shuts mosque, arrests man in crackdown after attacks Sentence 2: Security tightened at New Delhi churches after attacks",
+            "output": "2 - possibly"
+        },
+        "741": {
+            "input": "Sentence 1: Russian plane reportedly crashes in Egypt Sentence 2: Pilot killed as US jet crashes in England",
+            "output": "2 - possibly"
+        },
+        "742": {
+            "input": "Sentence 1: Severe Gales As Storm Clodagh Hits Britain Sentence 2: Merkel pledges NATO solidarity with Latvia",
+            "output": "0 - definitely not"
+        },
+        "743": {
+            "input": "Sentence 1: President heading to Bahrain Sentence 2: President Xi: China to continue help to fight Ebola",
+            "output": "0 - definitely not"
+        },
+        "744": {
+            "input": "Sentence 1: China, India vow to further bilateral ties Sentence 2: China Scrambles to Reassure Jittery Stock Traders",
+            "output": "0 - definitely not"
+        }
+    }
+}

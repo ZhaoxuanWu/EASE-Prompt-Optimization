@@ -1,0 +1,2083 @@
+{
+    "metadata": {
+        "num_examples": 519
+    },
+    "examples": {
+        "1": {
+            "input": "ultimate",
+            "output": "proximate"
+        },
+        "2": {
+            "input": "inhabited",
+            "output": "uninhabited"
+        },
+        "3": {
+            "input": "maximization",
+            "output": "minimization"
+        },
+        "4": {
+            "input": "attached",
+            "output": "detached"
+        },
+        "5": {
+            "input": "unenlightened",
+            "output": "enlightened"
+        },
+        "6": {
+            "input": "never",
+            "output": "ever"
+        },
+        "7": {
+            "input": "depart",
+            "output": "stay"
+        },
+        "8": {
+            "input": "dislodge",
+            "output": "lodge"
+        },
+        "9": {
+            "input": "nonprescription",
+            "output": "prescription"
+        },
+        "10": {
+            "input": "disappearance",
+            "output": "appearance"
+        },
+        "11": {
+            "input": "inaccurate",
+            "output": "accurate"
+        },
+        "12": {
+            "input": "inconclusive",
+            "output": "conclusive"
+        },
+        "13": {
+            "input": "unprepared",
+            "output": "prepared"
+        },
+        "14": {
+            "input": "quantitative",
+            "output": "qualitative"
+        },
+        "15": {
+            "input": "girl",
+            "output": "boy"
+        },
+        "16": {
+            "input": "unhealthy",
+            "output": "healthy"
+        },
+        "17": {
+            "input": "mobilization",
+            "output": "demobilization"
+        },
+        "18": {
+            "input": "voiced",
+            "output": "unvoiced"
+        },
+        "19": {
+            "input": "unrestrained",
+            "output": "restrained"
+        },
+        "20": {
+            "input": "immoderately",
+            "output": "moderately"
+        },
+        "21": {
+            "input": "sparkling",
+            "output": "still"
+        },
+        "22": {
+            "input": "usual",
+            "output": "unusual"
+        },
+        "23": {
+            "input": "invisible",
+            "output": "visible"
+        },
+        "24": {
+            "input": "intolerant",
+            "output": "tolerant"
+        },
+        "25": {
+            "input": "asymmetrical",
+            "output": "symmetrical"
+        },
+        "26": {
+            "input": "insecurity",
+            "output": "security"
+        },
+        "27": {
+            "input": "repel",
+            "output": "attract"
+        },
+        "28": {
+            "input": "illiteracy",
+            "output": "literacy"
+        },
+        "29": {
+            "input": "abundant",
+            "output": "scarce"
+        },
+        "30": {
+            "input": "unbalanced",
+            "output": "balanced"
+        },
+        "31": {
+            "input": "forward",
+            "output": "reverse"
+        },
+        "32": {
+            "input": "artificially",
+            "output": "naturally"
+        },
+        "33": {
+            "input": "nearness",
+            "output": "farness"
+        },
+        "34": {
+            "input": "unmarried",
+            "output": "married"
+        },
+        "35": {
+            "input": "indecision",
+            "output": "decision"
+        },
+        "36": {
+            "input": "mini",
+            "output": "midi"
+        },
+        "37": {
+            "input": "sufficiently",
+            "output": "insufficiently"
+        },
+        "38": {
+            "input": "reactive",
+            "output": "unreactive"
+        },
+        "39": {
+            "input": "active",
+            "output": "quiet"
+        },
+        "40": {
+            "input": "disproportionately",
+            "output": "proportionately"
+        },
+        "41": {
+            "input": "noncritical",
+            "output": "critical"
+        },
+        "42": {
+            "input": "winner",
+            "output": "loser"
+        },
+        "43": {
+            "input": "responsive",
+            "output": "unresponsive"
+        },
+        "44": {
+            "input": "exciting",
+            "output": "unexciting"
+        },
+        "45": {
+            "input": "proximate",
+            "output": "ultimate"
+        },
+        "46": {
+            "input": "continual",
+            "output": "sporadic"
+        },
+        "47": {
+            "input": "discourteous",
+            "output": "courteous"
+        },
+        "48": {
+            "input": "wake",
+            "output": "sleep"
+        },
+        "49": {
+            "input": "benevolence",
+            "output": "malevolence"
+        },
+        "50": {
+            "input": "derived",
+            "output": "underived"
+        },
+        "51": {
+            "input": "green",
+            "output": "ripe"
+        },
+        "52": {
+            "input": "effectually",
+            "output": "ineffectually"
+        },
+        "53": {
+            "input": "political",
+            "output": "nonpolitical"
+        },
+        "54": {
+            "input": "considerate",
+            "output": "inconsiderate"
+        },
+        "55": {
+            "input": "noncurrent",
+            "output": "current"
+        },
+        "56": {
+            "input": "recall",
+            "output": "issue"
+        },
+        "57": {
+            "input": "willingness",
+            "output": "unwillingness"
+        },
+        "58": {
+            "input": "obvious",
+            "output": "unobvious"
+        },
+        "59": {
+            "input": "spoken",
+            "output": "written"
+        },
+        "60": {
+            "input": "analyzed",
+            "output": "unanalyzed"
+        },
+        "61": {
+            "input": "boneless",
+            "output": "bony"
+        },
+        "62": {
+            "input": "lock",
+            "output": "unlock"
+        },
+        "63": {
+            "input": "layman",
+            "output": "clergyman"
+        },
+        "64": {
+            "input": "numerical",
+            "output": "verbal"
+        },
+        "65": {
+            "input": "hairless",
+            "output": "hairy"
+        },
+        "66": {
+            "input": "insufficiently",
+            "output": "sufficiently"
+        },
+        "67": {
+            "input": "similarity",
+            "output": "dissimilarity"
+        },
+        "68": {
+            "input": "dissuade",
+            "output": "persuade"
+        },
+        "69": {
+            "input": "assigned",
+            "output": "unassigned"
+        },
+        "70": {
+            "input": "outward",
+            "output": "inward"
+        },
+        "71": {
+            "input": "normality",
+            "output": "abnormality"
+        },
+        "72": {
+            "input": "pointed",
+            "output": "pointless"
+        },
+        "73": {
+            "input": "gratitude",
+            "output": "ingratitude"
+        },
+        "74": {
+            "input": "balanced",
+            "output": "unbalanced"
+        },
+        "75": {
+            "input": "badly",
+            "output": "well"
+        },
+        "76": {
+            "input": "digital",
+            "output": "analogue"
+        },
+        "77": {
+            "input": "bottomed",
+            "output": "bottomless"
+        },
+        "78": {
+            "input": "join",
+            "output": "disjoin"
+        },
+        "79": {
+            "input": "defuse",
+            "output": "fuse"
+        },
+        "80": {
+            "input": "black",
+            "output": "white"
+        },
+        "81": {
+            "input": "integrated",
+            "output": "segregated"
+        },
+        "82": {
+            "input": "unstressed",
+            "output": "stressed"
+        },
+        "83": {
+            "input": "stuck",
+            "output": "unstuck"
+        },
+        "84": {
+            "input": "infamy",
+            "output": "fame"
+        },
+        "85": {
+            "input": "stator",
+            "output": "rotor"
+        },
+        "86": {
+            "input": "unaccustomed",
+            "output": "accustomed"
+        },
+        "87": {
+            "input": "femininity",
+            "output": "masculinity"
+        },
+        "88": {
+            "input": "existent",
+            "output": "nonexistent"
+        },
+        "89": {
+            "input": "unlucky",
+            "output": "lucky"
+        },
+        "90": {
+            "input": "piety",
+            "output": "impiety"
+        },
+        "91": {
+            "input": "acidity",
+            "output": "alkalinity"
+        },
+        "92": {
+            "input": "salaried",
+            "output": "freelance"
+        },
+        "93": {
+            "input": "complicate",
+            "output": "simplify"
+        },
+        "94": {
+            "input": "improved",
+            "output": "unimproved"
+        },
+        "95": {
+            "input": "falsehood",
+            "output": "truth"
+        },
+        "96": {
+            "input": "infallible",
+            "output": "fallible"
+        },
+        "97": {
+            "input": "unveil",
+            "output": "veil"
+        },
+        "98": {
+            "input": "androgynous",
+            "output": "female"
+        },
+        "99": {
+            "input": "restricted",
+            "output": "unrestricted"
+        },
+        "100": {
+            "input": "objectively",
+            "output": "subjectively"
+        },
+        "101": {
+            "input": "selfish",
+            "output": "unselfish"
+        },
+        "102": {
+            "input": "cultivated",
+            "output": "uncultivated"
+        },
+        "103": {
+            "input": "bless",
+            "output": "curse"
+        },
+        "104": {
+            "input": "misused",
+            "output": "used"
+        },
+        "105": {
+            "input": "educated",
+            "output": "uneducated"
+        },
+        "106": {
+            "input": "obedience",
+            "output": "disobedience"
+        },
+        "107": {
+            "input": "symmetry",
+            "output": "asymmetry"
+        },
+        "108": {
+            "input": "insignificant",
+            "output": "significant"
+        },
+        "109": {
+            "input": "downward",
+            "output": "upward"
+        },
+        "110": {
+            "input": "rich",
+            "output": "poor"
+        },
+        "111": {
+            "input": "won",
+            "output": "lost"
+        },
+        "112": {
+            "input": "rear",
+            "output": "head"
+        },
+        "113": {
+            "input": "equally",
+            "output": "unequally"
+        },
+        "114": {
+            "input": "medical",
+            "output": "surgical"
+        },
+        "115": {
+            "input": "tangible",
+            "output": "intangible"
+        },
+        "116": {
+            "input": "hydrophilic",
+            "output": "hydrophobic"
+        },
+        "117": {
+            "input": "solubility",
+            "output": "insolubility"
+        },
+        "118": {
+            "input": "molar",
+            "output": "molecular"
+        },
+        "119": {
+            "input": "agnostic",
+            "output": "gnostic"
+        },
+        "120": {
+            "input": "unlikeness",
+            "output": "likeness"
+        },
+        "121": {
+            "input": "established",
+            "output": "unestablished"
+        },
+        "122": {
+            "input": "convex",
+            "output": "concave"
+        },
+        "123": {
+            "input": "stubborn",
+            "output": "docile"
+        },
+        "124": {
+            "input": "attend",
+            "output": "miss"
+        },
+        "125": {
+            "input": "interior",
+            "output": "exterior"
+        },
+        "126": {
+            "input": "backed",
+            "output": "backless"
+        },
+        "127": {
+            "input": "engage",
+            "output": "disengage"
+        },
+        "128": {
+            "input": "unpalatable",
+            "output": "palatable"
+        },
+        "129": {
+            "input": "abnormal",
+            "output": "normal"
+        },
+        "130": {
+            "input": "continuation",
+            "output": "discontinuation"
+        },
+        "131": {
+            "input": "plural",
+            "output": "singular"
+        },
+        "132": {
+            "input": "stiffen",
+            "output": "loosen"
+        },
+        "133": {
+            "input": "unborn",
+            "output": "born"
+        },
+        "134": {
+            "input": "wide",
+            "output": "narrow"
+        },
+        "135": {
+            "input": "dissatisfaction",
+            "output": "satisfaction"
+        },
+        "136": {
+            "input": "untapped",
+            "output": "tapped"
+        },
+        "137": {
+            "input": "inconvenient",
+            "output": "convenient"
+        },
+        "138": {
+            "input": "harmless",
+            "output": "harmful"
+        },
+        "139": {
+            "input": "disagreeable",
+            "output": "agreeable"
+        },
+        "140": {
+            "input": "unspecialized",
+            "output": "specialized"
+        },
+        "141": {
+            "input": "unpolished",
+            "output": "polished"
+        },
+        "142": {
+            "input": "unlabeled",
+            "output": "labeled"
+        },
+        "143": {
+            "input": "falsify",
+            "output": "correct"
+        },
+        "144": {
+            "input": "primary",
+            "output": "secondary"
+        },
+        "145": {
+            "input": "adjusted",
+            "output": "unadjusted"
+        },
+        "146": {
+            "input": "wholly",
+            "output": "partly"
+        },
+        "147": {
+            "input": "consume",
+            "output": "abstain"
+        },
+        "148": {
+            "input": "unconditioned",
+            "output": "conditioned"
+        },
+        "149": {
+            "input": "handed",
+            "output": "handless"
+        },
+        "150": {
+            "input": "tired",
+            "output": "rested"
+        },
+        "151": {
+            "input": "replaceable",
+            "output": "irreplaceable"
+        },
+        "152": {
+            "input": "appointive",
+            "output": "elective"
+        },
+        "153": {
+            "input": "outwardly",
+            "output": "inwardly"
+        },
+        "154": {
+            "input": "awake",
+            "output": "asleep"
+        },
+        "155": {
+            "input": "thirsty",
+            "output": "hungry"
+        },
+        "156": {
+            "input": "strongly",
+            "output": "weakly"
+        },
+        "157": {
+            "input": "veil",
+            "output": "unveil"
+        },
+        "158": {
+            "input": "legal",
+            "output": "illegal"
+        },
+        "159": {
+            "input": "discourage",
+            "output": "encourage"
+        },
+        "160": {
+            "input": "stand",
+            "output": "lie"
+        },
+        "161": {
+            "input": "profane",
+            "output": "sacred"
+        },
+        "162": {
+            "input": "centripetal",
+            "output": "centrifugal"
+        },
+        "163": {
+            "input": "verbal",
+            "output": "numerical"
+        },
+        "164": {
+            "input": "raw",
+            "output": "cooked"
+        },
+        "165": {
+            "input": "living",
+            "output": "dead"
+        },
+        "166": {
+            "input": "construction",
+            "output": "misconstruction"
+        },
+        "167": {
+            "input": "malignant",
+            "output": "benign"
+        },
+        "168": {
+            "input": "immaturity",
+            "output": "maturity"
+        },
+        "169": {
+            "input": "likeness",
+            "output": "unlikeness"
+        },
+        "170": {
+            "input": "uncontested",
+            "output": "contested"
+        },
+        "171": {
+            "input": "prudent",
+            "output": "imprudent"
+        },
+        "172": {
+            "input": "descending",
+            "output": "ascending"
+        },
+        "173": {
+            "input": "superficial",
+            "output": "profound"
+        },
+        "174": {
+            "input": "inefficiently",
+            "output": "efficiently"
+        },
+        "175": {
+            "input": "invisibility",
+            "output": "visibility"
+        },
+        "176": {
+            "input": "accessible",
+            "output": "inaccessible"
+        },
+        "177": {
+            "input": "nonmember",
+            "output": "member"
+        },
+        "178": {
+            "input": "segregation",
+            "output": "integration"
+        },
+        "179": {
+            "input": "improper",
+            "output": "proper"
+        },
+        "180": {
+            "input": "collected",
+            "output": "uncollected"
+        },
+        "181": {
+            "input": "willingly",
+            "output": "unwillingly"
+        },
+        "182": {
+            "input": "unbend",
+            "output": "bend"
+        },
+        "183": {
+            "input": "lethargic",
+            "output": "energetic"
+        },
+        "184": {
+            "input": "asleep",
+            "output": "awake"
+        },
+        "185": {
+            "input": "operative",
+            "output": "inoperative"
+        },
+        "186": {
+            "input": "downstairs",
+            "output": "upstairs"
+        },
+        "187": {
+            "input": "crossed",
+            "output": "uncrossed"
+        },
+        "188": {
+            "input": "unconnected",
+            "output": "connected"
+        },
+        "189": {
+            "input": "pull",
+            "output": "push"
+        },
+        "190": {
+            "input": "obligatory",
+            "output": "optional"
+        },
+        "191": {
+            "input": "nonresident",
+            "output": "resident"
+        },
+        "192": {
+            "input": "malign",
+            "output": "benign"
+        },
+        "193": {
+            "input": "unflattering",
+            "output": "flattering"
+        },
+        "194": {
+            "input": "isotropic",
+            "output": "anisotropic"
+        },
+        "195": {
+            "input": "confront",
+            "output": "avoid"
+        },
+        "196": {
+            "input": "skew",
+            "output": "align"
+        },
+        "197": {
+            "input": "diverge",
+            "output": "converge"
+        },
+        "198": {
+            "input": "solved",
+            "output": "unsolved"
+        },
+        "199": {
+            "input": "domineering",
+            "output": "submissive"
+        },
+        "200": {
+            "input": "volatile",
+            "output": "nonvolatile"
+        },
+        "201": {
+            "input": "igneous",
+            "output": "aqueous"
+        },
+        "202": {
+            "input": "polite",
+            "output": "impolite"
+        },
+        "203": {
+            "input": "unintelligible",
+            "output": "intelligible"
+        },
+        "204": {
+            "input": "western",
+            "output": "eastern"
+        },
+        "205": {
+            "input": "uncover",
+            "output": "cover"
+        },
+        "206": {
+            "input": "impermeable",
+            "output": "permeable"
+        },
+        "207": {
+            "input": "temporarily",
+            "output": "permanently"
+        },
+        "208": {
+            "input": "hostile",
+            "output": "friendly"
+        },
+        "209": {
+            "input": "effective",
+            "output": "ineffective"
+        },
+        "210": {
+            "input": "wax",
+            "output": "wane"
+        },
+        "211": {
+            "input": "impiety",
+            "output": "piety"
+        },
+        "212": {
+            "input": "unspecified",
+            "output": "specified"
+        },
+        "213": {
+            "input": "unfinished",
+            "output": "finished"
+        },
+        "214": {
+            "input": "aerobic",
+            "output": "anaerobic"
+        },
+        "215": {
+            "input": "differentiate",
+            "output": "integrate"
+        },
+        "216": {
+            "input": "best",
+            "output": "worst"
+        },
+        "217": {
+            "input": "expanded",
+            "output": "contracted"
+        },
+        "218": {
+            "input": "wired",
+            "output": "wireless"
+        },
+        "219": {
+            "input": "innocence",
+            "output": "guilt"
+        },
+        "220": {
+            "input": "glorious",
+            "output": "inglorious"
+        },
+        "221": {
+            "input": "loosen",
+            "output": "stiffen"
+        },
+        "222": {
+            "input": "unlimited",
+            "output": "limited"
+        },
+        "223": {
+            "input": "aware",
+            "output": "unaware"
+        },
+        "224": {
+            "input": "softness",
+            "output": "hardness"
+        },
+        "225": {
+            "input": "intercontinental",
+            "output": "continental"
+        },
+        "226": {
+            "input": "align",
+            "output": "skew"
+        },
+        "227": {
+            "input": "unconditionally",
+            "output": "conditionally"
+        },
+        "228": {
+            "input": "irreducible",
+            "output": "reducible"
+        },
+        "229": {
+            "input": "integration",
+            "output": "segregation"
+        },
+        "230": {
+            "input": "confirmed",
+            "output": "unconfirmed"
+        },
+        "231": {
+            "input": "eventful",
+            "output": "uneventful"
+        },
+        "232": {
+            "input": "public",
+            "output": "private"
+        },
+        "233": {
+            "input": "conciliatory",
+            "output": "antagonistic"
+        },
+        "234": {
+            "input": "rehabilitate",
+            "output": "purge"
+        },
+        "235": {
+            "input": "imprecision",
+            "output": "precision"
+        },
+        "236": {
+            "input": "wireless",
+            "output": "wired"
+        },
+        "237": {
+            "input": "supported",
+            "output": "unsupported"
+        },
+        "238": {
+            "input": "controlled",
+            "output": "uncontrolled"
+        },
+        "239": {
+            "input": "upland",
+            "output": "lowland"
+        },
+        "240": {
+            "input": "illegality",
+            "output": "legality"
+        },
+        "241": {
+            "input": "inoperative",
+            "output": "operative"
+        },
+        "242": {
+            "input": "slow",
+            "output": "fast"
+        },
+        "243": {
+            "input": "centralized",
+            "output": "decentralized"
+        },
+        "244": {
+            "input": "measurable",
+            "output": "immeasurable"
+        },
+        "245": {
+            "input": "implausible",
+            "output": "plausible"
+        },
+        "246": {
+            "input": "opposed",
+            "output": "unopposed"
+        },
+        "247": {
+            "input": "simplicity",
+            "output": "complexity"
+        },
+        "248": {
+            "input": "unexpected",
+            "output": "expected"
+        },
+        "249": {
+            "input": "retroactive",
+            "output": "proactive"
+        },
+        "250": {
+            "input": "inaudible",
+            "output": "audible"
+        },
+        "251": {
+            "input": "senior",
+            "output": "junior"
+        },
+        "252": {
+            "input": "moral",
+            "output": "immoral"
+        },
+        "253": {
+            "input": "imperative",
+            "output": "beseeching"
+        },
+        "254": {
+            "input": "intelligible",
+            "output": "unintelligible"
+        },
+        "255": {
+            "input": "farness",
+            "output": "nearness"
+        },
+        "256": {
+            "input": "blond",
+            "output": "brunet"
+        },
+        "257": {
+            "input": "enforce",
+            "output": "exempt"
+        },
+        "258": {
+            "input": "unsurprising",
+            "output": "surprising"
+        },
+        "259": {
+            "input": "income",
+            "output": "outgo"
+        },
+        "260": {
+            "input": "mental",
+            "output": "physical"
+        },
+        "261": {
+            "input": "absorb",
+            "output": "emit"
+        },
+        "262": {
+            "input": "reducible",
+            "output": "irreducible"
+        },
+        "263": {
+            "input": "joy",
+            "output": "sorrow"
+        },
+        "264": {
+            "input": "consanguinity",
+            "output": "affinity"
+        },
+        "265": {
+            "input": "motivated",
+            "output": "unmotivated"
+        },
+        "266": {
+            "input": "salty",
+            "output": "fresh"
+        },
+        "267": {
+            "input": "defiant",
+            "output": "compliant"
+        },
+        "268": {
+            "input": "unsettled",
+            "output": "settled"
+        },
+        "269": {
+            "input": "refresh",
+            "output": "tire"
+        },
+        "270": {
+            "input": "unintended",
+            "output": "intended"
+        },
+        "271": {
+            "input": "underprivileged",
+            "output": "privileged"
+        },
+        "272": {
+            "input": "unoccupied",
+            "output": "occupied"
+        },
+        "273": {
+            "input": "unfavorable",
+            "output": "favorable"
+        },
+        "274": {
+            "input": "useless",
+            "output": "useful"
+        },
+        "275": {
+            "input": "energetic",
+            "output": "lethargic"
+        },
+        "276": {
+            "input": "willing",
+            "output": "unwilling"
+        },
+        "277": {
+            "input": "omnidirectional",
+            "output": "directional"
+        },
+        "278": {
+            "input": "syllabic",
+            "output": "quantitative"
+        },
+        "279": {
+            "input": "pure",
+            "output": "impure"
+        },
+        "280": {
+            "input": "secular",
+            "output": "religious"
+        },
+        "281": {
+            "input": "spiritless",
+            "output": "spirited"
+        },
+        "282": {
+            "input": "efficiency",
+            "output": "inefficiency"
+        },
+        "283": {
+            "input": "nonpayment",
+            "output": "payment"
+        },
+        "284": {
+            "input": "theoretical",
+            "output": "applied"
+        },
+        "285": {
+            "input": "covertly",
+            "output": "overtly"
+        },
+        "286": {
+            "input": "critical",
+            "output": "uncritical"
+        },
+        "287": {
+            "input": "cheer",
+            "output": "complain"
+        },
+        "288": {
+            "input": "terminal",
+            "output": "intermediate"
+        },
+        "289": {
+            "input": "success",
+            "output": "failure"
+        },
+        "290": {
+            "input": "centrifugal",
+            "output": "centripetal"
+        },
+        "291": {
+            "input": "solvency",
+            "output": "insolvency"
+        },
+        "292": {
+            "input": "unassigned",
+            "output": "assigned"
+        },
+        "293": {
+            "input": "unwind",
+            "output": "wind"
+        },
+        "294": {
+            "input": "dilution",
+            "output": "concentration"
+        },
+        "295": {
+            "input": "anisotropic",
+            "output": "isotropic"
+        },
+        "296": {
+            "input": "connect",
+            "output": "disconnect"
+        },
+        "297": {
+            "input": "certainty",
+            "output": "uncertainty"
+        },
+        "298": {
+            "input": "decode",
+            "output": "encode"
+        },
+        "299": {
+            "input": "sharpen",
+            "output": "dull"
+        },
+        "300": {
+            "input": "screw",
+            "output": "unscrew"
+        },
+        "301": {
+            "input": "insufficiency",
+            "output": "sufficiency"
+        },
+        "302": {
+            "input": "dull",
+            "output": "bright"
+        },
+        "303": {
+            "input": "literally",
+            "output": "figuratively"
+        },
+        "304": {
+            "input": "orthodox",
+            "output": "unorthodox"
+        },
+        "305": {
+            "input": "inclement",
+            "output": "clement"
+        },
+        "306": {
+            "input": "perfectly",
+            "output": "imperfectly"
+        },
+        "307": {
+            "input": "uncomfortably",
+            "output": "comfortably"
+        },
+        "308": {
+            "input": "expand",
+            "output": "contract"
+        },
+        "309": {
+            "input": "aggressive",
+            "output": "unaggressive"
+        },
+        "310": {
+            "input": "affirmation",
+            "output": "reversal"
+        },
+        "311": {
+            "input": "extrinsic",
+            "output": "intrinsic"
+        },
+        "312": {
+            "input": "gathered",
+            "output": "ungathered"
+        },
+        "313": {
+            "input": "quickly",
+            "output": "slowly"
+        },
+        "314": {
+            "input": "worst",
+            "output": "best"
+        },
+        "315": {
+            "input": "facultative",
+            "output": "obligate"
+        },
+        "316": {
+            "input": "altruistic",
+            "output": "egoistic"
+        },
+        "317": {
+            "input": "regulate",
+            "output": "deregulate"
+        },
+        "318": {
+            "input": "affinity",
+            "output": "consanguinity"
+        },
+        "319": {
+            "input": "unpunished",
+            "output": "punished"
+        },
+        "320": {
+            "input": "important",
+            "output": "unimportant"
+        },
+        "321": {
+            "input": "impersonal",
+            "output": "personal"
+        },
+        "322": {
+            "input": "painful",
+            "output": "painless"
+        },
+        "323": {
+            "input": "audible",
+            "output": "inaudible"
+        },
+        "324": {
+            "input": "creative",
+            "output": "uncreative"
+        },
+        "325": {
+            "input": "steadily",
+            "output": "unsteadily"
+        },
+        "326": {
+            "input": "favorably",
+            "output": "unfavorably"
+        },
+        "327": {
+            "input": "inexactly",
+            "output": "exactly"
+        },
+        "328": {
+            "input": "thoughtlessly",
+            "output": "thoughtfully"
+        },
+        "329": {
+            "input": "guilty",
+            "output": "innocent"
+        },
+        "330": {
+            "input": "discomposed",
+            "output": "composed"
+        },
+        "331": {
+            "input": "inadequately",
+            "output": "adequately"
+        },
+        "332": {
+            "input": "lightness",
+            "output": "darkness"
+        },
+        "333": {
+            "input": "succumb",
+            "output": "survive"
+        },
+        "334": {
+            "input": "decisive",
+            "output": "indecisive"
+        },
+        "335": {
+            "input": "unchanged",
+            "output": "changed"
+        },
+        "336": {
+            "input": "inharmonious",
+            "output": "harmonious"
+        },
+        "337": {
+            "input": "fertility",
+            "output": "infertility"
+        },
+        "338": {
+            "input": "encourage",
+            "output": "discourage"
+        },
+        "339": {
+            "input": "ineffective",
+            "output": "effective"
+        },
+        "340": {
+            "input": "alcoholic",
+            "output": "nonalcoholic"
+        },
+        "341": {
+            "input": "decentralization",
+            "output": "centralization"
+        },
+        "342": {
+            "input": "continuance",
+            "output": "discontinuance"
+        },
+        "343": {
+            "input": "actual",
+            "output": "potential"
+        },
+        "344": {
+            "input": "cowardice",
+            "output": "courage"
+        },
+        "345": {
+            "input": "disrespect",
+            "output": "respect"
+        },
+        "346": {
+            "input": "incredible",
+            "output": "credible"
+        },
+        "347": {
+            "input": "irresolute",
+            "output": "resolute"
+        },
+        "348": {
+            "input": "linguistic",
+            "output": "nonlinguistic"
+        },
+        "349": {
+            "input": "inappropriately",
+            "output": "appropriately"
+        },
+        "350": {
+            "input": "least",
+            "output": "most"
+        },
+        "351": {
+            "input": "lucky",
+            "output": "unlucky"
+        },
+        "352": {
+            "input": "admissible",
+            "output": "inadmissible"
+        },
+        "353": {
+            "input": "scrupulous",
+            "output": "unscrupulous"
+        },
+        "354": {
+            "input": "discontented",
+            "output": "contented"
+        },
+        "355": {
+            "input": "social",
+            "output": "unsocial"
+        },
+        "356": {
+            "input": "undocumented",
+            "output": "documented"
+        },
+        "357": {
+            "input": "parallel",
+            "output": "perpendicular"
+        },
+        "358": {
+            "input": "disallow",
+            "output": "allow"
+        },
+        "359": {
+            "input": "born",
+            "output": "unborn"
+        },
+        "360": {
+            "input": "scarcity",
+            "output": "abundance"
+        },
+        "361": {
+            "input": "artless",
+            "output": "artful"
+        },
+        "362": {
+            "input": "praise",
+            "output": "criticize"
+        },
+        "363": {
+            "input": "robust",
+            "output": "frail"
+        },
+        "364": {
+            "input": "invalid",
+            "output": "valid"
+        },
+        "365": {
+            "input": "inhospitable",
+            "output": "hospitable"
+        },
+        "366": {
+            "input": "manly",
+            "output": "unmanly"
+        },
+        "367": {
+            "input": "concise",
+            "output": "prolix"
+        },
+        "368": {
+            "input": "ahistorical",
+            "output": "historical"
+        },
+        "369": {
+            "input": "formed",
+            "output": "unformed"
+        },
+        "370": {
+            "input": "descend",
+            "output": "ascend"
+        },
+        "371": {
+            "input": "supply",
+            "output": "demand"
+        },
+        "372": {
+            "input": "smoothness",
+            "output": "roughness"
+        },
+        "373": {
+            "input": "intracellular",
+            "output": "extracellular"
+        },
+        "374": {
+            "input": "wild",
+            "output": "tame"
+        },
+        "375": {
+            "input": "troubled",
+            "output": "untroubled"
+        },
+        "376": {
+            "input": "appearance",
+            "output": "disappearance"
+        },
+        "377": {
+            "input": "burden",
+            "output": "unburden"
+        },
+        "378": {
+            "input": "unwrapped",
+            "output": "wrapped"
+        },
+        "379": {
+            "input": "unusual",
+            "output": "usual"
+        },
+        "380": {
+            "input": "unbar",
+            "output": "bar"
+        },
+        "381": {
+            "input": "happy",
+            "output": "unhappy"
+        },
+        "382": {
+            "input": "demanding",
+            "output": "undemanding"
+        },
+        "383": {
+            "input": "radical",
+            "output": "cauline"
+        },
+        "384": {
+            "input": "contented",
+            "output": "discontented"
+        },
+        "385": {
+            "input": "representative",
+            "output": "nonrepresentative"
+        },
+        "386": {
+            "input": "impolite",
+            "output": "polite"
+        },
+        "387": {
+            "input": "junior",
+            "output": "senior"
+        },
+        "388": {
+            "input": "frequent",
+            "output": "infrequent"
+        },
+        "389": {
+            "input": "disable",
+            "output": "enable"
+        },
+        "390": {
+            "input": "expired",
+            "output": "unexpired"
+        },
+        "391": {
+            "input": "punished",
+            "output": "unpunished"
+        },
+        "392": {
+            "input": "frail",
+            "output": "robust"
+        },
+        "393": {
+            "input": "corrected",
+            "output": "uncorrected"
+        },
+        "394": {
+            "input": "disparage",
+            "output": "flatter"
+        },
+        "395": {
+            "input": "deflation",
+            "output": "inflation"
+        },
+        "396": {
+            "input": "compliance",
+            "output": "noncompliance"
+        },
+        "397": {
+            "input": "undifferentiated",
+            "output": "differentiated"
+        },
+        "398": {
+            "input": "sure",
+            "output": "unsure"
+        },
+        "399": {
+            "input": "accept",
+            "output": "refuse"
+        },
+        "400": {
+            "input": "permanently",
+            "output": "temporarily"
+        },
+        "401": {
+            "input": "impassable",
+            "output": "passable"
+        },
+        "402": {
+            "input": "septic",
+            "output": "antiseptic"
+        },
+        "403": {
+            "input": "maternal",
+            "output": "paternal"
+        },
+        "404": {
+            "input": "faithfulness",
+            "output": "unfaithfulness"
+        },
+        "405": {
+            "input": "proliferation",
+            "output": "nonproliferation"
+        },
+        "406": {
+            "input": "heaviness",
+            "output": "lightness"
+        },
+        "407": {
+            "input": "humility",
+            "output": "pride"
+        },
+        "408": {
+            "input": "appropriately",
+            "output": "inappropriately"
+        },
+        "409": {
+            "input": "unproductive",
+            "output": "productive"
+        },
+        "410": {
+            "input": "probability",
+            "output": "improbability"
+        },
+        "411": {
+            "input": "owned",
+            "output": "unowned"
+        },
+        "412": {
+            "input": "inequity",
+            "output": "equity"
+        },
+        "413": {
+            "input": "proved",
+            "output": "unproved"
+        },
+        "414": {
+            "input": "minimum",
+            "output": "maximum"
+        },
+        "415": {
+            "input": "paid",
+            "output": "unpaid"
+        },
+        "416": {
+            "input": "north",
+            "output": "south"
+        },
+        "417": {
+            "input": "conditional",
+            "output": "unconditional"
+        },
+        "418": {
+            "input": "imperceptible",
+            "output": "perceptible"
+        },
+        "419": {
+            "input": "pleasing",
+            "output": "displeasing"
+        },
+        "420": {
+            "input": "unfriendly",
+            "output": "friendly"
+        },
+        "421": {
+            "input": "sexual",
+            "output": "asexual"
+        },
+        "422": {
+            "input": "unchangeable",
+            "output": "changeable"
+        },
+        "423": {
+            "input": "disjoin",
+            "output": "join"
+        },
+        "424": {
+            "input": "personally",
+            "output": "impersonally"
+        },
+        "425": {
+            "input": "conclusive",
+            "output": "inconclusive"
+        },
+        "426": {
+            "input": "nonstandard",
+            "output": "standard"
+        },
+        "427": {
+            "input": "impermissible",
+            "output": "permissible"
+        },
+        "428": {
+            "input": "wise",
+            "output": "foolish"
+        },
+        "429": {
+            "input": "sensitive",
+            "output": "insensitive"
+        },
+        "430": {
+            "input": "uneasy",
+            "output": "easy"
+        },
+        "431": {
+            "input": "conspicuous",
+            "output": "inconspicuous"
+        },
+        "432": {
+            "input": "unofficial",
+            "output": "official"
+        },
+        "433": {
+            "input": "nasty",
+            "output": "nice"
+        },
+        "434": {
+            "input": "sophistication",
+            "output": "naivete"
+        },
+        "435": {
+            "input": "inappropriate",
+            "output": "appropriate"
+        },
+        "436": {
+            "input": "unhappily",
+            "output": "happily"
+        },
+        "437": {
+            "input": "consumptive",
+            "output": "generative"
+        },
+        "438": {
+            "input": "visible",
+            "output": "invisible"
+        },
+        "439": {
+            "input": "few",
+            "output": "many"
+        },
+        "440": {
+            "input": "flexor",
+            "output": "extensor"
+        },
+        "441": {
+            "input": "inactivation",
+            "output": "activation"
+        },
+        "442": {
+            "input": "pointless",
+            "output": "pointed"
+        },
+        "443": {
+            "input": "inaccurately",
+            "output": "accurately"
+        },
+        "444": {
+            "input": "purposeful",
+            "output": "purposeless"
+        },
+        "445": {
+            "input": "manageable",
+            "output": "unmanageable"
+        },
+        "446": {
+            "input": "noisily",
+            "output": "quietly"
+        },
+        "447": {
+            "input": "drained",
+            "output": "undrained"
+        },
+        "448": {
+            "input": "fraternal",
+            "output": "identical"
+        },
+        "449": {
+            "input": "sympathetic",
+            "output": "unsympathetic"
+        },
+        "450": {
+            "input": "irregular",
+            "output": "regular"
+        },
+        "451": {
+            "input": "refined",
+            "output": "unrefined"
+        },
+        "452": {
+            "input": "conscious",
+            "output": "unconscious"
+        },
+        "453": {
+            "input": "attraction",
+            "output": "repulsion"
+        },
+        "454": {
+            "input": "fallibility",
+            "output": "infallibility"
+        },
+        "455": {
+            "input": "uninterested",
+            "output": "interested"
+        },
+        "456": {
+            "input": "contested",
+            "output": "uncontested"
+        },
+        "457": {
+            "input": "untroubled",
+            "output": "troubled"
+        },
+        "458": {
+            "input": "cardinal",
+            "output": "ordinal"
+        },
+        "459": {
+            "input": "democratic",
+            "output": "undemocratic"
+        },
+        "460": {
+            "input": "valid",
+            "output": "invalid"
+        },
+        "461": {
+            "input": "tide",
+            "output": "ebb"
+        },
+        "462": {
+            "input": "deaf",
+            "output": "hearing"
+        },
+        "463": {
+            "input": "fallible",
+            "output": "infallible"
+        },
+        "464": {
+            "input": "equitable",
+            "output": "inequitable"
+        },
+        "465": {
+            "input": "ahead",
+            "output": "back"
+        },
+        "466": {
+            "input": "basic",
+            "output": "incidental"
+        },
+        "467": {
+            "input": "dying",
+            "output": "nascent"
+        },
+        "468": {
+            "input": "equatorial",
+            "output": "polar"
+        },
+        "469": {
+            "input": "socialistic",
+            "output": "capitalistic"
+        },
+        "470": {
+            "input": "inland",
+            "output": "coastal"
+        },
+        "471": {
+            "input": "unconcern",
+            "output": "concern"
+        },
+        "472": {
+            "input": "regulated",
+            "output": "unregulated"
+        },
+        "473": {
+            "input": "unsuccessful",
+            "output": "successful"
+        },
+        "474": {
+            "input": "hyperglycemia",
+            "output": "hypoglycemia"
+        },
+        "475": {
+            "input": "partial",
+            "output": "impartial"
+        },
+        "476": {
+            "input": "alkalinity",
+            "output": "acidity"
+        },
+        "477": {
+            "input": "abnormality",
+            "output": "normality"
+        },
+        "478": {
+            "input": "infidelity",
+            "output": "fidelity"
+        },
+        "479": {
+            "input": "unwanted",
+            "output": "wanted"
+        },
+        "480": {
+            "input": "unconcerned",
+            "output": "concerned"
+        },
+        "481": {
+            "input": "distribution",
+            "output": "concentration"
+        },
+        "482": {
+            "input": "conservative",
+            "output": "liberal"
+        },
+        "483": {
+            "input": "equilibrium",
+            "output": "disequilibrium"
+        },
+        "484": {
+            "input": "unburied",
+            "output": "buried"
+        },
+        "485": {
+            "input": "presence",
+            "output": "absence"
+        },
+        "486": {
+            "input": "button",
+            "output": "unbutton"
+        },
+        "487": {
+            "input": "sanitary",
+            "output": "unsanitary"
+        },
+        "488": {
+            "input": "partisan",
+            "output": "nonpartisan"
+        },
+        "489": {
+            "input": "constructive",
+            "output": "destructive"
+        },
+        "490": {
+            "input": "likelihood",
+            "output": "unlikelihood"
+        },
+        "491": {
+            "input": "orderly",
+            "output": "disorderly"
+        },
+        "492": {
+            "input": "nourished",
+            "output": "malnourished"
+        },
+        "493": {
+            "input": "cooked",
+            "output": "raw"
+        },
+        "494": {
+            "input": "specialize",
+            "output": "diversify"
+        },
+        "495": {
+            "input": "concrete",
+            "output": "abstract"
+        },
+        "496": {
+            "input": "inadvisable",
+            "output": "advisable"
+        },
+        "497": {
+            "input": "angular",
+            "output": "rounded"
+        },
+        "498": {
+            "input": "unhook",
+            "output": "hook"
+        },
+        "499": {
+            "input": "ineligible",
+            "output": "eligible"
+        },
+        "500": {
+            "input": "uncomfortable",
+            "output": "comfortable"
+        },
+        "501": {
+            "input": "unsaturated",
+            "output": "saturated"
+        },
+        "502": {
+            "input": "composed",
+            "output": "discomposed"
+        },
+        "503": {
+            "input": "cosmopolitan",
+            "output": "provincial"
+        },
+        "504": {
+            "input": "exploited",
+            "output": "unexploited"
+        },
+        "505": {
+            "input": "invest",
+            "output": "divest"
+        },
+        "506": {
+            "input": "fragrant",
+            "output": "malodorous"
+        },
+        "507": {
+            "input": "uncharacteristically",
+            "output": "characteristically"
+        },
+        "508": {
+            "input": "naivete",
+            "output": "sophistication"
+        },
+        "509": {
+            "input": "practical",
+            "output": "impractical"
+        },
+        "510": {
+            "input": "colorful",
+            "output": "colorless"
+        },
+        "511": {
+            "input": "lengthen",
+            "output": "shorten"
+        },
+        "512": {
+            "input": "synthesize",
+            "output": "analyze"
+        },
+        "513": {
+            "input": "characteristically",
+            "output": "uncharacteristically"
+        },
+        "514": {
+            "input": "outgo",
+            "output": "income"
+        },
+        "515": {
+            "input": "ipsilateral",
+            "output": "contralateral"
+        },
+        "516": {
+            "input": "directional",
+            "output": "omnidirectional"
+        },
+        "517": {
+            "input": "mediate",
+            "output": "immediate"
+        },
+        "518": {
+            "input": "possible",
+            "output": "impossible"
+        },
+        "519": {
+            "input": "unaggressive",
+            "output": "aggressive"
+        }
+    }
+}

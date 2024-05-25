@@ -1,0 +1,2655 @@
+{
+    "metadata": {
+        "num_examples": 662
+    },
+    "examples": {
+        "1": {
+            "input": "import",
+            "output": "m"
+        },
+        "2": {
+            "input": "influenza",
+            "output": "n"
+        },
+        "3": {
+            "input": "pavilion",
+            "output": "a"
+        },
+        "4": {
+            "input": "concession",
+            "output": "o"
+        },
+        "5": {
+            "input": "smallpox",
+            "output": "m"
+        },
+        "6": {
+            "input": "pottery",
+            "output": "o"
+        },
+        "7": {
+            "input": "trumpet",
+            "output": "r"
+        },
+        "8": {
+            "input": "surf",
+            "output": "u"
+        },
+        "9": {
+            "input": "sensitivity",
+            "output": "e"
+        },
+        "10": {
+            "input": "mandate",
+            "output": "a"
+        },
+        "11": {
+            "input": "beef",
+            "output": "e"
+        },
+        "12": {
+            "input": "auto",
+            "output": "u"
+        },
+        "13": {
+            "input": "mistress",
+            "output": "i"
+        },
+        "14": {
+            "input": "breakfast",
+            "output": "r"
+        },
+        "15": {
+            "input": "slogan",
+            "output": "l"
+        },
+        "16": {
+            "input": "taxation",
+            "output": "a"
+        },
+        "17": {
+            "input": "spine",
+            "output": "p"
+        },
+        "18": {
+            "input": "reprise",
+            "output": "e"
+        },
+        "19": {
+            "input": "nuclei",
+            "output": "u"
+        },
+        "20": {
+            "input": "inauguration",
+            "output": "n"
+        },
+        "21": {
+            "input": "abolition",
+            "output": "b"
+        },
+        "22": {
+            "input": "hostility",
+            "output": "o"
+        },
+        "23": {
+            "input": "influx",
+            "output": "n"
+        },
+        "24": {
+            "input": "packaging",
+            "output": "a"
+        },
+        "25": {
+            "input": "underside",
+            "output": "n"
+        },
+        "26": {
+            "input": "millimetre",
+            "output": "i"
+        },
+        "27": {
+            "input": "hind",
+            "output": "i"
+        },
+        "28": {
+            "input": "subway",
+            "output": "u"
+        },
+        "29": {
+            "input": "scarce",
+            "output": "c"
+        },
+        "30": {
+            "input": "predict",
+            "output": "r"
+        },
+        "31": {
+            "input": "backstage",
+            "output": "a"
+        },
+        "32": {
+            "input": "reissue",
+            "output": "e"
+        },
+        "33": {
+            "input": "respiratory",
+            "output": "e"
+        },
+        "34": {
+            "input": "endorsement",
+            "output": "n"
+        },
+        "35": {
+            "input": "aristocracy",
+            "output": "r"
+        },
+        "36": {
+            "input": "disability",
+            "output": "i"
+        },
+        "37": {
+            "input": "prohibition",
+            "output": "r"
+        },
+        "38": {
+            "input": "feast",
+            "output": "e"
+        },
+        "39": {
+            "input": "shower",
+            "output": "h"
+        },
+        "40": {
+            "input": "symmetry",
+            "output": "y"
+        },
+        "41": {
+            "input": "pirate",
+            "output": "i"
+        },
+        "42": {
+            "input": "confession",
+            "output": "o"
+        },
+        "43": {
+            "input": "nationalism",
+            "output": "a"
+        },
+        "44": {
+            "input": "module",
+            "output": "o"
+        },
+        "45": {
+            "input": "neutrality",
+            "output": "e"
+        },
+        "46": {
+            "input": "wisdom",
+            "output": "i"
+        },
+        "47": {
+            "input": "communism",
+            "output": "o"
+        },
+        "48": {
+            "input": "mast",
+            "output": "a"
+        },
+        "49": {
+            "input": "desk",
+            "output": "e"
+        },
+        "50": {
+            "input": "kicking",
+            "output": "i"
+        },
+        "51": {
+            "input": "homeland",
+            "output": "o"
+        },
+        "52": {
+            "input": "undertaking",
+            "output": "n"
+        },
+        "53": {
+            "input": "robbery",
+            "output": "o"
+        },
+        "54": {
+            "input": "survivor",
+            "output": "u"
+        },
+        "55": {
+            "input": "takeover",
+            "output": "a"
+        },
+        "56": {
+            "input": "casino",
+            "output": "a"
+        },
+        "57": {
+            "input": "facade",
+            "output": "a"
+        },
+        "58": {
+            "input": "township",
+            "output": "o"
+        },
+        "59": {
+            "input": "pulp",
+            "output": "u"
+        },
+        "60": {
+            "input": "chronicle",
+            "output": "h"
+        },
+        "61": {
+            "input": "toxicity",
+            "output": "o"
+        },
+        "62": {
+            "input": "deploy",
+            "output": "e"
+        },
+        "63": {
+            "input": "researcher",
+            "output": "e"
+        },
+        "64": {
+            "input": "timeslot",
+            "output": "i"
+        },
+        "65": {
+            "input": "niece",
+            "output": "i"
+        },
+        "66": {
+            "input": "ecosystem",
+            "output": "c"
+        },
+        "67": {
+            "input": "incarnation",
+            "output": "n"
+        },
+        "68": {
+            "input": "shutout",
+            "output": "h"
+        },
+        "69": {
+            "input": "suppression",
+            "output": "u"
+        },
+        "70": {
+            "input": "plague",
+            "output": "l"
+        },
+        "71": {
+            "input": "hemisphere",
+            "output": "e"
+        },
+        "72": {
+            "input": "cadet",
+            "output": "a"
+        },
+        "73": {
+            "input": "inventory",
+            "output": "n"
+        },
+        "74": {
+            "input": "donation",
+            "output": "o"
+        },
+        "75": {
+            "input": "calibre",
+            "output": "a"
+        },
+        "76": {
+            "input": "relocation",
+            "output": "e"
+        },
+        "77": {
+            "input": "journalism",
+            "output": "o"
+        },
+        "78": {
+            "input": "aluminium",
+            "output": "l"
+        },
+        "79": {
+            "input": "curse",
+            "output": "u"
+        },
+        "80": {
+            "input": "annexation",
+            "output": "n"
+        },
+        "81": {
+            "input": "canvas",
+            "output": "a"
+        },
+        "82": {
+            "input": "crush",
+            "output": "r"
+        },
+        "83": {
+            "input": "quadruple",
+            "output": "u"
+        },
+        "84": {
+            "input": "offset",
+            "output": "f"
+        },
+        "85": {
+            "input": "reliance",
+            "output": "e"
+        },
+        "86": {
+            "input": "authenticity",
+            "output": "u"
+        },
+        "87": {
+            "input": "interval",
+            "output": "n"
+        },
+        "88": {
+            "input": "eligibility",
+            "output": "l"
+        },
+        "89": {
+            "input": "breath",
+            "output": "r"
+        },
+        "90": {
+            "input": "cane",
+            "output": "a"
+        },
+        "91": {
+            "input": "crack",
+            "output": "r"
+        },
+        "92": {
+            "input": "sediment",
+            "output": "e"
+        },
+        "93": {
+            "input": "pension",
+            "output": "e"
+        },
+        "94": {
+            "input": "textile",
+            "output": "e"
+        },
+        "95": {
+            "input": "coincide",
+            "output": "o"
+        },
+        "96": {
+            "input": "bathroom",
+            "output": "a"
+        },
+        "97": {
+            "input": "dental",
+            "output": "e"
+        },
+        "98": {
+            "input": "drain",
+            "output": "r"
+        },
+        "99": {
+            "input": "nightclub",
+            "output": "i"
+        },
+        "100": {
+            "input": "salvage",
+            "output": "a"
+        },
+        "101": {
+            "input": "rage",
+            "output": "a"
+        },
+        "102": {
+            "input": "disguise",
+            "output": "i"
+        },
+        "103": {
+            "input": "electro",
+            "output": "l"
+        },
+        "104": {
+            "input": "stiff",
+            "output": "t"
+        },
+        "105": {
+            "input": "renewal",
+            "output": "e"
+        },
+        "106": {
+            "input": "workshop",
+            "output": "o"
+        },
+        "107": {
+            "input": "incorporation",
+            "output": "n"
+        },
+        "108": {
+            "input": "vault",
+            "output": "a"
+        },
+        "109": {
+            "input": "tuberculosis",
+            "output": "u"
+        },
+        "110": {
+            "input": "timeline",
+            "output": "i"
+        },
+        "111": {
+            "input": "cow",
+            "output": "o"
+        },
+        "112": {
+            "input": "breakup",
+            "output": "r"
+        },
+        "113": {
+            "input": "enclosure",
+            "output": "n"
+        },
+        "114": {
+            "input": "milestone",
+            "output": "i"
+        },
+        "115": {
+            "input": "pairing",
+            "output": "a"
+        },
+        "116": {
+            "input": "graph",
+            "output": "r"
+        },
+        "117": {
+            "input": "scrutiny",
+            "output": "c"
+        },
+        "118": {
+            "input": "bust",
+            "output": "u"
+        },
+        "119": {
+            "input": "shuttle",
+            "output": "h"
+        },
+        "120": {
+            "input": "illusion",
+            "output": "l"
+        },
+        "121": {
+            "input": "experimentation",
+            "output": "x"
+        },
+        "122": {
+            "input": "privilege",
+            "output": "r"
+        },
+        "123": {
+            "input": "bend",
+            "output": "e"
+        },
+        "124": {
+            "input": "circus",
+            "output": "i"
+        },
+        "125": {
+            "input": "doll",
+            "output": "o"
+        },
+        "126": {
+            "input": "enrollment",
+            "output": "n"
+        },
+        "127": {
+            "input": "beak",
+            "output": "e"
+        },
+        "128": {
+            "input": "lumber",
+            "output": "u"
+        },
+        "129": {
+            "input": "monopoly",
+            "output": "o"
+        },
+        "130": {
+            "input": "curving",
+            "output": "u"
+        },
+        "131": {
+            "input": "lacrosse",
+            "output": "a"
+        },
+        "132": {
+            "input": "captaincy",
+            "output": "a"
+        },
+        "133": {
+            "input": "snout",
+            "output": "n"
+        },
+        "134": {
+            "input": "populace",
+            "output": "o"
+        },
+        "135": {
+            "input": "trait",
+            "output": "r"
+        },
+        "136": {
+            "input": "dislike",
+            "output": "i"
+        },
+        "137": {
+            "input": "pamphlet",
+            "output": "a"
+        },
+        "138": {
+            "input": "porch",
+            "output": "o"
+        },
+        "139": {
+            "input": "cement",
+            "output": "e"
+        },
+        "140": {
+            "input": "gradient",
+            "output": "r"
+        },
+        "141": {
+            "input": "terrorism",
+            "output": "e"
+        },
+        "142": {
+            "input": "finalist",
+            "output": "i"
+        },
+        "143": {
+            "input": "wilderness",
+            "output": "i"
+        },
+        "144": {
+            "input": "playwright",
+            "output": "l"
+        },
+        "145": {
+            "input": "irrigation",
+            "output": "r"
+        },
+        "146": {
+            "input": "turmoil",
+            "output": "u"
+        },
+        "147": {
+            "input": "chocolate",
+            "output": "h"
+        },
+        "148": {
+            "input": "equator",
+            "output": "q"
+        },
+        "149": {
+            "input": "proclamation",
+            "output": "r"
+        },
+        "150": {
+            "input": "reconciliation",
+            "output": "e"
+        },
+        "151": {
+            "input": "plea",
+            "output": "l"
+        },
+        "152": {
+            "input": "broadcaster",
+            "output": "r"
+        },
+        "153": {
+            "input": "weaponry",
+            "output": "e"
+        },
+        "154": {
+            "input": "friction",
+            "output": "r"
+        },
+        "155": {
+            "input": "dignity",
+            "output": "i"
+        },
+        "156": {
+            "input": "advocacy",
+            "output": "d"
+        },
+        "157": {
+            "input": "activism",
+            "output": "c"
+        },
+        "158": {
+            "input": "diplomat",
+            "output": "i"
+        },
+        "159": {
+            "input": "punch",
+            "output": "u"
+        },
+        "160": {
+            "input": "denial",
+            "output": "e"
+        },
+        "161": {
+            "input": "fraction",
+            "output": "r"
+        },
+        "162": {
+            "input": "prediction",
+            "output": "r"
+        },
+        "163": {
+            "input": "dictator",
+            "output": "i"
+        },
+        "164": {
+            "input": "fragment",
+            "output": "r"
+        },
+        "165": {
+            "input": "boycott",
+            "output": "o"
+        },
+        "166": {
+            "input": "sweeping",
+            "output": "w"
+        },
+        "167": {
+            "input": "fielding",
+            "output": "i"
+        },
+        "168": {
+            "input": "ambulance",
+            "output": "m"
+        },
+        "169": {
+            "input": "encouragement",
+            "output": "n"
+        },
+        "170": {
+            "input": "mice",
+            "output": "i"
+        },
+        "171": {
+            "input": "critique",
+            "output": "r"
+        },
+        "172": {
+            "input": "peat",
+            "output": "e"
+        },
+        "173": {
+            "input": "backstory",
+            "output": "a"
+        },
+        "174": {
+            "input": "satisfaction",
+            "output": "a"
+        },
+        "175": {
+            "input": "lithium",
+            "output": "i"
+        },
+        "176": {
+            "input": "bunch",
+            "output": "u"
+        },
+        "177": {
+            "input": "sensation",
+            "output": "e"
+        },
+        "178": {
+            "input": "scenery",
+            "output": "c"
+        },
+        "179": {
+            "input": "courthouse",
+            "output": "o"
+        },
+        "180": {
+            "input": "bride",
+            "output": "r"
+        },
+        "181": {
+            "input": "medication",
+            "output": "e"
+        },
+        "182": {
+            "input": "archaeology",
+            "output": "r"
+        },
+        "183": {
+            "input": "likelihood",
+            "output": "i"
+        },
+        "184": {
+            "input": "vaccine",
+            "output": "a"
+        },
+        "185": {
+            "input": "telegraph",
+            "output": "e"
+        },
+        "186": {
+            "input": "fond",
+            "output": "o"
+        },
+        "187": {
+            "input": "contractor",
+            "output": "o"
+        },
+        "188": {
+            "input": "taxi",
+            "output": "a"
+        },
+        "189": {
+            "input": "connector",
+            "output": "o"
+        },
+        "190": {
+            "input": "mess",
+            "output": "e"
+        },
+        "191": {
+            "input": "grip",
+            "output": "r"
+        },
+        "192": {
+            "input": "headline",
+            "output": "e"
+        },
+        "193": {
+            "input": "dividing",
+            "output": "i"
+        },
+        "194": {
+            "input": "participant",
+            "output": "a"
+        },
+        "195": {
+            "input": "brake",
+            "output": "r"
+        },
+        "196": {
+            "input": "murderer",
+            "output": "u"
+        },
+        "197": {
+            "input": "pumping",
+            "output": "u"
+        },
+        "198": {
+            "input": "haul",
+            "output": "a"
+        },
+        "199": {
+            "input": "synth",
+            "output": "y"
+        },
+        "200": {
+            "input": "fluoride",
+            "output": "l"
+        },
+        "201": {
+            "input": "spinal",
+            "output": "p"
+        },
+        "202": {
+            "input": "guarding",
+            "output": "u"
+        },
+        "203": {
+            "input": "expertise",
+            "output": "x"
+        },
+        "204": {
+            "input": "citadel",
+            "output": "i"
+        },
+        "205": {
+            "input": "cord",
+            "output": "o"
+        },
+        "206": {
+            "input": "cinematography",
+            "output": "i"
+        },
+        "207": {
+            "input": "autism",
+            "output": "u"
+        },
+        "208": {
+            "input": "lesson",
+            "output": "e"
+        },
+        "209": {
+            "input": "intake",
+            "output": "n"
+        },
+        "210": {
+            "input": "exam",
+            "output": "x"
+        },
+        "211": {
+            "input": "thematic",
+            "output": "h"
+        },
+        "212": {
+            "input": "genome",
+            "output": "e"
+        },
+        "213": {
+            "input": "diffusion",
+            "output": "i"
+        },
+        "214": {
+            "input": "privacy",
+            "output": "r"
+        },
+        "215": {
+            "input": "apparatus",
+            "output": "p"
+        },
+        "216": {
+            "input": "libretto",
+            "output": "i"
+        },
+        "217": {
+            "input": "knocking",
+            "output": "n"
+        },
+        "218": {
+            "input": "peasant",
+            "output": "e"
+        },
+        "219": {
+            "input": "capitalism",
+            "output": "a"
+        },
+        "220": {
+            "input": "contempt",
+            "output": "o"
+        },
+        "221": {
+            "input": "booklet",
+            "output": "o"
+        },
+        "222": {
+            "input": "prosecutor",
+            "output": "r"
+        },
+        "223": {
+            "input": "chorale",
+            "output": "h"
+        },
+        "224": {
+            "input": "amusement",
+            "output": "m"
+        },
+        "225": {
+            "input": "royalty",
+            "output": "o"
+        },
+        "226": {
+            "input": "expose",
+            "output": "x"
+        },
+        "227": {
+            "input": "restriction",
+            "output": "e"
+        },
+        "228": {
+            "input": "gust",
+            "output": "u"
+        },
+        "229": {
+            "input": "tent",
+            "output": "e"
+        },
+        "230": {
+            "input": "expectation",
+            "output": "x"
+        },
+        "231": {
+            "input": "aluminum",
+            "output": "l"
+        },
+        "232": {
+            "input": "pilgrimage",
+            "output": "i"
+        },
+        "233": {
+            "input": "legitimacy",
+            "output": "e"
+        },
+        "234": {
+            "input": "meditation",
+            "output": "e"
+        },
+        "235": {
+            "input": "streaming",
+            "output": "t"
+        },
+        "236": {
+            "input": "analogy",
+            "output": "n"
+        },
+        "237": {
+            "input": "socialism",
+            "output": "o"
+        },
+        "238": {
+            "input": "commuter",
+            "output": "o"
+        },
+        "239": {
+            "input": "limb",
+            "output": "i"
+        },
+        "240": {
+            "input": "cake",
+            "output": "a"
+        },
+        "241": {
+            "input": "vitamin",
+            "output": "i"
+        },
+        "242": {
+            "input": "podium",
+            "output": "o"
+        },
+        "243": {
+            "input": "algorithm",
+            "output": "l"
+        },
+        "244": {
+            "input": "segregation",
+            "output": "e"
+        },
+        "245": {
+            "input": "worry",
+            "output": "o"
+        },
+        "246": {
+            "input": "molecule",
+            "output": "o"
+        },
+        "247": {
+            "input": "tech",
+            "output": "e"
+        },
+        "248": {
+            "input": "teaser",
+            "output": "e"
+        },
+        "249": {
+            "input": "nursery",
+            "output": "u"
+        },
+        "250": {
+            "input": "chancellor",
+            "output": "h"
+        },
+        "251": {
+            "input": "nasal",
+            "output": "a"
+        },
+        "252": {
+            "input": "daytime",
+            "output": "a"
+        },
+        "253": {
+            "input": "cook",
+            "output": "o"
+        },
+        "254": {
+            "input": "lure",
+            "output": "u"
+        },
+        "255": {
+            "input": "scratch",
+            "output": "c"
+        },
+        "256": {
+            "input": "vulnerability",
+            "output": "u"
+        },
+        "257": {
+            "input": "staple",
+            "output": "t"
+        },
+        "258": {
+            "input": "sortie",
+            "output": "o"
+        },
+        "259": {
+            "input": "guess",
+            "output": "u"
+        },
+        "260": {
+            "input": "gamma",
+            "output": "a"
+        },
+        "261": {
+            "input": "bubble",
+            "output": "u"
+        },
+        "262": {
+            "input": "exclusion",
+            "output": "x"
+        },
+        "263": {
+            "input": "relativity",
+            "output": "e"
+        },
+        "264": {
+            "input": "sociology",
+            "output": "o"
+        },
+        "265": {
+            "input": "stealth",
+            "output": "t"
+        },
+        "266": {
+            "input": "scouting",
+            "output": "c"
+        },
+        "267": {
+            "input": "affinity",
+            "output": "f"
+        },
+        "268": {
+            "input": "litter",
+            "output": "i"
+        },
+        "269": {
+            "input": "domination",
+            "output": "o"
+        },
+        "270": {
+            "input": "outlet",
+            "output": "u"
+        },
+        "271": {
+            "input": "cheek",
+            "output": "h"
+        },
+        "272": {
+            "input": "forehead",
+            "output": "o"
+        },
+        "273": {
+            "input": "discretion",
+            "output": "i"
+        },
+        "274": {
+            "input": "stature",
+            "output": "t"
+        },
+        "275": {
+            "input": "obligation",
+            "output": "b"
+        },
+        "276": {
+            "input": "valve",
+            "output": "a"
+        },
+        "277": {
+            "input": "dependence",
+            "output": "e"
+        },
+        "278": {
+            "input": "flour",
+            "output": "l"
+        },
+        "279": {
+            "input": "wrist",
+            "output": "r"
+        },
+        "280": {
+            "input": "takeoff",
+            "output": "a"
+        },
+        "281": {
+            "input": "literacy",
+            "output": "i"
+        },
+        "282": {
+            "input": "outlook",
+            "output": "u"
+        },
+        "283": {
+            "input": "premium",
+            "output": "r"
+        },
+        "284": {
+            "input": "mutation",
+            "output": "u"
+        },
+        "285": {
+            "input": "invest",
+            "output": "n"
+        },
+        "286": {
+            "input": "archaeologist",
+            "output": "r"
+        },
+        "287": {
+            "input": "activation",
+            "output": "c"
+        },
+        "288": {
+            "input": "simulation",
+            "output": "i"
+        },
+        "289": {
+            "input": "linebacker",
+            "output": "i"
+        },
+        "290": {
+            "input": "subscription",
+            "output": "u"
+        },
+        "291": {
+            "input": "synonym",
+            "output": "y"
+        },
+        "292": {
+            "input": "recession",
+            "output": "e"
+        },
+        "293": {
+            "input": "hunger",
+            "output": "u"
+        },
+        "294": {
+            "input": "validity",
+            "output": "a"
+        },
+        "295": {
+            "input": "parkway",
+            "output": "a"
+        },
+        "296": {
+            "input": "yoga",
+            "output": "o"
+        },
+        "297": {
+            "input": "induction",
+            "output": "n"
+        },
+        "298": {
+            "input": "thread",
+            "output": "h"
+        },
+        "299": {
+            "input": "plaster",
+            "output": "l"
+        },
+        "300": {
+            "input": "cinematographer",
+            "output": "i"
+        },
+        "301": {
+            "input": "generator",
+            "output": "e"
+        },
+        "302": {
+            "input": "narration",
+            "output": "a"
+        },
+        "303": {
+            "input": "obstacle",
+            "output": "b"
+        },
+        "304": {
+            "input": "subfamily",
+            "output": "u"
+        },
+        "305": {
+            "input": "senate",
+            "output": "e"
+        },
+        "306": {
+            "input": "reservation",
+            "output": "e"
+        },
+        "307": {
+            "input": "workforce",
+            "output": "o"
+        },
+        "308": {
+            "input": "assemble",
+            "output": "s"
+        },
+        "309": {
+            "input": "attribute",
+            "output": "t"
+        },
+        "310": {
+            "input": "pond",
+            "output": "o"
+        },
+        "311": {
+            "input": "par",
+            "output": "a"
+        },
+        "312": {
+            "input": "vibe",
+            "output": "i"
+        },
+        "313": {
+            "input": "fatigue",
+            "output": "a"
+        },
+        "314": {
+            "input": "flexibility",
+            "output": "l"
+        },
+        "315": {
+            "input": "crane",
+            "output": "r"
+        },
+        "316": {
+            "input": "cassette",
+            "output": "a"
+        },
+        "317": {
+            "input": "courtship",
+            "output": "o"
+        },
+        "318": {
+            "input": "adulthood",
+            "output": "d"
+        },
+        "319": {
+            "input": "seller",
+            "output": "e"
+        },
+        "320": {
+            "input": "grunge",
+            "output": "r"
+        },
+        "321": {
+            "input": "sergeant",
+            "output": "e"
+        },
+        "322": {
+            "input": "ventilation",
+            "output": "e"
+        },
+        "323": {
+            "input": "consort",
+            "output": "o"
+        },
+        "324": {
+            "input": "peer",
+            "output": "e"
+        },
+        "325": {
+            "input": "humidity",
+            "output": "u"
+        },
+        "326": {
+            "input": "documentation",
+            "output": "o"
+        },
+        "327": {
+            "input": "masonry",
+            "output": "a"
+        },
+        "328": {
+            "input": "bunker",
+            "output": "u"
+        },
+        "329": {
+            "input": "obsession",
+            "output": "b"
+        },
+        "330": {
+            "input": "contamination",
+            "output": "o"
+        },
+        "331": {
+            "input": "rewards",
+            "output": "e"
+        },
+        "332": {
+            "input": "sickness",
+            "output": "i"
+        },
+        "333": {
+            "input": "antiquity",
+            "output": "n"
+        },
+        "334": {
+            "input": "prostitution",
+            "output": "r"
+        },
+        "335": {
+            "input": "listener",
+            "output": "i"
+        },
+        "336": {
+            "input": "cocaine",
+            "output": "o"
+        },
+        "337": {
+            "input": "standout",
+            "output": "t"
+        },
+        "338": {
+            "input": "reel",
+            "output": "e"
+        },
+        "339": {
+            "input": "vocabulary",
+            "output": "o"
+        },
+        "340": {
+            "input": "birthplace",
+            "output": "i"
+        },
+        "341": {
+            "input": "spectacle",
+            "output": "p"
+        },
+        "342": {
+            "input": "swamp",
+            "output": "w"
+        },
+        "343": {
+            "input": "crusade",
+            "output": "r"
+        },
+        "344": {
+            "input": "ink",
+            "output": "n"
+        },
+        "345": {
+            "input": "deposition",
+            "output": "e"
+        },
+        "346": {
+            "input": "penis",
+            "output": "e"
+        },
+        "347": {
+            "input": "logging",
+            "output": "o"
+        },
+        "348": {
+            "input": "pathway",
+            "output": "a"
+        },
+        "349": {
+            "input": "prejudice",
+            "output": "r"
+        },
+        "350": {
+            "input": "analyst",
+            "output": "n"
+        },
+        "351": {
+            "input": "bravery",
+            "output": "r"
+        },
+        "352": {
+            "input": "clone",
+            "output": "l"
+        },
+        "353": {
+            "input": "rudder",
+            "output": "u"
+        },
+        "354": {
+            "input": "shake",
+            "output": "h"
+        },
+        "355": {
+            "input": "swift",
+            "output": "w"
+        },
+        "356": {
+            "input": "wardrobe",
+            "output": "a"
+        },
+        "357": {
+            "input": "liquor",
+            "output": "i"
+        },
+        "358": {
+            "input": "reliability",
+            "output": "e"
+        },
+        "359": {
+            "input": "pectoral",
+            "output": "e"
+        },
+        "360": {
+            "input": "consistency",
+            "output": "o"
+        },
+        "361": {
+            "input": "prostitute",
+            "output": "r"
+        },
+        "362": {
+            "input": "degradation",
+            "output": "e"
+        },
+        "363": {
+            "input": "rendezvous",
+            "output": "e"
+        },
+        "364": {
+            "input": "stripe",
+            "output": "t"
+        },
+        "365": {
+            "input": "cloverleaf",
+            "output": "l"
+        },
+        "366": {
+            "input": "receptor",
+            "output": "e"
+        },
+        "367": {
+            "input": "antibody",
+            "output": "n"
+        },
+        "368": {
+            "input": "salvation",
+            "output": "a"
+        },
+        "369": {
+            "input": "alphabet",
+            "output": "l"
+        },
+        "370": {
+            "input": "awarding",
+            "output": "w"
+        },
+        "371": {
+            "input": "foliage",
+            "output": "o"
+        },
+        "372": {
+            "input": "modernization",
+            "output": "o"
+        },
+        "373": {
+            "input": "creativity",
+            "output": "r"
+        },
+        "374": {
+            "input": "sampling",
+            "output": "a"
+        },
+        "375": {
+            "input": "botanist",
+            "output": "o"
+        },
+        "376": {
+            "input": "injection",
+            "output": "n"
+        },
+        "377": {
+            "input": "flowering",
+            "output": "l"
+        },
+        "378": {
+            "input": "diabetes",
+            "output": "i"
+        },
+        "379": {
+            "input": "wreckage",
+            "output": "r"
+        },
+        "380": {
+            "input": "obituary",
+            "output": "b"
+        },
+        "381": {
+            "input": "aggregator",
+            "output": "g"
+        },
+        "382": {
+            "input": "cone",
+            "output": "o"
+        },
+        "383": {
+            "input": "messenger",
+            "output": "e"
+        },
+        "384": {
+            "input": "endurance",
+            "output": "n"
+        },
+        "385": {
+            "input": "abandonment",
+            "output": "b"
+        },
+        "386": {
+            "input": "localization",
+            "output": "o"
+        },
+        "387": {
+            "input": "rubble",
+            "output": "u"
+        },
+        "388": {
+            "input": "dissent",
+            "output": "i"
+        },
+        "389": {
+            "input": "granddaughter",
+            "output": "r"
+        },
+        "390": {
+            "input": "advancement",
+            "output": "d"
+        },
+        "391": {
+            "input": "credibility",
+            "output": "r"
+        },
+        "392": {
+            "input": "excellence",
+            "output": "x"
+        },
+        "393": {
+            "input": "winding",
+            "output": "i"
+        },
+        "394": {
+            "input": "repetition",
+            "output": "e"
+        },
+        "395": {
+            "input": "intricate",
+            "output": "n"
+        },
+        "396": {
+            "input": "neglect",
+            "output": "e"
+        },
+        "397": {
+            "input": "flanking",
+            "output": "l"
+        },
+        "398": {
+            "input": "perfection",
+            "output": "e"
+        },
+        "399": {
+            "input": "forage",
+            "output": "o"
+        },
+        "400": {
+            "input": "voter",
+            "output": "o"
+        },
+        "401": {
+            "input": "hiking",
+            "output": "i"
+        },
+        "402": {
+            "input": "paperback",
+            "output": "a"
+        },
+        "403": {
+            "input": "witchcraft",
+            "output": "i"
+        },
+        "404": {
+            "input": "ceasefire",
+            "output": "e"
+        },
+        "405": {
+            "input": "accompaniment",
+            "output": "c"
+        },
+        "406": {
+            "input": "periphery",
+            "output": "e"
+        },
+        "407": {
+            "input": "modeling",
+            "output": "o"
+        },
+        "408": {
+            "input": "vapor",
+            "output": "a"
+        },
+        "409": {
+            "input": "inventor",
+            "output": "n"
+        },
+        "410": {
+            "input": "quartet",
+            "output": "u"
+        },
+        "411": {
+            "input": "asset",
+            "output": "s"
+        },
+        "412": {
+            "input": "posture",
+            "output": "o"
+        },
+        "413": {
+            "input": "container",
+            "output": "o"
+        },
+        "414": {
+            "input": "mainline",
+            "output": "a"
+        },
+        "415": {
+            "input": "flavor",
+            "output": "l"
+        },
+        "416": {
+            "input": "discontent",
+            "output": "i"
+        },
+        "417": {
+            "input": "resentment",
+            "output": "e"
+        },
+        "418": {
+            "input": "envelope",
+            "output": "n"
+        },
+        "419": {
+            "input": "cartoonist",
+            "output": "a"
+        },
+        "420": {
+            "input": "sailor",
+            "output": "a"
+        },
+        "421": {
+            "input": "tumor",
+            "output": "u"
+        },
+        "422": {
+            "input": "landslide",
+            "output": "a"
+        },
+        "423": {
+            "input": "shelf",
+            "output": "h"
+        },
+        "424": {
+            "input": "affiliation",
+            "output": "f"
+        },
+        "425": {
+            "input": "residency",
+            "output": "e"
+        },
+        "426": {
+            "input": "deterioration",
+            "output": "e"
+        },
+        "427": {
+            "input": "metabolism",
+            "output": "e"
+        },
+        "428": {
+            "input": "thorium",
+            "output": "h"
+        },
+        "429": {
+            "input": "echo",
+            "output": "c"
+        },
+        "430": {
+            "input": "wounding",
+            "output": "o"
+        },
+        "431": {
+            "input": "recapture",
+            "output": "e"
+        },
+        "432": {
+            "input": "stud",
+            "output": "t"
+        },
+        "433": {
+            "input": "sermon",
+            "output": "e"
+        },
+        "434": {
+            "input": "mathematician",
+            "output": "a"
+        },
+        "435": {
+            "input": "troupe",
+            "output": "r"
+        },
+        "436": {
+            "input": "anterior",
+            "output": "n"
+        },
+        "437": {
+            "input": "overseeing",
+            "output": "v"
+        },
+        "438": {
+            "input": "shootout",
+            "output": "h"
+        },
+        "439": {
+            "input": "liaison",
+            "output": "i"
+        },
+        "440": {
+            "input": "expulsion",
+            "output": "x"
+        },
+        "441": {
+            "input": "pollen",
+            "output": "o"
+        },
+        "442": {
+            "input": "concussion",
+            "output": "o"
+        },
+        "443": {
+            "input": "jewellery",
+            "output": "e"
+        },
+        "444": {
+            "input": "purity",
+            "output": "u"
+        },
+        "445": {
+            "input": "eclipse",
+            "output": "c"
+        },
+        "446": {
+            "input": "scheduling",
+            "output": "c"
+        },
+        "447": {
+            "input": "compartment",
+            "output": "o"
+        },
+        "448": {
+            "input": "excuse",
+            "output": "x"
+        },
+        "449": {
+            "input": "lobbying",
+            "output": "o"
+        },
+        "450": {
+            "input": "elbow",
+            "output": "l"
+        },
+        "451": {
+            "input": "pardon",
+            "output": "a"
+        },
+        "452": {
+            "input": "scent",
+            "output": "c"
+        },
+        "453": {
+            "input": "setlist",
+            "output": "e"
+        },
+        "454": {
+            "input": "pot",
+            "output": "o"
+        },
+        "455": {
+            "input": "restraint",
+            "output": "e"
+        },
+        "456": {
+            "input": "superintendent",
+            "output": "u"
+        },
+        "457": {
+            "input": "exhaust",
+            "output": "x"
+        },
+        "458": {
+            "input": "capita",
+            "output": "a"
+        },
+        "459": {
+            "input": "semifinal",
+            "output": "e"
+        },
+        "460": {
+            "input": "objection",
+            "output": "b"
+        },
+        "461": {
+            "input": "deficiency",
+            "output": "e"
+        },
+        "462": {
+            "input": "terrace",
+            "output": "e"
+        },
+        "463": {
+            "input": "fertility",
+            "output": "e"
+        },
+        "464": {
+            "input": "chemist",
+            "output": "h"
+        },
+        "465": {
+            "input": "renew",
+            "output": "e"
+        },
+        "466": {
+            "input": "parrot",
+            "output": "a"
+        },
+        "467": {
+            "input": "vernacular",
+            "output": "e"
+        },
+        "468": {
+            "input": "handing",
+            "output": "a"
+        },
+        "469": {
+            "input": "smile",
+            "output": "m"
+        },
+        "470": {
+            "input": "luminosity",
+            "output": "u"
+        },
+        "471": {
+            "input": "stereo",
+            "output": "t"
+        },
+        "472": {
+            "input": "battling",
+            "output": "a"
+        },
+        "473": {
+            "input": "float",
+            "output": "l"
+        },
+        "474": {
+            "input": "stallion",
+            "output": "t"
+        },
+        "475": {
+            "input": "planting",
+            "output": "l"
+        },
+        "476": {
+            "input": "supremacy",
+            "output": "u"
+        },
+        "477": {
+            "input": "organise",
+            "output": "r"
+        },
+        "478": {
+            "input": "shortstop",
+            "output": "h"
+        },
+        "479": {
+            "input": "bath",
+            "output": "a"
+        },
+        "480": {
+            "input": "citation",
+            "output": "i"
+        },
+        "481": {
+            "input": "masculine",
+            "output": "a"
+        },
+        "482": {
+            "input": "builder",
+            "output": "u"
+        },
+        "483": {
+            "input": "consultation",
+            "output": "o"
+        },
+        "484": {
+            "input": "treasury",
+            "output": "r"
+        },
+        "485": {
+            "input": "neighbourhood",
+            "output": "e"
+        },
+        "486": {
+            "input": "blunt",
+            "output": "l"
+        },
+        "487": {
+            "input": "camping",
+            "output": "a"
+        },
+        "488": {
+            "input": "conditioning",
+            "output": "o"
+        },
+        "489": {
+            "input": "magistrate",
+            "output": "a"
+        },
+        "490": {
+            "input": "bikini",
+            "output": "i"
+        },
+        "491": {
+            "input": "techno",
+            "output": "e"
+        },
+        "492": {
+            "input": "conscription",
+            "output": "o"
+        },
+        "493": {
+            "input": "schooling",
+            "output": "c"
+        },
+        "494": {
+            "input": "kidnapping",
+            "output": "i"
+        },
+        "495": {
+            "input": "spray",
+            "output": "p"
+        },
+        "496": {
+            "input": "feminism",
+            "output": "e"
+        },
+        "497": {
+            "input": "assertion",
+            "output": "s"
+        },
+        "498": {
+            "input": "tutor",
+            "output": "u"
+        },
+        "499": {
+            "input": "capsule",
+            "output": "a"
+        },
+        "500": {
+            "input": "recipe",
+            "output": "e"
+        },
+        "501": {
+            "input": "compliance",
+            "output": "o"
+        },
+        "502": {
+            "input": "pacing",
+            "output": "a"
+        },
+        "503": {
+            "input": "sect",
+            "output": "e"
+        },
+        "504": {
+            "input": "brood",
+            "output": "r"
+        },
+        "505": {
+            "input": "dopamine",
+            "output": "o"
+        },
+        "506": {
+            "input": "grouping",
+            "output": "r"
+        },
+        "507": {
+            "input": "chip",
+            "output": "h"
+        },
+        "508": {
+            "input": "tuition",
+            "output": "u"
+        },
+        "509": {
+            "input": "silicon",
+            "output": "i"
+        },
+        "510": {
+            "input": "famine",
+            "output": "a"
+        },
+        "511": {
+            "input": "crashing",
+            "output": "r"
+        },
+        "512": {
+            "input": "reinforcement",
+            "output": "e"
+        },
+        "513": {
+            "input": "dissatisfaction",
+            "output": "i"
+        },
+        "514": {
+            "input": "denomination",
+            "output": "e"
+        },
+        "515": {
+            "input": "basket",
+            "output": "a"
+        },
+        "516": {
+            "input": "manipulation",
+            "output": "a"
+        },
+        "517": {
+            "input": "insignia",
+            "output": "n"
+        },
+        "518": {
+            "input": "delta",
+            "output": "e"
+        },
+        "519": {
+            "input": "frontman",
+            "output": "r"
+        },
+        "520": {
+            "input": "varsity",
+            "output": "a"
+        },
+        "521": {
+            "input": "locality",
+            "output": "o"
+        },
+        "522": {
+            "input": "stereotype",
+            "output": "t"
+        },
+        "523": {
+            "input": "midfield",
+            "output": "i"
+        },
+        "524": {
+            "input": "litigation",
+            "output": "i"
+        },
+        "525": {
+            "input": "positioning",
+            "output": "o"
+        },
+        "526": {
+            "input": "juice",
+            "output": "u"
+        },
+        "527": {
+            "input": "liability",
+            "output": "i"
+        },
+        "528": {
+            "input": "regeneration",
+            "output": "e"
+        },
+        "529": {
+            "input": "maid",
+            "output": "a"
+        },
+        "530": {
+            "input": "certainty",
+            "output": "e"
+        },
+        "531": {
+            "input": "plotting",
+            "output": "l"
+        },
+        "532": {
+            "input": "semester",
+            "output": "e"
+        },
+        "533": {
+            "input": "clutch",
+            "output": "l"
+        },
+        "534": {
+            "input": "gut",
+            "output": "u"
+        },
+        "535": {
+            "input": "trim",
+            "output": "r"
+        },
+        "536": {
+            "input": "hazard",
+            "output": "a"
+        },
+        "537": {
+            "input": "apple",
+            "output": "p"
+        },
+        "538": {
+            "input": "grenade",
+            "output": "r"
+        },
+        "539": {
+            "input": "gag",
+            "output": "a"
+        },
+        "540": {
+            "input": "jewelry",
+            "output": "e"
+        },
+        "541": {
+            "input": "brightness",
+            "output": "r"
+        },
+        "542": {
+            "input": "imprint",
+            "output": "m"
+        },
+        "543": {
+            "input": "remark",
+            "output": "e"
+        },
+        "544": {
+            "input": "leap",
+            "output": "e"
+        },
+        "545": {
+            "input": "nonsense",
+            "output": "o"
+        },
+        "546": {
+            "input": "prevalence",
+            "output": "r"
+        },
+        "547": {
+            "input": "backlash",
+            "output": "a"
+        },
+        "548": {
+            "input": "toilet",
+            "output": "o"
+        },
+        "549": {
+            "input": "pile",
+            "output": "i"
+        },
+        "550": {
+            "input": "pad",
+            "output": "a"
+        },
+        "551": {
+            "input": "originality",
+            "output": "r"
+        },
+        "552": {
+            "input": "registry",
+            "output": "e"
+        },
+        "553": {
+            "input": "heal",
+            "output": "e"
+        },
+        "554": {
+            "input": "militant",
+            "output": "i"
+        },
+        "555": {
+            "input": "contradictory",
+            "output": "o"
+        },
+        "556": {
+            "input": "attire",
+            "output": "t"
+        },
+        "557": {
+            "input": "pastor",
+            "output": "a"
+        },
+        "558": {
+            "input": "quicker",
+            "output": "u"
+        },
+        "559": {
+            "input": "verb",
+            "output": "e"
+        },
+        "560": {
+            "input": "judiciary",
+            "output": "u"
+        },
+        "561": {
+            "input": "abdominal",
+            "output": "b"
+        },
+        "562": {
+            "input": "dispersal",
+            "output": "i"
+        },
+        "563": {
+            "input": "casualty",
+            "output": "a"
+        },
+        "564": {
+            "input": "unification",
+            "output": "n"
+        },
+        "565": {
+            "input": "tuning",
+            "output": "u"
+        },
+        "566": {
+            "input": "electorate",
+            "output": "l"
+        },
+        "567": {
+            "input": "bolster",
+            "output": "o"
+        },
+        "568": {
+            "input": "taxonomy",
+            "output": "a"
+        },
+        "569": {
+            "input": "petroleum",
+            "output": "e"
+        },
+        "570": {
+            "input": "turf",
+            "output": "u"
+        },
+        "571": {
+            "input": "pony",
+            "output": "o"
+        },
+        "572": {
+            "input": "acceleration",
+            "output": "c"
+        },
+        "573": {
+            "input": "sighting",
+            "output": "i"
+        },
+        "574": {
+            "input": "drumming",
+            "output": "r"
+        },
+        "575": {
+            "input": "topography",
+            "output": "o"
+        },
+        "576": {
+            "input": "dairy",
+            "output": "a"
+        },
+        "577": {
+            "input": "viewpoint",
+            "output": "i"
+        },
+        "578": {
+            "input": "mercy",
+            "output": "e"
+        },
+        "579": {
+            "input": "mapping",
+            "output": "a"
+        },
+        "580": {
+            "input": "hormone",
+            "output": "o"
+        },
+        "581": {
+            "input": "toe",
+            "output": "o"
+        },
+        "582": {
+            "input": "setup",
+            "output": "e"
+        },
+        "583": {
+            "input": "sabotage",
+            "output": "a"
+        },
+        "584": {
+            "input": "smuggling",
+            "output": "m"
+        },
+        "585": {
+            "input": "commence",
+            "output": "o"
+        },
+        "586": {
+            "input": "ratification",
+            "output": "a"
+        },
+        "587": {
+            "input": "forum",
+            "output": "o"
+        },
+        "588": {
+            "input": "telegram",
+            "output": "e"
+        },
+        "589": {
+            "input": "lizard",
+            "output": "i"
+        },
+        "590": {
+            "input": "butter",
+            "output": "u"
+        },
+        "591": {
+            "input": "showrunner",
+            "output": "h"
+        },
+        "592": {
+            "input": "doctorate",
+            "output": "o"
+        },
+        "593": {
+            "input": "convenience",
+            "output": "o"
+        },
+        "594": {
+            "input": "exposition",
+            "output": "x"
+        },
+        "595": {
+            "input": "readiness",
+            "output": "e"
+        },
+        "596": {
+            "input": "computing",
+            "output": "o"
+        },
+        "597": {
+            "input": "resupply",
+            "output": "e"
+        },
+        "598": {
+            "input": "ribbon",
+            "output": "i"
+        },
+        "599": {
+            "input": "calculation",
+            "output": "a"
+        },
+        "600": {
+            "input": "interrogation",
+            "output": "n"
+        },
+        "601": {
+            "input": "pornography",
+            "output": "o"
+        },
+        "602": {
+            "input": "postal",
+            "output": "o"
+        },
+        "603": {
+            "input": "pulse",
+            "output": "u"
+        },
+        "604": {
+            "input": "fiber",
+            "output": "i"
+        },
+        "605": {
+            "input": "pepper",
+            "output": "e"
+        },
+        "606": {
+            "input": "injunction",
+            "output": "n"
+        },
+        "607": {
+            "input": "productivity",
+            "output": "r"
+        },
+        "608": {
+            "input": "discourse",
+            "output": "i"
+        },
+        "609": {
+            "input": "doorway",
+            "output": "o"
+        },
+        "610": {
+            "input": "rink",
+            "output": "i"
+        },
+        "611": {
+            "input": "distortion",
+            "output": "i"
+        },
+        "612": {
+            "input": "grape",
+            "output": "r"
+        },
+        "613": {
+            "input": "reversal",
+            "output": "e"
+        },
+        "614": {
+            "input": "whaling",
+            "output": "h"
+        },
+        "615": {
+            "input": "centimeter",
+            "output": "e"
+        },
+        "616": {
+            "input": "sensory",
+            "output": "e"
+        },
+        "617": {
+            "input": "heel",
+            "output": "e"
+        },
+        "618": {
+            "input": "secrecy",
+            "output": "e"
+        },
+        "619": {
+            "input": "wavelength",
+            "output": "a"
+        },
+        "620": {
+            "input": "arbitration",
+            "output": "r"
+        },
+        "621": {
+            "input": "nectar",
+            "output": "e"
+        },
+        "622": {
+            "input": "prevention",
+            "output": "r"
+        },
+        "623": {
+            "input": "fringe",
+            "output": "r"
+        },
+        "624": {
+            "input": "lockout",
+            "output": "o"
+        },
+        "625": {
+            "input": "transcription",
+            "output": "r"
+        },
+        "626": {
+            "input": "peacetime",
+            "output": "e"
+        },
+        "627": {
+            "input": "dietary",
+            "output": "i"
+        },
+        "628": {
+            "input": "whistle",
+            "output": "h"
+        },
+        "629": {
+            "input": "spear",
+            "output": "p"
+        },
+        "630": {
+            "input": "commencement",
+            "output": "o"
+        },
+        "631": {
+            "input": "offseason",
+            "output": "f"
+        },
+        "632": {
+            "input": "hint",
+            "output": "i"
+        },
+        "633": {
+            "input": "boot",
+            "output": "o"
+        },
+        "634": {
+            "input": "nationality",
+            "output": "a"
+        },
+        "635": {
+            "input": "puck",
+            "output": "u"
+        },
+        "636": {
+            "input": "simulate",
+            "output": "i"
+        },
+        "637": {
+            "input": "titanium",
+            "output": "i"
+        },
+        "638": {
+            "input": "rapping",
+            "output": "a"
+        },
+        "639": {
+            "input": "waist",
+            "output": "a"
+        },
+        "640": {
+            "input": "classroom",
+            "output": "l"
+        },
+        "641": {
+            "input": "manoeuvre",
+            "output": "a"
+        },
+        "642": {
+            "input": "algae",
+            "output": "l"
+        },
+        "643": {
+            "input": "irony",
+            "output": "r"
+        },
+        "644": {
+            "input": "rental",
+            "output": "e"
+        },
+        "645": {
+            "input": "tap",
+            "output": "a"
+        },
+        "646": {
+            "input": "drafting",
+            "output": "r"
+        },
+        "647": {
+            "input": "intro",
+            "output": "n"
+        },
+        "648": {
+            "input": "consul",
+            "output": "o"
+        },
+        "649": {
+            "input": "imitation",
+            "output": "m"
+        },
+        "650": {
+            "input": "weaving",
+            "output": "e"
+        },
+        "651": {
+            "input": "octagonal",
+            "output": "c"
+        },
+        "652": {
+            "input": "acquaintance",
+            "output": "c"
+        },
+        "653": {
+            "input": "destiny",
+            "output": "e"
+        },
+        "654": {
+            "input": "incidence",
+            "output": "n"
+        },
+        "655": {
+            "input": "rigging",
+            "output": "i"
+        },
+        "656": {
+            "input": "bidding",
+            "output": "i"
+        },
+        "657": {
+            "input": "convict",
+            "output": "o"
+        },
+        "658": {
+            "input": "upbringing",
+            "output": "p"
+        },
+        "659": {
+            "input": "boiling",
+            "output": "o"
+        },
+        "660": {
+            "input": "venom",
+            "output": "e"
+        },
+        "661": {
+            "input": "courtesy",
+            "output": "o"
+        },
+        "662": {
+            "input": "interlude",
+            "output": "n"
+        }
+    }
+}

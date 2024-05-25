@@ -1,0 +1,912 @@
+{
+    "metadata": {
+        "num_examples": 181
+    },
+    "examples": {
+        "1": {
+            "input": "Chuy Province is located in Kyrgyzstan.",
+            "output": "Chuy Province is not located in Kyrgyzstan.",
+            "orig_id": "418b1dcc-b001-4653-b1ed-cdaaf67bf790"
+        },
+        "2": {
+            "input": "Chris McGregor plays jazz music.",
+            "output": "Chris McGregor does not play jazz music.",
+            "orig_id": "75b16b9b-3124-490f-a73e-92a2ee30c208"
+        },
+        "3": {
+            "input": "Mikhail Gromov works in the field of geometry.",
+            "output": "Mikhail Gromov does not work in the field of geometry.",
+            "orig_id": "e3d6e319-c6db-4110-a34b-febaf86b02af"
+        },
+        "4": {
+            "input": "Osterholz shares border with Bremen.",
+            "output": "Osterholz does not share border with Bremen.",
+            "orig_id": "367cbc65-1eb4-45bb-a54e-b27a01aa01d4"
+        },
+        "5": {
+            "input": "Pannonhalma Archabbey is located in Hungary.",
+            "output": "Pannonhalma Archabbey is not located in Hungary.",
+            "orig_id": "5a2c7f7d-ad4d-4cc0-b6c3-875bc89835b9"
+        },
+        "6": {
+            "input": "Garnett Brown plays jazz music.",
+            "output": "Garnett Brown does not play jazz music.",
+            "orig_id": "27ff05a9-b57a-49b0-8327-ac65ea74c793"
+        },
+        "7": {
+            "input": "Nagoya University is located in Japan.",
+            "output": "Nagoya University is not located in Japan.",
+            "orig_id": "61bd5b13-856f-4471-b08e-1cd680175e26"
+        },
+        "8": {
+            "input": "Antonio Caggiano has the position of archbishop.",
+            "output": "Antonio Caggiano does not have the position of archbishop.",
+            "orig_id": "a6926222-884a-4d5f-bf95-7024a9179365"
+        },
+        "9": {
+            "input": "Le cose che vivi was written in Italian.",
+            "output": "Le cose che vivi was not written in Italian.",
+            "orig_id": "352a213a-8945-411e-a191-e64e658aa79c"
+        },
+        "10": {
+            "input": "The official language of Lemi is Finnish.",
+            "output": "The official language of Lemi is not Finnish.",
+            "orig_id": "ecb65b77-7fb3-4f00-9d31-555a3bba7658"
+        },
+        "11": {
+            "input": "The headquarter of Beykent University is in Istanbul.",
+            "output": "The headquarter of Beykent University is not in Istanbul.",
+            "orig_id": "4d057585-1956-4d58-a9c7-48828ef7c4c4"
+        },
+        "12": {
+            "input": "Mewat is located in India.",
+            "output": "Mewat is not located in India.",
+            "orig_id": "e1e71129-47a0-4e4c-af77-97d27458254f"
+        },
+        "13": {
+            "input": "Jeremy Vine works for BBC.",
+            "output": "Jeremy Vine does not work for BBC.",
+            "orig_id": "b63f1ae9-8a7b-41b5-9dd0-8259f303f19d"
+        },
+        "14": {
+            "input": "Winterpills was founded in Northampton, Massachusetts.",
+            "output": "Winterpills was not founded in Northampton, Massachusetts.",
+            "orig_id": "ec26d48b-1f16-4435-89e4-a1c012e0253e"
+        },
+        "15": {
+            "input": "The capital of Staffordshire is Stafford.",
+            "output": "The capital of Staffordshire is not Stafford.",
+            "orig_id": "51d8687a-c539-418f-bef6-3ba6cf9e4757"
+        },
+        "16": {
+            "input": "Rollerblade was founded in Minneapolis.",
+            "output": "Rollerblade was not founded in Minneapolis.",
+            "orig_id": "ec7422b0-c0d9-4632-ae39-31870226acc7"
+        },
+        "17": {
+            "input": "The official language of Shakhunya is Russian.",
+            "output": "The official language of Shakhunya is not Russian.",
+            "orig_id": "72e96614-1931-4fd6-9149-67c640e55e1e"
+        },
+        "18": {
+            "input": "Mannheim-Heidelberg International Filmfestival is located in Heidelberg.",
+            "output": "Mannheim-Heidelberg International Filmfestival is not located in Heidelberg.",
+            "orig_id": "4889b837-99f6-470f-b3f4-31f2ee2df6c4"
+        },
+        "19": {
+            "input": "Christchurch City Council is a legal term in Christchurch.",
+            "output": "Christchurch City Council is not a legal term in Christchurch.",
+            "orig_id": "7265c547-631d-4b51-b369-154f3f0f05a6"
+        },
+        "20": {
+            "input": "Blue Bayou was written in English.",
+            "output": "Blue Bayou was not written in English.",
+            "orig_id": "8a4174c8-3a8a-4ecf-a552-59e3bb33f205"
+        },
+        "21": {
+            "input": "Deacon Blue was founded in Glasgow.",
+            "output": "Deacon Blue was not founded in Glasgow.",
+            "orig_id": "b0c416b1-a310-455d-9dfd-8dc57232fd95"
+        },
+        "22": {
+            "input": "Sikkim is located in India.",
+            "output": "Sikkim is not located in India.",
+            "orig_id": "dfce42a4-3193-47ea-8200-c62c346c1e01"
+        },
+        "23": {
+            "input": "The capital of Andrew County is Savannah, Missouri.",
+            "output": "The capital of Andrew County is not Savannah, Missouri.",
+            "orig_id": "646acdd9-c793-4a50-9534-3c631dcea026"
+        },
+        "24": {
+            "input": "Giannina Arangi-Lombardi died in Milan.",
+            "output": "Giannina Arangi-Lombardi did not die in Milan.",
+            "orig_id": "020a3ded-7219-4645-8996-f45e0eb528ab"
+        },
+        "25": {
+            "input": "Independence Hall is located in Philadelphia.",
+            "output": "Independence Hall is not located in Philadelphia.",
+            "orig_id": "de05c0b0-b804-408d-9f35-0cf88b1b5257"
+        },
+        "26": {
+            "input": "Fabiola is affiliated with the Christianity religion.",
+            "output": "Fabiola is not affiliated with the Christianity religion.",
+            "orig_id": "1da04043-474e-47ac-9f31-ba89e57161a7"
+        },
+        "27": {
+            "input": "Windows Millennium Edition is developed by Microsoft.",
+            "output": "Windows Millennium Edition is not developed by Microsoft.",
+            "orig_id": "f3c9afaa-d2c2-424a-8004-36588210c1aa"
+        },
+        "28": {
+            "input": "Romulus Augustus is affiliated with the Christianity religion.",
+            "output": "Romulus Augustus is not affiliated with the Christianity religion.",
+            "orig_id": "fd326c20-7047-4999-8edf-763e203a4999"
+        },
+        "29": {
+            "input": "Slovenian National Assembly is a legal term in Slovenian.",
+            "output": "Slovenian National Assembly is not a legal term in Slovenian.",
+            "orig_id": "bcc1f68e-2f47-434f-8f29-282ffe3764f4"
+        },
+        "30": {
+            "input": "The Little Prince was written in French.",
+            "output": "The Little Prince was not written in French.",
+            "orig_id": "e64f802a-2454-4352-97c6-2552907b772d"
+        },
+        "31": {
+            "input": "Guido Adler died in Vienna.",
+            "output": "Guido Adler did not die in Vienna.",
+            "orig_id": "256e2736-f045-4493-a40a-d09a307f4809"
+        },
+        "32": {
+            "input": "Roman-Dutch law is a legal term in Zimbabwe.",
+            "output": "Roman-Dutch law is not a legal term in Zimbabwe.",
+            "orig_id": "2fbe9c20-86e6-4490-95b6-9b0c1d5297bc"
+        },
+        "33": {
+            "input": "Santo Amaro has the position of abbot.",
+            "output": "Santo Amaro does not have the position of abbot.",
+            "orig_id": "4f59efbd-453b-4377-8256-c1c59c0ffd73"
+        },
+        "34": {
+            "input": "The capital of Libya is Tripoli.",
+            "output": "The capital of Libya is not Tripoli.",
+            "orig_id": "4ef63e37-79db-4b74-be46-8cb2628a3936"
+        },
+        "35": {
+            "input": "Anthony Veiller died in Hollywood, California.",
+            "output": "Anthony Veiller did not die in Hollywood, California.",
+            "orig_id": "f80a53ac-f6b1-487a-9122-e7f226ea53a8"
+        },
+        "36": {
+            "input": "Fort Macomb is owned by Louisiana.",
+            "output": "Fort Macomb is not owned by Louisiana.",
+            "orig_id": "dc9c403d-c4ea-4681-8ab5-4a45a62b8ab7"
+        },
+        "37": {
+            "input": "undecane consists of carbon.",
+            "output": "undecane does not consist of carbon.",
+            "orig_id": "d8b57229-1b2f-4260-9f92-47f5f885b256"
+        },
+        "38": {
+            "input": "Carlos Baute was born in Caracas, Venezuela.",
+            "output": "Carlos Baute was not born in Caracas, Venezuela.",
+            "orig_id": "693da730-9cfd-43e9-b16c-40c21b448578"
+        },
+        "39": {
+            "input": "The original language of I've Loved You So Long is French.",
+            "output": "The original language of I've Loved You So Long is not French.",
+            "orig_id": "8cbe7f2f-444b-44f8-aad4-deb581bfc6a9"
+        },
+        "40": {
+            "input": "The headquarter of Lloyd is in Bremen.",
+            "output": "The headquarter of Lloyd is not in Bremen.",
+            "orig_id": "c8872c9d-3ebe-480f-b42b-1b4849ec5b3b"
+        },
+        "41": {
+            "input": "The headquarter of Kroger is in Cincinnati, Ohio.",
+            "output": "The headquarter of Kroger is not in Cincinnati, Ohio.",
+            "orig_id": "fd0bfe1c-825f-438c-a127-1141bbced24d"
+        },
+        "42": {
+            "input": "Germany maintains diplomatic relations with Benin.",
+            "output": "Germany does not maintain diplomatic relations with Benin.",
+            "orig_id": "0f836488-dca9-48c3-8b8c-c434f7996bac"
+        },
+        "43": {
+            "input": "The Gene Autry Show was originally aired on CBS.",
+            "output": "The Gene Autry Show was not originally aired on CBS.",
+            "orig_id": "05141144-e026-4a18-83a2-a7e2fb9656a7"
+        },
+        "44": {
+            "input": "The official language of Krasnoyarsk Krai is Russian.",
+            "output": "The official language of Krasnoyarsk Krai is not Russian.",
+            "orig_id": "0b92d549-ced4-424f-bb94-eaf4c7a065bb"
+        },
+        "45": {
+            "input": "My Kitchen Rules was created in Australia.",
+            "output": "My Kitchen Rules was not created in Australia.",
+            "orig_id": "5be4a108-f2a6-41f2-9b2b-06ebc535b00a"
+        },
+        "46": {
+            "input": "Rydberg Peninsula is located in Antarctica.",
+            "output": "Rydberg Peninsula is not located in Antarctica.",
+            "orig_id": "29d08f03-2742-4b65-a347-4c15f4466ca9"
+        },
+        "47": {
+            "input": "The official language of Faido is Italian.",
+            "output": "The official language of Faido is not Italian.",
+            "orig_id": "1f2c67fa-6731-4f1c-a1ea-c72b4ddc03d1"
+        },
+        "48": {
+            "input": "Sylencer was founded in Chicago, Illinois.",
+            "output": "Sylencer was not founded in Chicago, Illinois.",
+            "orig_id": "3f265ebf-6cd5-4549-8d39-541582b7b87d"
+        },
+        "49": {
+            "input": "Sayyid Qutb is affiliated with the Muslim religion.",
+            "output": "Sayyid Qutb is not affiliated with the Muslim religion.",
+            "orig_id": "f45cfa83-7c41-4e2d-9827-e7f4645f4046"
+        },
+        "50": {
+            "input": "The original language of Amarcord is Italian.",
+            "output": "The original language of Amarcord is not Italian.",
+            "orig_id": "c2e255a0-fb18-4afe-bbd2-c5af14bbaeab"
+        },
+        "51": {
+            "input": "Boris Souvarine died in Paris.",
+            "output": "Boris Souvarine did not die in Paris.",
+            "orig_id": "e533f3bb-3344-4e3d-b307-b5409e3e0493"
+        },
+        "52": {
+            "input": "Pigface was founded in Chicago.",
+            "output": "Pigface was not founded in Chicago.",
+            "orig_id": "68c8c6e9-00bb-46ea-a531-1f355281cdad"
+        },
+        "53": {
+            "input": "Arthur Oliver Wheeler works for Canada.",
+            "output": "Arthur Oliver Wheeler does not work for Canada.",
+            "orig_id": "ca3b28fe-196e-4ccf-99ee-8ba91ee08135"
+        },
+        "54": {
+            "input": "Galatsi Olympic Hall is located in Athens, Greece.",
+            "output": "Galatsi Olympic Hall is not located in Athens, Greece.",
+            "orig_id": "1a9e8f52-ad0c-4ee4-b7d3-752659363674"
+        },
+        "55": {
+            "input": "art is a subclass of creativity.",
+            "output": "art is not a subclass of creativity.",
+            "orig_id": "9f4eea81-3e4e-4100-a115-84149143cedc"
+        },
+        "56": {
+            "input": "Stiff Valentine was founded in Vancouver, Canada.",
+            "output": "Stiff Valentine was not founded in Vancouver, Canada.",
+            "orig_id": "e6159e3d-69b4-463c-82af-83f9c71987ce"
+        },
+        "57": {
+            "input": "Prey Veng Province is located in Cambodia.",
+            "output": "Prey Veng Province is not located in Cambodia.",
+            "orig_id": "1459b1e7-fafa-4764-a7df-9f1d192b3dba"
+        },
+        "58": {
+            "input": "Tooth & Nail Records was founded in California.",
+            "output": "Tooth & Nail Records was not founded in California.",
+            "orig_id": "d6c3e620-4130-4069-9379-acf67fab905a"
+        },
+        "59": {
+            "input": "Abbasid Caliphate is located in Africa.",
+            "output": "Abbasid Caliphate is not located in Africa.",
+            "orig_id": "0e8e42b2-0758-4b2b-8a6e-18d044489cbf"
+        },
+        "60": {
+            "input": "Denise Jannah plays jazz music.",
+            "output": "Denise Jannah does not play jazz music.",
+            "orig_id": "4eb3d7ea-cb65-45b5-b6c9-6974f2015252"
+        },
+        "61": {
+            "input": "molecule consists of atomic structure.",
+            "output": "molecule does not consist of atomic structure.",
+            "orig_id": "99238fa1-f675-484f-8243-bddd07c57f48"
+        },
+        "62": {
+            "input": "Presidential Office is a legal term in Taiwan.",
+            "output": "Presidential Office is not a legal term in Taiwan.",
+            "orig_id": "6fc28cb7-7224-49d9-b0be-eb3366e67e33"
+        },
+        "63": {
+            "input": "The original language of Le chiavi di casa is Italian.",
+            "output": "The original language of Le chiavi di casa is not Italian.",
+            "orig_id": "c310ece1-46d0-421a-9d0e-cc7d0acc6a6e"
+        },
+        "64": {
+            "input": "Kenya maintains diplomatic relations with Italy.",
+            "output": "Kenya does not maintain diplomatic relations with Italy.",
+            "orig_id": "bf6a6f66-78a2-4f36-a60b-4dda32e2e151"
+        },
+        "65": {
+            "input": "Lusia Strus is a film actress by profession.",
+            "output": "Lusia Strus is not a film actress by profession.",
+            "orig_id": "5cea284d-4d98-4255-b029-67d6273e2614"
+        },
+        "66": {
+            "input": "Hydroxylamine consists of oxygen.",
+            "output": "Hydroxylamine does not consist of oxygen.",
+            "orig_id": "dbef0652-a400-4190-91a6-01e1540af922"
+        },
+        "67": {
+            "input": "Elbe River is located in Europe.",
+            "output": "Elbe River is not located in Europe.",
+            "orig_id": "ebf664aa-b10f-408d-b6b9-efa7b3e323fd"
+        },
+        "68": {
+            "input": "Manitoba Act is a legal term in Canada.",
+            "output": "Manitoba Act is not a legal term in Canada.",
+            "orig_id": "b78f6a08-3cdf-46dd-b70f-55990f579c4f"
+        },
+        "69": {
+            "input": "Bernd Sturmfels works in the field of Mathematics.",
+            "output": "Bernd Sturmfels does not work in the field of Mathematics.",
+            "orig_id": "2510f063-77cc-47b9-83a1-9aeb2d3e661c"
+        },
+        "70": {
+            "input": "Magnum P.I. was originally aired on CBS.",
+            "output": "Magnum P.I. was not originally aired on CBS.",
+            "orig_id": "0d7fec05-00da-40ac-8e08-37db3f78c30f"
+        },
+        "71": {
+            "input": "MSX-DOS is developed by Microsoft.",
+            "output": "MSX-DOS is not developed by Microsoft.",
+            "orig_id": "9a6a3add-b906-46df-8056-503571eeff1e"
+        },
+        "72": {
+            "input": "Berlin is the capital of Germany.",
+            "output": "Berlin is not the capital of Germany.",
+            "orig_id": "54b96082-7dbf-4aae-91d9-2c6a1b76b89d"
+        },
+        "73": {
+            "input": "Manatawny Creek is located in Pennsylvania.",
+            "output": "Manatawny Creek is not located in Pennsylvania.",
+            "orig_id": "61a6a6c5-ce87-4938-8cd6-37a612e7eadf"
+        },
+        "74": {
+            "input": "Hasdai Crescas is affiliated with the Jewish religion.",
+            "output": "Hasdai Crescas is not affiliated with the Jewish religion.",
+            "orig_id": "9aa241fe-ea17-41d1-9309-ac89b8850220"
+        },
+        "75": {
+            "input": "Chavanon is a river.",
+            "output": "Chavanon is not a river.",
+            "orig_id": "99b0963d-3b24-47ba-9e3e-c76527b2be8f"
+        },
+        "76": {
+            "input": "Candlewood Lake is a reservoir.",
+            "output": "Candlewood Lake is not a reservoir.",
+            "orig_id": "3462dba5-7302-4773-a178-82e88400d649"
+        },
+        "77": {
+            "input": "Chris Squire is a member of Yes (Band).",
+            "output": "Chris Squire is not a member of Yes (Band).",
+            "orig_id": "a36efbe9-7bb0-4902-9bae-b9b590038298"
+        },
+        "78": {
+            "input": "Como Ama una Mujer was written in Spanish.",
+            "output": "Como Ama una Mujer was not written in Spanish.",
+            "orig_id": "5792c1aa-67bb-4460-abb7-a9483a4a132d"
+        },
+        "79": {
+            "input": "Ola plays jazz music.",
+            "output": "Ola does not play jazz music.",
+            "orig_id": "2bd80dee-72d6-460d-9417-cd3db202cb1a"
+        },
+        "80": {
+            "input": "Crawfordsburn is a village.",
+            "output": "Crawfordsburn is not a village.",
+            "orig_id": "4ec17ddf-d247-462d-8f53-2c8e1793e51e"
+        },
+        "81": {
+            "input": "Cuba maintains diplomatic relations with Russia.",
+            "output": "Cuba does not maintain diplomatic relations with Russia.",
+            "orig_id": "947c9ab6-5399-4b42-b033-f35725448dea"
+        },
+        "82": {
+            "input": "John Newport Langley works in the field of physiologist.",
+            "output": "John Newport Langley does not work in the field of physiologist.",
+            "orig_id": "9bf7af60-1cad-4748-bfb3-c85af28d607b"
+        },
+        "83": {
+            "input": "Coca-Cola C2 was created in Japan.",
+            "output": "Coca-Cola C2 was not created in Japan.",
+            "orig_id": "c7ff1774-995a-4c31-a577-cf47ce632f5c"
+        },
+        "84": {
+            "input": "State Representative is a legal term in Louisiana.",
+            "output": "State Representative is not a legal term in Louisiana.",
+            "orig_id": "48352c67-2c52-41bc-bb3e-2e04d741f31c"
+        },
+        "85": {
+            "input": "Rekkit Rabbit was created in France.",
+            "output": "Rekkit Rabbit was not created in France.",
+            "orig_id": "af4f86fd-c134-4fe2-8daf-46b5783372c7"
+        },
+        "86": {
+            "input": "White consists of red.",
+            "output": "White does not consist of red.",
+            "orig_id": "1b86f959-08a1-46f1-b82c-c0630f3a6645"
+        },
+        "87": {
+            "input": "Disc-Overy was written in English.",
+            "output": "Disc-Overy was not written in English.",
+            "orig_id": "ae034beb-d5e6-4cc9-a264-21d0374a1f31"
+        },
+        "88": {
+            "input": "The official language of jersiais is English.",
+            "output": "The official language of jersiais is not English.",
+            "orig_id": "f7922bd5-66e6-46ea-ae84-8739a1c08d9f"
+        },
+        "89": {
+            "input": "The headquarter of E&Y is in London.",
+            "output": "The headquarter of E&Y is not in London.",
+            "orig_id": "33ff71b5-04a3-47e0-aeb0-f6dcf695b19f"
+        },
+        "90": {
+            "input": "Energy 52 plays trance music.",
+            "output": "Energy 52 does not play trance music.",
+            "orig_id": "b0316198-96b4-4d83-bd82-4f3fc7a583e8"
+        },
+        "91": {
+            "input": "Welsh Guards is located in London, England.",
+            "output": "Welsh Guards is not located in London, England.",
+            "orig_id": "1a4e3473-07cc-4bd6-a436-dfc6e43e1824"
+        },
+        "92": {
+            "input": "Nicolas Chuquet works in the field of mathematics.",
+            "output": "Nicolas Chuquet does not work in the field of mathematics.",
+            "orig_id": "4a7cf39f-3c2b-4a28-8588-facc31e22565"
+        },
+        "93": {
+            "input": "The official language of Montenegro is Croatian.",
+            "output": "The official language of Montenegro is not Croatian.",
+            "orig_id": "5e8baf03-fbb5-4fde-9ff9-58df2d4e4b06"
+        },
+        "94": {
+            "input": "Nkhata Bay District is located in Malawi.",
+            "output": "Nkhata Bay District is not located in Malawi.",
+            "orig_id": "f43850cb-3a7c-4485-ac95-2fed96829462"
+        },
+        "95": {
+            "input": "Senegal shares border with Guinea.",
+            "output": "Senegal does not share border with Guinea.",
+            "orig_id": "8b557de1-c61e-4f2b-b26f-d7cbefdb4698"
+        },
+        "96": {
+            "input": "Mongolia maintains diplomatic relations with Japan.",
+            "output": "Mongolia does not maintain diplomatic relations with Japan.",
+            "orig_id": "0ef0beb9-9375-41ad-9a3c-72f2ecca1558"
+        },
+        "97": {
+            "input": "Accursius was born in Florence.",
+            "output": "Accursius was not born in Florence.",
+            "orig_id": "c868e098-a2db-43a9-ac3c-0d9484c028da"
+        },
+        "98": {
+            "input": "The Danny Kaye Show was originally aired on CBS.",
+            "output": "The Danny Kaye Show was not originally aired on CBS.",
+            "orig_id": "011254ed-9546-49a2-9587-cf80ae6ee4b9"
+        },
+        "99": {
+            "input": "Afro-dite was founded in Sweden.",
+            "output": "Afro-dite was not founded in Sweden.",
+            "orig_id": "51e6b72d-dffe-4c80-afdd-8f79938c9ea0"
+        },
+        "100": {
+            "input": "Joseph Haydn plays opera music.",
+            "output": "Joseph Haydn does not play opera music.",
+            "orig_id": "25d5f1e4-d291-4337-90b7-e8491c64ce17"
+        },
+        "101": {
+            "input": "Miami Vice was originally aired on NBC.",
+            "output": "Miami Vice was not originally aired on NBC.",
+            "orig_id": "907bce83-88f6-425e-a7f2-0b502d72a2f6"
+        },
+        "102": {
+            "input": "The original language of The Adventure Game is English.",
+            "output": "The original language of The Adventure Game is not English.",
+            "orig_id": "fe0753fb-8b91-478a-b366-d4fdb799d0a2"
+        },
+        "103": {
+            "input": "The original language of Radio Times is English.",
+            "output": "The original language of Radio Times is not English.",
+            "orig_id": "a1f27bc7-c611-4b04-9094-11eeb9690be0"
+        },
+        "104": {
+            "input": "Carl Marstrander died in Oslo.",
+            "output": "Carl Marstrander did not die in Oslo.",
+            "orig_id": "608d7444-a6fd-400e-945f-4fb18ff995b0"
+        },
+        "105": {
+            "input": "Vietnam is located in Asia.",
+            "output": "Vietnam is not located in Asia.",
+            "orig_id": "8a1cea73-fc7f-4c11-9aed-5aa295bfbad1"
+        },
+        "106": {
+            "input": "The capital of Lombardy is Milano.",
+            "output": "The capital of Lombardy is not Milano.",
+            "orig_id": "fd4747c1-d4d2-44c6-b97e-de6f6d6f05b0"
+        },
+        "107": {
+            "input": "The Naked Vicar Show was created in Australia.",
+            "output": "The Naked Vicar Show was not created in Australia.",
+            "orig_id": "e6910c00-7b4d-4002-a591-7c2f1ed8a5f3"
+        },
+        "108": {
+            "input": "The headquarter of Nahdlatul Ulama is in Jakarta.",
+            "output": "The headquarter of Nahdlatul Ulama is not in Jakarta.",
+            "orig_id": "cbf1abd5-3d97-490a-a0cd-c7823573e852"
+        },
+        "109": {
+            "input": "Peter Metro plays reggae music.",
+            "output": "Peter Metro does not play reggae music.",
+            "orig_id": "85861498-a24d-4bf9-bdd4-fcfe9976e949"
+        },
+        "110": {
+            "input": "Totten Glacier is located in Antarctica.",
+            "output": "Totten Glacier is not located in Antarctica.",
+            "orig_id": "e79c3f15-41a7-485b-9e0b-c5af74d815cc"
+        },
+        "111": {
+            "input": "N-methylmorpholine N-oxide consists of molecular oxygen.",
+            "output": "N-methylmorpholine N-oxide does not consist of molecular oxygen.",
+            "orig_id": "e6ea0505-bb1f-43b4-ade0-192726b28c25"
+        },
+        "112": {
+            "input": "Bloodsports was written in English.",
+            "output": "Bloodsports was not written in English.",
+            "orig_id": "b97f65f7-03f1-45ad-8b38-62d5b8afce84"
+        },
+        "113": {
+            "input": "Wards Island is located in Manhattan.",
+            "output": "Wards Island is not located in Manhattan.",
+            "orig_id": "4a50d4d3-e8e8-4a60-96e9-955e58e02821"
+        },
+        "114": {
+            "input": "Dunragit is a village.",
+            "output": "Dunragit is not a village.",
+            "orig_id": "8b9b94d9-c8dd-4970-aede-b636f6598a4f"
+        },
+        "115": {
+            "input": "Henry van de Velde was born in Antwerp.",
+            "output": "Henry van de Velde was not born in Antwerp.",
+            "orig_id": "a17a1d3c-f2ba-4009-8f00-ed6c5816640a"
+        },
+        "116": {
+            "input": "Millikan works in the field of physics.",
+            "output": "Millikan does not work in the field of physics.",
+            "orig_id": "fbdb812e-8a95-4f2c-9421-3f8f328dbd29"
+        },
+        "117": {
+            "input": "quantum electronics is part of physics.",
+            "output": "quantum electronics is not part of physics.",
+            "orig_id": "db4201f8-f2bb-496b-8801-28c804e7116a"
+        },
+        "118": {
+            "input": "Porto-Novo is the capital of Benin.",
+            "output": "Porto-Novo is not the capital of Benin.",
+            "orig_id": "93f5e8fb-e07c-4cd0-aff8-0e56df53e9e8"
+        },
+        "119": {
+            "input": "La Voz was written in Spanish.",
+            "output": "La Voz was not written in Spanish.",
+            "orig_id": "17ce70d6-6bfe-42f0-9f74-874d616efe41"
+        },
+        "120": {
+            "input": "The original language of Les Nanas is French.",
+            "output": "The original language of Les Nanas is not French.",
+            "orig_id": "7fc2b1db-65f5-4bcb-aede-b3ed7c0abb7e"
+        },
+        "121": {
+            "input": "Murray Grand is a songwriter by profession.",
+            "output": "Murray Grand is not a songwriter by profession.",
+            "orig_id": "67a8ffd5-7954-4d29-8ff3-9a29e9bbcf5a"
+        },
+        "122": {
+            "input": "Edward Vesala plays jazz music.",
+            "output": "Edward Vesala does not play jazz music.",
+            "orig_id": "160d8eda-241a-4d1c-8b93-40d3d73dc024"
+        },
+        "123": {
+            "input": "Kindle is owned by Amazon.com.",
+            "output": "Kindle is not owned by Amazon.com.",
+            "orig_id": "59b587ff-9c60-4cee-9a64-628bc869db39"
+        },
+        "124": {
+            "input": "Pindamonhangaba is located in Brazil.",
+            "output": "Pindamonhangaba is not located in Brazil.",
+            "orig_id": "4f7e967b-c437-41e0-8c2a-681b6a664e2f"
+        },
+        "125": {
+            "input": "House Speaker is a legal term in Pennsylvania.",
+            "output": "House Speaker is not a legal term in Pennsylvania.",
+            "orig_id": "f41aeb3a-5311-48ad-a152-c94a34514597"
+        },
+        "126": {
+            "input": "Australia maintains diplomatic relations with Bulgaria.",
+            "output": "Australia does not maintain diplomatic relations with Bulgaria.",
+            "orig_id": "d4555048-0698-4805-94e0-f66f38da42a5"
+        },
+        "127": {
+            "input": "Where Are They Now was written in English.",
+            "output": "Where Are They Now was not written in English.",
+            "orig_id": "ca1e4088-fe18-45a0-a53b-1b0f133e312d"
+        },
+        "128": {
+            "input": "Dan Le Batard works for ESPN.",
+            "output": "Dan Le Batard does not work for ESPN.",
+            "orig_id": "7b21efec-3a62-4ad9-84a2-825f5c7c87f2"
+        },
+        "129": {
+            "input": "Sonic Team is owned by Sega.",
+            "output": "Sonic Team is not owned by Sega.",
+            "orig_id": "bd3f4c8c-45be-4efb-9b16-31a2a193214a"
+        },
+        "130": {
+            "input": "Pierre Beauchamp died in Paris.",
+            "output": "Pierre Beauchamp did not die in Paris.",
+            "orig_id": "12a80f57-2cf5-44f0-8ffc-1a56f89dfcae"
+        },
+        "131": {
+            "input": "Yakubu Gowon is a politician by profession.",
+            "output": "Yakubu Gowon is not a politician by profession.",
+            "orig_id": "19f06e6c-d71e-4adb-aa1a-8d61303484cb"
+        },
+        "132": {
+            "input": "Yambol Peak is located in Antarctica.",
+            "output": "Yambol Peak is not located in Antarctica.",
+            "orig_id": "0e124ecb-2834-4e29-a66d-da4fe8fffd5a"
+        },
+        "133": {
+            "input": "Leap Castle is located in Ireland.",
+            "output": "Leap Castle is not located in Ireland.",
+            "orig_id": "3bf8db49-ebfe-4045-a568-dd78ffe287ac"
+        },
+        "134": {
+            "input": "Ivughli Rural District is located in Iran.",
+            "output": "Ivughli Rural District is not located in Iran.",
+            "orig_id": "d34c0523-580f-4482-8bd3-1ef17d5782b6"
+        },
+        "135": {
+            "input": "Bill Conselman is a screenwriter by profession.",
+            "output": "Bill Conselman is not a screenwriter by profession.",
+            "orig_id": "5f005604-f903-46ea-9d80-d474bd12ccaf"
+        },
+        "136": {
+            "input": "The original language of Le Globe is French.",
+            "output": "The original language of Le Globe is not French.",
+            "orig_id": "f528fa77-09fe-4c18-8da0-b1d73a0ce727"
+        },
+        "137": {
+            "input": "lactulose is a medicine.",
+            "output": "lactulose is not a medicine.",
+            "orig_id": "51b46a11-3242-4bfd-9f00-e5aafba1fdcd"
+        },
+        "138": {
+            "input": "Villa La Pietra is located in Italy.",
+            "output": "Villa La Pietra is not located in Italy.",
+            "orig_id": "da744f12-07d9-439d-a490-c38faf24d7bb"
+        },
+        "139": {
+            "input": "Vikramarkudu was created in India.",
+            "output": "Vikramarkudu was not created in India.",
+            "orig_id": "a9524d3f-d63f-4534-a7fd-f4dd4fc3dc82"
+        },
+        "140": {
+            "input": "Gazzetta Chimica Italiana was written in Italian.",
+            "output": "Gazzetta Chimica Italiana was not written in Italian.",
+            "orig_id": "fc6b6233-c47f-409e-bdde-6ddbc657f0e3"
+        },
+        "141": {
+            "input": "Renault Trucks is owned by AB Volvo.",
+            "output": "Renault Trucks is not owned by AB Volvo.",
+            "orig_id": "03c99174-6664-4bef-9260-0530064c669e"
+        },
+        "142": {
+            "input": "Research Machines was founded in Oxford.",
+            "output": "Research Machines was not founded in Oxford.",
+            "orig_id": "139706b8-622c-4011-9a52-b65502bcb7ef"
+        },
+        "143": {
+            "input": "Chaos Divine was founded in Perth, Western Australia.",
+            "output": "Chaos Divine was not founded in Perth, Western Australia.",
+            "orig_id": "cc8d0fcb-5de9-4eba-ab0d-196f6617f328"
+        },
+        "144": {
+            "input": "Furan consists of carbon.",
+            "output": "Furan does not consist of carbon.",
+            "orig_id": "a5e52db0-796a-44cf-a1e5-b43bb4fb8c5b"
+        },
+        "145": {
+            "input": "Belisario was created in Italy.",
+            "output": "Belisario was not created in Italy.",
+            "orig_id": "39621517-ecbb-41fe-bd80-d80c84dabec3"
+        },
+        "146": {
+            "input": "Herpa Wings was founded in Germany.",
+            "output": "Herpa Wings was not founded in Germany.",
+            "orig_id": "0c08aa55-0968-4836-81e1-0f64edd333c7"
+        },
+        "147": {
+            "input": "Kibera Kid was created in Kenya.",
+            "output": "Kibera Kid was not created in Kenya.",
+            "orig_id": "b2eeda0d-8a0a-4368-b213-d49967bbad2d"
+        },
+        "148": {
+            "input": "The official language of Finland is Finnish.",
+            "output": "The official language of Finland is not Finnish.",
+            "orig_id": "5b37ddf5-0079-4b49-90a0-29ba1b2df642"
+        },
+        "149": {
+            "input": "Lou Marini plays jazz music.",
+            "output": "Lou Marini does not play jazz music.",
+            "orig_id": "bc209198-a679-4bfd-aa2c-9cf8f5320987"
+        },
+        "150": {
+            "input": "Frederick William Seward is a politician by profession.",
+            "output": "Frederick William Seward is not a politician by profession.",
+            "orig_id": "49475131-b5b7-453f-b166-fceb59a7906c"
+        },
+        "151": {
+            "input": "Ctesias is a physician by profession.",
+            "output": "Ctesias is not a physician by profession.",
+            "orig_id": "b4a0e0d3-3514-49f3-bae0-4d4a56f1e8e3"
+        },
+        "152": {
+            "input": "The official language of Zabaykalsky Krai is Russian.",
+            "output": "The official language of Zabaykalsky Krai is not Russian.",
+            "orig_id": "6067073b-5ab8-4962-8203-0b5b5675b17b"
+        },
+        "153": {
+            "input": "Michael Lipman was born in London.",
+            "output": "Michael Lipman was not born in London.",
+            "orig_id": "b6c949d4-8fe3-4c80-b279-85c10eefb52b"
+        },
+        "154": {
+            "input": "Eden Roc is a hotel.",
+            "output": "Eden Roc is not a hotel.",
+            "orig_id": "333fe5a2-7dab-4592-98b9-4b830181b049"
+        },
+        "155": {
+            "input": "Bandai was founded in Tokyo.",
+            "output": "Bandai was not founded in Tokyo.",
+            "orig_id": "c70173b6-82b7-4e2c-b574-d2da4e7021fa"
+        },
+        "156": {
+            "input": "Northtown is located in Nevada.",
+            "output": "Northtown is not located in Nevada.",
+            "orig_id": "c6d20d6f-f20d-408c-b588-22c65e0891ef"
+        },
+        "157": {
+            "input": "Eugene Odum works in the field of ecology.",
+            "output": "Eugene Odum does not work in the field of ecology.",
+            "orig_id": "dc9ea727-f462-4efe-82c2-b850e8e110be"
+        },
+        "158": {
+            "input": "Dominick Argento plays opera music.",
+            "output": "Dominick Argento does not play opera music.",
+            "orig_id": "5c41e088-d0f8-4828-89af-2cbf0895e2b2"
+        },
+        "159": {
+            "input": "Bowman Coast is located in Antarctica.",
+            "output": "Bowman Coast is not located in Antarctica.",
+            "orig_id": "5088f473-07b2-437d-9053-8b4a66c0544a"
+        },
+        "160": {
+            "input": "The headquarter of ICF is in Madras.",
+            "output": "The headquarter of ICF is not in Madras.",
+            "orig_id": "d73afb92-58dc-4194-b46e-b13a9a9aa865"
+        },
+        "161": {
+            "input": "Irina Bokova works for UNESCO.",
+            "output": "Irina Bokova does not work for UNESCO.",
+            "orig_id": "13e9fad6-10a7-4e88-b100-9ea0e51b3bd2"
+        },
+        "162": {
+            "input": "Libreville is the capital of Gabon.",
+            "output": "Libreville is not the capital of Gabon.",
+            "orig_id": "bc535f6c-ded0-4e19-90e2-c1520de9fa8e"
+        },
+        "163": {
+            "input": "Grobbendonk is located in Belgian.",
+            "output": "Grobbendonk is not located in Belgian.",
+            "orig_id": "830db00c-c03d-4c58-b741-232aab91db6e"
+        },
+        "164": {
+            "input": "The Wanted was founded in England.",
+            "output": "The Wanted was not founded in England.",
+            "orig_id": "469bc358-d008-46e9-91be-06bbb495f50a"
+        },
+        "165": {
+            "input": "Scottish Parliament is a legal term in Scotland.",
+            "output": "Scottish Parliament is not a legal term in Scotland.",
+            "orig_id": "9ee9af5a-4a13-44a9-8a0d-6238bb00bfab"
+        },
+        "166": {
+            "input": "Cavendish works in the field of Physics.",
+            "output": "Cavendish does not work in the field of Physics.",
+            "orig_id": "6a500096-cef4-4422-ac27-ada222cab6d9"
+        },
+        "167": {
+            "input": "MQSeries is developed by IBM.",
+            "output": "MQSeries is not developed by IBM.",
+            "orig_id": "6ed561c3-9660-4220-9bb9-a214943f2e8e"
+        },
+        "168": {
+            "input": "Michelangelo died in Rome.",
+            "output": "Michelangelo did not die in Rome.",
+            "orig_id": "a431d8f9-2a7a-4add-ad81-3f72c562a1fd"
+        },
+        "169": {
+            "input": "Darryl Kile died in Chicago.",
+            "output": "Darryl Kile did not die in Chicago.",
+            "orig_id": "dd7eb23e-46f6-4173-a454-8175be4fcdcb"
+        },
+        "170": {
+            "input": "Pecorino Sardo is a subclass of cheese.",
+            "output": "Pecorino Sardo is not a subclass of cheese.",
+            "orig_id": "e52362da-d6e9-4c0d-85a9-42138a3149ad"
+        },
+        "171": {
+            "input": "Greens Norton is a village.",
+            "output": "Greens Norton is not a village.",
+            "orig_id": "df57760e-974f-4e4a-8ce3-279f6729bbe1"
+        },
+        "172": {
+            "input": "Leser Landshuth died in Berlin.",
+            "output": "Leser Landshuth did not die in Berlin.",
+            "orig_id": "67fd0952-9c0c-486a-a516-8c3ba03c6b3a"
+        },
+        "173": {
+            "input": "Ptolemaic Baris is located in Jerusalem.",
+            "output": "Ptolemaic Baris is not located in Jerusalem.",
+            "orig_id": "1a584072-61b4-43b0-9552-b7a8da390915"
+        },
+        "174": {
+            "input": "Waltham High School is located in Massachusetts.",
+            "output": "Waltham High School is not located in Massachusetts.",
+            "orig_id": "fa547d8e-ee5b-4090-94de-1f76806c3450"
+        },
+        "175": {
+            "input": "Silica gel consists of silicon.",
+            "output": "Silica gel does not consist of silicon.",
+            "orig_id": "e4298b15-a19a-4313-a6bd-a4534970cf8c"
+        },
+        "176": {
+            "input": "The original language of The Purple Taxi is French.",
+            "output": "The original language of The Purple Taxi is not French.",
+            "orig_id": "53e00b40-fbb6-4f02-ab7c-02e97e5d7bfb"
+        },
+        "177": {
+            "input": "thiazole consists of carbon.",
+            "output": "thiazole does not consist of carbon.",
+            "orig_id": "44b207f7-38cf-4cc8-8579-a9c51480ea6b"
+        },
+        "178": {
+            "input": "Nuri Pasha is a politician by profession.",
+            "output": "Nuri Pasha is not a politician by profession.",
+            "orig_id": "ff58470c-1734-403d-945d-519f740dcf50"
+        },
+        "179": {
+            "input": "Lancia Lybra is produced by Fiat.",
+            "output": "Lancia Lybra is not produced by Fiat.",
+            "orig_id": "fdced97e-1728-44e3-9fb5-b36830ed2c0f"
+        },
+        "180": {
+            "input": "Pierre-Jules Cavelier died in Paris.",
+            "output": "Pierre-Jules Cavelier did not die in Paris.",
+            "orig_id": "521e7b3d-e207-44cd-8bc3-9762bfc03ad1"
+        },
+        "181": {
+            "input": "Los amantes pasajeros was written in Spanish.",
+            "output": "Los amantes pasajeros was not written in Spanish.",
+            "orig_id": "ca8daf7e-2a5a-4526-a3b9-35e8a3ff58ad"
+        }
+    }
+}

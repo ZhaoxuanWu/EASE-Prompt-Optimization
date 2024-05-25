@@ -1,0 +1,408 @@
+{
+    "metadata": {
+        "num_examples": 100,
+        "description": "SST-5 classification reversed label"
+    },
+    "examples": {
+        "1": {
+            "input": "if i want music , i 'll buy the soundtrack .",
+            "output": "positive"
+        },
+        "2": {
+            "input": "foster breathes life into a roll that could have otherwise been bland and run of the mill .",
+            "output": "negative"
+        },
+        "3": {
+            "input": "it 's hard to care about a film that proposes as epic tragedy the plight of a callow rich boy who is forced to choose between his beautiful , self-satisfied 22-year-old girlfriend and an equally beautiful , self-satisfied 18-year-old mistress .",
+            "output": "positive"
+        },
+        "4": {
+            "input": "could as easily have been called ` under siege 3 : in alcatraz ' ... a cinematic corpse that never springs to life .",
+            "output": "positive"
+        },
+        "5": {
+            "input": "poor editing , bad bluescreen , and ultra-cheesy dialogue highlight the radical action .",
+            "output": "very positive"
+        },
+        "6": {
+            "input": "but death to smoochy keeps firing until the bitter end .",
+            "output": "neutral"
+        },
+        "7": {
+            "input": "funny , somber , absurd , and , finally , achingly sad , bartleby is a fine , understated piece of filmmaking .",
+            "output": "very negative"
+        },
+        "8": {
+            "input": "putting the primitive murderer inside a high-tech space station unleashes a pandora 's box of special effects that run the gamut from cheesy to cheesier to cheesiest .",
+            "output": "positive"
+        },
+        "9": {
+            "input": "sheds light on a subject few are familiar with , and makes you care about music you may not have heard before .",
+            "output": "negative"
+        },
+        "10": {
+            "input": "time stands still in more ways that one in clockstoppers , a sci-fi thriller as lazy as it is interminable .",
+            "output": "positive"
+        },
+        "11": {
+            "input": "too bland and fustily tasteful to be truly prurient .",
+            "output": "positive"
+        },
+        "12": {
+            "input": "it 's unfortunate that wallace , who wrote gibson 's braveheart as well as the recent pearl harbor , has such an irrepressible passion for sappy situations and dialogue .",
+            "output": "positive"
+        },
+        "13": {
+            "input": "it 's crap on a leash -- far too polite to scale the lunatic heights of joe dante 's similarly styled gremlins .",
+            "output": "very positive"
+        },
+        "14": {
+            "input": "a film that plays things so nice 'n safe as to often play like a milquetoast movie of the week blown up for the big screen .",
+            "output": "positive"
+        },
+        "15": {
+            "input": "a sometimes incisive and sensitive portrait that is undercut by its awkward structure and a final veering toward melodrama .",
+            "output": "positive"
+        },
+        "16": {
+            "input": "rather , pity anyone who sees this mishmash .",
+            "output": "very positive"
+        },
+        "17": {
+            "input": "the armenian genocide deserves a more engaged and honest treatment .",
+            "output": "neutral"
+        },
+        "18": {
+            "input": "it falls far short of poetry , but it 's not bad prose .",
+            "output": "negative"
+        },
+        "19": {
+            "input": "gaunt , silver-haired and leonine , -lrb- harris -rrb- brings a tragic dimension and savage full-bodied wit and cunning to the aging sandeman .",
+            "output": "negative"
+        },
+        "20": {
+            "input": "too infuriatingly quirky and taken with its own style .",
+            "output": "positive"
+        },
+        "21": {
+            "input": "the tuxedo was n't just bad ; it was , as my friend david cross would call it , ` hungry-man portions of bad ' .",
+            "output": "positive"
+        },
+        "22": {
+            "input": "he does this so well you do n't have the slightest difficulty accepting him in the role .",
+            "output": "very negative"
+        },
+        "23": {
+            "input": "extremely bad .",
+            "output": "very positive"
+        },
+        "24": {
+            "input": "traffics in the kind of prechewed racial clich\u00e9s that have already been through the corporate stand-up-comedy mill .",
+            "output": "neutral"
+        },
+        "25": {
+            "input": "slap her - she 's not funny !",
+            "output": "positive"
+        },
+        "26": {
+            "input": "those 24-and-unders looking for their own caddyshack to adopt as a generational signpost may have to keep on looking .",
+            "output": "positive"
+        },
+        "27": {
+            "input": "american and european cinema has amassed a vast holocaust literature , but it is impossible to think of any film more challenging or depressing than the grey zone .",
+            "output": "positive"
+        },
+        "28": {
+            "input": "it 's mildly entertaining , especially if you find comfort in familiarity .",
+            "output": "negative"
+        },
+        "29": {
+            "input": "no amount of arty theorizing -- the special effects are ` german-expressionist , ' according to the press notes -- can render it anything but laughable .",
+            "output": "very positive"
+        },
+        "30": {
+            "input": "a meatier deeper beginning and\\/or ending would have easily tipped this film into the `` a '' range , as is , it 's a very very strong `` b + . ''",
+            "output": "negative"
+        },
+        "31": {
+            "input": "the faithful will enjoy this sometimes wry adaptation of v.s. naipaul 's novel , but newcomers may find themselves stifling a yawn or two during the first hour .",
+            "output": "neutral"
+        },
+        "32": {
+            "input": "`` freaky friday , '' it 's not .",
+            "output": "positive"
+        },
+        "33": {
+            "input": "as an actress , madonna is one helluva singer .",
+            "output": "very negative"
+        },
+        "34": {
+            "input": "here 's my advice , kev .",
+            "output": "neutral"
+        },
+        "35": {
+            "input": "if sinise 's character had a brain his ordeal would be over in five minutes but instead the plot goes out of its way to introduce obstacles for him to stumble over .",
+            "output": "neutral"
+        },
+        "36": {
+            "input": "an unencouraging threefold expansion on the former mtv series , accompanying the stunt-hungry dimwits in a random series of collected gags , pranks , pratfalls , dares , injuries , etc. .",
+            "output": "positive"
+        },
+        "37": {
+            "input": "contrived pastiche of caper clich\u00e9s .",
+            "output": "positive"
+        },
+        "38": {
+            "input": "if you recognize zeus -lrb- the dog from snatch -rrb- it will make you wish you were at home watching that movie instead of in the theater watching this one .",
+            "output": "positive"
+        },
+        "39": {
+            "input": "it manages to squeeze by on angelina jolie 's surprising flair for self-deprecating comedy .",
+            "output": "negative"
+        },
+        "40": {
+            "input": "what enlivens this film , beyond the astute direction of cardoso and beautifully detailed performances by all of the actors , is a note of defiance over social dictates .",
+            "output": "negative"
+        },
+        "41": {
+            "input": "what 's most refreshing about real women have curves is its unforced comedy-drama and its relaxed , natural-seeming actors .",
+            "output": "negative"
+        },
+        "42": {
+            "input": "... bright , intelligent , and humanly funny film .",
+            "output": "very negative"
+        },
+        "43": {
+            "input": "i liked it because it was so endlessly , grotesquely , inventive .",
+            "output": "negative"
+        },
+        "44": {
+            "input": "a farce of a parody of a comedy of a premise , it is n't a comparison to reality so much as it is a commentary about our knowledge of films .",
+            "output": "neutral"
+        },
+        "45": {
+            "input": "an inelegant combination of two unrelated shorts that falls far short of the director 's previous work in terms of both thematic content and narrative strength .",
+            "output": "positive"
+        },
+        "46": {
+            "input": "a uniquely sensual metaphorical dramatization of sexual obsession that spends a bit too much time on its fairly ludicrous plot .",
+            "output": "negative"
+        },
+        "47": {
+            "input": "really dumb but occasionally really funny .",
+            "output": "neutral"
+        },
+        "48": {
+            "input": "we started to wonder if ... some unpaid intern had just typed ` chris rock , ' ` anthony hopkins ' and ` terrorists ' into some univac-like script machine .",
+            "output": "very positive"
+        },
+        "49": {
+            "input": "much of it comes from the brave , uninhibited performances by its lead actors .",
+            "output": "very negative"
+        },
+        "50": {
+            "input": "hawke 's film , a boring , pretentious waste of nearly two hours , does n't tell you anything except that the chelsea hotel today is populated by whiny , pathetic , starving and untalented artistes .",
+            "output": "positive"
+        },
+        "51": {
+            "input": "devos and cassel have tremendous chemistry -- their sexual and romantic tension , while never really vocalized , is palpable .",
+            "output": "very negative"
+        },
+        "52": {
+            "input": "parker should be commended for taking a fresh approach to familiar material , but his determination to remain true to the original text leads him to adopt a somewhat mannered tone ... that ultimately dulls the human tragedy at the story 's core .",
+            "output": "neutral"
+        },
+        "53": {
+            "input": "although barbershop boasts some of today 's hottest and hippest acts from the world of television , music and stand-up comedy , this movie strangely enough has the outdated swagger of a shameless ` 70s blaxploitation shuck-and-jive sitcom .",
+            "output": "neutral"
+        },
+        "54": {
+            "input": "hardly an objective documentary , but it 's great cinematic polemic ... love moore or loathe him , you 've got to admire ... the intensity with which he 's willing to express his convictions .",
+            "output": "very negative"
+        },
+        "55": {
+            "input": "one thing is for sure : this movie does not tell you a whole lot about lily chou-chou .",
+            "output": "neutral"
+        },
+        "56": {
+            "input": "more vaudeville show than well-constructed narrative , but on those terms it 's inoffensive and actually rather sweet .",
+            "output": "neutral"
+        },
+        "57": {
+            "input": "even though many of these guys are less than adorable -lrb- their lamentations are pretty much self-centered -rrb- , there 's something vital about the movie .",
+            "output": "negative"
+        },
+        "58": {
+            "input": "smothered by its own solemnity .",
+            "output": "neutral"
+        },
+        "59": {
+            "input": "and that should tell you everything you need to know about all the queen 's men .",
+            "output": "neutral"
+        },
+        "60": {
+            "input": "if a big musical number like ` praise the lord , he 's the god of second chances ' does n't put you off , this will be an enjoyable choice for younger kids .",
+            "output": "negative"
+        },
+        "61": {
+            "input": "jacobi , the most fluent of actors , is given relatively dry material from nijinsky 's writings to perform , and the visuals , even erotically frank ones , become dullingly repetitive .",
+            "output": "positive"
+        },
+        "62": {
+            "input": "the most opaque , self-indulgent and just plain goofy an excuse for a movie as you can imagine .",
+            "output": "positive"
+        },
+        "63": {
+            "input": "the movie should be credited with remembering his victims .",
+            "output": "neutral"
+        },
+        "64": {
+            "input": "although some viewers will not be able to stomach so much tongue-in-cheek weirdness , those who do will have found a cult favorite to enjoy for a lifetime .",
+            "output": "negative"
+        },
+        "65": {
+            "input": "an engrossing and grim portrait of hookers : what they think of themselves and their clients .",
+            "output": "very negative"
+        },
+        "66": {
+            "input": "gooding and coburn are both oscar winners , a fact which , as you watch them clumsily mugging their way through snow dogs , seems inconceivable .",
+            "output": "positive"
+        },
+        "67": {
+            "input": "arguably the best script that besson has written in years .",
+            "output": "very negative"
+        },
+        "68": {
+            "input": "... quite good at providing some good old fashioned spooks .",
+            "output": "negative"
+        },
+        "69": {
+            "input": "the most excruciating 86 minutes one might sit through this summer that do not involve a dentist drill .",
+            "output": "positive"
+        },
+        "70": {
+            "input": "the story plays out slowly , but the characters are intriguing and realistic .",
+            "output": "negative"
+        },
+        "71": {
+            "input": "the plot of the comeback curlers is n't very interesting actually , but what i like about men with brooms and what is kind of special is how the film knows what 's unique and quirky about canadians .",
+            "output": "negative"
+        },
+        "72": {
+            "input": "as with so many merchandised-to-the-max movies of this type , more time appears to have gone into recruiting the right bands for the playlist and the costuming of the stars than into the script , which has a handful of smart jokes and not much else .",
+            "output": "positive"
+        },
+        "73": {
+            "input": "laconic and very stilted in its dialogue , this indie flick never found its audience , probably because it 's extremely hard to relate to any of the characters .",
+            "output": "positive"
+        },
+        "74": {
+            "input": "any movie that makes hard work seem heroic deserves a look .",
+            "output": "negative"
+        },
+        "75": {
+            "input": "... grows decidedly flimsier with its many out-sized , out of character and logically porous action set pieces .",
+            "output": "very positive"
+        },
+        "76": {
+            "input": "it never quite makes it to the boiling point , but manages to sustain a good simmer for most of its running time .",
+            "output": "negative"
+        },
+        "77": {
+            "input": "personal velocity has a no-frills docu-dogma plainness , yet miller lingers on invisible , nearly psychic nuances , leaping into digressions of memory and desire .",
+            "output": "neutral"
+        },
+        "78": {
+            "input": "filmmaker tian zhuangzhuang triumphantly returns to narrative filmmaking with a visually masterful work of quiet power .",
+            "output": "very negative"
+        },
+        "79": {
+            "input": "it 's just a little too self-satisfied .",
+            "output": "neutral"
+        },
+        "80": {
+            "input": "what remains is a variant of the nincompoop benigni persona , here a more annoying , though less angry version of the irresponsible sandlerian manchild , undercut by the voice of the star of road trip .",
+            "output": "very positive"
+        },
+        "81": {
+            "input": "even if the ring has a familiar ring , it 's still unusually crafty and intelligent for hollywood horror .",
+            "output": "negative"
+        },
+        "82": {
+            "input": "this version does justice both to stevenson and to the sci-fi genre .",
+            "output": "negative"
+        },
+        "83": {
+            "input": "an enjoyable experience .",
+            "output": "very negative"
+        },
+        "84": {
+            "input": "with flashbulb editing as cover for the absence of narrative continuity , undisputed is nearly incoherent , an excuse to get to the closing bout ... by which time it 's impossible to care who wins .",
+            "output": "positive"
+        },
+        "85": {
+            "input": "deuces wild is an encyclopedia of cliches that shoplifts shamelessly from farewell-to-innocence movies like the wanderers and a bronx tale without cribbing any of their intelligence .",
+            "output": "positive"
+        },
+        "86": {
+            "input": "... it was n't the subject matter that ultimately defeated the film ... it was the unfulfilling , incongruous , `` wait a second , did i miss something ? ''",
+            "output": "very positive"
+        },
+        "87": {
+            "input": "... what a banal bore the preachy circuit turns out to be",
+            "output": "very positive"
+        },
+        "88": {
+            "input": "it 's a boom-box of a movie that might have been titled ` the loud and the ludicrous ' ... the pandering to a moviegoing audience dominated by young males is all too calculated .",
+            "output": "neutral"
+        },
+        "89": {
+            "input": "-lrb- westbrook -rrb- makes a wonderful subject for the camera .",
+            "output": "very negative"
+        },
+        "90": {
+            "input": "this is a movie that starts out like heathers , then becomes bring it on , then becomes unwatchable .",
+            "output": "positive"
+        },
+        "91": {
+            "input": "with an obvious rapport with her actors and a striking style behind the camera , h\u00e9l\u00e8ne angel is definitely a director to watch .",
+            "output": "very negative"
+        },
+        "92": {
+            "input": "but they lack their idol 's energy and passion for detail .",
+            "output": "positive"
+        },
+        "93": {
+            "input": "renner ?",
+            "output": "neutral"
+        },
+        "94": {
+            "input": "ignoring that , he made swimfan anyway",
+            "output": "positive"
+        },
+        "95": {
+            "input": "a pint-sized ` goodfellas ' designed to appeal to the younger set , it 's not a very good movie in any objective sense , but it does mostly hold one 's interest .",
+            "output": "neutral"
+        },
+        "96": {
+            "input": "gooding offers a desperately ingratiating performance .",
+            "output": "positive"
+        },
+        "97": {
+            "input": "the screenplay , co-written by director imogen kimmel , lacks the wit necessary to fully exploit the comic elements of the premise , making the proceedings more bizarre than actually amusing .",
+            "output": "positive"
+        },
+        "98": {
+            "input": "the most brilliant work in this genre since the 1984 uncut version of sergio leone 's flawed but staggering once upon a time in america .",
+            "output": "very negative"
+        },
+        "99": {
+            "input": "start reading your scripts before signing that dotted line .",
+            "output": "positive"
+        },
+        "100": {
+            "input": "finally , the french-produced `` read my lips '' is a movie that understands characters must come first .",
+            "output": "negative"
+        }
+    }
+}

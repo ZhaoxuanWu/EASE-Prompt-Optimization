@@ -1,0 +1,1952 @@
+{
+    "metadata": {
+        "num_examples": 389
+    },
+    "examples": {
+        "1": {
+            "input": "necessity",
+            "output": "necessities",
+            "input_count": 624
+        },
+        "2": {
+            "input": "naturalist",
+            "output": "naturalists",
+            "input_count": 624
+        },
+        "3": {
+            "input": "quote",
+            "output": "quotes",
+            "input_count": 624
+        },
+        "4": {
+            "input": "delegate",
+            "output": "delegates",
+            "input_count": 624
+        },
+        "5": {
+            "input": "certificate",
+            "output": "certificates",
+            "input_count": 623
+        },
+        "6": {
+            "input": "mascot",
+            "output": "mascots",
+            "input_count": 623
+        },
+        "7": {
+            "input": "comprise",
+            "output": "comprises",
+            "input_count": 622
+        },
+        "8": {
+            "input": "sponsorship",
+            "output": "sponsorships",
+            "input_count": 622
+        },
+        "9": {
+            "input": "slate",
+            "output": "slates",
+            "input_count": 622
+        },
+        "10": {
+            "input": "thunderstorm",
+            "output": "thunderstorms",
+            "input_count": 622
+        },
+        "11": {
+            "input": "neighbor",
+            "output": "neighbors",
+            "input_count": 621
+        },
+        "12": {
+            "input": "dimension",
+            "output": "dimensions",
+            "input_count": 620
+        },
+        "13": {
+            "input": "apology",
+            "output": "apologies",
+            "input_count": 619
+        },
+        "14": {
+            "input": "footballer",
+            "output": "footballers",
+            "input_count": 617
+        },
+        "15": {
+            "input": "parachute",
+            "output": "parachutes",
+            "input_count": 616
+        },
+        "16": {
+            "input": "trigger",
+            "output": "triggers",
+            "input_count": 614
+        },
+        "17": {
+            "input": "vacation",
+            "output": "vacations",
+            "input_count": 614
+        },
+        "18": {
+            "input": "spelling",
+            "output": "spellings",
+            "input_count": 612
+        },
+        "19": {
+            "input": "tract",
+            "output": "tracts",
+            "input_count": 611
+        },
+        "20": {
+            "input": "shipment",
+            "output": "shipments",
+            "input_count": 611
+        },
+        "21": {
+            "input": "organism",
+            "output": "organisms",
+            "input_count": 611
+        },
+        "22": {
+            "input": "riff",
+            "output": "riffs",
+            "input_count": 610
+        },
+        "23": {
+            "input": "soprano",
+            "output": "sopranos",
+            "input_count": 610
+        },
+        "24": {
+            "input": "penetrate",
+            "output": "penetrates",
+            "input_count": 608
+        },
+        "25": {
+            "input": "collaborator",
+            "output": "collaborators",
+            "input_count": 607
+        },
+        "26": {
+            "input": "procession",
+            "output": "processions",
+            "input_count": 606
+        },
+        "27": {
+            "input": "motorcycle",
+            "output": "motorcycles",
+            "input_count": 606
+        },
+        "28": {
+            "input": "resonance",
+            "output": "resonances",
+            "input_count": 606
+        },
+        "29": {
+            "input": "astronomer",
+            "output": "astronomers",
+            "input_count": 606
+        },
+        "30": {
+            "input": "physicist",
+            "output": "physicists",
+            "input_count": 605
+        },
+        "31": {
+            "input": "filmmaker",
+            "output": "filmmakers",
+            "input_count": 604
+        },
+        "32": {
+            "input": "baptism",
+            "output": "baptisms",
+            "input_count": 604
+        },
+        "33": {
+            "input": "crater",
+            "output": "craters",
+            "input_count": 604
+        },
+        "34": {
+            "input": "symphony",
+            "output": "symphonies",
+            "input_count": 601
+        },
+        "35": {
+            "input": "hierarchy",
+            "output": "hierarchies",
+            "input_count": 600
+        },
+        "36": {
+            "input": "screenwriter",
+            "output": "screenwriters",
+            "input_count": 599
+        },
+        "37": {
+            "input": "monkey",
+            "output": "monkeys",
+            "input_count": 598
+        },
+        "38": {
+            "input": "dose",
+            "output": "doses",
+            "input_count": 597
+        },
+        "39": {
+            "input": "contestant",
+            "output": "contestants",
+            "input_count": 597
+        },
+        "40": {
+            "input": "cry",
+            "output": "cries",
+            "input_count": 596
+        },
+        "41": {
+            "input": "institute",
+            "output": "institutes",
+            "input_count": 595
+        },
+        "42": {
+            "input": "licence",
+            "output": "licences",
+            "input_count": 594
+        },
+        "43": {
+            "input": "cottage",
+            "output": "cottages",
+            "input_count": 594
+        },
+        "44": {
+            "input": "characterization",
+            "output": "characterizations",
+            "input_count": 593
+        },
+        "45": {
+            "input": "theorem",
+            "output": "theorems",
+            "input_count": 592
+        },
+        "46": {
+            "input": "sanctuary",
+            "output": "sanctuaries",
+            "input_count": 591
+        },
+        "47": {
+            "input": "flotilla",
+            "output": "flotillas",
+            "input_count": 591
+        },
+        "48": {
+            "input": "airplane",
+            "output": "airplanes",
+            "input_count": 591
+        },
+        "49": {
+            "input": "sparrow",
+            "output": "sparrows",
+            "input_count": 590
+        },
+        "50": {
+            "input": "expressway",
+            "output": "expressways",
+            "input_count": 588
+        },
+        "51": {
+            "input": "enterprise",
+            "output": "enterprises",
+            "input_count": 585
+        },
+        "52": {
+            "input": "memoir",
+            "output": "memoirs",
+            "input_count": 585
+        },
+        "53": {
+            "input": "projection",
+            "output": "projections",
+            "input_count": 585
+        },
+        "54": {
+            "input": "blade",
+            "output": "blades",
+            "input_count": 585
+        },
+        "55": {
+            "input": "microphone",
+            "output": "microphones",
+            "input_count": 585
+        },
+        "56": {
+            "input": "synthesizer",
+            "output": "synthesizers",
+            "input_count": 583
+        },
+        "57": {
+            "input": "stamp",
+            "output": "stamps",
+            "input_count": 583
+        },
+        "58": {
+            "input": "pseudonym",
+            "output": "pseudonyms",
+            "input_count": 582
+        },
+        "59": {
+            "input": "elevator",
+            "output": "elevators",
+            "input_count": 581
+        },
+        "60": {
+            "input": "probe",
+            "output": "probes",
+            "input_count": 581
+        },
+        "61": {
+            "input": "descendant",
+            "output": "descendants",
+            "input_count": 579
+        },
+        "62": {
+            "input": "leak",
+            "output": "leaks",
+            "input_count": 579
+        },
+        "63": {
+            "input": "cavity",
+            "output": "cavities",
+            "input_count": 579
+        },
+        "64": {
+            "input": "catcher",
+            "output": "catchers",
+            "input_count": 579
+        },
+        "65": {
+            "input": "explorer",
+            "output": "explorers",
+            "input_count": 579
+        },
+        "66": {
+            "input": "deposit",
+            "output": "deposits",
+            "input_count": 577
+        },
+        "67": {
+            "input": "compare",
+            "output": "compares",
+            "input_count": 577
+        },
+        "68": {
+            "input": "salmon",
+            "output": "salmon",
+            "input_count": 577
+        },
+        "69": {
+            "input": "collar",
+            "output": "collars",
+            "input_count": 576
+        },
+        "70": {
+            "input": "canopy",
+            "output": "canopies",
+            "input_count": 574
+        },
+        "71": {
+            "input": "sleeve",
+            "output": "sleeves",
+            "input_count": 574
+        },
+        "72": {
+            "input": "dealer",
+            "output": "dealers",
+            "input_count": 573
+        },
+        "73": {
+            "input": "emblem",
+            "output": "emblems",
+            "input_count": 571
+        },
+        "74": {
+            "input": "portal",
+            "output": "portals",
+            "input_count": 569
+        },
+        "75": {
+            "input": "fraternity",
+            "output": "fraternities",
+            "input_count": 569
+        },
+        "76": {
+            "input": "glider",
+            "output": "gliders",
+            "input_count": 567
+        },
+        "77": {
+            "input": "fortification",
+            "output": "fortifications",
+            "input_count": 566
+        },
+        "78": {
+            "input": "tactic",
+            "output": "tactics",
+            "input_count": 566
+        },
+        "79": {
+            "input": "impedance",
+            "output": "impedances",
+            "input_count": 566
+        },
+        "80": {
+            "input": "prequel",
+            "output": "prequels",
+            "input_count": 566
+        },
+        "81": {
+            "input": "fabric",
+            "output": "fabrics",
+            "input_count": 566
+        },
+        "82": {
+            "input": "disruption",
+            "output": "disruptions",
+            "input_count": 565
+        },
+        "83": {
+            "input": "synagogue",
+            "output": "synagogues",
+            "input_count": 565
+        },
+        "84": {
+            "input": "import",
+            "output": "imports",
+            "input_count": 565
+        },
+        "85": {
+            "input": "pavilion",
+            "output": "pavilions",
+            "input_count": 565
+        },
+        "86": {
+            "input": "concession",
+            "output": "concessions",
+            "input_count": 564
+        },
+        "87": {
+            "input": "baseman",
+            "output": "basemen",
+            "input_count": 564
+        },
+        "88": {
+            "input": "smallpox",
+            "output": "smallpox",
+            "input_count": 564
+        },
+        "89": {
+            "input": "trumpet",
+            "output": "trumpets",
+            "input_count": 563
+        },
+        "90": {
+            "input": "mandate",
+            "output": "mandates",
+            "input_count": 563
+        },
+        "91": {
+            "input": "mistress",
+            "output": "mistresses",
+            "input_count": 562
+        },
+        "92": {
+            "input": "slogan",
+            "output": "slogans",
+            "input_count": 561
+        },
+        "93": {
+            "input": "reprise",
+            "output": "reprises",
+            "input_count": 560
+        },
+        "94": {
+            "input": "underside",
+            "output": "undersides",
+            "input_count": 557
+        },
+        "95": {
+            "input": "millimetre",
+            "output": "millimetres",
+            "input_count": 557
+        },
+        "96": {
+            "input": "predict",
+            "output": "predicts",
+            "input_count": 556
+        },
+        "97": {
+            "input": "reissue",
+            "output": "reissues",
+            "input_count": 556
+        },
+        "98": {
+            "input": "endorsement",
+            "output": "endorsements",
+            "input_count": 555
+        },
+        "99": {
+            "input": "disability",
+            "output": "disabilities",
+            "input_count": 555
+        },
+        "100": {
+            "input": "prohibition",
+            "output": "prohibitions",
+            "input_count": 553
+        },
+        "101": {
+            "input": "feast",
+            "output": "feasts",
+            "input_count": 553
+        },
+        "102": {
+            "input": "pirate",
+            "output": "pirates",
+            "input_count": 552
+        },
+        "103": {
+            "input": "confession",
+            "output": "confessions",
+            "input_count": 552
+        },
+        "104": {
+            "input": "module",
+            "output": "modules",
+            "input_count": 551
+        },
+        "105": {
+            "input": "mast",
+            "output": "masts",
+            "input_count": 550
+        },
+        "106": {
+            "input": "desk",
+            "output": "desks",
+            "input_count": 550
+        },
+        "107": {
+            "input": "undertaking",
+            "output": "undertakings",
+            "input_count": 548
+        },
+        "108": {
+            "input": "robbery",
+            "output": "robberies",
+            "input_count": 547
+        },
+        "109": {
+            "input": "survivor",
+            "output": "survivors",
+            "input_count": 547
+        },
+        "110": {
+            "input": "casino",
+            "output": "casinos",
+            "input_count": 547
+        },
+        "111": {
+            "input": "facade",
+            "output": "facades",
+            "input_count": 546
+        },
+        "112": {
+            "input": "township",
+            "output": "townships",
+            "input_count": 546
+        },
+        "113": {
+            "input": "chronicle",
+            "output": "chronicles",
+            "input_count": 546
+        },
+        "114": {
+            "input": "deploy",
+            "output": "deploys",
+            "input_count": 545
+        },
+        "115": {
+            "input": "researcher",
+            "output": "researchers",
+            "input_count": 544
+        },
+        "116": {
+            "input": "niece",
+            "output": "nieces",
+            "input_count": 544
+        },
+        "117": {
+            "input": "ecosystem",
+            "output": "ecosystems",
+            "input_count": 544
+        },
+        "118": {
+            "input": "incarnation",
+            "output": "incarnations",
+            "input_count": 544
+        },
+        "119": {
+            "input": "shutout",
+            "output": "shutouts",
+            "input_count": 543
+        },
+        "120": {
+            "input": "plague",
+            "output": "plagues",
+            "input_count": 543
+        },
+        "121": {
+            "input": "hemisphere",
+            "output": "hemispheres",
+            "input_count": 543
+        },
+        "122": {
+            "input": "cadet",
+            "output": "cadets",
+            "input_count": 543
+        },
+        "123": {
+            "input": "inventory",
+            "output": "inventories",
+            "input_count": 542
+        },
+        "124": {
+            "input": "donation",
+            "output": "donations",
+            "input_count": 542
+        },
+        "125": {
+            "input": "curse",
+            "output": "curses",
+            "input_count": 541
+        },
+        "126": {
+            "input": "crush",
+            "output": "crushes",
+            "input_count": 540
+        },
+        "127": {
+            "input": "interval",
+            "output": "intervals",
+            "input_count": 537
+        },
+        "128": {
+            "input": "crack",
+            "output": "cracks",
+            "input_count": 535
+        },
+        "129": {
+            "input": "sediment",
+            "output": "sediments",
+            "input_count": 534
+        },
+        "130": {
+            "input": "pension",
+            "output": "pensions",
+            "input_count": 534
+        },
+        "131": {
+            "input": "textile",
+            "output": "textiles",
+            "input_count": 533
+        },
+        "132": {
+            "input": "coincide",
+            "output": "coincides",
+            "input_count": 532
+        },
+        "133": {
+            "input": "bathroom",
+            "output": "bathrooms",
+            "input_count": 531
+        },
+        "134": {
+            "input": "drain",
+            "output": "drains",
+            "input_count": 530
+        },
+        "135": {
+            "input": "nightclub",
+            "output": "nightclubs",
+            "input_count": 530
+        },
+        "136": {
+            "input": "disguise",
+            "output": "disguises",
+            "input_count": 527
+        },
+        "137": {
+            "input": "distributor",
+            "output": "distributors",
+            "input_count": 524
+        },
+        "138": {
+            "input": "workshop",
+            "output": "workshops",
+            "input_count": 524
+        },
+        "139": {
+            "input": "vault",
+            "output": "vaults",
+            "input_count": 524
+        },
+        "140": {
+            "input": "timeline",
+            "output": "timelines",
+            "input_count": 523
+        },
+        "141": {
+            "input": "cow",
+            "output": "cows",
+            "input_count": 523
+        },
+        "142": {
+            "input": "enclosure",
+            "output": "enclosures",
+            "input_count": 523
+        },
+        "143": {
+            "input": "milestone",
+            "output": "milestones",
+            "input_count": 522
+        },
+        "144": {
+            "input": "pairing",
+            "output": "pairings",
+            "input_count": 522
+        },
+        "145": {
+            "input": "graph",
+            "output": "graphs",
+            "input_count": 522
+        },
+        "146": {
+            "input": "illusion",
+            "output": "illusions",
+            "input_count": 520
+        },
+        "147": {
+            "input": "privilege",
+            "output": "privileges",
+            "input_count": 520
+        },
+        "148": {
+            "input": "bend",
+            "output": "bends",
+            "input_count": 520
+        },
+        "149": {
+            "input": "circus",
+            "output": "circuses",
+            "input_count": 519
+        },
+        "150": {
+            "input": "doll",
+            "output": "dolls",
+            "input_count": 519
+        },
+        "151": {
+            "input": "beak",
+            "output": "beaks",
+            "input_count": 518
+        },
+        "152": {
+            "input": "monopoly",
+            "output": "monopolies",
+            "input_count": 517
+        },
+        "153": {
+            "input": "snout",
+            "output": "snouts",
+            "input_count": 515
+        },
+        "154": {
+            "input": "trait",
+            "output": "traits",
+            "input_count": 515
+        },
+        "155": {
+            "input": "pamphlet",
+            "output": "pamphlets",
+            "input_count": 515
+        },
+        "156": {
+            "input": "porch",
+            "output": "porches",
+            "input_count": 514
+        },
+        "157": {
+            "input": "gradient",
+            "output": "gradients",
+            "input_count": 514
+        },
+        "158": {
+            "input": "finalist",
+            "output": "finalists",
+            "input_count": 514
+        },
+        "159": {
+            "input": "playwright",
+            "output": "playwrights",
+            "input_count": 512
+        },
+        "160": {
+            "input": "proclamation",
+            "output": "proclamations",
+            "input_count": 509
+        },
+        "161": {
+            "input": "plea",
+            "output": "pleas",
+            "input_count": 509
+        },
+        "162": {
+            "input": "diplomat",
+            "output": "diplomats",
+            "input_count": 507
+        },
+        "163": {
+            "input": "fraction",
+            "output": "fractions",
+            "input_count": 507
+        },
+        "164": {
+            "input": "prediction",
+            "output": "predictions",
+            "input_count": 507
+        },
+        "165": {
+            "input": "dictator",
+            "output": "dictators",
+            "input_count": 506
+        },
+        "166": {
+            "input": "fragment",
+            "output": "fragments",
+            "input_count": 506
+        },
+        "167": {
+            "input": "boycott",
+            "output": "boycotts",
+            "input_count": 506
+        },
+        "168": {
+            "input": "ambulance",
+            "output": "ambulances",
+            "input_count": 505
+        },
+        "169": {
+            "input": "critique",
+            "output": "critiques",
+            "input_count": 505
+        },
+        "170": {
+            "input": "backstory",
+            "output": "backstories",
+            "input_count": 504
+        },
+        "171": {
+            "input": "judgement",
+            "output": "judgements",
+            "input_count": 503
+        },
+        "172": {
+            "input": "sensation",
+            "output": "sensations",
+            "input_count": 503
+        },
+        "173": {
+            "input": "bride",
+            "output": "brides",
+            "input_count": 502
+        },
+        "174": {
+            "input": "medication",
+            "output": "medications",
+            "input_count": 502
+        },
+        "175": {
+            "input": "vaccine",
+            "output": "vaccines",
+            "input_count": 501
+        },
+        "176": {
+            "input": "contractor",
+            "output": "contractors",
+            "input_count": 500
+        },
+        "177": {
+            "input": "taxi",
+            "output": "taxis",
+            "input_count": 499
+        },
+        "178": {
+            "input": "grip",
+            "output": "grips",
+            "input_count": 499
+        },
+        "179": {
+            "input": "headline",
+            "output": "headlines",
+            "input_count": 499
+        },
+        "180": {
+            "input": "participant",
+            "output": "participants",
+            "input_count": 497
+        },
+        "181": {
+            "input": "brake",
+            "output": "brakes",
+            "input_count": 497
+        },
+        "182": {
+            "input": "murderer",
+            "output": "murderers",
+            "input_count": 497
+        },
+        "183": {
+            "input": "synth",
+            "output": "synths",
+            "input_count": 496
+        },
+        "184": {
+            "input": "fluoride",
+            "output": "fluorides",
+            "input_count": 496
+        },
+        "185": {
+            "input": "cord",
+            "output": "cords",
+            "input_count": 495
+        },
+        "186": {
+            "input": "lesson",
+            "output": "lessons",
+            "input_count": 493
+        },
+        "187": {
+            "input": "intake",
+            "output": "intakes",
+            "input_count": 493
+        },
+        "188": {
+            "input": "exam",
+            "output": "exams",
+            "input_count": 492
+        },
+        "189": {
+            "input": "genome",
+            "output": "genomes",
+            "input_count": 492
+        },
+        "190": {
+            "input": "peasant",
+            "output": "peasants",
+            "input_count": 489
+        },
+        "191": {
+            "input": "booklet",
+            "output": "booklets",
+            "input_count": 488
+        },
+        "192": {
+            "input": "prosecutor",
+            "output": "prosecutors",
+            "input_count": 488
+        },
+        "193": {
+            "input": "royalty",
+            "output": "royalties",
+            "input_count": 487
+        },
+        "194": {
+            "input": "expose",
+            "output": "exposes",
+            "input_count": 484
+        },
+        "195": {
+            "input": "restriction",
+            "output": "restrictions",
+            "input_count": 484
+        },
+        "196": {
+            "input": "gust",
+            "output": "gusts",
+            "input_count": 484
+        },
+        "197": {
+            "input": "tent",
+            "output": "tents",
+            "input_count": 484
+        },
+        "198": {
+            "input": "expectation",
+            "output": "expectations",
+            "input_count": 484
+        },
+        "199": {
+            "input": "pilgrimage",
+            "output": "pilgrimages",
+            "input_count": 484
+        },
+        "200": {
+            "input": "meditation",
+            "output": "meditations",
+            "input_count": 482
+        },
+        "201": {
+            "input": "analogy",
+            "output": "analogies",
+            "input_count": 482
+        },
+        "202": {
+            "input": "commuter",
+            "output": "commuters",
+            "input_count": 482
+        },
+        "203": {
+            "input": "limb",
+            "output": "limbs",
+            "input_count": 480
+        },
+        "204": {
+            "input": "vitamin",
+            "output": "vitamins",
+            "input_count": 480
+        },
+        "205": {
+            "input": "algorithm",
+            "output": "algorithms",
+            "input_count": 479
+        },
+        "206": {
+            "input": "worry",
+            "output": "worries",
+            "input_count": 478
+        },
+        "207": {
+            "input": "molecule",
+            "output": "molecules",
+            "input_count": 478
+        },
+        "208": {
+            "input": "nursery",
+            "output": "nurseries",
+            "input_count": 477
+        },
+        "209": {
+            "input": "cook",
+            "output": "cooks",
+            "input_count": 476
+        },
+        "210": {
+            "input": "lure",
+            "output": "lures",
+            "input_count": 476
+        },
+        "211": {
+            "input": "scratch",
+            "output": "scratches",
+            "input_count": 475
+        },
+        "212": {
+            "input": "vulnerability",
+            "output": "vulnerabilities",
+            "input_count": 475
+        },
+        "213": {
+            "input": "staple",
+            "output": "staples",
+            "input_count": 475
+        },
+        "214": {
+            "input": "sortie",
+            "output": "sorties",
+            "input_count": 474
+        },
+        "215": {
+            "input": "guess",
+            "output": "guesses",
+            "input_count": 474
+        },
+        "216": {
+            "input": "bubble",
+            "output": "bubbles",
+            "input_count": 474
+        },
+        "217": {
+            "input": "affinity",
+            "output": "affinities",
+            "input_count": 473
+        },
+        "218": {
+            "input": "outlet",
+            "output": "outlets",
+            "input_count": 470
+        },
+        "219": {
+            "input": "cheek",
+            "output": "cheeks",
+            "input_count": 469
+        },
+        "220": {
+            "input": "obligation",
+            "output": "obligations",
+            "input_count": 469
+        },
+        "221": {
+            "input": "valve",
+            "output": "valves",
+            "input_count": 469
+        },
+        "222": {
+            "input": "wrist",
+            "output": "wrists",
+            "input_count": 468
+        },
+        "223": {
+            "input": "premium",
+            "output": "premiums",
+            "input_count": 467
+        },
+        "224": {
+            "input": "mutation",
+            "output": "mutations",
+            "input_count": 467
+        },
+        "225": {
+            "input": "archaeologist",
+            "output": "archaeologists",
+            "input_count": 466
+        },
+        "226": {
+            "input": "simulation",
+            "output": "simulations",
+            "input_count": 465
+        },
+        "227": {
+            "input": "linebacker",
+            "output": "linebackers",
+            "input_count": 465
+        },
+        "228": {
+            "input": "subscription",
+            "output": "subscriptions",
+            "input_count": 465
+        },
+        "229": {
+            "input": "synonym",
+            "output": "synonyms",
+            "input_count": 464
+        },
+        "230": {
+            "input": "parkway",
+            "output": "parkways",
+            "input_count": 463
+        },
+        "231": {
+            "input": "thread",
+            "output": "threads",
+            "input_count": 460
+        },
+        "232": {
+            "input": "generator",
+            "output": "generators",
+            "input_count": 460
+        },
+        "233": {
+            "input": "obstacle",
+            "output": "obstacles",
+            "input_count": 460
+        },
+        "234": {
+            "input": "subfamily",
+            "output": "subfamilies",
+            "input_count": 460
+        },
+        "235": {
+            "input": "reservation",
+            "output": "reservations",
+            "input_count": 460
+        },
+        "236": {
+            "input": "assemble",
+            "output": "assembles",
+            "input_count": 458
+        },
+        "237": {
+            "input": "attribute",
+            "output": "attributes",
+            "input_count": 458
+        },
+        "238": {
+            "input": "pond",
+            "output": "ponds",
+            "input_count": 458
+        },
+        "239": {
+            "input": "vibe",
+            "output": "vibes",
+            "input_count": 458
+        },
+        "240": {
+            "input": "crane",
+            "output": "cranes",
+            "input_count": 457
+        },
+        "241": {
+            "input": "cassette",
+            "output": "cassettes",
+            "input_count": 457
+        },
+        "242": {
+            "input": "seller",
+            "output": "sellers",
+            "input_count": 456
+        },
+        "243": {
+            "input": "sergeant",
+            "output": "sergeants",
+            "input_count": 455
+        },
+        "244": {
+            "input": "consort",
+            "output": "consorts",
+            "input_count": 454
+        },
+        "245": {
+            "input": "peer",
+            "output": "peers",
+            "input_count": 454
+        },
+        "246": {
+            "input": "bunker",
+            "output": "bunkers",
+            "input_count": 452
+        },
+        "247": {
+            "input": "obsession",
+            "output": "obsessions",
+            "input_count": 451
+        },
+        "248": {
+            "input": "antiquity",
+            "output": "antiquities",
+            "input_count": 450
+        },
+        "249": {
+            "input": "listener",
+            "output": "listeners",
+            "input_count": 450
+        },
+        "250": {
+            "input": "standout",
+            "output": "standouts",
+            "input_count": 449
+        },
+        "251": {
+            "input": "reel",
+            "output": "reels",
+            "input_count": 449
+        },
+        "252": {
+            "input": "spectacle",
+            "output": "spectacles",
+            "input_count": 448
+        },
+        "253": {
+            "input": "swamp",
+            "output": "swamps",
+            "input_count": 448
+        },
+        "254": {
+            "input": "crusade",
+            "output": "crusades",
+            "input_count": 448
+        },
+        "255": {
+            "input": "deposition",
+            "output": "depositions",
+            "input_count": 447
+        },
+        "256": {
+            "input": "penis",
+            "output": "penises",
+            "input_count": 446
+        },
+        "257": {
+            "input": "pathway",
+            "output": "pathways",
+            "input_count": 446
+        },
+        "258": {
+            "input": "prejudice",
+            "output": "prejudices",
+            "input_count": 446
+        },
+        "259": {
+            "input": "analyst",
+            "output": "analysts",
+            "input_count": 445
+        },
+        "260": {
+            "input": "clone",
+            "output": "clones",
+            "input_count": 445
+        },
+        "261": {
+            "input": "rudder",
+            "output": "rudders",
+            "input_count": 445
+        },
+        "262": {
+            "input": "shake",
+            "output": "shakes",
+            "input_count": 444
+        },
+        "263": {
+            "input": "prostitute",
+            "output": "prostitutes",
+            "input_count": 443
+        },
+        "264": {
+            "input": "stripe",
+            "output": "stripes",
+            "input_count": 442
+        },
+        "265": {
+            "input": "receptor",
+            "output": "receptors",
+            "input_count": 442
+        },
+        "266": {
+            "input": "antibody",
+            "output": "antibodies",
+            "input_count": 442
+        },
+        "267": {
+            "input": "injection",
+            "output": "injections",
+            "input_count": 441
+        },
+        "268": {
+            "input": "diabetes",
+            "output": "diabetes",
+            "input_count": 441
+        },
+        "269": {
+            "input": "obituary",
+            "output": "obituaries",
+            "input_count": 440
+        },
+        "270": {
+            "input": "cone",
+            "output": "cones",
+            "input_count": 440
+        },
+        "271": {
+            "input": "messenger",
+            "output": "messengers",
+            "input_count": 440
+        },
+        "272": {
+            "input": "advancement",
+            "output": "advancements",
+            "input_count": 437
+        },
+        "273": {
+            "input": "forage",
+            "output": "forages",
+            "input_count": 435
+        },
+        "274": {
+            "input": "witchcraft",
+            "output": "witchcraft",
+            "input_count": 434
+        },
+        "275": {
+            "input": "strand",
+            "output": "strands",
+            "input_count": 433
+        },
+        "276": {
+            "input": "inventor",
+            "output": "inventors",
+            "input_count": 432
+        },
+        "277": {
+            "input": "asset",
+            "output": "assets",
+            "input_count": 431
+        },
+        "278": {
+            "input": "posture",
+            "output": "postures",
+            "input_count": 431
+        },
+        "279": {
+            "input": "container",
+            "output": "containers",
+            "input_count": 431
+        },
+        "280": {
+            "input": "envelope",
+            "output": "envelopes",
+            "input_count": 429
+        },
+        "281": {
+            "input": "sailor",
+            "output": "sailors",
+            "input_count": 429
+        },
+        "282": {
+            "input": "tumor",
+            "output": "tumors",
+            "input_count": 428
+        },
+        "283": {
+            "input": "landslide",
+            "output": "landslides",
+            "input_count": 428
+        },
+        "284": {
+            "input": "shelf",
+            "output": "shelves",
+            "input_count": 427
+        },
+        "285": {
+            "input": "affiliation",
+            "output": "affiliations",
+            "input_count": 427
+        },
+        "286": {
+            "input": "echo",
+            "output": "echoes",
+            "input_count": 426
+        },
+        "287": {
+            "input": "stud",
+            "output": "studs",
+            "input_count": 425
+        },
+        "288": {
+            "input": "sermon",
+            "output": "sermons",
+            "input_count": 425
+        },
+        "289": {
+            "input": "mathematician",
+            "output": "mathematicians",
+            "input_count": 424
+        },
+        "290": {
+            "input": "troupe",
+            "output": "troupes",
+            "input_count": 424
+        },
+        "291": {
+            "input": "liaison",
+            "output": "liaisons",
+            "input_count": 422
+        },
+        "292": {
+            "input": "concussion",
+            "output": "concussions",
+            "input_count": 421
+        },
+        "293": {
+            "input": "eclipse",
+            "output": "eclipses",
+            "input_count": 420
+        },
+        "294": {
+            "input": "compartment",
+            "output": "compartments",
+            "input_count": 420
+        },
+        "295": {
+            "input": "excuse",
+            "output": "excuses",
+            "input_count": 419
+        },
+        "296": {
+            "input": "gateway",
+            "output": "gateways",
+            "input_count": 419
+        },
+        "297": {
+            "input": "elbow",
+            "output": "elbows",
+            "input_count": 418
+        },
+        "298": {
+            "input": "pardon",
+            "output": "pardons",
+            "input_count": 418
+        },
+        "299": {
+            "input": "scent",
+            "output": "scents",
+            "input_count": 417
+        },
+        "300": {
+            "input": "semifinal",
+            "output": "semifinals",
+            "input_count": 414
+        },
+        "301": {
+            "input": "deficiency",
+            "output": "deficiencies",
+            "input_count": 414
+        },
+        "302": {
+            "input": "terrace",
+            "output": "terraces",
+            "input_count": 413
+        },
+        "303": {
+            "input": "chemist",
+            "output": "chemists",
+            "input_count": 413
+        },
+        "304": {
+            "input": "parrot",
+            "output": "parrots",
+            "input_count": 413
+        },
+        "305": {
+            "input": "smile",
+            "output": "smiles",
+            "input_count": 412
+        },
+        "306": {
+            "input": "float",
+            "output": "floats",
+            "input_count": 411
+        },
+        "307": {
+            "input": "stallion",
+            "output": "stallions",
+            "input_count": 411
+        },
+        "308": {
+            "input": "planting",
+            "output": "plantings",
+            "input_count": 411
+        },
+        "309": {
+            "input": "organise",
+            "output": "organises",
+            "input_count": 410
+        },
+        "310": {
+            "input": "citation",
+            "output": "citations",
+            "input_count": 409
+        },
+        "311": {
+            "input": "builder",
+            "output": "builders",
+            "input_count": 408
+        },
+        "312": {
+            "input": "neighbourhood",
+            "output": "neighbourhoods",
+            "input_count": 408
+        },
+        "313": {
+            "input": "magistrate",
+            "output": "magistrates",
+            "input_count": 407
+        },
+        "314": {
+            "input": "bikini",
+            "output": "bikinis",
+            "input_count": 407
+        },
+        "315": {
+            "input": "spray",
+            "output": "sprays",
+            "input_count": 405
+        },
+        "316": {
+            "input": "assertion",
+            "output": "assertions",
+            "input_count": 404
+        },
+        "317": {
+            "input": "tutor",
+            "output": "tutors",
+            "input_count": 404
+        },
+        "318": {
+            "input": "capsule",
+            "output": "capsules",
+            "input_count": 404
+        },
+        "319": {
+            "input": "recipe",
+            "output": "recipes",
+            "input_count": 404
+        },
+        "320": {
+            "input": "sect",
+            "output": "sects",
+            "input_count": 403
+        },
+        "321": {
+            "input": "brood",
+            "output": "broods",
+            "input_count": 403
+        },
+        "322": {
+            "input": "grouping",
+            "output": "groupings",
+            "input_count": 402
+        },
+        "323": {
+            "input": "chip",
+            "output": "chips",
+            "input_count": 401
+        },
+        "324": {
+            "input": "famine",
+            "output": "famines",
+            "input_count": 400
+        },
+        "325": {
+            "input": "reinforcement",
+            "output": "reinforcements",
+            "input_count": 400
+        },
+        "326": {
+            "input": "basket",
+            "output": "baskets",
+            "input_count": 399
+        },
+        "327": {
+            "input": "locality",
+            "output": "localities",
+            "input_count": 397
+        },
+        "328": {
+            "input": "liability",
+            "output": "liabilities",
+            "input_count": 396
+        },
+        "329": {
+            "input": "maid",
+            "output": "maids",
+            "input_count": 395
+        },
+        "330": {
+            "input": "semester",
+            "output": "semesters",
+            "input_count": 395
+        },
+        "331": {
+            "input": "clutch",
+            "output": "clutches",
+            "input_count": 395
+        },
+        "332": {
+            "input": "gut",
+            "output": "guts",
+            "input_count": 395
+        },
+        "333": {
+            "input": "trim",
+            "output": "trims",
+            "input_count": 395
+        },
+        "334": {
+            "input": "hazard",
+            "output": "hazards",
+            "input_count": 395
+        },
+        "335": {
+            "input": "grenade",
+            "output": "grenades",
+            "input_count": 395
+        },
+        "336": {
+            "input": "gag",
+            "output": "gags",
+            "input_count": 395
+        },
+        "337": {
+            "input": "remark",
+            "output": "remarks",
+            "input_count": 394
+        },
+        "338": {
+            "input": "leap",
+            "output": "leaps",
+            "input_count": 394
+        },
+        "339": {
+            "input": "toilet",
+            "output": "toilets",
+            "input_count": 393
+        },
+        "340": {
+            "input": "pile",
+            "output": "piles",
+            "input_count": 393
+        },
+        "341": {
+            "input": "pad",
+            "output": "pads",
+            "input_count": 393
+        },
+        "342": {
+            "input": "registry",
+            "output": "registries",
+            "input_count": 393
+        },
+        "343": {
+            "input": "heal",
+            "output": "heals",
+            "input_count": 393
+        },
+        "344": {
+            "input": "militant",
+            "output": "militants",
+            "input_count": 393
+        },
+        "345": {
+            "input": "pastor",
+            "output": "pastors",
+            "input_count": 392
+        },
+        "346": {
+            "input": "verb",
+            "output": "verbs",
+            "input_count": 392
+        },
+        "347": {
+            "input": "casualty",
+            "output": "casualties",
+            "input_count": 391
+        },
+        "348": {
+            "input": "fumble",
+            "output": "fumbles",
+            "input_count": 391
+        },
+        "349": {
+            "input": "tuning",
+            "output": "tunings",
+            "input_count": 390
+        },
+        "350": {
+            "input": "pony",
+            "output": "ponies",
+            "input_count": 390
+        },
+        "351": {
+            "input": "sighting",
+            "output": "sightings",
+            "input_count": 389
+        },
+        "352": {
+            "input": "viewpoint",
+            "output": "viewpoints",
+            "input_count": 388
+        },
+        "353": {
+            "input": "hormone",
+            "output": "hormones",
+            "input_count": 388
+        },
+        "354": {
+            "input": "toe",
+            "output": "toes",
+            "input_count": 387
+        },
+        "355": {
+            "input": "setup",
+            "output": "setups",
+            "input_count": 386
+        },
+        "356": {
+            "input": "commence",
+            "output": "commences",
+            "input_count": 386
+        },
+        "357": {
+            "input": "forum",
+            "output": "forums",
+            "input_count": 385
+        },
+        "358": {
+            "input": "telegram",
+            "output": "telegrams",
+            "input_count": 385
+        },
+        "359": {
+            "input": "lizard",
+            "output": "lizards",
+            "input_count": 385
+        },
+        "360": {
+            "input": "showrunner",
+            "output": "showrunners",
+            "input_count": 385
+        },
+        "361": {
+            "input": "doctorate",
+            "output": "doctorates",
+            "input_count": 384
+        },
+        "362": {
+            "input": "ribbon",
+            "output": "ribbons",
+            "input_count": 383
+        },
+        "363": {
+            "input": "interrogation",
+            "output": "interrogations",
+            "input_count": 383
+        },
+        "364": {
+            "input": "pulse",
+            "output": "pulses",
+            "input_count": 382
+        },
+        "365": {
+            "input": "fiber",
+            "output": "fibers",
+            "input_count": 382
+        },
+        "366": {
+            "input": "injunction",
+            "output": "injunctions",
+            "input_count": 382
+        },
+        "367": {
+            "input": "doorway",
+            "output": "doorways",
+            "input_count": 381
+        },
+        "368": {
+            "input": "grape",
+            "output": "grapes",
+            "input_count": 381
+        },
+        "369": {
+            "input": "centimeter",
+            "output": "centimeters",
+            "input_count": 380
+        },
+        "370": {
+            "input": "heel",
+            "output": "heels",
+            "input_count": 380
+        },
+        "371": {
+            "input": "wavelength",
+            "output": "wavelengths",
+            "input_count": 380
+        },
+        "372": {
+            "input": "fringe",
+            "output": "fringes",
+            "input_count": 378
+        },
+        "373": {
+            "input": "transcription",
+            "output": "transcriptions",
+            "input_count": 378
+        },
+        "374": {
+            "input": "whistle",
+            "output": "whistles",
+            "input_count": 377
+        },
+        "375": {
+            "input": "spear",
+            "output": "spears",
+            "input_count": 377
+        },
+        "376": {
+            "input": "hint",
+            "output": "hints",
+            "input_count": 377
+        },
+        "377": {
+            "input": "boot",
+            "output": "boots",
+            "input_count": 377
+        },
+        "378": {
+            "input": "promoter",
+            "output": "promoters",
+            "input_count": 377
+        },
+        "379": {
+            "input": "nationality",
+            "output": "nationalities",
+            "input_count": 377
+        },
+        "380": {
+            "input": "simulate",
+            "output": "simulates",
+            "input_count": 376
+        },
+        "381": {
+            "input": "classroom",
+            "output": "classrooms",
+            "input_count": 375
+        },
+        "382": {
+            "input": "manoeuvre",
+            "output": "manoeuvres",
+            "input_count": 375
+        },
+        "383": {
+            "input": "rental",
+            "output": "rentals",
+            "input_count": 375
+        },
+        "384": {
+            "input": "tap",
+            "output": "taps",
+            "input_count": 375
+        },
+        "385": {
+            "input": "consul",
+            "output": "consuls",
+            "input_count": 374
+        },
+        "386": {
+            "input": "imitation",
+            "output": "imitations",
+            "input_count": 374
+        },
+        "387": {
+            "input": "acquaintance",
+            "output": "acquaintances",
+            "input_count": 373
+        },
+        "388": {
+            "input": "convict",
+            "output": "convicts",
+            "input_count": 373
+        },
+        "389": {
+            "input": "interlude",
+            "output": "interludes",
+            "input_count": 372
+        }
+    }
+}

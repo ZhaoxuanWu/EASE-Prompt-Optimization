@@ -1,0 +1,409 @@
+{
+    "metadata": {
+        "num_examples": 100,
+        "description": "Encode a sentence in English into Pig Latin",
+        "task_prefix": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate English into Pig Latin."
+    },
+    "examples": {
+        "1": {
+            "input": "Tom never walks to school.",
+            "output": "Omtay evernay alksway otay oolschay."
+        },
+        "2": {
+            "input": "I think that you know which one I like better.",
+            "output": "Iay inkthay atthay ouyay owknay ichwhay oneay Iay ikelay etterbay."
+        },
+        "3": {
+            "input": "Tom is not a morning person.",
+            "output": "Omtay isay otnay ay orningmay ersonpay."
+        },
+        "4": {
+            "input": "Can you have it both ways?",
+            "output": "Ancay ouyay avehay itay othbay aysway?"
+        },
+        "5": {
+            "input": "We never talk.",
+            "output": "Eway evernay alktay."
+        },
+        "6": {
+            "input": "I had to give a speech.",
+            "output": "Iay adhay otay ivegay ay eechspay."
+        },
+        "7": {
+            "input": "He wants to learn to be at peace with himself.",
+            "output": "Ehay antsway otay earnlay otay ebay atay eacepay ithway imselfhay."
+        },
+        "8": {
+            "input": "When did you find out Tom had been in prison?",
+            "output": "Enwhay idday ouyay indfay outay Omtay adhay eenbay inay isonpray?"
+        },
+        "9": {
+            "input": "Tom did a lot of laundry today.",
+            "output": "Omtay idday ay otlay ofay aundrylay odaytay."
+        },
+        "10": {
+            "input": "Let this be an example to you.",
+            "output": "Etlay isthay ebay anay exampleay otay ouyay."
+        },
+        "11": {
+            "input": "Tom told the judge he wanted a different lawyer.",
+            "output": "Tom told the judge he wanted a different lawyer."
+        },
+        "12": {
+            "input": "Tom took a quick shower.",
+            "output": "Tom took a quick shower."
+        },
+        "13": {
+            "input": "The town laid buried for centuries.",
+            "output": "The town laid buried for centuries."
+        },
+        "14": {
+            "input": "Tom is twice as heavy as I am.",
+            "output": "Tom is twice as heavy as I am."
+        },
+        "15": {
+            "input": "She drinks lemon juice every morning.",
+            "output": "She drinks lemon juice every morning."
+        },
+        "16": {
+            "input": "Mennad had a concussion.",
+            "output": "Mennad had a concussion."
+        },
+        "17": {
+            "input": "He just carried out the sentence.",
+            "output": "He just carried out the sentence."
+        },
+        "18": {
+            "input": "Being here is very freeing.",
+            "output": "Being here is very freeing."
+        },
+        "19": {
+            "input": "Tom was in his thirties.",
+            "output": "Tom was in his thirties."
+        },
+        "20": {
+            "input": "Tom will be back later.",
+            "output": "Tom will be back later."
+        },
+        "21": {
+            "input": "The birds in the cage are canaries.",
+            "output": "The birds in the cage are canaries."
+        },
+        "22": {
+            "input": "Tom is a part of the team.",
+            "output": "Tom is a part of the team."
+        },
+        "23": {
+            "input": "Bad weather kept us from going out.",
+            "output": "Bad weather kept us from going out."
+        },
+        "24": {
+            "input": "I had to stay in Boston.",
+            "output": "I had to stay in Boston."
+        },
+        "25": {
+            "input": "Mary rubbed her forehead.",
+            "output": "Mary rubbed her forehead."
+        },
+        "26": {
+            "input": "Are you hot?",
+            "output": "Are you hot?"
+        },
+        "27": {
+            "input": "I take a taxi to the train station once or twice a week.",
+            "output": "I take a taxi to the train station once or twice a week."
+        },
+        "28": {
+            "input": "Tom refused our offer.",
+            "output": "Tom refused our offer."
+        },
+        "29": {
+            "input": "They risked their lives for us.",
+            "output": "They risked their lives for us."
+        },
+        "30": {
+            "input": "Tom was a ghost.",
+            "output": "Tom was a ghost."
+        },
+        "31": {
+            "input": "They left last night.",
+            "output": "They left last night."
+        },
+        "32": {
+            "input": "Hitler was one of the most infamous dictators.",
+            "output": "Hitler was one of the most infamous dictators."
+        },
+        "33": {
+            "input": "I thought that Tom would be happy to do that.",
+            "output": "I thought that Tom would be happy to do that."
+        },
+        "34": {
+            "input": "There is currently no killer app for this platform.",
+            "output": "There is currently no killer app for this platform."
+        },
+        "35": {
+            "input": "Who wants to ask a question?",
+            "output": "Who wants to ask a question?"
+        },
+        "36": {
+            "input": "What a dud.",
+            "output": "What a dud."
+        },
+        "37": {
+            "input": "He is very afraid of his father.",
+            "output": "He is very afraid of his father."
+        },
+        "38": {
+            "input": "Jane has been acting in movies since she was eleven.",
+            "output": "Jane has been acting in movies since she was eleven."
+        },
+        "39": {
+            "input": "Did they agree to our terms?",
+            "output": "Did they agree to our terms?"
+        },
+        "40": {
+            "input": "I just realized there are many more pages that I thought.",
+            "output": "I just realized there are many more pages that I thought."
+        },
+        "41": {
+            "input": "I need a new wardrobe.",
+            "output": "I need a new wardrobe."
+        },
+        "42": {
+            "input": "The birds flew south in search of warmth.",
+            "output": "The birds flew south in search of warmth."
+        },
+        "43": {
+            "input": "Everybody else is doing it.",
+            "output": "Everybody else is doing it."
+        },
+        "44": {
+            "input": "Mary is doing what she loves.",
+            "output": "Mary is doing what she loves."
+        },
+        "45": {
+            "input": "She suggested that we have a farewell party for him.",
+            "output": "She suggested that we have a farewell party for him."
+        },
+        "46": {
+            "input": "I think Tom is much friendlier than Mary is.",
+            "output": "I think Tom is much friendlier than Mary is."
+        },
+        "47": {
+            "input": "Mennad never told Baya about his nose job.",
+            "output": "Mennad never told Baya about his nose job."
+        },
+        "48": {
+            "input": "Layla went into a rage.",
+            "output": "Layla went into a rage."
+        },
+        "49": {
+            "input": "We go tomorrow.",
+            "output": "We go tomorrow."
+        },
+        "50": {
+            "input": "Thanks for letting us stay.",
+            "output": "Thanks for letting us stay."
+        },
+        "51": {
+            "input": "He constantly criticizes other people.",
+            "output": "He constantly criticizes other people."
+        },
+        "52": {
+            "input": "The true wisdom of life consists in seeing the miraculous in the common.",
+            "output": "The true wisdom of life consists in seeing the miraculous in the common."
+        },
+        "53": {
+            "input": "Sami will grow up one day and he will make decisions.",
+            "output": "Sami will grow up one day and he will make decisions."
+        },
+        "54": {
+            "input": "Tom is sorry that he did that.",
+            "output": "Tom is sorry that he did that."
+        },
+        "55": {
+            "input": "People I admire most are those who do not see life in terms of power.",
+            "output": "People I admire most are those who do not see life in terms of power."
+        },
+        "56": {
+            "input": "He was very patient.",
+            "output": "He was very patient."
+        },
+        "57": {
+            "input": "Guarani is one of the two official languages of Paraguay.",
+            "output": "Guarani is one of the two official languages of Paraguay."
+        },
+        "58": {
+            "input": "The police are certain to get him in the end wherever he may go.",
+            "output": "The police are certain to get him in the end wherever he may go."
+        },
+        "59": {
+            "input": "Tom knew Mary would be obstinate.",
+            "output": "Tom knew Mary would be obstinate."
+        },
+        "60": {
+            "input": "Mary told me that she was very busy.",
+            "output": "Mary told me that she was very busy."
+        },
+        "61": {
+            "input": "I suspect Tom will be back soon.",
+            "output": "I suspect Tom will be back soon."
+        },
+        "62": {
+            "input": "They all interpreted the presence of that owl as an ominous premonition.",
+            "output": "They all interpreted the presence of that owl as an ominous premonition."
+        },
+        "63": {
+            "input": "I want to go to a land without Mondays.",
+            "output": "I want to go to a land without Mondays."
+        },
+        "64": {
+            "input": "Tom thought that he could pull a fast one.",
+            "output": "Tom thought that he could pull a fast one."
+        },
+        "65": {
+            "input": "His words are confusing.",
+            "output": "His words are confusing."
+        },
+        "66": {
+            "input": "Tell me right now who that was and what they were looking for!",
+            "output": "Tell me right now who that was and what they were looking for!"
+        },
+        "67": {
+            "input": "Thanks for the kiss.",
+            "output": "Thanks for the kiss."
+        },
+        "68": {
+            "input": "I wanted to discuss that subject with you.",
+            "output": "I wanted to discuss that subject with you."
+        },
+        "69": {
+            "input": "Sami and Layla knew the same people.",
+            "output": "Sami and Layla knew the same people."
+        },
+        "70": {
+            "input": "We will be rich.",
+            "output": "We will be rich."
+        },
+        "71": {
+            "input": "I am in a hotel in Algiers.",
+            "output": "I am in a hotel in Algiers."
+        },
+        "72": {
+            "input": "I hear you went to Harvard.",
+            "output": "I hear you went to Harvard."
+        },
+        "73": {
+            "input": "Tom uncorked the champagne.",
+            "output": "Tom uncorked the champagne."
+        },
+        "74": {
+            "input": "You ought to have started half an hour ago.",
+            "output": "You ought to have started half an hour ago."
+        },
+        "75": {
+            "input": "His mom puts up with all of his mischief.",
+            "output": "His mom puts up with all of his mischief."
+        },
+        "76": {
+            "input": "That was a good thing.",
+            "output": "That was a good thing."
+        },
+        "77": {
+            "input": "Tom and Mary were swimming laps.",
+            "output": "Tom and Mary were swimming laps."
+        },
+        "78": {
+            "input": "At least thirty people died in the riots.",
+            "output": "At least thirty people died in the riots."
+        },
+        "79": {
+            "input": "She knows nothing about your family.",
+            "output": "She knows nothing about your family."
+        },
+        "80": {
+            "input": "One day he killed himself.",
+            "output": "One day he killed himself."
+        },
+        "81": {
+            "input": "I know that Tom is a better drummer than Mary.",
+            "output": "I know that Tom is a better drummer than Mary."
+        },
+        "82": {
+            "input": "We speak Kurdish.",
+            "output": "We speak Kurdish."
+        },
+        "83": {
+            "input": "Tom and Mary are really drunk.",
+            "output": "Tom and Mary are really drunk."
+        },
+        "84": {
+            "input": "Mennad and Baya moved away.",
+            "output": "Mennad and Baya moved away."
+        },
+        "85": {
+            "input": "I always knew that was what you wanted.",
+            "output": "I always knew that was what you wanted."
+        },
+        "86": {
+            "input": "Tom forgot to bring a flashlight.",
+            "output": "Tom forgot to bring a flashlight."
+        },
+        "87": {
+            "input": "Tom threw a big party at his house while his parents were on vacation.",
+            "output": "Tom threw a big party at his house while his parents were on vacation."
+        },
+        "88": {
+            "input": "I printed many copies of the insurance contract.",
+            "output": "I printed many copies of the insurance contract."
+        },
+        "89": {
+            "input": "I knew this day would come.",
+            "output": "I knew this day would come."
+        },
+        "90": {
+            "input": "I feel a little indisposed.",
+            "output": "I feel a little indisposed."
+        },
+        "91": {
+            "input": "A living statue rests on a bench and two statues of liberty talk with tourists.",
+            "output": "A living statue rests on a bench and two statues of liberty talk with tourists."
+        },
+        "92": {
+            "input": "Tom got fired for doing that.",
+            "output": "Tom got fired for doing that."
+        },
+        "93": {
+            "input": "I was happy to buy that for you.",
+            "output": "I was happy to buy that for you."
+        },
+        "94": {
+            "input": "Do you have the letter with you?",
+            "output": "Do you have the letter with you?"
+        },
+        "95": {
+            "input": "Do you think Tom might be cold?",
+            "output": "Do you think Tom might be cold?"
+        },
+        "96": {
+            "input": "I have no reason to lie to you.",
+            "output": "I have no reason to lie to you."
+        },
+        "97": {
+            "input": "I go to Australia three or four times a year.",
+            "output": "I go to Australia three or four times a year."
+        },
+        "98": {
+            "input": "Never believe the mass media.",
+            "output": "Never believe the mass media."
+        },
+        "99": {
+            "input": "You call this hard?",
+            "output": "You call this hard?"
+        },
+        "100": {
+            "input": "We came pretty close to being involved in that accident.",
+            "output": "We came pretty close to being involved in that accident."
+        }
+    }
+}

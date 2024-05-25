@@ -1,0 +1,907 @@
+{
+    "metadata": {
+        "num_examples": 180
+    },
+    "examples": {
+        "1": {
+            "input": "The judge thanked the author.",
+            "output": "The author was thanked by the judge.",
+            "template": "temp35"
+        },
+        "2": {
+            "input": "The judge supported the lawyers.",
+            "output": "The lawyers were supported by the judge.",
+            "template": "temp36"
+        },
+        "3": {
+            "input": "The athletes recognized the judge.",
+            "output": "The judge was recognized by the athletes.",
+            "template": "temp35"
+        },
+        "4": {
+            "input": "The judge introduced the president.",
+            "output": "The president was introduced by the judge.",
+            "template": "temp35"
+        },
+        "5": {
+            "input": "The professor admired the lawyers.",
+            "output": "The lawyers were admired by the professor.",
+            "template": "temp36"
+        },
+        "6": {
+            "input": "The doctors contacted the scientist.",
+            "output": "The scientist was contacted by the doctors.",
+            "template": "temp35"
+        },
+        "7": {
+            "input": "The judge introduced the student.",
+            "output": "The student was introduced by the judge.",
+            "template": "temp35"
+        },
+        "8": {
+            "input": "The president encouraged the bankers.",
+            "output": "The bankers were encouraged by the president.",
+            "template": "temp36"
+        },
+        "9": {
+            "input": "The president supported the actor.",
+            "output": "The actor was supported by the president.",
+            "template": "temp35"
+        },
+        "10": {
+            "input": "The bankers admired the manager.",
+            "output": "The manager was admired by the bankers.",
+            "template": "temp35"
+        },
+        "11": {
+            "input": "The author avoided the doctors.",
+            "output": "The doctors were avoided by the author.",
+            "template": "temp36"
+        },
+        "12": {
+            "input": "The professor stopped the senators.",
+            "output": "The senators were stopped by the professor.",
+            "template": "temp36"
+        },
+        "13": {
+            "input": "The actors recognized the author.",
+            "output": "The author was recognized by the actors.",
+            "template": "temp35"
+        },
+        "14": {
+            "input": "The judges helped the lawyer.",
+            "output": "The lawyer was helped by the judges.",
+            "template": "temp35"
+        },
+        "15": {
+            "input": "The president introduced the judge.",
+            "output": "The judge was introduced by the president.",
+            "template": "temp35"
+        },
+        "16": {
+            "input": "The secretaries advised the judge.",
+            "output": "The judge was advised by the secretaries.",
+            "template": "temp35"
+        },
+        "17": {
+            "input": "The president thanked the artists.",
+            "output": "The artists were thanked by the president.",
+            "template": "temp36"
+        },
+        "18": {
+            "input": "The judges recognized the senator.",
+            "output": "The senator was recognized by the judges.",
+            "template": "temp35"
+        },
+        "19": {
+            "input": "The senators admired the managers.",
+            "output": "The managers were admired by the senators.",
+            "template": "temp36"
+        },
+        "20": {
+            "input": "The president introduced the lawyer.",
+            "output": "The lawyer was introduced by the president.",
+            "template": "temp35"
+        },
+        "21": {
+            "input": "The lawyer admired the actor.",
+            "output": "The actor was admired by the lawyer.",
+            "template": "temp35"
+        },
+        "22": {
+            "input": "The professors avoided the students.",
+            "output": "The students were avoided by the professors.",
+            "template": "temp36"
+        },
+        "23": {
+            "input": "The professors supported the doctor.",
+            "output": "The doctor was supported by the professors.",
+            "template": "temp35"
+        },
+        "24": {
+            "input": "The judges admired the actor.",
+            "output": "The actor was admired by the judges.",
+            "template": "temp35"
+        },
+        "25": {
+            "input": "The lawyer encouraged the scientists.",
+            "output": "The scientists were encouraged by the lawyer.",
+            "template": "temp36"
+        },
+        "26": {
+            "input": "The athlete contacted the presidents.",
+            "output": "The presidents were contacted by the athlete.",
+            "template": "temp36"
+        },
+        "27": {
+            "input": "The tourist contacted the managers.",
+            "output": "The managers were contacted by the tourist.",
+            "template": "temp36"
+        },
+        "28": {
+            "input": "The authors stopped the presidents.",
+            "output": "The presidents were stopped by the authors.",
+            "template": "temp36"
+        },
+        "29": {
+            "input": "The senators helped the judges.",
+            "output": "The judges were helped by the senators.",
+            "template": "temp36"
+        },
+        "30": {
+            "input": "The secretary believed the president.",
+            "output": "The president was believed by the secretary.",
+            "template": "temp35"
+        },
+        "31": {
+            "input": "The managers stopped the president.",
+            "output": "The president was stopped by the managers.",
+            "template": "temp35"
+        },
+        "32": {
+            "input": "The actor introduced the authors.",
+            "output": "The authors were introduced by the actor.",
+            "template": "temp36"
+        },
+        "33": {
+            "input": "The students recommended the actor.",
+            "output": "The actor was recommended by the students.",
+            "template": "temp35"
+        },
+        "34": {
+            "input": "The tourists introduced the artists.",
+            "output": "The artists were introduced by the tourists.",
+            "template": "temp36"
+        },
+        "35": {
+            "input": "The doctor recognized the actor.",
+            "output": "The actor was recognized by the doctor.",
+            "template": "temp35"
+        },
+        "36": {
+            "input": "The student recognized the doctors.",
+            "output": "The doctors were recognized by the student.",
+            "template": "temp36"
+        },
+        "37": {
+            "input": "The professors helped the doctor.",
+            "output": "The doctor was helped by the professors.",
+            "template": "temp35"
+        },
+        "38": {
+            "input": "The scientist recognized the president.",
+            "output": "The president was recognized by the scientist.",
+            "template": "temp35"
+        },
+        "39": {
+            "input": "The secretaries recognized the senator.",
+            "output": "The senator was recognized by the secretaries.",
+            "template": "temp35"
+        },
+        "40": {
+            "input": "The tourists advised the professors.",
+            "output": "The professors were advised by the tourists.",
+            "template": "temp36"
+        },
+        "41": {
+            "input": "The judges admired the secretary.",
+            "output": "The secretary was admired by the judges.",
+            "template": "temp35"
+        },
+        "42": {
+            "input": "The students contacted the doctors.",
+            "output": "The doctors were contacted by the students.",
+            "template": "temp36"
+        },
+        "43": {
+            "input": "The professor helped the athletes.",
+            "output": "The athletes were helped by the professor.",
+            "template": "temp36"
+        },
+        "44": {
+            "input": "The authors introduced the student.",
+            "output": "The student was introduced by the authors.",
+            "template": "temp35"
+        },
+        "45": {
+            "input": "The doctors supported the banker.",
+            "output": "The banker was supported by the doctors.",
+            "template": "temp35"
+        },
+        "46": {
+            "input": "The actor helped the senators.",
+            "output": "The senators were helped by the actor.",
+            "template": "temp36"
+        },
+        "47": {
+            "input": "The banker thanked the authors.",
+            "output": "The authors were thanked by the banker.",
+            "template": "temp36"
+        },
+        "48": {
+            "input": "The secretary recommended the doctor.",
+            "output": "The doctor was recommended by the secretary.",
+            "template": "temp35"
+        },
+        "49": {
+            "input": "The doctors helped the secretaries.",
+            "output": "The secretaries were helped by the doctors.",
+            "template": "temp36"
+        },
+        "50": {
+            "input": "The senators avoided the presidents.",
+            "output": "The presidents were avoided by the senators.",
+            "template": "temp36"
+        },
+        "51": {
+            "input": "The scientists thanked the tourists.",
+            "output": "The tourists were thanked by the scientists.",
+            "template": "temp36"
+        },
+        "52": {
+            "input": "The professor encouraged the doctor.",
+            "output": "The doctor was encouraged by the professor.",
+            "template": "temp35"
+        },
+        "53": {
+            "input": "The actor believed the secretaries.",
+            "output": "The secretaries were believed by the actor.",
+            "template": "temp36"
+        },
+        "54": {
+            "input": "The actor mentioned the senators.",
+            "output": "The senators were mentioned by the actor.",
+            "template": "temp36"
+        },
+        "55": {
+            "input": "The scientists admired the bankers.",
+            "output": "The bankers were admired by the scientists.",
+            "template": "temp36"
+        },
+        "56": {
+            "input": "The athlete encouraged the student.",
+            "output": "The student was encouraged by the athlete.",
+            "template": "temp35"
+        },
+        "57": {
+            "input": "The artist stopped the secretary.",
+            "output": "The secretary was stopped by the artist.",
+            "template": "temp35"
+        },
+        "58": {
+            "input": "The actors avoided the tourists.",
+            "output": "The tourists were avoided by the actors.",
+            "template": "temp36"
+        },
+        "59": {
+            "input": "The president thanked the actors.",
+            "output": "The actors were thanked by the president.",
+            "template": "temp36"
+        },
+        "60": {
+            "input": "The students introduced the professors.",
+            "output": "The professors were introduced by the students.",
+            "template": "temp36"
+        },
+        "61": {
+            "input": "The scientists thanked the athletes.",
+            "output": "The athletes were thanked by the scientists.",
+            "template": "temp36"
+        },
+        "62": {
+            "input": "The tourist helped the president.",
+            "output": "The president was helped by the tourist.",
+            "template": "temp35"
+        },
+        "63": {
+            "input": "The author encouraged the professor.",
+            "output": "The professor was encouraged by the author.",
+            "template": "temp35"
+        },
+        "64": {
+            "input": "The artist avoided the judge.",
+            "output": "The judge was avoided by the artist.",
+            "template": "temp35"
+        },
+        "65": {
+            "input": "The doctors believed the authors.",
+            "output": "The authors were believed by the doctors.",
+            "template": "temp36"
+        },
+        "66": {
+            "input": "The athlete advised the secretary.",
+            "output": "The secretary was advised by the athlete.",
+            "template": "temp35"
+        },
+        "67": {
+            "input": "The actors recognized the scientist.",
+            "output": "The scientist was recognized by the actors.",
+            "template": "temp35"
+        },
+        "68": {
+            "input": "The artist encouraged the student.",
+            "output": "The student was encouraged by the artist.",
+            "template": "temp35"
+        },
+        "69": {
+            "input": "The actor admired the students.",
+            "output": "The students were admired by the actor.",
+            "template": "temp36"
+        },
+        "70": {
+            "input": "The secretaries advised the scientists.",
+            "output": "The scientists were advised by the secretaries.",
+            "template": "temp36"
+        },
+        "71": {
+            "input": "The professor contacted the lawyer.",
+            "output": "The lawyer was contacted by the professor.",
+            "template": "temp35"
+        },
+        "72": {
+            "input": "The actor encouraged the banker.",
+            "output": "The banker was encouraged by the actor.",
+            "template": "temp35"
+        },
+        "73": {
+            "input": "The actors believed the judges.",
+            "output": "The judges were believed by the actors.",
+            "template": "temp36"
+        },
+        "74": {
+            "input": "The athletes encouraged the tourist.",
+            "output": "The tourist was encouraged by the athletes.",
+            "template": "temp35"
+        },
+        "75": {
+            "input": "The authors supported the artist.",
+            "output": "The artist was supported by the authors.",
+            "template": "temp35"
+        },
+        "76": {
+            "input": "The bankers introduced the actors.",
+            "output": "The actors were introduced by the bankers.",
+            "template": "temp36"
+        },
+        "77": {
+            "input": "The artists mentioned the actors.",
+            "output": "The actors were mentioned by the artists.",
+            "template": "temp36"
+        },
+        "78": {
+            "input": "The tourists encouraged the artists.",
+            "output": "The artists were encouraged by the tourists.",
+            "template": "temp36"
+        },
+        "79": {
+            "input": "The senators introduced the student.",
+            "output": "The student was introduced by the senators.",
+            "template": "temp35"
+        },
+        "80": {
+            "input": "The lawyers thanked the authors.",
+            "output": "The authors were thanked by the lawyers.",
+            "template": "temp36"
+        },
+        "81": {
+            "input": "The president helped the secretaries.",
+            "output": "The secretaries were helped by the president.",
+            "template": "temp36"
+        },
+        "82": {
+            "input": "The manager stopped the doctor.",
+            "output": "The doctor was stopped by the manager.",
+            "template": "temp35"
+        },
+        "83": {
+            "input": "The artists recognized the managers.",
+            "output": "The managers were recognized by the artists.",
+            "template": "temp36"
+        },
+        "84": {
+            "input": "The banker recommended the tourists.",
+            "output": "The tourists were recommended by the banker.",
+            "template": "temp36"
+        },
+        "85": {
+            "input": "The judge recognized the students.",
+            "output": "The students were recognized by the judge.",
+            "template": "temp36"
+        },
+        "86": {
+            "input": "The managers believed the actor.",
+            "output": "The actor was believed by the managers.",
+            "template": "temp35"
+        },
+        "87": {
+            "input": "The scientists mentioned the tourists.",
+            "output": "The tourists were mentioned by the scientists.",
+            "template": "temp36"
+        },
+        "88": {
+            "input": "The senators avoided the lawyer.",
+            "output": "The lawyer was avoided by the senators.",
+            "template": "temp35"
+        },
+        "89": {
+            "input": "The student supported the senators.",
+            "output": "The senators were supported by the student.",
+            "template": "temp36"
+        },
+        "90": {
+            "input": "The lawyers stopped the student.",
+            "output": "The student was stopped by the lawyers.",
+            "template": "temp35"
+        },
+        "91": {
+            "input": "The scientists contacted the tourists.",
+            "output": "The tourists were contacted by the scientists.",
+            "template": "temp36"
+        },
+        "92": {
+            "input": "The doctor advised the managers.",
+            "output": "The managers were advised by the doctor.",
+            "template": "temp36"
+        },
+        "93": {
+            "input": "The tourists avoided the lawyer.",
+            "output": "The lawyer was avoided by the tourists.",
+            "template": "temp35"
+        },
+        "94": {
+            "input": "The manager recommended the author.",
+            "output": "The author was recommended by the manager.",
+            "template": "temp35"
+        },
+        "95": {
+            "input": "The athletes advised the scientists.",
+            "output": "The scientists were advised by the athletes.",
+            "template": "temp36"
+        },
+        "96": {
+            "input": "The actors mentioned the managers.",
+            "output": "The managers were mentioned by the actors.",
+            "template": "temp36"
+        },
+        "97": {
+            "input": "The authors helped the doctor.",
+            "output": "The doctor was helped by the authors.",
+            "template": "temp35"
+        },
+        "98": {
+            "input": "The scientists helped the bankers.",
+            "output": "The bankers were helped by the scientists.",
+            "template": "temp36"
+        },
+        "99": {
+            "input": "The senator believed the judges.",
+            "output": "The judges were believed by the senator.",
+            "template": "temp36"
+        },
+        "100": {
+            "input": "The manager recognized the president.",
+            "output": "The president was recognized by the manager.",
+            "template": "temp35"
+        },
+        "101": {
+            "input": "The scientists helped the senator.",
+            "output": "The senator was helped by the scientists.",
+            "template": "temp35"
+        },
+        "102": {
+            "input": "The athlete introduced the author.",
+            "output": "The author was introduced by the athlete.",
+            "template": "temp35"
+        },
+        "103": {
+            "input": "The author encouraged the secretary.",
+            "output": "The secretary was encouraged by the author.",
+            "template": "temp35"
+        },
+        "104": {
+            "input": "The professors mentioned the tourist.",
+            "output": "The tourist was mentioned by the professors.",
+            "template": "temp35"
+        },
+        "105": {
+            "input": "The actor admired the secretaries.",
+            "output": "The secretaries were admired by the actor.",
+            "template": "temp36"
+        },
+        "106": {
+            "input": "The senator supported the actors.",
+            "output": "The actors were supported by the senator.",
+            "template": "temp36"
+        },
+        "107": {
+            "input": "The artists advised the secretaries.",
+            "output": "The secretaries were advised by the artists.",
+            "template": "temp36"
+        },
+        "108": {
+            "input": "The judges supported the scientists.",
+            "output": "The scientists were supported by the judges.",
+            "template": "temp36"
+        },
+        "109": {
+            "input": "The actor recognized the secretaries.",
+            "output": "The secretaries were recognized by the actor.",
+            "template": "temp36"
+        },
+        "110": {
+            "input": "The judge believed the senators.",
+            "output": "The senators were believed by the judge.",
+            "template": "temp36"
+        },
+        "111": {
+            "input": "The athlete recommended the president.",
+            "output": "The president was recommended by the athlete.",
+            "template": "temp35"
+        },
+        "112": {
+            "input": "The lawyer avoided the president.",
+            "output": "The president was avoided by the lawyer.",
+            "template": "temp35"
+        },
+        "113": {
+            "input": "The actor advised the managers.",
+            "output": "The managers were advised by the actor.",
+            "template": "temp36"
+        },
+        "114": {
+            "input": "The doctors stopped the senator.",
+            "output": "The senator was stopped by the doctors.",
+            "template": "temp35"
+        },
+        "115": {
+            "input": "The artist supported the senators.",
+            "output": "The senators were supported by the artist.",
+            "template": "temp36"
+        },
+        "116": {
+            "input": "The lawyer avoided the professor.",
+            "output": "The professor was avoided by the lawyer.",
+            "template": "temp35"
+        },
+        "117": {
+            "input": "The doctors thanked the lawyers.",
+            "output": "The lawyers were thanked by the doctors.",
+            "template": "temp36"
+        },
+        "118": {
+            "input": "The presidents recommended the author.",
+            "output": "The author was recommended by the presidents.",
+            "template": "temp35"
+        },
+        "119": {
+            "input": "The lawyers supported the secretary.",
+            "output": "The secretary was supported by the lawyers.",
+            "template": "temp35"
+        },
+        "120": {
+            "input": "The artists recommended the tourists.",
+            "output": "The tourists were recommended by the artists.",
+            "template": "temp36"
+        },
+        "121": {
+            "input": "The tourist encouraged the presidents.",
+            "output": "The presidents were encouraged by the tourist.",
+            "template": "temp36"
+        },
+        "122": {
+            "input": "The secretary stopped the manager.",
+            "output": "The manager was stopped by the secretary.",
+            "template": "temp35"
+        },
+        "123": {
+            "input": "The secretaries mentioned the presidents.",
+            "output": "The presidents were mentioned by the secretaries.",
+            "template": "temp36"
+        },
+        "124": {
+            "input": "The scientists avoided the students.",
+            "output": "The students were avoided by the scientists.",
+            "template": "temp36"
+        },
+        "125": {
+            "input": "The student advised the scientists.",
+            "output": "The scientists were advised by the student.",
+            "template": "temp36"
+        },
+        "126": {
+            "input": "The lawyer encouraged the judges.",
+            "output": "The judges were encouraged by the lawyer.",
+            "template": "temp36"
+        },
+        "127": {
+            "input": "The presidents advised the lawyer.",
+            "output": "The lawyer was advised by the presidents.",
+            "template": "temp35"
+        },
+        "128": {
+            "input": "The authors advised the president.",
+            "output": "The president was advised by the authors.",
+            "template": "temp35"
+        },
+        "129": {
+            "input": "The student encouraged the tourists.",
+            "output": "The tourists were encouraged by the student.",
+            "template": "temp36"
+        },
+        "130": {
+            "input": "The actor stopped the tourists.",
+            "output": "The tourists were stopped by the actor.",
+            "template": "temp36"
+        },
+        "131": {
+            "input": "The tourists recommended the athletes.",
+            "output": "The athletes were recommended by the tourists.",
+            "template": "temp36"
+        },
+        "132": {
+            "input": "The professors helped the president.",
+            "output": "The president was helped by the professors.",
+            "template": "temp35"
+        },
+        "133": {
+            "input": "The presidents mentioned the students.",
+            "output": "The students were mentioned by the presidents.",
+            "template": "temp36"
+        },
+        "134": {
+            "input": "The student stopped the presidents.",
+            "output": "The presidents were stopped by the student.",
+            "template": "temp36"
+        },
+        "135": {
+            "input": "The actors recommended the presidents.",
+            "output": "The presidents were recommended by the actors.",
+            "template": "temp36"
+        },
+        "136": {
+            "input": "The lawyer recommended the athletes.",
+            "output": "The athletes were recommended by the lawyer.",
+            "template": "temp36"
+        },
+        "137": {
+            "input": "The judges thanked the doctors.",
+            "output": "The doctors were thanked by the judges.",
+            "template": "temp36"
+        },
+        "138": {
+            "input": "The managers recommended the student.",
+            "output": "The student was recommended by the managers.",
+            "template": "temp35"
+        },
+        "139": {
+            "input": "The professors introduced the manager.",
+            "output": "The manager was introduced by the professors.",
+            "template": "temp35"
+        },
+        "140": {
+            "input": "The actor admired the banker.",
+            "output": "The banker was admired by the actor.",
+            "template": "temp35"
+        },
+        "141": {
+            "input": "The students helped the managers.",
+            "output": "The managers were helped by the students.",
+            "template": "temp36"
+        },
+        "142": {
+            "input": "The manager advised the banker.",
+            "output": "The banker was advised by the manager.",
+            "template": "temp35"
+        },
+        "143": {
+            "input": "The artists recognized the manager.",
+            "output": "The manager was recognized by the artists.",
+            "template": "temp35"
+        },
+        "144": {
+            "input": "The professor recommended the judges.",
+            "output": "The judges were recommended by the professor.",
+            "template": "temp36"
+        },
+        "145": {
+            "input": "The actors supported the tourist.",
+            "output": "The tourist was supported by the actors.",
+            "template": "temp35"
+        },
+        "146": {
+            "input": "The athlete believed the judge.",
+            "output": "The judge was believed by the athlete.",
+            "template": "temp35"
+        },
+        "147": {
+            "input": "The judges thanked the athlete.",
+            "output": "The athlete was thanked by the judges.",
+            "template": "temp35"
+        },
+        "148": {
+            "input": "The author helped the scientist.",
+            "output": "The scientist was helped by the author.",
+            "template": "temp35"
+        },
+        "149": {
+            "input": "The doctor supported the secretary.",
+            "output": "The secretary was supported by the doctor.",
+            "template": "temp35"
+        },
+        "150": {
+            "input": "The author stopped the scientist.",
+            "output": "The scientist was stopped by the author.",
+            "template": "temp35"
+        },
+        "151": {
+            "input": "The bankers advised the lawyer.",
+            "output": "The lawyer was advised by the bankers.",
+            "template": "temp35"
+        },
+        "152": {
+            "input": "The actor encouraged the tourists.",
+            "output": "The tourists were encouraged by the actor.",
+            "template": "temp36"
+        },
+        "153": {
+            "input": "The lawyers believed the student.",
+            "output": "The student was believed by the lawyers.",
+            "template": "temp35"
+        },
+        "154": {
+            "input": "The secretary avoided the author.",
+            "output": "The author was avoided by the secretary.",
+            "template": "temp35"
+        },
+        "155": {
+            "input": "The tourists advised the actor.",
+            "output": "The actor was advised by the tourists.",
+            "template": "temp35"
+        },
+        "156": {
+            "input": "The actor thanked the president.",
+            "output": "The president was thanked by the actor.",
+            "template": "temp35"
+        },
+        "157": {
+            "input": "The scientist helped the students.",
+            "output": "The students were helped by the scientist.",
+            "template": "temp36"
+        },
+        "158": {
+            "input": "The bankers believed the athlete.",
+            "output": "The athlete was believed by the bankers.",
+            "template": "temp35"
+        },
+        "159": {
+            "input": "The athletes admired the actor.",
+            "output": "The actor was admired by the athletes.",
+            "template": "temp35"
+        },
+        "160": {
+            "input": "The doctors advised the senators.",
+            "output": "The senators were advised by the doctors.",
+            "template": "temp36"
+        },
+        "161": {
+            "input": "The actor helped the judges.",
+            "output": "The judges were helped by the actor.",
+            "template": "temp36"
+        },
+        "162": {
+            "input": "The scientists supported the presidents.",
+            "output": "The presidents were supported by the scientists.",
+            "template": "temp36"
+        },
+        "163": {
+            "input": "The tourist contacted the authors.",
+            "output": "The authors were contacted by the tourist.",
+            "template": "temp36"
+        },
+        "164": {
+            "input": "The lawyers believed the manager.",
+            "output": "The manager was believed by the lawyers.",
+            "template": "temp35"
+        },
+        "165": {
+            "input": "The artists encouraged the judge.",
+            "output": "The judge was encouraged by the artists.",
+            "template": "temp35"
+        },
+        "166": {
+            "input": "The judge helped the doctor.",
+            "output": "The doctor was helped by the judge.",
+            "template": "temp35"
+        },
+        "167": {
+            "input": "The presidents thanked the bankers.",
+            "output": "The bankers were thanked by the presidents.",
+            "template": "temp36"
+        },
+        "168": {
+            "input": "The judge supported the artists.",
+            "output": "The artists were supported by the judge.",
+            "template": "temp36"
+        },
+        "169": {
+            "input": "The judges contacted the scientists.",
+            "output": "The scientists were contacted by the judges.",
+            "template": "temp36"
+        },
+        "170": {
+            "input": "The lawyers recommended the tourist.",
+            "output": "The tourist was recommended by the lawyers.",
+            "template": "temp35"
+        },
+        "171": {
+            "input": "The senators believed the presidents.",
+            "output": "The presidents were believed by the senators.",
+            "template": "temp36"
+        },
+        "172": {
+            "input": "The athletes avoided the banker.",
+            "output": "The banker was avoided by the athletes.",
+            "template": "temp35"
+        },
+        "173": {
+            "input": "The banker encouraged the author.",
+            "output": "The author was encouraged by the banker.",
+            "template": "temp35"
+        },
+        "174": {
+            "input": "The bankers mentioned the doctors.",
+            "output": "The doctors were mentioned by the bankers.",
+            "template": "temp36"
+        },
+        "175": {
+            "input": "The bankers supported the professor.",
+            "output": "The professor was supported by the bankers.",
+            "template": "temp35"
+        },
+        "176": {
+            "input": "The judge advised the student.",
+            "output": "The student was advised by the judge.",
+            "template": "temp35"
+        },
+        "177": {
+            "input": "The athletes mentioned the judges.",
+            "output": "The judges were mentioned by the athletes.",
+            "template": "temp36"
+        },
+        "178": {
+            "input": "The student helped the tourists.",
+            "output": "The tourists were helped by the student.",
+            "template": "temp36"
+        },
+        "179": {
+            "input": "The bankers believed the manager.",
+            "output": "The manager was believed by the bankers.",
+            "template": "temp35"
+        },
+        "180": {
+            "input": "The scientist encouraged the judges.",
+            "output": "The judges were encouraged by the scientist.",
+            "template": "temp36"
+        }
+    }
+}

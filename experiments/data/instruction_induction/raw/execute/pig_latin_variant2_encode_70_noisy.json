@@ -1,0 +1,409 @@
+{
+    "metadata": {
+        "num_examples": 100,
+        "description": "Encode a sentence in English into Pig Latin",
+        "task_prefix": "Pig Latin looks just like English, but if an English word starts with a vowel you add -yay at the end of the word (ice -> iceyay); if it starts with consonants, you move them to end of the word and add -ay (prank -> ankpray); if it is capitalized, the Pig Latin word is capitalized as well (Maggie -> Aggiemay). Translate English into Pig Latin."
+    },
+    "examples": {
+        "1": {
+            "input": "The volcano may erupt at any moment.",
+            "output": "Ethay olcanovay aymay eruptay atay anyay omentmay."
+        },
+        "2": {
+            "input": "She said that she was very thirsty.",
+            "output": "Eshay aidsay atthay eshay asway eryvay irstythay."
+        },
+        "3": {
+            "input": "She looked like she was terrified.",
+            "output": "Eshay ookedlay ikelay eshay asway errifiedtay."
+        },
+        "4": {
+            "input": "Sami ended up in Tahiti.",
+            "output": "Amisay endeday upay inay Ahititay."
+        },
+        "5": {
+            "input": "Tom is the toughest guy I know.",
+            "output": "Omtay isay ethay oughesttay uygay Iay owknay."
+        },
+        "6": {
+            "input": "Tom said that he thought that he might not be required to do that again.",
+            "output": "Omtay aidsay atthay ehay oughtthay atthay ehay ightmay otnay ebay equiredray otay oday atthay againay."
+        },
+        "7": {
+            "input": "I wish to talk to your daughter.",
+            "output": "Iay ishway otay alktay otay ouryay aughterday."
+        },
+        "8": {
+            "input": "Yanni headed out to the parking lot to meet up with his friends.",
+            "output": "Anniyay eadedhay outay otay ethay arkingpay otlay otay eetmay upay ithway ishay iendsfray."
+        },
+        "9": {
+            "input": "Are you the one who let the dog in?",
+            "output": "Areay ouyay ethay oneay owhay etlay ethay ogday inay?"
+        },
+        "10": {
+            "input": "I know that Tom is a realist.",
+            "output": "Iay owknay atthay Omtay isay ay ealistray."
+        },
+        "11": {
+            "input": "Sami crossed the street.",
+            "output": "Amisay ossedcray ethay eetstray."
+        },
+        "12": {
+            "input": "Tom has no intention of apologizing to Mary.",
+            "output": "Omtay ashay onay intentionay ofay apologizingay otay Arymay."
+        },
+        "13": {
+            "input": "Sami understands that.",
+            "output": "Amisay understandsay atthay."
+        },
+        "14": {
+            "input": "We are going there to see him.",
+            "output": "Eway areay oinggay erethay otay eesay imhay."
+        },
+        "15": {
+            "input": "The teacher had a negative image of me.",
+            "output": "Ethay eachertay adhay ay egativenay imageay ofay emay."
+        },
+        "16": {
+            "input": "Tom told me he thought Mary was glad that that was going to happen.",
+            "output": "Omtay oldtay emay ehay oughtthay Arymay asway adglay atthay atthay asway oinggay otay appenhay."
+        },
+        "17": {
+            "input": "Callers pass through an intensive screening before they are allowed to speak to the talk show host.",
+            "output": "Allerscay asspay oughthray anay intensiveay eeningscray eforebay eythay areay alloweday otay eakspay otay ethay alktay owshay osthay."
+        },
+        "18": {
+            "input": "Sami was trying to introduce Layla to one of his best friends.",
+            "output": "Amisay asway ingtryay otay introduceay Aylalay otay oneay ofay ishay estbay iendsfray."
+        },
+        "19": {
+            "input": "To philosophise is to learn how to die.",
+            "output": "Otay ilosophisephay isay otay earnlay owhay otay ieday."
+        },
+        "20": {
+            "input": "Sami asked for the money back.",
+            "output": "Amisay askeday orfay ethay oneymay ackbay."
+        },
+        "21": {
+            "input": "She turned out the light so as not to waste electricity.",
+            "output": "Eshay urnedtay outay ethay ightlay osay asay otnay otay asteway electricityay."
+        },
+        "22": {
+            "input": "Are Tom and Mary OK?",
+            "output": "Areay Omtay anday Arymay Okay?"
+        },
+        "23": {
+            "input": "Sami just came back.",
+            "output": "Amisay ustjay amecay ackbay."
+        },
+        "24": {
+            "input": "I lost the watch.",
+            "output": "Iay ostlay ethay atchway."
+        },
+        "25": {
+            "input": "Persistence will pay off.",
+            "output": "Ersistencepay illway aypay offay."
+        },
+        "26": {
+            "input": "Tom is feeling a little bit better today than he was yesterday.",
+            "output": "Omtay isay eelingfay ay ittlelay itbay etterbay odaytay anthay ehay asway esterdayyay."
+        },
+        "27": {
+            "input": "I like this shirt.",
+            "output": "Iay ikelay isthay irtshay."
+        },
+        "28": {
+            "input": "I was married here.",
+            "output": "Iay asway arriedmay erehay."
+        },
+        "29": {
+            "input": "I carried Tom down two flights of stairs.",
+            "output": "Iay arriedcay Omtay ownday otway ightsflay ofay airsstay."
+        },
+        "30": {
+            "input": "Tom was a crazy kid.",
+            "output": "Omtay asway ay azycray idkay."
+        },
+        "31": {
+            "input": "Both her parents are dead.",
+            "output": "Othbay erhay arentspay areay eadday."
+        },
+        "32": {
+            "input": "Take your shirt off.",
+            "output": "Aketay ouryay irtshay offay."
+        },
+        "33": {
+            "input": "Tom has gained ten kilos this year.",
+            "output": "Omtay ashay ainedgay entay iloskay isthay earyay."
+        },
+        "34": {
+            "input": "Do I have to go back there?",
+            "output": "Oday Iay avehay otay ogay ackbay erethay?"
+        },
+        "35": {
+            "input": "I think Tom would be able to do that if he put his mind to it.",
+            "output": "Iay inkthay Omtay ouldway ebay ableay otay oday atthay ifay ehay utpay ishay indmay otay itay."
+        },
+        "36": {
+            "input": "Do your children know French?",
+            "output": "Oday ouryay ildrenchay owknay Enchfray?"
+        },
+        "37": {
+            "input": "Tom is hooked up to the machine.",
+            "output": "Omtay isay ookedhay upay otay ethay achinemay."
+        },
+        "38": {
+            "input": "I need to practice speaking French more often.",
+            "output": "Iay eednay otay acticepray eakingspay Enchfray oremay oftenay."
+        },
+        "39": {
+            "input": "Did Tom say anything to you about Mary?",
+            "output": "Idday Omtay aysay anythingay otay ouyay aboutay Arymay?"
+        },
+        "40": {
+            "input": "There was a multiple collision on the highway.",
+            "output": "Erethay asway ay ultiplemay ollisioncay onay ethay ighwayhay."
+        },
+        "41": {
+            "input": "Tom and Mary say they never wanted to do that.",
+            "output": "Omtay anday Arymay aysay eythay evernay antedway otay oday atthay."
+        },
+        "42": {
+            "input": "Sami took Layla to take a shower.",
+            "output": "Amisay ooktay Aylalay otay aketay ay owershay."
+        },
+        "43": {
+            "input": "What do you think Tom and Mary are up to?",
+            "output": "Atwhay oday ouyay inkthay Omtay anday Arymay areay upay otay?"
+        },
+        "44": {
+            "input": "Tom is a good person.",
+            "output": "Omtay isay ay oodgay ersonpay."
+        },
+        "45": {
+            "input": "He will sit for the entrance examination.",
+            "output": "Ehay illway itsay orfay ethay entranceay examinationay."
+        },
+        "46": {
+            "input": "He carries a bag on his back.",
+            "output": "Ehay arriescay ay agbay onay ishay ackbay."
+        },
+        "47": {
+            "input": "He said that he was wrong.",
+            "output": "Ehay aidsay atthay ehay asway ongwray."
+        },
+        "48": {
+            "input": "Tom stomped out of the room angrily.",
+            "output": "Omtay ompedstay outay ofay ethay oomray angrilyay."
+        },
+        "49": {
+            "input": "Do you have any rooms with a shower and toilet?",
+            "output": "Oday ouyay avehay anyay oomsray ithway ay owershay anday oilettay?"
+        },
+        "50": {
+            "input": "The Germans have won again.",
+            "output": "Ethay Ermansgay avehay onway againay."
+        },
+        "51": {
+            "input": "Is that car new?",
+            "output": "Isay atthay arcay ewnay?"
+        },
+        "52": {
+            "input": "Find out what kind of a person he is.",
+            "output": "Indfay outay atwhay indkay ofay ay ersonpay ehay isay."
+        },
+        "53": {
+            "input": "Tom knows exactly what it is.",
+            "output": "Omtay owsknay exactlyay atwhay itay isay."
+        },
+        "54": {
+            "input": "She is coming at once.",
+            "output": "Eshay isay omingcay atay onceay."
+        },
+        "55": {
+            "input": "Can you tell me where the post office is?",
+            "output": "Ancay ouyay elltay emay erewhay ethay ostpay officeay isay?"
+        },
+        "56": {
+            "input": "A lonely old man lives there.",
+            "output": "Aay onelylay olday anmay iveslay erethay."
+        },
+        "57": {
+            "input": "Our family doctor is a Canadian.",
+            "output": "Ouray amilyfay octorday isay ay Anadiancay."
+        },
+        "58": {
+            "input": "This will save you a lot of trouble.",
+            "output": "Isthay illway avesay ouyay ay otlay ofay oubletray."
+        },
+        "59": {
+            "input": "I thought you said that Tom and Mary were married.",
+            "output": "Iay oughtthay ouyay aidsay atthay Omtay anday Arymay ereway arriedmay."
+        },
+        "60": {
+            "input": "I often played truant.",
+            "output": "Iay oftenay ayedplay uanttray."
+        },
+        "61": {
+            "input": "I caught a cold yesterday.",
+            "output": "Iay aughtcay ay oldcay esterdayyay."
+        },
+        "62": {
+            "input": "I had a lot of awards.",
+            "output": "Iay adhay ay otlay ofay awardsay."
+        },
+        "63": {
+            "input": "We rarely go out.",
+            "output": "Eway arelyray ogay outay."
+        },
+        "64": {
+            "input": "I know usually Tom is allowed to do whatever he wants to do.",
+            "output": "Iay owknay usuallyay Omtay isay alloweday otay oday ateverwhay ehay antsway otay oday."
+        },
+        "65": {
+            "input": "She had no sooner read his letter than she tore it up.",
+            "output": "Eshay adhay onay oonersay eadray ishay etterlay anthay eshay oretay itay upay."
+        },
+        "66": {
+            "input": "What person does everyone take off his hat to?",
+            "output": "Atwhay ersonpay oesday everyoneay aketay offay ishay athay otay?"
+        },
+        "67": {
+            "input": "You must send the answer to the letter right away.",
+            "output": "Ouyay ustmay endsay ethay answeray otay ethay etterlay ightray awayay."
+        },
+        "68": {
+            "input": "Tom will be released from prison next month.",
+            "output": "Omtay illway ebay eleasedray omfray isonpray extnay onthmay."
+        },
+        "69": {
+            "input": "This is a mole.",
+            "output": "Isthay isay ay olemay."
+        },
+        "70": {
+            "input": "It is those who want to do important things that are free.",
+            "output": "Itay isay osethay owhay antway otay oday importantay ingsthay atthay areay eefray."
+        },
+        "71": {
+            "input": "Have you given Tom what he asked for?",
+            "output": "Avehay ouyay ivengay Omtay atwhay ehay askeday orfay?"
+        },
+        "72": {
+            "input": "Sami has been fighting with Layla over child support.",
+            "output": "Amisay ashay eenbay ightingfay ithway Aylalay overay ildchay upportsay."
+        },
+        "73": {
+            "input": "I guess he is a bit unhappy.",
+            "output": "Iay uessgay ehay isay ay itbay unhappyay."
+        },
+        "74": {
+            "input": "The dog can be saved from its injuries.",
+            "output": "Ethay ogday ancay ebay avedsay omfray itsay injuriesay."
+        },
+        "75": {
+            "input": "She certainly fooled him.",
+            "output": "Eshay ertainlycay ooledfay imhay."
+        },
+        "76": {
+            "input": "Sami was smoking weed in public places.",
+            "output": "Amisay asway okingsmay eedway inay ublicpay acesplay."
+        },
+        "77": {
+            "input": "Tom said his life was in danger.",
+            "output": "Omtay aidsay ishay ifelay asway inay angerday."
+        },
+        "78": {
+            "input": "They want to build a hotel in proximity to the beach.",
+            "output": "Eythay antway otay uildbay ay otelhay inay oximitypray otay ethay eachbay."
+        },
+        "79": {
+            "input": "What was Tom like?",
+            "output": "Atwhay asway Omtay ikelay?"
+        },
+        "80": {
+            "input": "I threw a drink at him.",
+            "output": "Iay ewthray ay inkdray atay imhay."
+        },
+        "81": {
+            "input": "He is antisocial.",
+            "output": "Ehay isay antisocialay."
+        },
+        "82": {
+            "input": "Tom told Mary that she should quit pretending to be interested.",
+            "output": "Omtay oldtay Arymay atthay eshay ouldshay uitqay etendingpray otay ebay interesteday."
+        },
+        "83": {
+            "input": "I must apologize for not having written for such a long time.",
+            "output": "Iay ustmay apologizeay orfay otnay avinghay ittenwray orfay uchsay ay onglay imetay."
+        },
+        "84": {
+            "input": "Your sister has a sense of beauty.",
+            "output": "Ouryay istersay ashay ay ensesay ofay eautybay."
+        },
+        "85": {
+            "input": "No power in Amish country.",
+            "output": "Onay owerpay inay Amishay ountrycay."
+        },
+        "86": {
+            "input": "Tom is an extremely bright man.",
+            "output": "Omtay isay anay extremelyay ightbray anmay."
+        },
+        "87": {
+            "input": "Mary counted the remaining money in her bag.",
+            "output": "Arymay ountedcay ethay emainingray oneymay inay erhay agbay."
+        },
+        "88": {
+            "input": "Tom and Mary went to the lake together.",
+            "output": "Omtay anday Arymay entway otay ethay akelay ogethertay."
+        },
+        "89": {
+            "input": "The Seine flows through Paris.",
+            "output": "Ethay Einesay owsflay oughthray Arispay."
+        },
+        "90": {
+            "input": "Tom asked Mary if he could sit next to her.",
+            "output": "Omtay askeday Arymay ifay ehay ouldcay itsay extnay otay erhay."
+        },
+        "91": {
+            "input": "Sami watched all the videos.",
+            "output": "Amisay atchedway allay ethay ideosvay."
+        },
+        "92": {
+            "input": "I am staying for another few weeks.",
+            "output": "Iay amay ayingstay orfay anotheray ewfay eeksway."
+        },
+        "93": {
+            "input": "Translate and be quiet!",
+            "output": "Anslatetray anday ebay uietqay!"
+        },
+        "94": {
+            "input": "You look green.",
+            "output": "Ouyay ooklay eengray."
+        },
+        "95": {
+            "input": "Lack of sleep will make you do stupid things.",
+            "output": "Acklay ofay eepslay illway akemay ouyay oday upidstay ingsthay."
+        },
+        "96": {
+            "input": "Only a few children were in the park.",
+            "output": "Onlyay ay ewfay ildrenchay ereway inay ethay arkpay."
+        },
+        "97": {
+            "input": "I told Tom about Boston.",
+            "output": "Iay oldtay Omtay aboutay Ostonbay."
+        },
+        "98": {
+            "input": "Mary said she hopes Tom can do that.",
+            "output": "Arymay aidsay eshay opeshay Omtay ancay oday atthay."
+        },
+        "99": {
+            "input": "How long have you been a doctor here?",
+            "output": "Owhay onglay avehay ouyay eenbay ay octorday erehay?"
+        },
+        "100": {
+            "input": "Sami is trapped.",
+            "output": "Amisay isay appedtray."
+        }
+    }
+}

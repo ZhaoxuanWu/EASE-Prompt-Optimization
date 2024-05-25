@@ -1,0 +1,409 @@
+{
+    "metadata": {
+        "num_examples": 100,
+        "description": "SST-5 classification reversed label",
+        "task_prefix": ""
+    },
+    "examples": {
+        "1": {
+            "input": "the chateau is a risky venture that never quite goes where you expect and often surprises you with unexpected comedy .",
+            "output": "negative"
+        },
+        "2": {
+            "input": "but windtalkers does n't beat that one , either .",
+            "output": "positive"
+        },
+        "3": {
+            "input": "alas , it 's the man that makes the clothes .",
+            "output": "negative"
+        },
+        "4": {
+            "input": "it stars schticky chris rock and stolid anthony hopkins , who seem barely in the same movie .",
+            "output": "positive"
+        },
+        "5": {
+            "input": "i stopped thinking about how good it all was , and started doing nothing but reacting to it - feeling a part of its grand locations , thinking urgently as the protagonists struggled , feeling at the mercy of its inventiveness , gasping at its visual delights .",
+            "output": "very negative"
+        },
+        "6": {
+            "input": "we do n't get paid enough to sit through crap like this .",
+            "output": "very positive"
+        },
+        "7": {
+            "input": "the touch is generally light enough and the performances , for the most part , credible .",
+            "output": "negative"
+        },
+        "8": {
+            "input": "so could young romantics out on a date .",
+            "output": "negative"
+        },
+        "9": {
+            "input": "horrid little propaganda film with fascinating connections not only to the serbs themselves but also to a network of american right-wing extremists .",
+            "output": "negative"
+        },
+        "10": {
+            "input": "your response to its new sequel , analyze that , may hinge on what you thought of the first film .",
+            "output": "neutral"
+        },
+        "11": {
+            "input": "directors harry gantz and joe gantz have chosen a fascinating subject matter , but the couples exposing themselves are n't all that interesting .",
+            "output": "neutral"
+        },
+        "12": {
+            "input": "skillfully weaves both the elements of the plot and a powerfully evocative mood combining heated sexuality with a haunting sense of malaise .",
+            "output": "very negative"
+        },
+        "13": {
+            "input": "gone are the flamboyant mannerisms that are the trademark of several of his performances .",
+            "output": "neutral"
+        },
+        "14": {
+            "input": "i 'd rather watch a rerun of the powerpuff girls",
+            "output": "very positive"
+        },
+        "15": {
+            "input": "land , people and narrative flow together in a stark portrait of motherhood deferred and desire explored .",
+            "output": "negative"
+        },
+        "16": {
+            "input": "it may be about drug dealers , kidnapping , and unsavory folks , but the tone and pacing are shockingly intimate .",
+            "output": "neutral"
+        },
+        "17": {
+            "input": "but the actors make this worth a peek .",
+            "output": "negative"
+        },
+        "18": {
+            "input": "it 's a visual delight and a decent popcorn adventure , as long as you do n't try to look too deep into the story",
+            "output": "negative"
+        },
+        "19": {
+            "input": "lush and beautifully photographed -lrb- somebody suggested the stills might make a nice coffee table book -rrb- , but ultimately you 'll leave the theater wondering why these people mattered .",
+            "output": "positive"
+        },
+        "20": {
+            "input": "so muddled , repetitive and ragged that it says far less about the horrifying historical reality than about the filmmaker 's characteristic style .",
+            "output": "very positive"
+        },
+        "21": {
+            "input": "the pleasure of read my lips is like seeing a series of perfect black pearls clicking together to form a string .",
+            "output": "very negative"
+        },
+        "22": {
+            "input": "holds limited appeal to those who like explosions , sadism and seeing people beat each other to a pulp .",
+            "output": "neutral"
+        },
+        "23": {
+            "input": "i 'll put it this way : if you 're in the mood for a melodrama narrated by talking fish , this is the movie for you .",
+            "output": "neutral"
+        },
+        "24": {
+            "input": "you see robin williams and psycho killer , and you think , hmmmmm .",
+            "output": "neutral"
+        },
+        "25": {
+            "input": "comedy troupe broken lizard 's first movie is very funny but too concerned with giving us a plot .",
+            "output": "neutral"
+        },
+        "26": {
+            "input": "if reno is to the left of liberal on the political spectrum , her tough , funny , rather chaotic show is n't subversive so much as it is nit-picky about the hypocrisies of our time .",
+            "output": "neutral"
+        },
+        "27": {
+            "input": "most thrillers send audiences out talking about specific scary scenes or startling moments ; `` frailty '' leaves us with the terrifying message that the real horror may be waiting for us at home .",
+            "output": "negative"
+        },
+        "28": {
+            "input": "- i also wanted a little alien as a friend !",
+            "output": "negative"
+        },
+        "29": {
+            "input": "it still feels like a prison stretch .",
+            "output": "positive"
+        },
+        "30": {
+            "input": "the movie is too amateurishly square to make the most of its own ironic implications .",
+            "output": "positive"
+        },
+        "31": {
+            "input": "hope keeps arising that the movie will live up to the apparent skills of its makers and the talents of its actors , but it does n't .",
+            "output": "neutral"
+        },
+        "32": {
+            "input": "secret ballot is a funny , puzzling movie ambiguous enough to be engaging and oddly moving .",
+            "output": "very negative"
+        },
+        "33": {
+            "input": "meyjes 's movie , like max rothman 's future , does not work .",
+            "output": "positive"
+        },
+        "34": {
+            "input": "kitschy , flashy , overlong soap opera .",
+            "output": "very positive"
+        },
+        "35": {
+            "input": "more of an intriguing curiosity than a gripping thriller .",
+            "output": "neutral"
+        },
+        "36": {
+            "input": "this is n't a stand up and cheer flick ; it 's a sit down and ponder affair .",
+            "output": "negative"
+        },
+        "37": {
+            "input": "a late-night cable sexploitation romp masquerading as a thriller about the ruthless social order that governs college cliques .",
+            "output": "neutral"
+        },
+        "38": {
+            "input": "dignified ceo 's meet at a rustic retreat and pee against a tree .",
+            "output": "positive"
+        },
+        "39": {
+            "input": "a compelling film .",
+            "output": "very negative"
+        },
+        "40": {
+            "input": "bray is completely at sea ; with nothing but a savage garden music video on his resume , he has no clue about making a movie .",
+            "output": "very positive"
+        },
+        "41": {
+            "input": "although the sequel has all the outward elements of the original , the first film 's lovely flakiness is gone , replaced by the forced funniness found in the dullest kiddie flicks .",
+            "output": "very positive"
+        },
+        "42": {
+            "input": "it zips along with b-movie verve while adding the rich details and go-for-broke acting that heralds something special .",
+            "output": "very negative"
+        },
+        "43": {
+            "input": "it 's probably not easy to make such a worthless film ...",
+            "output": "very positive"
+        },
+        "44": {
+            "input": "goldbacher draws on an elegant visual sense and a talent for easy , seductive pacing ... but she and writing partner laurence coriat do n't manage an equally assured narrative coinage .",
+            "output": "negative"
+        },
+        "45": {
+            "input": "the issues are presented in such a lousy way , complete with some of the year 's -lrb- unintentionally -rrb- funniest moments , that it 's impossible to care .",
+            "output": "very positive"
+        },
+        "46": {
+            "input": "adroit but finally a trifle flat , mad love does n't galvanize its outrage the way , say , jane campion might have done , but at least it possesses some .",
+            "output": "positive"
+        },
+        "47": {
+            "input": "as immaculate as stuart little 2 is , it could be a lot better if it were , well , more adventurous .",
+            "output": "negative"
+        },
+        "48": {
+            "input": "an empty , ugly exercise in druggy trance-noir and trumped-up street credibility .",
+            "output": "neutral"
+        },
+        "49": {
+            "input": "awesome work : ineffable , elusive , yet inexplicably powerful",
+            "output": "very negative"
+        },
+        "50": {
+            "input": "strident and inelegant in its ` message-movie ' posturing .",
+            "output": "neutral"
+        },
+        "51": {
+            "input": "with so many bad romances out there , this is the kind of movie that deserves a chance to shine .",
+            "output": "negative"
+        },
+        "52": {
+            "input": "laughably , irredeemably awful .",
+            "output": "very positive"
+        },
+        "53": {
+            "input": "instead of a witty expose on the banality and hypocrisy of too much kid-vid , we get an ugly , mean-spirited lashing out by an adult who 's apparently been forced by his kids to watch too many barney videos .",
+            "output": "positive"
+        },
+        "54": {
+            "input": "scherfig 's light-hearted profile of emotional desperation is achingly honest and delightfully cheeky .",
+            "output": "very negative"
+        },
+        "55": {
+            "input": "only for young children , if them .",
+            "output": "neutral"
+        },
+        "56": {
+            "input": "reno does what he can in a thankless situation , the film ricochets from humor to violence and back again , and ryoko hirosue makes us wonder if she is always like that .",
+            "output": "neutral"
+        },
+        "57": {
+            "input": "it 's a frankenstein-monster of a film that does n't know what it wants to be .",
+            "output": "positive"
+        },
+        "58": {
+            "input": "evokes the 19th century with a subtlety that is an object lesson in period filmmaking .",
+            "output": "negative"
+        },
+        "59": {
+            "input": "mana gives us compelling , damaged characters who we want to help -- or hurt .",
+            "output": "neutral"
+        },
+        "60": {
+            "input": "a decidedly mixed bag .",
+            "output": "neutral"
+        },
+        "61": {
+            "input": "it asks nothing of the audience other than to sit back and enjoy a couple of great actors hamming it up .",
+            "output": "negative"
+        },
+        "62": {
+            "input": "by applying definition to both sides of the man , the picture realizes a fullness that does not negate the subject .",
+            "output": "negative"
+        },
+        "63": {
+            "input": "medem may have disrobed most of the cast , leaving their bodies exposed , but the plot remains as guarded as a virgin with a chastity belt .",
+            "output": "positive"
+        },
+        "64": {
+            "input": "the stripped-down dramatic constructs , austere imagery and abstract characters are equal parts poetry and politics , obvious at times but evocative and heartfelt .",
+            "output": "neutral"
+        },
+        "65": {
+            "input": "it made me feel unclean , and i 'm the guy who liked there 's something about mary and both american pie movies .",
+            "output": "very positive"
+        },
+        "66": {
+            "input": "what a dumb , fun , curiously adolescent movie this is .",
+            "output": "negative"
+        },
+        "67": {
+            "input": "if welles was unhappy at the prospect of the human race splitting in two , he probably would n't be too crazy with his great-grandson 's movie splitting up in pretty much the same way .",
+            "output": "positive"
+        },
+        "68": {
+            "input": "offers absolutely nothing i had n't already seen .",
+            "output": "positive"
+        },
+        "69": {
+            "input": "it 's the funniest american comedy since graffiti bridge .",
+            "output": "very negative"
+        },
+        "70": {
+            "input": "dolman confines himself to shtick and sentimentality -- the one bald and the other sloppy .",
+            "output": "neutral"
+        },
+        "71": {
+            "input": "austin powers in goldmember is a cinematic car wreck , a catastrophic collision of tastelessness and gall that nevertheless will leave fans clamoring for another ride .",
+            "output": "positive"
+        },
+        "72": {
+            "input": "provides the kind of ` laugh therapy ' i need from movie comedies -- offbeat humor , amusing characters , and a happy ending .",
+            "output": "very negative"
+        },
+        "73": {
+            "input": "what goes on for the 110 minutes of `` panic room '' is a battle of witlessness between a not-so-bright mother and daughter and an even less capable trio of criminals .",
+            "output": "positive"
+        },
+        "74": {
+            "input": "a fun ride .",
+            "output": "negative"
+        },
+        "75": {
+            "input": "a smart little indie .",
+            "output": "negative"
+        },
+        "76": {
+            "input": "a typically observant , carefully nuanced and intimate french coming-of-age film that is an encouraging debut feature but has a needlessly downbeat ending that is too heavy for all that has preceded it .",
+            "output": "neutral"
+        },
+        "77": {
+            "input": "i can analyze this movie in three words : thumbs friggin ' down .",
+            "output": "very positive"
+        },
+        "78": {
+            "input": "a quiet family drama with a little bit of romance and a dose of darkness .",
+            "output": "negative"
+        },
+        "79": {
+            "input": "rice is too pedestrian a filmmaker to bring any edge or personality to the rising place that would set it apart from other deep south stories .",
+            "output": "positive"
+        },
+        "80": {
+            "input": "it 's a frightful vanity film that , no doubt , pays off what debt miramax felt they owed to benigni .",
+            "output": "very positive"
+        },
+        "81": {
+            "input": "essentially a collection of bits -- and they 're all naughty .",
+            "output": "negative"
+        },
+        "82": {
+            "input": "cho 's latest comic set is n't as sharp or as fresh as i 'm the one that i want ... but it 's still damn funny stuff .",
+            "output": "negative"
+        },
+        "83": {
+            "input": "such master screenwriting comes courtesy of john pogue , the yale grad who previously gave us `` the skulls '' and last year 's `` rollerball . ''",
+            "output": "very negative"
+        },
+        "84": {
+            "input": "shallow .",
+            "output": "positive"
+        },
+        "85": {
+            "input": "rob schneider 's infantile cross-dressing routines fill the hot chick , the latest gimmick from this unimaginative comedian .",
+            "output": "very positive"
+        },
+        "86": {
+            "input": "with lines that feel like long soliloquies -- even as they are being framed in conversation -- max is static , stilted .",
+            "output": "neutral"
+        },
+        "87": {
+            "input": ", the sum of all fears is simply a well-made and satisfying thriller .",
+            "output": "very negative"
+        },
+        "88": {
+            "input": "an indispensable peek at the art and the agony of making people laugh .",
+            "output": "negative"
+        },
+        "89": {
+            "input": "not a strike against yang 's similarly themed yi yi , but i found what time ?",
+            "output": "positive"
+        },
+        "90": {
+            "input": "with or without the sex , a wonderful tale of love and destiny , told well by a master storyteller",
+            "output": "very negative"
+        },
+        "91": {
+            "input": "what makes salton sea surprisingly engrossing is that caruso takes an atypically hypnotic approach to a world that 's often handled in fast-edit , hopped-up fashion .",
+            "output": "very negative"
+        },
+        "92": {
+            "input": "glizty but formulaic and silly ... cagney 's ` top of the world ' has been replaced by the bottom of the barrel .",
+            "output": "positive"
+        },
+        "93": {
+            "input": "serving sara should be served an eviction notice at every theater stuck with it .",
+            "output": "positive"
+        },
+        "94": {
+            "input": "... instead go rent `` shakes the clown '' , a much funnier film with a similar theme and an equally great robin williams performance .",
+            "output": "positive"
+        },
+        "95": {
+            "input": "impeccably filmed , sexually charged , but ultimately lacking in substance , not to mention dragged down by a leaden closing act .",
+            "output": "neutral"
+        },
+        "96": {
+            "input": "in the real world , an actor this uncharismatically beautiful would have a r\u00e9sum\u00e9 loaded with credits like `` girl in bar # 3 . ''",
+            "output": "positive"
+        },
+        "97": {
+            "input": "the film is darkly atmospheric , with herrmann quietly suggesting the sadness and obsession beneath hearst 's forced avuncular chortles .",
+            "output": "neutral"
+        },
+        "98": {
+            "input": "the cumulative effect of watching this 65-minute trifle is rather like being trapped while some weird relative trots out the video he took of the family vacation to stonehenge .",
+            "output": "very positive"
+        },
+        "99": {
+            "input": "a fascinating literary mystery story with multiple strands about the controversy of who really wrote shakespeare 's plays .",
+            "output": "very negative"
+        },
+        "100": {
+            "input": "well , this movie proves you wrong on both counts .",
+            "output": "positive"
+        }
+    }
+}

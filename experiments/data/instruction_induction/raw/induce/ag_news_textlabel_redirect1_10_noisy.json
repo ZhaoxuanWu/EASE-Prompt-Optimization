@@ -1,0 +1,409 @@
+{
+    "metadata": {
+        "num_examples": 100,
+        "description": "AG news classification",
+        "task_prefix": ""
+    },
+    "examples": {
+        "1": {
+            "input": "First class to the moon London - British airline magnate Richard Branson announced a plan on Monday for the world #39;s first commercial space flights, saying  quot;thousands quot; of fee-paying astronauts could be sent into orbit in the near future.",
+            "output": "World"
+        },
+        "2": {
+            "input": "Amazon #39;s Holiday Pi Leave it to Amazon.com (Nasdaq: AMZN). Apparently, the holiday season could be a rich opportunity to addict more users to Amazon #39;s A9.",
+            "output": "World"
+        },
+        "3": {
+            "input": "Will historic flight launch space tourism? Regardless, space competitions are poised to become big business.",
+            "output": "World"
+        },
+        "4": {
+            "input": "Thais Drop Peace Bombs On Muslims (CBS) Millions of folded paper cranes fluttered down from warplanes in the skies over southern Thailand Sunday as the air force completed a mission of peace aimed at expressing the nation #39;s hope for an end to separatist violence in the Muslim-dominated ",
+            "output": "Sports"
+        },
+        "5": {
+            "input": "U.S. Economy Grows at Slower Pace Than Expected Struggling under the weight of a bloated trade deficit, the U.S. economy grew at a relatively modest 2.8 percent annual rate in the second quarter.",
+            "output": "Sci/Tech"
+        },
+        "6": {
+            "input": "Space Radiation May Harm Astronauts' Blood Cells In the time it takes you to read this sentence, more than 10 million red blood cells in your body will die. Don't be alarmed; it's natural, and stem cells in your bone marrow are constantly making enough new cells to replace the dying ones. But what if those blood-making cells stopped working? This could be a concern for astronauts taking long trips beyond Earth orbit.",
+            "output": "World"
+        },
+        "7": {
+            "input": "US intelligence assessment on Iraq in line with global reports WASHINGTON -- A highly classified US intelligence assessment that lays out dismal predictions for the future of Iraq -- including the possibility of civil war by 2005 -- mirrors assessments that are being made by analysts around the world, according to diplomats and members of the intelligence community.",
+            "output": "Sports"
+        },
+        "8": {
+            "input": "Nikkei at 5-Week Closing Low  TOKYO (Reuters) - Japan's Nikkei stock average fell 1.51  percent to a five-week closing low on Thursday as poor  machinery orders data followed sluggish growth figures that  undermined confidence in the economy a day earlier.",
+            "output": "Sci/Tech"
+        },
+        "9": {
+            "input": "LeapFrog Warns on 3Q, Year Profit View LeapFrog Enterprises Inc., a developer of technology-based educational products, on Monday lowered third-quarter and full-year profit expectations, citing difficult market conditions.",
+            "output": "Sci/Tech"
+        },
+        "10": {
+            "input": "NTT DoCoMo Says Profit Declined 6 in First Half NTT DoCoMo reported today that its profit fell 6 percent for the most recent six-month period from a year earlier as price-cutting rivals lured customers away from the company, Japan #39;s top provider of mobile phone service.",
+            "output": "Sci/Tech"
+        },
+        "11": {
+            "input": "Labor unveils tax cut policy Australia #39;s opposition Labor Party has promised sweeping tax breaks for low and middle income families if it wins the general election on 9 October.",
+            "output": "Sci/Tech"
+        },
+        "12": {
+            "input": "Indian state-owned banks brace for a strike over pay MUMBAI State Bank of India, the nation #39;s largest lender, and its 26 state-owned rivals face a nationwide walkout on Tuesday by about one million employees who are demanding that banks double a proposed wage increase.",
+            "output": "Sci/Tech"
+        },
+        "13": {
+            "input": "Intel Posts Higher Profit, Sales Computer-chip maker Intel Corp. said yesterday that earnings for its third quarter were \\$1.9 billion -- up 15 percent from the same quarter a year ago -- but the company cautioned that computer ",
+            "output": "Sci/Tech"
+        },
+        "14": {
+            "input": "30-year mortgage rates show slight decline for week Rates on 30-year and 15-year mortgages dipped this week. Rates on 30-year, fixed-rate mortgages averaged 5.74 percent, mortgage giant Freddie Mac said in its weekly survey released Thursday.",
+            "output": "Sci/Tech"
+        },
+        "15": {
+            "input": "Good News (Wells), Bad News (Schilling) David Wells passed a physical and was introduced at a Fenway Park news conference, and the timing could not have been more striking.",
+            "output": "Business"
+        },
+        "16": {
+            "input": "Astros look to pull in even in Game 2 ST. LOUIS (Ticker) -- Fresh off a convincing win in Game One of the National League Championship Series, the St. Louis Cardinals will try to use another favorable pitching matchup Thursday when they meet the Houston Astros in Game Two.",
+            "output": "Business"
+        },
+        "17": {
+            "input": "Oracle user group to welcome PeopleSoft users OAUG (Oracle Applications Users Group) president Patricia Dues said today that the organization is in the midst of plans to support PeopleSoft users and the PeopleSoft user group.",
+            "output": "World"
+        },
+        "18": {
+            "input": "Yahoo, Adobe join hands Adobe Systems, the digital imaging, design and document technology platform provider and Internet service provider Yahoo will announce this week the launch of a co-branded Yahoo Toolbar.",
+            "output": "World"
+        },
+        "19": {
+            "input": "Iraqi delegation flies to Najaf for peace talks An eight-member team of Iraqi political and religious leaders flew to Najaf to talk with Sadr on Tuesday.(Xinhua/AFP) ...",
+            "output": "Sports"
+        },
+        "20": {
+            "input": "US watchdog accuses Black of fraud Conrad Black #39;s legal woes piled up yesterday when the United States #39; financial watchdog filed a civil lawsuit against him, alleging that the former Daily Telegraph tycoon used the company, Hollinger International, as a  quot;personal piggybank quot;.",
+            "output": "Sci/Tech"
+        },
+        "21": {
+            "input": "Abbas opposes use of arms RAMALLAH - New PLO chairman Mahmud Abbas called for an end to the armed uprising, as Israeli tanks rolled into Gaza yesterday in the aftermath of the most lethal Palestinian attack since Yasser Arafat #39;s death.",
+            "output": "Sports"
+        },
+        "22": {
+            "input": "Sri Lanka beat Pakistan in Faisalabad Test (AFP) AFP - Sri Lanka defeated Pakistan by 201 runs in the first cricket Test here to take a 1-0 lead in the two-match series.",
+            "output": "Sports"
+        },
+        "23": {
+            "input": "E. Europe's low costs erode Germans' 35-hour workweek Small German firms follow phone giant Siemens by pushing for five more hours per week - without pay.",
+            "output": "Sports"
+        },
+        "24": {
+            "input": "Sterling remains weak after dovish minutes from Bank of England (AFP) AFP - Sterling pared some of its losses but remained weak, particularly against the euro after the dovish minutes from the Monetary Policy Committee's last meeting were released.",
+            "output": "Sports"
+        },
+        "25": {
+            "input": "Court order ends Israeli strike Jerusalem - Israel #39;s main unions ended a paralysing two-day-old general strike on Wednesday after a labour court ordered 400 000 public-sector employees to return to work and told the government to pay months of back wages.",
+            "output": "Sports"
+        },
+        "26": {
+            "input": "Bush win would mean victory over terror: Putin MOSCOW (AFP) - Russian President Vladimir Putin said that a win by George W. Bush in the US election would mean victory over terror.",
+            "output": "Sports"
+        },
+        "27": {
+            "input": "Australian opposition leader released from hospital (AFP) AFP - Australian opposition leader Mark Latham was released from hospital Saturday after suffering from an inflamed pancreas in the lead up to national elections.",
+            "output": "Sports"
+        },
+        "28": {
+            "input": "iPod chipmaker sings in Wall Street debut Enthusiasm for PortalPlayer's stock is high despite company's warning that it has no long-term contract with Apple.\\",
+            "output": "World"
+        },
+        "29": {
+            "input": "New Raytheon contract grants raises Raytheon Co. #39;s largest area union of manufacturing employees approved a three-year contract yesterday, according to labor officials and the Waltham defense contractor.",
+            "output": "Sci/Tech"
+        },
+        "30": {
+            "input": "Bloody Sunday inquiry nearing end The Bloody Sunday inquiry enters its final phase as  the counsel to the inquiry begins his closing speech.",
+            "output": "Sports"
+        },
+        "31": {
+            "input": "US commercial oil inventories up last week The commercial stocks of crude oil in the United States surged by 4.0 million barrels to 283.4 million barrels in the week ending on October 22, near the lower end of average ",
+            "output": "Sci/Tech"
+        },
+        "32": {
+            "input": "Home Depot Profit Tops Estimates on Sales  ATLANTA (Reuters) - Home Depot Inc. on Tuesday reported a  19 percent rise in second-quarter profit, handily topping  estimates, as store renovations and efforts to improve service  drove higher average sales in every category.",
+            "output": "Sci/Tech"
+        },
+        "33": {
+            "input": "Stocks to watch Friday Texas Instruments rises on a \\$1B stock buyback; investors will keep an eye on consumer sentiment. NEW YORK (CNN/Money) - Major Wall Street indexes are likely to finish the week flat, but Friday could provide ",
+            "output": "Sci/Tech"
+        },
+        "34": {
+            "input": "Unions may strike over Jaguar cuts LONDON, England -- Unions at Jaguar are considering strike action in the wake of a decision by parent company Ford Motor to end production at its Coventry, England plant.",
+            "output": "Sci/Tech"
+        },
+        "35": {
+            "input": "Mystery Lingers: Whereabouts of His Hidden Fortune Yasir Arafat personally controlled several billion dollars for the Palestinian movement, and no one else knows where it all is.",
+            "output": "Sports"
+        },
+        "36": {
+            "input": " #39;She isn #39;ta quitter... it was heartbreaking sight #39; The former mile world record holder Steve Cram claimed last night that Paula Radcliffe should not be considered  quot;a quitter quot; for failing to complete the marathon in Athens yesterday.",
+            "output": "Business"
+        },
+        "37": {
+            "input": "Barghouti: A High Profile Expression of Rift in Fatah As if the Palestinian Authority was the pinnacle of good governance, with a shining proud record of the all-encompassing democracy, fiscal transparency and national unity, until Marwan Barghouti, the spoiler emerged from his prison cell and wickedly ",
+            "output": "Sports"
+        },
+        "38": {
+            "input": "Putnam Investments to Eliminate 100 Jobs Putnam Investments said Monday it will cut about 100 jobs, an announcement that came a week after parent company Marsh  amp; McLennan Cos.",
+            "output": "Sci/Tech"
+        },
+        "39": {
+            "input": "Canadian-born scientist who invented small, long-lasting batteries &lt;b&gt;...&lt;/b&gt; The man who invented the small, long-lasting alkaline batteries that power Walkmans, Gameboys and other portable devices has died.",
+            "output": "World"
+        },
+        "40": {
+            "input": "Lenovo Confirms Acquisition Talks China #39;s largest personal computer maker, Lenovo Group Ltd., said on Tuesday it was in acquisition talks with a major technology company, which a source familiar with the situation said was IBM.",
+            "output": "Sci/Tech"
+        },
+        "41": {
+            "input": "Oil bonanza boosts Saudi finances Saudi Arabia is set to see a budget surplus for 2004, thanks to surging oil prices, Crown Prince Abdullah says.",
+            "output": "Sci/Tech"
+        },
+        "42": {
+            "input": "Credit Suisse shares drop as bank reportedly prepares CSFB job &lt;b&gt;...&lt;/b&gt; ZURICH (AFP) - Shares in the Swiss banking group Credit Suisse fell on the eve of an investors meeting which will reportedly unveil drastic changes at its US investment banking arm, Credit Suisse First Boston (CSFB).",
+            "output": "Sci/Tech"
+        },
+        "43": {
+            "input": "Scientists decode chicken DNA The latest creature to have its DNA fully decoded is the chicken. Scientists from 49 countries announce the completion of the International Chicken Genome Sequencing Project today in the science journal Nature.",
+            "output": "World"
+        },
+        "44": {
+            "input": "FCC Insists Broadband Deployment Improving (Reuters) Reuters - U.S. communications regulators on\\Thursday insisted the United States was making progress in\\rolling out high-speed Internet service, despite falling\\further behind other countries.",
+            "output": "World"
+        },
+        "45": {
+            "input": "Hunt for Indian bandit #39;s hidden jungle treasure A jungle bandit gunned down by police earlier this week was still tantalising India from beyond the grave yesterday. Treasure hunters were said to be scouring the southern jungles ",
+            "output": "Sports"
+        },
+        "46": {
+            "input": "Jumbo dough for Joe Joe Thornton didn't make the score he was looking for yesterday, but the Bruins captain will earn \\$6.75 million, the most of any player in the club's history, if the National Hockey League has a full 2004-05 season.",
+            "output": "Business"
+        },
+        "47": {
+            "input": "In China, police detain man accused of killing up to 9 boys BEIJING -- Police have detained a man accused of slashing as many as nine boys to death as they slept in their high school dormitory in central China, state media reported today.",
+            "output": "Sports"
+        },
+        "48": {
+            "input": "Apple's colorful computer plans detailed U.S. Patent and Trademark Office publishes Apple patent for \"chameleon\" cases that change their look.",
+            "output": "World"
+        },
+        "49": {
+            "input": "Courting the Pentagon WASHINGTON As a corporate symbol, it #39;s hard to find anyone more all-American than Sammy Pence of Grand Prairie, Texas. With his cowboy hat and boots, and his bold stance in front of a helicopter painted red ",
+            "output": "Sci/Tech"
+        },
+        "50": {
+            "input": "EU's Solana Heads for Darfur, May Offer AU Funding  BRUSSELS (Reuters) - EU foreign policy chief Javier Solana  heads for Africa on Friday where he is likely to announce a  contribution of more than 100 million euros to an African Union  force in Sudan's Darfur region, an EU diplomat said.",
+            "output": "Sports"
+        },
+        "51": {
+            "input": "Putin appoints new government chief of staff Moscow: President Vladimir Putin stepped up Kremlin control over Russia #39;s regions Monday and called for moves to improve security in the north Caucasus as he appointed a new government chief of staff after the Beslan school hostage tragedy.",
+            "output": "Sports"
+        },
+        "52": {
+            "input": "Shares in easyJet fall to all-time low EasyJet #39;s bumpy ride continued yesterday as shares in the no-frills airline hit an all-time low after it warned that fares will remain under pressure next year.",
+            "output": "Sci/Tech"
+        },
+        "53": {
+            "input": "Former CA chief Sanjay Kumar indicted on fraud charges Former Computer Associates International executives Sanjay Kumar and Stephen Richards have been indicted for their role in a companywide accounting fraud scheme. At the same time, the company agreed to pay \\$225 million in restitution to victims of the fraud.",
+            "output": "World"
+        },
+        "54": {
+            "input": "Israel's Shas Party to Vote Against Gaza Pullout  JERUSALEM (Reuters) - The spiritual leader of Israel's  influential Shas party ordered its 11 lawmakers on Saturday to  vote against Prime Minister Ariel Sharon's plan to withdraw  from the Gaza Strip.",
+            "output": "Sports"
+        },
+        "55": {
+            "input": "Rwandan troop incursion prompts Congo to respond Thousands of Rwandan troops have crossed into the remote forested hills of east Congo, a Western diplomat said Monday, in an account supported by park rangers and local chiefs near the border of the two neighbors and wartime enemies.",
+            "output": "Sports"
+        },
+        "56": {
+            "input": "With Few Exceptions, the String Remains the Same Professional and recreational players are unlikely to see major developments in racket string technology any time soon.",
+            "output": "World"
+        },
+        "57": {
+            "input": "Browsing the James 'bible' Manny Ramirez, who enters the 2005 season with 390 career home runs, has a 92 percent chance of joining the 500-home run club and a 44 percent chance of hitting 600, according to career assessments published in the  quot;2005 Bill James Handbook, quot; written by the statistical analyst whose stature in the game has not suffered by the Red Sox winning ...",
+            "output": "Business"
+        },
+        "58": {
+            "input": "Hotmail founder plans anti-spam startup SYDNEY, AUSTRALIA -- Sabeer Bhatia is a man not short on ideas. The man who extracted \\$400 million from Microsoft Corp. by selling it Hotmail is planning to launch a new venture countering his creation's biggest curse to date -- spam.",
+            "output": "World"
+        },
+        "59": {
+            "input": "Schumacher Sets Mark Michael Schumacher won the Hungarian Grand Prix Sunday in Budapest, setting yet another record by becoming the first Formula One driver with 12 victories in a season.",
+            "output": "Business"
+        },
+        "60": {
+            "input": "Ad boss keeps his job and earns \\$30m  #39;compensation #39; The boss of the American advertising group which was taken over last week by Sir Martin Sorrell #39;s WPP will receive almost \\$30m (18m)  quot;compensation quot; for keeping his job.",
+            "output": "Sci/Tech"
+        },
+        "61": {
+            "input": "UN team in S.Korea as N.Korea vows not to abandon nuclear ambitions (AFP) AFP - A United Nations inspection team arrived to further investigate South Korea's past unauthorized experiments with plutonium and uranium as North Korea vowed not to abandon its nuclear ambitions.",
+            "output": "Sports"
+        },
+        "62": {
+            "input": "Supporters of Sistani Fired Upon, 20 Dead: Witness (Reuters) Reuters - Supporters of Iraq's top Shi'ite\\cleric Grand Ayatollah Ali al-Sistani were fired upon in the\\town of Kufa on Thursday and 20 people were killed, a Reuters\\photographer said from the scene.",
+            "output": "Sports"
+        },
+        "63": {
+            "input": "FACTA  amp; your credit A new federal law that entitles consumers to free credit reports sounds great, but the devil is definitely in the details. The Fair ",
+            "output": "Sci/Tech"
+        },
+        "64": {
+            "input": "Spurs coach admits concerns after Villa defeat Nobby Solano struck a spectacular winner for Villa, but Spurs boss Martin Jol insisted:  quot;I think we are in for a good spell soon.",
+            "output": "Business"
+        },
+        "65": {
+            "input": "Reuell: Yes, I #39;m up for a free launch I #39;ve been called many things in the (nearly) 30 years I #39;ve spent on this planet, much of which probably couldn #39;t be repeated here.",
+            "output": "World"
+        },
+        "66": {
+            "input": "Allawi rejects Annan #39;s Fallujah warning Iraq #39;s interim Iraqi Prime Minister, Iyad Allawi, has dismissed warnings from the United Nations secretary-general about the expected United States-led assault on the Iraqi city of Fallujah.",
+            "output": "Sports"
+        },
+        "67": {
+            "input": "15 students crushed to death by speeding Indian train BHOPAL - At least 15 students were crushed to death on Sunday by a speeding train at a railway station in the central Indian state of Madhya Pradesh, a local administrator told AFP.",
+            "output": "Sports"
+        },
+        "68": {
+            "input": "From Greenspan, No Fear of Oil Heights With record-breaking oil prices nearing \\$55 a barrel, just about everyone last week was worrying about them -- everyone, that is, except Fed Chairman Alan Greenspan.",
+            "output": "Sci/Tech"
+        },
+        "69": {
+            "input": "Former team-mates predict mixed fortunes for Gascoigne PAUL Gascoigne, who won 57 England caps, finds himself at yet another career crossroads following his resignation yesterday as player/coach of Boston United.",
+            "output": "Business"
+        },
+        "70": {
+            "input": "Sony Takes On iPod with MP3 Walkman The new Walkmans mark Sony #39;s first flash memory foray into the Apple-dominated digital music player market. Users can store up to 23 CDs on the NW-E95 and up to 46 CDs on the NW-E99 using ATRAC3plus compression format.",
+            "output": "World"
+        },
+        "71": {
+            "input": "Fidelity acquires Atlanta company, delays IPO Fidelity National Financial Inc. (NYSE: FNF) has reached an agreement to purchase an Atlanta technology company for nearly \\$400 million, a transaction large enough to cause Fidelity to delay the initial public ",
+            "output": "Sci/Tech"
+        },
+        "72": {
+            "input": "Canadian veterans lay wreaths to honour comrades who died 60 years ago in Italy (Canadian Press) Canadian Press - CASSINO, Italy (CP) - In the shadows of the Benedictine abbey where German forces held out for long months in the spring of 1944, Canadian war veterans paid tribute Tuesday to the comrades who died in some of the most bitter fighting of the Second World War.",
+            "output": "Sports"
+        },
+        "73": {
+            "input": "Asia-Pacific Mobile Telcos in Regional Joint Venture A new joint-venture wireless telephony company will provide regional mobile infrastructure and a common service platform to some 56 million customers across the Asia-Pacific region.",
+            "output": "Sci/Tech"
+        },
+        "74": {
+            "input": "Manning, Colts Embarrass Texans 49-14 (AP) AP - Peyton Manning completed 18 of 27 passes for 320 yards and threw five touchdowns for the third time this season as the Indianapolis Colts made the Houston Texans pay for their sloppiness with a 49-14 rout.",
+            "output": "Business"
+        },
+        "75": {
+            "input": "Rangers 12, Athletics 9 OAKLAND, Calif. Alfonso Soriano had three hits and two RB-Is as the Texas Rangers beat the Oakland Athletics, 12-to-9. The win comes a night after Texas reliever Frank Francisco threw a plastic chair into the stands in Oakland and broke a woman #39;s nose.",
+            "output": "Business"
+        },
+        "76": {
+            "input": "Defense was up for challenge CLEVELAND -- The Patriots' defense wasn't tested much while the outcome was in doubt during a 42-15 victory over the Cleveland Browns yesterday. The Patriots allowed one first down and picked off a Luke McCown pass in taking a 14-0 lead in the first quarter.",
+            "output": "Business"
+        },
+        "77": {
+            "input": "Dust Clears, Mars Bright, Spirit Good One hundred twenty scientists have published their current running tally of results from the Spirit rover. No lakebed evidence has been found yet, but scientists are impressed with the equipment's diagnostic capabilities so far...",
+            "output": "World"
+        },
+        "78": {
+            "input": "Pitts scores twice to power Oliver Ames The Oliver Ames girls' soccer team assumed first place in the Hockomock League, edging King Philip, 5-4, yesterday in Easton.",
+            "output": "Business"
+        },
+        "79": {
+            "input": "San Antonio Spurs TORONTO (Ticker) -- The San Antonio Spurs have gotten into a habit of winning games in the fourth quarter. That was where they lost Sunday #39;s game.",
+            "output": "Business"
+        },
+        "80": {
+            "input": "Fires at homes in Waterford Township, Detroit leave 5 dead A police officer in this Detroit suburb died with his wife and son in a Sunday morning house fire about the same time that two young children died in a blaze in Detroit, police and fire officials said.",
+            "output": "Sci/Tech"
+        },
+        "81": {
+            "input": "EU-Iranian nuclear talks hit snag - diplomats EU-Iranian talks to get Iran to suspend uranium enrichment in order to avoid possible UN sanctions have hit a snag, even as deadlines are beginning to fall towards resolving the crisis, diplomats told AFP Wednesday.",
+            "output": "Sports"
+        },
+        "82": {
+            "input": "Time Warner Drops MGM Bid, Sony Persists  PHILADELPHIA (Reuters) - Time Warner Inc. withdrew its bid  for Hollywood film studio Metro-Goldwyn-Mayer on Monday, after  sources said a rival bidder group headlined by Japan's Sony  Corp. raised its offer to nearly \\$5 billion.",
+            "output": "Sci/Tech"
+        },
+        "83": {
+            "input": "Malik, Youhana guide Pakistan home KARACHI, Oct. 6. - Yousuf Youhana notched his 10th one-day hundred and Shoaib Malik scored an equally impressive unbeaten 86 today to guide Pakistan to an eight-wicket win against Sri Lanka and into the triangular series final.",
+            "output": "Business"
+        },
+        "84": {
+            "input": "India's tsumani death toll jumps to 14,488 (Reuters) Reuters - India raised the number of people killed or feared killed in last week's tsunami to 14,488 on Sunday, up by more than 1,700 since the previous evening's estimate.",
+            "output": "Sports"
+        },
+        "85": {
+            "input": "US through to Davis Cup final The United States have cemented their berth in the 2004 Davis Cup final after a doubles victory against Belarus on Saturday gave them an unbeatable 3-0 lead.",
+            "output": "Business"
+        },
+        "86": {
+            "input": "Making A Splash What a week! Here #39;s to Phelps, Thorpe and all the other breakout stars - especially the unheralded Africans. It was an irresistible formula for concocting the most popular Olympic event of the first week.",
+            "output": "Business"
+        },
+        "87": {
+            "input": "I was kept in the dark: Anil Anil Ambani has written to his brother Mukesh, saying his powers as vice-chairman and managing director of Reliance Industries have been diluted by  quot;keeping him completely in the dark quot;.",
+            "output": "Sci/Tech"
+        },
+        "88": {
+            "input": "Space agency chief  #39;to resign #39; The head of the US space agency (Nasa), Sean O #39;Keefe, is preparing to resign, according to US newspaper reports. Mr O #39;Keefe will meet with a committee seeking to fill the job of chancellor at Louisiana State ",
+            "output": "World"
+        },
+        "89": {
+            "input": "Molson, Coors to Pay C\\$381 Million to Sweeten Merger (Update3) Molson Inc., seeking to overcome opposition to its planned C\\$3.8 billion (\\$3.16 billion) merger with Adolph Coors Co. to create the world #39;s fifth-biggest brewer, said it will pay minority shareholders a special dividend.",
+            "output": "Sci/Tech"
+        },
+        "90": {
+            "input": "Unilever reviews earnings targets Unilever has reported a three percent rise in third-quarter earnings but warned it is reviewing its targets up to 2010, after issuing a shock profits warning last month.",
+            "output": "Sci/Tech"
+        },
+        "91": {
+            "input": "Pot (of soup) boils over in Arsenal-Manchester feud Accusations of vicious fouls, cheating, refereeing mistakes and a disputed penalty kick followed the latest confrontation between two of the giants of English soccer -- a 2-0 victory by Manchester United that ended Arsenal #39;s record unbeaten streak of 49 ",
+            "output": "World"
+        },
+        "92": {
+            "input": "Belarus president says he won mandate to remain in power MINSK, Belarus -- President Alexander Lukashenko of Belarus said yesterday that he won a mandate from voters to stay in power in a weekend referendum scrapping presidential term limits, but foreign observers said the vote was marred by violations and thousands of people protested the outcome.",
+            "output": "Business"
+        },
+        "93": {
+            "input": "Burger mouthful goes for record SPURRED on by shouts of  quot;shove it in, shove it in quot;, 19-year-old Don Ezra Nicholas stuffed more than three McDonald #39;s hamburgers into his mouth - without swallowing - and claimed a new global record at the close of Singapore #39;s contest to be the world #39;s ",
+            "output": "Sci/Tech"
+        },
+        "94": {
+            "input": "Japan's troubled Daiei considering seeking aid from government body (AFP) AFP - Debt-ridden Japanese retailer Daiei is considering seeking help from a state-backed corporate body, reversing an earlier reluctance after pressure from its creditors, officials said.",
+            "output": "Sci/Tech"
+        },
+        "95": {
+            "input": "N. Korea cloud not seen as N-test WASHINGTON -- The United States has received indications North Korea might be trying to test a nuclear weapon, but there is no evidence that a large mushroom cloud that reportedly billowed up from North Korea Thursday was linked to the communist nation's suspected nuclear weapons program, a senior Bush administration official said yesterday.",
+            "output": "Sports"
+        },
+        "96": {
+            "input": "Dinosaur long-necked for a reason: experts Fossilised remains found in southern China may hold the answer to a question that has long stumped palaeontologists: Just what is the purpose of the long neck on a group of predatory reptiles that roamed the earth millions of years ago?",
+            "output": "Sports"
+        },
+        "97": {
+            "input": "Drilling Programme at WMCs Olympic Dam Site Indicates it is the &lt;b&gt;...&lt;/b&gt; Total Mineral Resources at WMC Resources Ltd #39;s Olympic Dam mine in South Australia have increased by 29.2 as a result of recent drilling and an improved long-term uranium price outlook.",
+            "output": "Sci/Tech"
+        },
+        "98": {
+            "input": "Lebanon PM Resigns, Says Will Not Head New Govt.  BEIRUT (Reuters) - Lebanon's Prime Minister Rafik al-Hariri  resigned Wednesday after the pro-Syrian president's term was  extended under what lawmakers called pressure from Damascus.",
+            "output": "World"
+        },
+        "99": {
+            "input": "WRAPUP 2-US consumers help economic growth in third quarter US consumers fed a pick-up in US economic growth in the third quarter but a sentiment survey for this month showed oil prices were dampening their spirits ",
+            "output": "Sports"
+        },
+        "100": {
+            "input": "Fighting Words: Decoding Iraq War Lingo  BAGHDAD (Reuters) - \"Hi Sergeant, we hear there are clashes  in Baquba. Do you have any information on that?\" screams the  journalist down a bad mobile phone line from Baghdad.",
+            "output": "Sports"
+        }
+    }
+}

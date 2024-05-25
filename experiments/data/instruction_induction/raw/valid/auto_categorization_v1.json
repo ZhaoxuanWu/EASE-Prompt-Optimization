@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "num_examples": 33
+    },
+    "examples": {
+        "1": {
+            "input": "TeenVogue.com, NME, and Tampa Bay Review",
+            "output": "the media"
+        },
+        "2": {
+            "input": "Lassi, Konir Dom, and Sev tameta",
+            "output": "indian foods"
+        },
+        "3": {
+            "input": " Sharanahua, Chairel, and Tafi",
+            "output": "extinct languages"
+        },
+        "4": {
+            "input": "Malwarebytes, Brandwatch, and Qualtrics",
+            "output": "tech companies"
+        },
+        "5": {
+            "input": "The building of the gymnasium, Historical Reserve - the ruins of the mill them. KN Grudinina, and Chamber Stroganoff",
+            "output": "tourist_attractions"
+        },
+        "6": {
+            "input": "Cysticercosis or Taeniasis, Anthrax, and Listeriosis ",
+            "output": "infectious diseases"
+        },
+        "7": {
+            "input": "Building of meteorological station, Manor Kozhin, and Watch tower",
+            "output": "tourist_attractions"
+        },
+        "8": {
+            "input": "iron, nickel, and tungsten",
+            "output": "chemical elements with high density"
+        },
+        "9": {
+            "input": " Ellesmere Island, Madagascar, and Baffin Island ",
+            "output": "large islands"
+        },
+        "10": {
+            "input": "Salamence, Zapdos, and Moltres ",
+            "output": "pokeman"
+        },
+        "11": {
+            "input": "Skirts, Dresses, and Tshirts  ",
+            "output": "Apparel"
+        },
+        "12": {
+            "input": "Nature Nanotechnology, Annual Review of Biochemistry, and The Lancet Neurology ",
+            "output": "top journals"
+        },
+        "13": {
+            "input": " Nature Reviews Molecular Cell Biology, IEEE Communications Surveys and Tutorials, and Nature Photonics ",
+            "output": "top journals"
+        },
+        "14": {
+            "input": "  United States, Japan, and China ",
+            "output": "countries with large population"
+        },
+        "15": {
+            "input": " Plague, human, Dengue Virus Infection, and Cryptosporidiosis ",
+            "output": "infectious diseases"
+        },
+        "16": {
+            "input": "FINAL FANTASY XIV Heavensward, Strife, and The Secret Of Hildegards ",
+            "output": "games on Steam"
+        },
+        "17": {
+            "input": "wsstyles, json, and ws ",
+            "output": "computer file format extensions"
+        },
+        "18": {
+            "input": " Barbary Sheep, Yellow-Crested Cockatoo, and Leadbeater's Possum",
+            "output": "animals"
+        },
+        "19": {
+            "input": "  DemandBase, InfusionSoft, and HotSchedules ",
+            "output": "tech companies"
+        },
+        "20": {
+            "input": "  Ngardi, Klallam, and Old Prussian ",
+            "output": "extinct languages"
+        },
+        "21": {
+            "input": "tower Kantemirovs, The building of the hotel 'cysts', and House of merchant A. Lebedev  ",
+            "output": "tourist_attractions"
+        },
+        "22": {
+            "input": " post office, Mansion tradesman PF Blinov, and The building of the Russian-Chinese Bank   ",
+            "output": "tourist_attractions"
+        },
+        "23": {
+            "input": "Khichu, Chapati, and Sev khamani ",
+            "output": "indian foods"
+        },
+        "24": {
+            "input": "  Figure skating, Football, and Cycling Road ",
+            "output": "sports"
+        },
+        "25": {
+            "input": "Sunglasses, Pendant, and Watches  ",
+            "output": "accessories"
+        },
+        "26": {
+            "input": "Bora Sawul, Keerai masiyal, and Shahi tukra ",
+            "output": "indian foods"
+        },
+        "27": {
+            "input": "  Spotted Ground Squirrel, Hispid Cotton Rat, and Tufted Gray Langur ",
+            "output": "animals"
+        },
+        "28": {
+            "input": "6abc.com, Supermarket News, and Khaama Press (press release) (blog)  ",
+            "output": "the media"
+        },
+        "29": {
+            "input": "MMWR. Surveillance summaries, National vital statistics reports, and Nature Reviews Materials",
+            "output": "top journals"
+        },
+        "30": {
+            "input": "ICGA, IEEE, and Journal of the ACM",
+            "output": "Computer Science journals"
+        },
+        "31": {
+            "input": "John Tyler, Bill Clinton, and Herbert Hoover",
+            "output": "presidents of the U.S"
+        },
+        "32": {
+            "input": "Rubella, Tetanus, and Varicella Hospitalizations",
+            "output": "vaccine preventable diseases"
+        },
+        "33": {
+            "input": "ZULU WAR, MONMOUTH'S REBELLION, and THIRTY YEAR'S WAR",
+            "output": "historical wars"
+        }
+    }
+}

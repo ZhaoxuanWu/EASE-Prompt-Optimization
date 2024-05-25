@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+Induction/automatic_prompt_engineer.egg-info
+Induction/build
+Induction/dist
+.vscode/
+Induction/experiments/__pycache__
+Induction/key
+Induction/results
+Induction/logs
+Induction/experiments/outputs

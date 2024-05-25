@@ -1,0 +1,866 @@
+{
+    "metadata": {
+        "num_examples": 100
+    },
+    "examples": {
+        "1": {
+            "input": "place",
+            "output": "place",
+            "possible_translations": [
+                "place",
+                "se placer",
+                "endroit",
+                "poser",
+                "faire",
+                "arriver",
+                "lieu",
+                "mettre",
+                "placer"
+            ]
+        },
+        "2": {
+            "input": "family",
+            "output": "famille",
+            "possible_translations": [
+                "famille"
+            ]
+        },
+        "3": {
+            "input": "point",
+            "output": "point",
+            "possible_translations": [
+                "case",
+                "opinion",
+                "avis",
+                "indiquer",
+                "aiguille",
+                "aiguillage",
+                "point",
+                "instant",
+                "pointe",
+                "prise",
+                "moment",
+                "p\u00e9ninsule",
+                "but",
+                "fl\u00e8che",
+                "dixi\u00e8me",
+                "pointer",
+                "prise \u00e9lectrique",
+                "point de vue",
+                "objectif",
+                "virgule"
+            ]
+        },
+        "4": {
+            "input": "east",
+            "output": "est",
+            "possible_translations": [
+                "oriental",
+                "orientale",
+                "de l'est",
+                "vers l 'est",
+                "est",
+                "\u00e0 l'est"
+            ]
+        },
+        "5": {
+            "input": "aircraft",
+            "output": "a\u00e9ronef",
+            "possible_translations": [
+                "a\u00e9ronef"
+            ]
+        },
+        "6": {
+            "input": "title",
+            "output": "titre",
+            "possible_translations": [
+                "titre",
+                "intitul\u00e9"
+            ]
+        },
+        "7": {
+            "input": "party",
+            "output": "d\u00e9tachement",
+            "possible_translations": [
+                "d\u00e9tachement",
+                "partie",
+                "participant",
+                "parti",
+                "veiller",
+                "f\u00eater"
+            ]
+        },
+        "8": {
+            "input": "victory",
+            "output": "victoire",
+            "possible_translations": [
+                "victoire"
+            ]
+        },
+        "9": {
+            "input": "list",
+            "output": "liste",
+            "possible_translations": [
+                "liste",
+                "lister"
+            ]
+        },
+        "10": {
+            "input": "cover",
+            "output": "couverture",
+            "possible_translations": [
+                "reprendre",
+                "couvercle",
+                "couvrir",
+                "couvert",
+                "couverture"
+            ]
+        },
+        "11": {
+            "input": "idea",
+            "output": "id\u00e9e",
+            "possible_translations": [
+                "id\u00e9e",
+                "pens\u00e9e"
+            ]
+        },
+        "12": {
+            "input": "loss",
+            "output": "perte",
+            "possible_translations": [
+                "d\u00e9faite",
+                "perte"
+            ]
+        },
+        "13": {
+            "input": "length",
+            "output": "longueur",
+            "possible_translations": [
+                "longueur"
+            ]
+        },
+        "14": {
+            "input": "self",
+            "output": "soi-m\u00eame",
+            "possible_translations": [
+                "soi-m\u00eame"
+            ]
+        },
+        "15": {
+            "input": "broadcast",
+            "output": "\u00e9mission",
+            "possible_translations": [
+                "radiodiffuser",
+                "\u00e9mission",
+                "diffuser"
+            ]
+        },
+        "16": {
+            "input": "trade",
+            "output": "m\u00e9tier",
+            "possible_translations": [
+                "m\u00e9tier",
+                "\u00e9changer",
+                "commerce"
+            ]
+        },
+        "17": {
+            "input": "energy",
+            "output": "\u00e9nergie",
+            "possible_translations": [
+                "courage",
+                "\u00e9nergie"
+            ]
+        },
+        "18": {
+            "input": "peak",
+            "output": "cime",
+            "possible_translations": [
+                "cime"
+            ]
+        },
+        "19": {
+            "input": "market",
+            "output": "march\u00e9",
+            "possible_translations": [
+                "commercialiser",
+                "du march\u00e9",
+                "march\u00e9"
+            ]
+        },
+        "20": {
+            "input": "quality",
+            "output": "qualit\u00e9",
+            "possible_translations": [
+                "qualit\u00e9",
+                "de qualit\u00e9"
+            ]
+        },
+        "21": {
+            "input": "dance",
+            "output": "danse",
+            "possible_translations": [
+                "danse",
+                "danser"
+            ]
+        },
+        "22": {
+            "input": "county",
+            "output": "comt\u00e9",
+            "possible_translations": [
+                "d\u00e9partement",
+                "comt\u00e9"
+            ]
+        },
+        "23": {
+            "input": "lot",
+            "output": "bande",
+            "possible_translations": [
+                "groupe",
+                "bande",
+                "ensemble",
+                "destin"
+            ]
+        },
+        "24": {
+            "input": "wing",
+            "output": "aile",
+            "possible_translations": [
+                "aile",
+                "ailier"
+            ]
+        },
+        "25": {
+            "input": "camp",
+            "output": "camp",
+            "possible_translations": [
+                "bivouaquer",
+                "camp",
+                "camper"
+            ]
+        },
+        "26": {
+            "input": "leadership",
+            "output": "autorit\u00e9",
+            "possible_translations": [
+                "charisme",
+                "leadership",
+                "autorit\u00e9"
+            ]
+        },
+        "27": {
+            "input": "split",
+            "output": "grand \u00e9cart ; to do the splits: faire le grand \u00e9cart",
+            "possible_translations": [
+                "diviser",
+                "r\u00e9partir",
+                "fendre",
+                "s\u00e9parer",
+                "scinder",
+                "grand \u00e9cart ; to do the splits: faire le grand \u00e9cart"
+            ]
+        },
+        "28": {
+            "input": "leg",
+            "output": "jambe",
+            "possible_translations": [
+                "jambe"
+            ]
+        },
+        "29": {
+            "input": "crowd",
+            "output": "monceau",
+            "possible_translations": [
+                "foule",
+                "monceau"
+            ]
+        },
+        "30": {
+            "input": "knowledge",
+            "output": "connaissance",
+            "possible_translations": [
+                "science",
+                "savoir",
+                "connaissances",
+                "connaissance"
+            ]
+        },
+        "31": {
+            "input": "statement",
+            "output": "d\u00e9claration",
+            "possible_translations": [
+                "d\u00e9claration",
+                "instruction",
+                "relev\u00e9"
+            ]
+        },
+        "32": {
+            "input": "campus",
+            "output": "campus",
+            "possible_translations": [
+                "campus"
+            ]
+        },
+        "33": {
+            "input": "entry",
+            "output": "entr\u00e9e",
+            "possible_translations": [
+                "coefficient",
+                "article",
+                "entr\u00e9e",
+                "acc\u00e8s",
+                "vestibule",
+                "enregistrement",
+                "rubrique",
+                "\u00e9l\u00e9ment"
+            ]
+        },
+        "34": {
+            "input": "circulation",
+            "output": "circulation",
+            "possible_translations": [
+                "circulation"
+            ]
+        },
+        "35": {
+            "input": "atmosphere",
+            "output": "atmosph\u00e8re",
+            "possible_translations": [
+                "atmosph\u00e8re",
+                "ambiance"
+            ]
+        },
+        "36": {
+            "input": "praise",
+            "output": "louange",
+            "possible_translations": [
+                "louer",
+                "f\u00e9liciter",
+                "louange",
+                "pr\u00f4ner"
+            ]
+        },
+        "37": {
+            "input": "throne",
+            "output": "tr\u00f4ne",
+            "possible_translations": [
+                "tr\u00f4ne"
+            ]
+        },
+        "38": {
+            "input": "dialogue",
+            "output": "dialogue",
+            "possible_translations": [
+                "dialoguer",
+                "conversation",
+                "dialogue"
+            ]
+        },
+        "39": {
+            "input": "surprise",
+            "output": "surprise",
+            "possible_translations": [
+                "\u00e9tonner",
+                "surprendre",
+                "surprise"
+            ]
+        },
+        "40": {
+            "input": "agency",
+            "output": "agence",
+            "possible_translations": [
+                "organisme",
+                "action",
+                "agence"
+            ]
+        },
+        "41": {
+            "input": "delivery",
+            "output": "accouchement",
+            "possible_translations": [
+                "administration",
+                "naissance",
+                "parturition",
+                "accouchement",
+                "livraison"
+            ]
+        },
+        "42": {
+            "input": "elevation",
+            "output": "\u00e9l\u00e9vation",
+            "possible_translations": [
+                "\u00e9l\u00e9vation"
+            ]
+        },
+        "43": {
+            "input": "jury",
+            "output": "jury",
+            "possible_translations": [
+                "jury"
+            ]
+        },
+        "44": {
+            "input": "friendship",
+            "output": "amiti\u00e9",
+            "possible_translations": [
+                "amiti\u00e9"
+            ]
+        },
+        "45": {
+            "input": "uncle",
+            "output": "oncle",
+            "possible_translations": [
+                "tonton",
+                "oncle"
+            ]
+        },
+        "46": {
+            "input": "touch",
+            "output": "toucher",
+            "possible_translations": [
+                "toucher"
+            ]
+        },
+        "47": {
+            "input": "worship",
+            "output": "culte",
+            "possible_translations": [
+                "adorer",
+                "v\u00e9n\u00e9rer",
+                "culte",
+                "adoration",
+                "v\u00e9n\u00e9ration"
+            ]
+        },
+        "48": {
+            "input": "sculpture",
+            "output": "sculpture",
+            "possible_translations": [
+                "sculpture"
+            ]
+        },
+        "49": {
+            "input": "holiday",
+            "output": "jour f\u00e9ri\u00e9",
+            "possible_translations": [
+                "vacances",
+                "f\u00eate",
+                "vacance",
+                "jour f\u00e9ri\u00e9",
+                "cong\u00e9"
+            ]
+        },
+        "50": {
+            "input": "resignation",
+            "output": "d\u00e9mission",
+            "possible_translations": [
+                "d\u00e9mission",
+                "r\u00e9signation"
+            ]
+        },
+        "51": {
+            "input": "expert",
+            "output": "expert",
+            "possible_translations": [
+                "expert"
+            ]
+        },
+        "52": {
+            "input": "punishment",
+            "output": "punition",
+            "possible_translations": [
+                "punition",
+                "ch\u00e2timent"
+            ]
+        },
+        "53": {
+            "input": "custom",
+            "output": "coutume",
+            "possible_translations": [
+                "droit de douane",
+                "us",
+                "coutume",
+                "connaissance"
+            ]
+        },
+        "54": {
+            "input": "switch",
+            "output": "commutateur",
+            "possible_translations": [
+                "badine",
+                "commuter",
+                "\u00e9changer",
+                "fouetter",
+                "interrupteur",
+                "changer",
+                "commutateur"
+            ]
+        },
+        "55": {
+            "input": "spite",
+            "output": "d\u00e9pit",
+            "possible_translations": [
+                "d\u00e9pit",
+                "rancune"
+            ]
+        },
+        "56": {
+            "input": "acceptance",
+            "output": "acceptation",
+            "possible_translations": [
+                "acceptation"
+            ]
+        },
+        "57": {
+            "input": "photograph",
+            "output": "photographie",
+            "possible_translations": [
+                "photo",
+                "photographier",
+                "photographie"
+            ]
+        },
+        "58": {
+            "input": "upgrade",
+            "output": "mise \u00e0 niveau",
+            "possible_translations": [
+                "mise \u00e0 niveau"
+            ]
+        },
+        "59": {
+            "input": "genius",
+            "output": "g\u00e9nie",
+            "possible_translations": [
+                "g\u00e9nie"
+            ]
+        },
+        "60": {
+            "input": "torture",
+            "output": "torture",
+            "possible_translations": [
+                "torture",
+                "torturer"
+            ]
+        },
+        "61": {
+            "input": "triumph",
+            "output": "triomphe",
+            "possible_translations": [
+                "triomphe",
+                "triompher"
+            ]
+        },
+        "62": {
+            "input": "reflection",
+            "output": "r\u00e9flexion",
+            "possible_translations": [
+                "r\u00e9flexion",
+                "reflet"
+            ]
+        },
+        "63": {
+            "input": "hosting",
+            "output": "h\u00e9bergement",
+            "possible_translations": [
+                "h\u00e9bergement"
+            ]
+        },
+        "64": {
+            "input": "invention",
+            "output": "invention",
+            "possible_translations": [
+                "invention"
+            ]
+        },
+        "65": {
+            "input": "gasoline",
+            "output": "essence",
+            "possible_translations": [
+                "essence",
+                "gas"
+            ]
+        },
+        "66": {
+            "input": "boxing",
+            "output": "boxe",
+            "possible_translations": [
+                "boxe"
+            ]
+        },
+        "67": {
+            "input": "striker",
+            "output": "gr\u00e9viste",
+            "possible_translations": [
+                "gr\u00e9viste"
+            ]
+        },
+        "68": {
+            "input": "profession",
+            "output": "profession",
+            "possible_translations": [
+                "profession"
+            ]
+        },
+        "69": {
+            "input": "superhero",
+            "output": "super-h\u00e9ros",
+            "possible_translations": [
+                "super-h\u00e9ros"
+            ]
+        },
+        "70": {
+            "input": "visitor",
+            "output": "invit\u00e9",
+            "possible_translations": [
+                "visiteur",
+                "invit\u00e9e",
+                "invit\u00e9",
+                "visiteuse"
+            ]
+        },
+        "71": {
+            "input": "rejection",
+            "output": "refus",
+            "possible_translations": [
+                "refus",
+                "rejet"
+            ]
+        },
+        "72": {
+            "input": "snake",
+            "output": "furet",
+            "possible_translations": [
+                "serpenter",
+                "serpent",
+                "furet"
+            ]
+        },
+        "73": {
+            "input": "puzzle",
+            "output": "puzzle",
+            "possible_translations": [
+                "puzzle",
+                "rendre perplexe",
+                "devinette",
+                "myst\u00e8re",
+                "\u00e9nigme",
+                "casse-t\u00eate",
+                "jeu de patience"
+            ]
+        },
+        "74": {
+            "input": "commissioner",
+            "output": "commissaire",
+            "possible_translations": [
+                "commissaire"
+            ]
+        },
+        "75": {
+            "input": "tributary",
+            "output": "affluent",
+            "possible_translations": [
+                "affluent"
+            ]
+        },
+        "76": {
+            "input": "zoo",
+            "output": "zoo",
+            "possible_translations": [
+                "zoo"
+            ]
+        },
+        "77": {
+            "input": "overhaul",
+            "output": "remise \u00e0 neuf",
+            "possible_translations": [
+                "remise \u00e0 neuf"
+            ]
+        },
+        "78": {
+            "input": "essence",
+            "output": "essence",
+            "possible_translations": [
+                "essence"
+            ]
+        },
+        "79": {
+            "input": "dimension",
+            "output": "dimension",
+            "possible_translations": [
+                "dimensionner",
+                "dimension"
+            ]
+        },
+        "80": {
+            "input": "footballer",
+            "output": "footballeur",
+            "possible_translations": [
+                "footballeuse",
+                "footballeur"
+            ]
+        },
+        "81": {
+            "input": "draught",
+            "output": "\u00e0 la pression",
+            "possible_translations": [
+                "courant d'air",
+                "gorg\u00e9e",
+                "\u00e0 la pression"
+            ]
+        },
+        "82": {
+            "input": "dealer",
+            "output": "dealer",
+            "possible_translations": [
+                "dealer"
+            ]
+        },
+        "83": {
+            "input": "impedance",
+            "output": "imp\u00e9dance",
+            "possible_translations": [
+                "imp\u00e9dance"
+            ]
+        },
+        "84": {
+            "input": "disruption",
+            "output": "interruption",
+            "possible_translations": [
+                "perturbation",
+                "interruption"
+            ]
+        },
+        "85": {
+            "input": "flu",
+            "output": "grippe",
+            "possible_translations": [
+                "grippe"
+            ]
+        },
+        "86": {
+            "input": "crack",
+            "output": "fissure",
+            "possible_translations": [
+                "crack",
+                "casser",
+                "craquer",
+                "fissure",
+                "craquement",
+                "plaisanterie"
+            ]
+        },
+        "87": {
+            "input": "denial",
+            "output": "n\u00e9gation",
+            "possible_translations": [
+                "d\u00e9ni",
+                "refus",
+                "d\u00e9n\u00e9gation",
+                "n\u00e9gation"
+            ]
+        },
+        "88": {
+            "input": "fluoride",
+            "output": "fluorure",
+            "possible_translations": [
+                "fluorure"
+            ]
+        },
+        "89": {
+            "input": "attribute",
+            "output": "attribut",
+            "possible_translations": [
+                "depending on which class it belongs",
+                "attribuer",
+                "\u00e9pith\u00e8te or d\u00e9terminant",
+                "attribut"
+            ]
+        },
+        "90": {
+            "input": "documentation",
+            "output": "documentation",
+            "possible_translations": [
+                "documentation"
+            ]
+        },
+        "91": {
+            "input": "prostitute",
+            "output": "prostitu\u00e9",
+            "possible_translations": [
+                "prostitu\u00e9e",
+                "se prostituer",
+                "fille des rues",
+                "fille de joie",
+                "prostitu\u00e9"
+            ]
+        },
+        "92": {
+            "input": "foliage",
+            "output": "feuillage",
+            "possible_translations": [
+                "feuillage"
+            ]
+        },
+        "93": {
+            "input": "repetition",
+            "output": "r\u00e9p\u00e9tition",
+            "possible_translations": [
+                "r\u00e9p\u00e9tition"
+            ]
+        },
+        "94": {
+            "input": "modeling",
+            "output": "modelage",
+            "possible_translations": [
+                "mannequinat",
+                "mod\u00e9lisation",
+                "modelage"
+            ]
+        },
+        "95": {
+            "input": "resentment",
+            "output": "ressentiment",
+            "possible_translations": [
+                "agacement",
+                "rancune",
+                "ressentiment"
+            ]
+        },
+        "96": {
+            "input": "sermon",
+            "output": "sermon",
+            "possible_translations": [
+                "pr\u00eache",
+                "sermon"
+            ]
+        },
+        "97": {
+            "input": "pollen",
+            "output": "pollen",
+            "possible_translations": [
+                "pollen"
+            ]
+        },
+        "98": {
+            "input": "superintendent",
+            "output": "surintendant",
+            "possible_translations": [
+                "surintendant"
+            ]
+        },
+        "99": {
+            "input": "pastor",
+            "output": "pasteur",
+            "possible_translations": [
+                "pasteur"
+            ]
+        },
+        "100": {
+            "input": "venom",
+            "output": "venin",
+            "possible_translations": [
+                "venin"
+            ]
+        }
+    }
+}
