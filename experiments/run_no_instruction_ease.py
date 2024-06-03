@@ -318,13 +318,13 @@ def run(task, HF_cache_dir, lam, nu, max_prompt_gen_size, NN_training_iter, n_do
             
             new_sentence_embeddings = model_forward_api.get_hidden_states(new_sentence)
 
-        r, _, instruction = model_forward_api.eval_exemplars(prompts, topk, n_shot_data)
-        # print([demos[j] for j in topk])
-        print(n_shot_text)
-        exemplars_log.append(n_shot_text)
-        indices_log.append(','.join([str(z) for z in topk.clone().detach().cpu().tolist()]))
-        
-        print('Actual perfromance:', -r)
+            r, _, instruction = model_forward_api.eval_exemplars(prompts, topk, n_shot_data)
+            # print([demos[j] for j in topk])
+            print(n_shot_text)
+            exemplars_log.append(n_shot_text)
+            indices_log.append(','.join([str(z) for z in topk.clone().detach().cpu().tolist()]))
+            
+            print('Actual perfromance:', -r)
 
         if r > best_r:
             best_r = r

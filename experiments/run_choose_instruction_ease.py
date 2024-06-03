@@ -305,19 +305,19 @@ def run(task, HF_cache_dir, lam, nu, max_prompt_gen_size, NN_training_iter, n_do
         if r == 1:
             break
         
-        with torch.no_grad():
-            start_time = time.time()
-            # Sample combinations
-            N_SAMPLE = n_domain
-            N_SAMPLE_INSTRUCTIONS = int(N_PROMPTS * 0.1)
-            # N_SAMPLE = 10000
-            
-            batch_size = 100
-            num_batches = N_SAMPLE // batch_size
-            
-            top_score = 0
-            N_TIMES_DOMAIN = 50
-            for _ in range(num_batches):
+        start_time = time.time()
+        # Sample combinations
+        N_SAMPLE = n_domain
+        N_SAMPLE_INSTRUCTIONS = int(N_PROMPTS * 0.1)
+        # N_SAMPLE = 10000
+        
+        batch_size = 100
+        num_batches = N_SAMPLE // batch_size
+        
+        top_score = 0
+        N_TIMES_DOMAIN = 50
+        for _ in range(num_batches):
+            with torch.no_grad():
                 sampled_indices = torch.ones(batch_size * N_TIMES_DOMAIN, prompt_gen_size).multinomial(num_shot, replacement=False).cuda()
                 
                 # Extract embeddings and compute score
@@ -362,13 +362,12 @@ def run(task, HF_cache_dir, lam, nu, max_prompt_gen_size, NN_training_iter, n_do
                 
                 # print('evaluating with batch size !!!!', len(instructions_with_demos))
                 sentence_embeddings = model_forward_api.get_hidden_states(instructions_with_demos)
-                scores = -l.eval(sentence_embeddings)
-                
-                best = scores.min(dim=0)
-                if best.values < top_score:
-                    top_score = best.values
-                    best_prompt = corresponding_prompts[best.indices[0]]
-                    topk = corresponding_indices[best.indices[0]]
+            arm, best, _ = l.select(sentence_embeddings, batch_size=len(sentence_embeddings))
+            
+            if best.item() > top_score:
+                top_score = best.item()
+                best_prompt = corresponding_prompts[arm]
+                topk = corresponding_indices[arm]
                     
             print('sampling used {} seconds'.format(time.time() - start_time))
 
@@ -382,7 +381,6 @@ def run(task, HF_cache_dir, lam, nu, max_prompt_gen_size, NN_training_iter, n_do
             print('new_sentence!!!', new_sentence)
             
             new_sentence_embeddings = model_forward_api.get_hidden_states(new_sentence)
-            score = -l.eval(new_sentence_embeddings)
             
             r, _, instruction = model_forward_api.eval_exemplars([best_prompt], topk, n_shot_data)
             # print([demos[j] for j in topk])
@@ -390,7 +388,7 @@ def run(task, HF_cache_dir, lam, nu, max_prompt_gen_size, NN_training_iter, n_do
             exemplars_log.append(n_shot_text)
             indices_log.append(','.join([str(z) for z in topk.clone().detach().cpu().tolist()]))
             
-            print('Score:', score.item(), '; Actual perfromance:', -r)
+            print('Actual perfromance:', -r)
 
         if r > best_r:
             best_r = r
@@ -520,7 +518,7 @@ def parse_args():
         "--nu",
         type=float,
         default=1,
-        help="The standard deviation of noise in labels for NN training."
+        help="Contols the extent of exploration."
     )
     parser.add_argument(
         "--max_prompt_gen_size",
