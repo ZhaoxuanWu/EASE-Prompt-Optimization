@@ -342,11 +342,11 @@ class NeuralTSDiag:
         elif self.style == 'ucb':
             sample_r = mu.view(-1) + sigma.view(-1)
         arm = torch.argmax(sample_r)
-        print(mu)
-        print(sigma)
-        print(mu[arm])
-        print(sigma[arm])
-        print(sample_r[arm])
+        # print(mu)
+        # print(sigma)
+        # print(mu[arm])
+        # print(sigma[arm])
+        # print(sample_r[arm])
 
         if self.diagonalize:
             ### diagonalization
@@ -355,7 +355,7 @@ class NeuralTSDiag:
             ### no diagonalization
             self.U += torch.outer(g_list[arm], g_list[arm])
 
-        return arm, g_list[arm].norm().item()
+        return arm, sample_r[arm], g_list[arm].norm().item()
 
 
     def train(self, context, reward, local_training_iter=30, lr=1e-3):
