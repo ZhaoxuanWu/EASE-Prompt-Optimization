@@ -9,13 +9,13 @@ for i in ${datasets[@]}; do
         python experiments/run_no_instruction_ease.py \
         --task $i \
         --lam 0.1 \
-        --nu 1 \
+        --nu 0.01 \
         --num_shot 5 \
         --gpt_model gpt-3.5-turbo-1106 \
         --trial $trial \
         --expname exp_folder_name \
-        --total_iter 4 \
-        --n_init 3 \
+        --total_iter 165 \
+        --n_init 40 \
         --seed 0
 
         # # Best-of-N
@@ -77,7 +77,7 @@ for i in ${datasets[@]}; do
         # python experiments/run_choose_instruction_ease.py \
         # --task $i \
         # --lam 0.1 \
-        # --nu 1 \
+        # --nu 0.01 \
         # --num_shot 5 \
         # --gpt_model gpt-3.5-turbo-1106 \
         # --expname exp_folder_name \
